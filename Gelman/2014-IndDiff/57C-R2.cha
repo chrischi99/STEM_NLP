@@ -1,0 +1,208 @@
+@UTF8
+@PID:	11312/a-00032307-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;07.01|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Baby
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	I don't want to do this one.
+*INV:	what is this?
+*CHI:	I don't know what it is.
+*INV:	oh.
+*INV:	well what can you tell me?
+@G:	Pig
+*CHI:	I know what this one is.
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	he lives in a farm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	zorg, this one's a pig.
+*CHI:	he lives, he walks around.
+*CHI:	in the farm.
+*INV:	mm.
+@G:	Bread
+*CHI:	french toast &=turns:multiple_pages.
+*INV:	ooh &=turns:pages_back.
+@G:	Duck
+*INV:	what is this?
+*CHI:	duck!
+*CHI:	“quack quack”.
+*INV:	what more can you tell me?
+*CHI:	he lives in the ocean.
+*CHI:	he swims.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	he swims and walk around.
+*CHI:	and flies.
+*INV:	mm.
+@G:	Bread
+*CHI:	no this one.
+*CHI:	no not that one [= trouble turning pages].
+*INV:	what is this?
+*CHI:	french toast with this thing cutting these ones up.
+*INV:	what else can you tell me?
+*CHI:	um you you put some on there.
+*CHI:	and then you you pour the milk.
+*CHI:	and then you if you want something to eat you eat the butter [?].
+*CHI:	you eat this.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um you you cut one off.
+*CHI:	you you butter something on it.
+*CHI:	then you eat it.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a old lady painting.
+*INV:	what more can you tell me?
+*CHI:	she's painting a little one and a big one.
+*INV:	zorg doesn't much about this one.
+*INV:	can you help him out?
+*CHI:	um xxx in the picture she's making the, xxx.
+*CHI:	xxx two.
+@G:	Cookie
+*INV:	  ⌈what is this⌉?
+*CHI:	a ⌊cookie⌋.
+*CHI:	eaten.
+*CHI:	you pick the cookie up.
+*CHI:	you ask “Can I have a cookie”?
+*CHI:	you have one.
+*CHI:	and then you eat it.
+*INV:	what else can you tell me?
+*CHI:	um you pick it up.
+*CHI:	you eat it.
+*CHI:	and then it goes into little tiny pieces.
+*INV:	anything else you want to tell Zorg?
+*CHI:	no.
+*INV:	                   ⌈okay⌉.
+@G:	Puppy
+*CHI:	I'll tell him this ⌊one⌋.
+*CHI:	this is a puppy.
+*INV:	what more can you tell me?
+*CHI:	he walks around like bark bark.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	he walks around and say “bark bark”.
+@G:	Cheese
+*CHI:	cheese.
+*CHI:	this is just like on Tom and Jerry.
+*CHI:	Jerry the little mouse he he likes this.
+*CHI:	Tom, Tom's trying to make a trap with cheese.
+*INV:	mm what more can you tell me?
+*CHI:	um well he he puts one right by it.
+*CHI:	then he smell, then the little mouse smells it.
+*CHI:	and then he comes running in eat it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	you, a mouse comes running out when he smells it.
+@G:	Doctor
+*CHI:	a doctor is trying to help the girl because she's sick.
+*INV:	what more can you tell me?
+*CHI:	she's in the bed.
+*CHI:	oh man.
+*CHI:	got the wrong [= wants to find doctor page] +...
+*CHI:	I'll put it back where it was.
+@G:	Cheese
+*CHI:	the cheese.
+*CHI:	xxx go back where it was.
+@G:	Doctor
+*CHI:	there.
+*CHI:	I'm back.
+*CHI:	then she's sitting in bed.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I already I already told Zorg, the bed one.
+*CHI:	she's she's sick and the the, the nu- the doctors trying to, fix
+	something.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	a carrot.
+*CHI:	my friend ate one.
+*CHI:	his name is Firstname.
+*INV:	mm.
+*CHI:	he's my cousin.
+*CHI:	he lives right down the street like this.
+*CHI:	he then he turns.
+*CHI:	he lives all the way down the street in Apartment xxx [= number of apartment].
+*INV:	oh.
+*CHI:	he lives at my grandma's house too.
+*INV:	what more can you tell me?
+*CHI:	my, his name, he, gramp- my grandma, she cutted it up for him.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	my friend Firstname he, grandma cut a carrot up for him.
+*CHI:	and then he ate it.
+*CHI:	I like the ones, Firstname likes the ones that he picks up.
+*INV:	mm.
+*CHI:	just like bunny rabbits.
+*CHI:	I like the ones that's cut up.
+*INV:	mm.
+@G:	Banana
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	you peel it and then you get the then the banana +...
+*CHI:	then the banana comes out.
+*CHI:	and then you eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you peel and then eat it when it comes out.
+@G:	Turtle
+*CHI:	ooh a- I know what this one is.
+*CHI:	this one is, a turtle.
+*CHI:	turtles walk around.
+*CHI:	then they swim in the sea.
+*INV:	what more can you tell me?
+*CHI:	oh man I messed it up [= lost page].
+*CHI:	gonna go get it back.
+*CHI:	get it back.
+@G:	Carrot
+*CHI:	there's the carrot.
+@G:	Banana
+*CHI:	and the banana.
+*CHI:	oh xxx banana.
+*CHI:	xxx.
+@G:	Turtle
+*CHI:	and then the turtle, walks around.
+*CHI:	he swims in water.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he swims around in the ocean.
+*CHI:	and then he walks out to the sand.
+@G:	Pirate
+@G:	Baseball Player
+*CHI:	here's a baseball guy trying to hit the baseball.
+*INV:	what more can you tell me?
+*CHI:	he's walkin(g) around to hit the baseball when the guy's throwing the baseball.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he's trying to get the ball because some guy's trying to throw it at him.
+*CHI:	and then he hits it.
+@G:	Ladybug
+*CHI:	ladybug.
+*CHI:	it crawls around.
+*CHI:	once it gets right by you.
+*INV:	what more can you tell me?
+*CHI:	if flies with these.
+*CHI:	with its wings.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	uh he flies around.
+*CHI:	then with his wings and then he walks.
+*CHI:	yep I'm done.
+*CHI:	see?
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay well let's put Zorg back into his home.
+*INV:	thank you very much for doing that with me.
+*CHI:	mm-hm [= filler].
+*INV:	that was a lot of fun.
+@End

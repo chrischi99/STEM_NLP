@@ -1,0 +1,312 @@
+@UTF8
+@PID:	11312/a-00031983-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|5;00.25|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Cracker
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	<a> [?] cracker.
+*INV:	what more can you tell me?
+*CHI:	I know what this one has.
+*CHI:	it has holes.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	that's what the puppet said.
+*INV:	mm okay.
+*CHI:	and you eat crackers oh [?].
+*CHI:	<looking through that hole> [?].
+*CHI:	and, but bite them before you get them through your throat because you might choke with the pointy sides.
+*INV:	oh.
+*CHI:	that's all.
+*INV:	okay [?].
+@G:	Parrot
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	what more can you tell me?
+*CHI:	parrots have feathers and wings.
+*CHI:	and tails that are made of feathers.
+*CHI:	and they have, And they talk just like humans.
+*INV:	&=nods:yes mm.
+*CHI:	like one time when I was in the zoo ⌈and then I saw a parrot and it
+	says hello [= parrot voice]⌉.
+*INV:	                                    ⌊mm-hm⌋.
+*CHI:	&=laughs.
+*CHI:	yeah &=laughs.
+*CHI:	and that's all.
+*INV:	alright.
+@G:	Cat
+*INV:	what is this?
+*CHI:	a cat.
+*INV:	what more can you tell me?
+*CHI:	cats have, have whiskers.
+*INV:	mm-hm [= yes].
+*CHI:	and f- and, and um, tails that are made of fur.
+*INV:	mm-hm [= yes].
+*CHI:	and they have four legs that are made of four, fur.
+*CHI:	their whole body is made of fur.
+*INV:	mm-hm [= yes].
+*CHI:	but that's all.
+@G:	Judge
+*INV:	what is this?
+*CHI:	um I don't know.
+*INV:	hm well can you take your best guess?
+*CHI:	uh-uh [= no].
+*INV:	what can you tell me?
+*CHI:	um, it has a picture and glasses and a [?] paper and a book.
+*INV:	mm-hm [= yes].
+*CHI:	and a table.
+*CHI:	and a seat.
+*INV:	mm-hm [= yes].
+*CHI:	and you read books.
+*CHI:	smelled it.
+*CHI:	and, and you wear glasses.
+*CHI:	and you write on paper.
+*CHI:	and you put all an- and you take a picture of people with pictures.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	and you put all those stuff on a [?] table.
+*CHI:	but that's all.
+*INV:	okay.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	a pineapple.
+*INV:	what more can you tell me?
+*CHI:	um pineapples you eat (th)em.
+*CHI:	and they're pointy.
+*INV:	mm-hm [= yes].
+*CHI:	that's why I never touched (th)em.
+*INV:	mm.
+*CHI:	but one time I touched (th)em and it didn't hurt because because it's actually a soft pointy.
+*INV:	mm.
+*CHI:	soft pointy.
+*INV:	mm-hm [= yes].
+*CHI:	and, pineapples, have- have leaves.
+*INV:	mm-hm [= yes].
+*CHI:	and- but that's all.
+*INV:	okay.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	um ballerinas are dancers.
+*INV:	mm-hm [= yes].
+*CHI:	they have a tutus.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	and, and, they show people how to dance.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	like on stage.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	that's all.
+*INV:	okay.
+*INV:	you're doing really good &=tries:turn_page.
+*CHI:	oh this is one more thing about it.
+*INV:	uh-huh [= yes].
+*CHI:	they also have pony tails.
+*CHI:	that's the one more thing.
+*CHI:	now we can turn it.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	um a racer.
+*INV:	mm-hm [= yes].
+*CHI:	racers, race in ra- in races.
+*INV:	mm-hm [= yes].
+*CHI:	they always try to win.
+*INV:	&=nods:yes mm.
+*CHI:	those are- and racers race on race cars.
+*INV:	oh.
+*INV:	     ⌈what more⌉ +...
+*CHI:	race ⌊cars⌋ go really fast.
+*INV:	oh.
+*INV:	       ⌈what⌉ +...
+*CHI:	people ⌊watch⌋ them in in the ra- in the races.
+*INV:	mm-hm [= yes].
+*CHI:	that's all.
+*INV:	nothing else?
+*CHI:	yeah nothing else.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a butterfly.
+*INV:	what more can you tell me?
+*CHI:	butterflies have wings and antennas.
+*INV:	mm-hm [= yes].
+*CHI:	with the wings they can fly.
+*CHI:	and they're orange.
+*CHI:	that's all.
+*INV:	okay well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	do- All the butterflies do the same thing as, do the same thing as
+	every butterfly.
+*INV:	&=nods:yes mm.
+*CHI:	that's the only thing I can help him out with.
+*INV:	&=nods:yes okay.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a cupcake.
+*INV:	what more can you tell me?
+*CHI:	cupcakes you eat.
+*INV:	     ⌈mm-hm [= yes]⌉.
+*CHI:	they ⌊have⌋ wrappers on them.
+*INV:	mm-hm [= yes].
+*CHI:	and this one has nuts.
+*INV:	mm-hm [= yes].
+*CHI:	and black stuff.
+*CHI:	actually, ⌈oh that's chocolate chips⌉.
+*INV:	          ⌊mm-hm⌋.
+*INV:	mm.
+*CHI:	and, cupcakes taste very good.
+*INV:	mm-hm [= yes].
+*CHI:	but before you eat them you gotta take the wrapper off.
+*INV:	oh.
+*CHI:	because you can't eat the wrapper.
+*CHI:	&=laughs.
+*CHI:	that's all.
+*INV:	okay.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	the sea.
+*INV:	mm-hm [= yes].
+*CHI:	and- and the dolphin.
+*INV:	mm-hm [= yes].
+*CHI:	it's going out of the lake into the lake.
+*CHI:	out of the lake into the lake.
+*CHI:	out of the lake into the lake.
+*CHI:	out of the lake into the lake.
+*INV:	mm-hm [= yes].
+*CHI:	that's what they usually do.
+*CHI:	and they have some of these close to their heads.
+*INV:	mm-hm [= yes].
+*CHI:	and they have tails with these.
+*CHI:	and one of these.
+*INV:	mm-hm [= yes].
+*CHI:	like fishies have.
+*INV:	mm-hm [= yes].
+*CHI:	and they drink water.
+*INV:	&=nods:yes.
+*CHI:	that's all I know.
+*INV:	anything else?
+*CHI:	um they, they, that's all.
+*INV:	&=laughs okay.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	a fireman.
+*INV:	mm-hm [= yes].
+*CHI:	putting out a fire.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	firemen use hose to put out fire.
+*INV:	mm-hm [= yes].
+*CHI:	because- because water puts out fire.
+*CHI:	that's why he use hoses to put out fire.
+*INV:	mm-hm [= yes] &=nods:yes.
+*CHI:	but I know another way to put out fire.
+*CHI:	without even firemen.
+*INV:	mm.
+*CHI:	with a squirt gun.
+*INV:	oh &=laughs.
+*CHI:	because one time I saw a cartoon with with someone having a squirt gun to put out water.
+*INV:	&=nods mm-hm [= yes].
+*INV:	oh okay.
+*CHI:	and then it worked.
+*INV:	oh.
+*CHI:	um firemens also have helmets to protect them.
+*INV:	     ⌈mm-hm [= yes]⌉.
+*CHI:	from ⌊the⌋ fire.
+*CHI:	that's all I know.
+*CHI:	oh one more thing.
+*CHI:	they have boots too.
+*INV:	oh.
+*CHI:	that's all.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a grandma.
+*INV:	what more can you tell me?
+*CHI:	grandmas are old and very pretty.
+*CHI:	and they have one of those because since they're very old they can't walk, very well that's why have one of those.
+*INV:	oh okay.
+*CHI:	and, that's all I know.
+*CHI:	oh one more thing.
+*CHI:	they also have gray hair since they're old.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	pee-ew [= stinky] skunk.
+*INV:	&=laughs.
+*INV:	what more can you tell me?
+*CHI:	skunks, skunks have stinky +...
+*CHI:	if you see a skunk, skunk you'll have a really stinky smell.
+*INV:	mm you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	the skunk, has four legs.
+*INV:	mm-hm [= yes].
+*CHI:	and- and- and claws.
+*CHI:	and tail.
+*CHI:	when he puts the tail up he ha- that means when he's ready to stink.
+*INV:	mm-hm [= yes].
+*CHI:	and he has, um whiskers and a nose and eyes.
+*CHI:	and four legs.
+*INV:	mm.
+*CHI:	that's I know, That's all- all I know.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	an ice cream cone with ice cream.
+*INV:	what more can you tell me?
+*CHI:	you eat ice cream.
+*CHI:	and you're very frozen.
+*INV:	mm-hm [= yes].
+*CHI:	and you eat them even if they're really frozen really.
+*INV:	&=nods:yes mm.
+*CHI:	I love ice cream.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	you eat this ice cream up.
+*INV:	mm-hm [= yes].
+*CHI:	and it's on a cone.
+*CHI:	that's the only thing I can help you out.
+*INV:	&=nods:yes oh okay.
+*CHI:	let's see what this one is.
+@G:	Pumpkin
+*CHI:	oh I know what this one is.
+*CHI:	it's a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	pumpkins you put faces on them for Halloween.
+*INV:	mm-hm [= yes].
+*CHI:	you don't put them to save them for Halloween ⌈when it's not
+	Halloween because bugs might get in it⌉.
+*INV:	                                              ⌊mm-hm⌋.
+*INV:	&=nods:yes oh.
+*CHI:	bugs get in ⌈it⌉.
+*INV:	            ⌊mm-hm⌋.
+*CHI:	and when bugs are in them they get rotten.
+*INV:	oh &=nods:yes.
+*CHI:	that's all I know.
+*CHI:	they, and they have a stems.
+*INV:	mm-hm [= yes].
+*CHI:	I'm growing, I growed a pumpkin in my house but it's not growing yet.
+*INV:	mm &=nods:yes.
+*CHI:	that's all I know about pumpkins.
+*INV:	that's alright.
+*CHI:	actually that's not all.
+*CHI:	before they grow, the leaves are round and then they start and then the leaves start to get pointy.
+*INV:	mm-hm [= yes].
+*CHI:	that's all.
+*CHI:	&=turns:page.
+*CHI:	so that's the last one.
+*INV:	oh do you want to look again?
+*CHI:	no.
+*INV:	no.
+*INV:	okay.
+*CHI:	it's too long.
+*INV:	it's too long.
+*INV:	well why don't we put Zorg back to sleep.
+*INV:	goodnight Zorg.
+*CHI:	&=puts:picturebook_in_box.
+*CHI:	just kidding.
+*INV:	he got to look at the picture book.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a whole lot of fun.
+@End

@@ -1,0 +1,221 @@
+@UTF8
+@PID:	11312/a-00032361-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.02|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Weightlifter
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	can you take a guess?
+*CHI:	no.
+*CHI:	I really don't know.
+*INV:	okay.
+*INV:	well do you think maybe it could be a strong man?
+*CHI:	&=nods:yes.
+*INV:	what more can you tell me?
+*CHI:	mm, I don't know.
+*INV:	you can tell me whatever you think of.
+*CHI:	(be)cause he, is touching his hands like this &=demonstrates.
+*INV:	mm.
+*CHI:	my hand is sparkly.
+*INV:	mm.
+*CHI:	I wanna get it off.
+*CHI:	it gets nothing off.
+*INV:	&=hands:CHI_tissue.
+*CHI:	&=tries:remove_sparkles.
+*CHI:	huh, how can I get it off?
+*CHI:	can't get it off.
+*INV:	can I see &=uses:tissue_remove_sparkles?
+*CHI:	kind of hard to do.
+*INV:	yeah.
+*CHI:	why?
+*INV:	uh (be)cause they stick a little bit.
+*INV:	            ⌈anything else you can tell me⌉?
+*CHI:	why do they ⌊stick⌋?
+*CHI:	uh no.
+*INV:	okay.
+@G:	Lion
+*INV:	mm, what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it's shaped like a lion.
+*INV:	⌈anything⌉ +...
+*CHI:	⌊it's⌋, the, daddy one.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	(be)cause it roared loud &=roars.
+*INV:	oh.
+*CHI:	I can roar &=roars.
+*CHI:	that's pretty loud ⌈maybe⌉.
+*INV:	                   ⌊mm⌋.
+*INV:	mm.
+*CHI:	I can't get it, the thumb to get out.
+*INV:	oh.
+*CHI:	how can it stay up?
+*INV:	hm.
+*CHI:	what if we were all the way up to there [= pages in book]?
+*INV:	mm-hm [= filler].
+*INV:	you ready to turn the page?
+@G:	Frog
+*INV:	what is this?
+*CHI:	uh, froggie.
+*INV:	what more can you tell me?
+*CHI:	uh &=hops:like_frog.
+*INV:	mm.
+*CHI:	it hops.
+*INV:	zorg doesn't know much about this.
+*INV:	can you help him out?
+*CHI:	(be)cause it hops.
+@G:	Pie
+*INV:	what is this?
+*CHI:	I don't know.
+*CHI:	it looks like a waffle.
+*INV:	ah, what more can you tell me?
+*CHI:	(be)cause it has stuff in it.
+*CHI:	hm I don't know.
+*CHI:	(be)cause it's, a circle.
+@G:	Milk
+*INV:	what is this?
+*CHI:	milk.
+*INV:	wh +...
+*CHI:	a big big full of milk.
+*CHI:	in a little cup.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it's white.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	mm it has a crown.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	no.
+*INV:	oh, okay.
+@G:	Surfer
+*CHI:	we're missing some pages &=turns:multiple_pages.
+*CHI:	you [?] get it.
+*INV:	&=turns:correct_page.
+@G:	Snake
+*INV:	what is this?
+*CHI:	oh.
+*CHI:	a poison snake.
+*INV:	mm, what more can you tell me?
+*CHI:	(be)cause it has a little thing, on his back.
+*INV:	what else can you tell me?
+*CHI:	I don't know.
+*INV:	oh sweetie, you ready for the next page?
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a policer.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it has a hat &=starts:turn_page.
+*INV:	can we slow down just a little bit?
+*CHI:	&=nods:yes.
+*INV:	okay what else can you tell me?
+*CHI:	(be)cause it has, a light.
+*INV:	mm.
+*CHI:	how much pages have we done?
+*CHI:	maybe forty five.
+*INV:	oh wow.
+*CHI:	look [?].
+*CHI:	how much more are there?
+@G:	Owl
+*CHI:	just go all the way to the owl.
+*INV:	mm-hm [= filler].
+@G:	Surfer
+*CHI:	I don't know about this.
+*INV:	okay let's try another page.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	(be)cause, it has big leaves.
+*CHI:	and it's red.
+*CHI:	that's easy.
+*INV:	okay.
+*INV:	anything else?
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a farmer.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it has, a hat.
+*INV:	mm, what else can you tell me?
+*CHI:	I don't know.
+*INV:	mm.
+*INV:	you can tell me whatever you think of.
+*CHI:	(be)cause it has fruit.
+@G:	Corn
+*INV:	you're doin(g) great.
+*INV:	what is this?
+*CHI:	is it, oh I don't know.
+*CHI:	it's paint corn.
+*INV:	mm.
+*CHI:	it looks like a corn necklace.
+*INV:	mm, what more can you tell me?
+*CHI:	I don't know.
+*INV:	you can tell me whatever you think of.
+*CHI:	hey how can it stay up &=balances:book?
+*INV:	because of where it is in the book.
+*INV:	where the page is.
+@G:	Rabbit
+*CHI:	a rabbit.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it's xxx.
+*INV:	mm.
+*INV:	                       ⌈what else can⌉ +...
+*CHI:	look how much pages we ⌊read⌋.
+*INV:	mm-hm [= filler].
+*CHI:	but this is really not a reading picture book.
+*CHI:	it's just a picture.
+*INV:	oh yeah, yeah.
+*CHI:	                       ⌈we're almost to the end⌉.
+*INV:	what else can you tell ⌊me⌋?
+*CHI:	like one page, and two page.
+*INV:	mm.
+*CHI:	then were done.
+*INV:	yeah.
+*CHI:	but I can't, count how many we been reading.
+*INV:	it's okay.
+*INV:	we don't have to.
+*INV:	what is this?
+*CHI:	a rabbit.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it hops.
+*INV:	anything else you can tell me?
+*CHI:	uh, no.
+*CHI:	(be)cause it has whiskers.
+*INV:	mm.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	a pretzel.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it has a little bit of, salt.
+*INV:	oh.
+*CHI:	and it's shaped like a pretzel.
+*INV:	oh.
+*CHI:	with different prints [?].
+*INV:	oh.
+@G:	Owl
+*INV:	what is this?
+*CHI:	a owl.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it, can see at night.
+*INV:	what else can you tell me?
+*CHI:	I don't know.
+*INV:	you can tell me whatever you think of.
+*CHI:	it's done.
+*INV:	we're done?
+*CHI:	yes.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay.
+*INV:	well thank you very much for doing that with me.
+*INV:	            ⌈that was a lot of fun⌉.
+*CHI:	it's pretty ⌊long⌋.
+*INV:	yeah, it is.
+@End

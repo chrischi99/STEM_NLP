@@ -1,0 +1,531 @@
+@UTF8
+@PID:	11312/a-00032340-1
+@Window:	446_241_683_700_-1_-1_11687_0_11687_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.04|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Butterfly
+@Types:	cross, narrative, TD
+*CHI:	butter⌈fly⌉.
+*MOT:	what's ⌊that⌋?
+*CHI:	butterfly.
+*MOT:	do you know what kind of butterfly it is?
+*CHI:	no.
+*MOT:	well what colors is it?
+*CHI:	a white, orange, um black.
+*MOT:	mm-hm [= filler].
+*MOT:	do you know what the name of this, I know the name of this butterfly.
+*MOT:	it is called a monarch butterfly.
+*CHI:	monarch.
+*MOT:	yep.
+*MOT:	do you remember when Firstname was studying insects?
+*CHI:	monarch.
+*MOT:	do you remember when Firstname was studying insects ⌈ at school⌉?
+*CHI:	                                                    ⌊mm-hm⌋.
+*CHI:	uh huh.
+*MOT:	you know what I, what she learned?
+*MOT:	⌈you know what these two things are called⌉?
+*CHI:	⌊monarch⌋.
+*CHI:	antennas.
+*MOT:	that's right.
+*MOT:	and let's see.
+*MOT:	do you remember the parts of the body?
+*CHI:	uh huh.
+*MOT:	what are they called?
+*CHI:	body.
+*MOT:	body.
+*MOT:	how about head?
+*MOT:	thorax?
+*MOT:	and abdomen.
+*CHI:	              ⌈xxx⌉.
+*MOT:	somethin like ⌊that⌋.
+*MOT:	                                      ⌈abdomen⌉.
+*CHI:	don't <don't> [?] and done [?] forget ⌊wings⌋.
+*MOT:	and the wings right.
+*MOT:	okay.
+*CHI:	and the antennas.
+*MOT:	okay.
+@G:	Race Car Driver
+*MOT:	let's see what's on this picture.
+*MOT:	what's that?
+*CHI:	racecar.
+*MOT:	racecar.
+*MOT:	hm, how many people do you think are there in that picture?
+*CHI:	um, eighty eight.
+*MOT:	eighty eight?
+*CHI:	yeah.
+*MOT:	looks like, you think all those are people over there?
+*CHI:	yeah.
+*MOT:	I think this is, do you think this is like a big crowd?
+*CHI:	uh huh.
+*MOT:	mm-hm [= filler].
+*CHI:	watching the race.
+*MOT:	watching the race?
+*CHI:	uh huh.
+*MOT:	do you think the race is, already done or?
+*CHI:	um, I think it's it hasn't started yet.
+*MOT:	hasn't started yet?
+*CHI:	uh huh.
+*MOT:	what do you think about this guy right there?
+*CHI:	            ⌈oh he's a, racecar driver⌉.
+*MOT:	how does he ⌊look⌋?
+*MOT:	is he a driver?
+*CHI:	yeah.
+*MOT:	does he look, how does he look on his face?
+*CHI:	glasses.
+*MOT:	he's wearing glasses, yeah.
+*CHI:	how does how does how did they get this to stay on
+	&=tries:take_arm_off_couch?
+*MOT:	oh it's probably attached.
+*MOT:	that's how it's made.
+*CHI:	oh.
+*MOT:	what does he have all over his car?
+*CHI:	numbers.
+*MOT:	what are all these things?
+*CHI:	I don't know.
+*CHI:	I'll take a closer look.
+*MOT:	d-what do you think those are?
+*CHI:	I I don't know.
+*MOT:	I think they might be stickers.
+*CHI:	stickers?
+*MOT:	they look like stickers to me.
+*CHI:	uh +...
+*MOT:	but maybe they're painted on.
+*MOT:	I don't know.
+*MOT:	do- does he look happy or sad?
+*CHI:	happy.
+*MOT:	happy.
+*MOT:	do you think he won the race?
+*CHI:	yeah.
+*CHI:	I think he won.
+@G:	Judge
+*MOT:	oh who's this guy?
+*MOT:	do you know who that is?
+*CHI:	no.
+*MOT:	what does does he look happy?
+*CHI:	no.
+*MOT:	no.
+*MOT:	does he look serious?
+*CHI:	yeah.
+*MOT:	I wonder what he's doing sitting in that big chair behind this table here.
+*MOT:	what do you think he's doing?
+*CHI:	I don't know.
+*MOT:	you don't know?
+*CHI:	turn it.
+*MOT:	what color book does he have?
+*CHI:	red.
+@G:	Pineapple
+*CHI:	pineapple.
+*CHI:	pineapple.
+*MOT:	do you like eating those?
+*CHI:	mm-mm [= no].
+*MOT:	no?
+*CHI:	&=shakes:head_no.
+*MOT:	you don't like pineapples?
+*CHI:	&=shakes:head_no.
+*MOT:	hm, I like (th)em.
+*MOT:	do you thin-how do you think this feels?
+*CHI:	sharp.
+*MOT:	sharp.
+*MOT:	have you ever held a pineapple?
+*CHI:	no.
+*MOT:	no.
+*MOT:	do you think it feels sharp and pokey?
+*CHI:	yes.
+*MOT:	yep, I think so.
+*CHI:	even little pineapples.
+*MOT:	do you know what kind of food this is?
+*MOT:	a pineapple is?
+*MOT:	is it meat?
+*CHI:	no.
+*MOT:	is it milk?
+*CHI:	no.
+*MOT:	is it bread?
+*CHI:	no.
+*MOT:	is it a vegetable?
+*CHI:	no.
+*MOT:	what, do you know what kind it is?
+*CHI:	um, fruit.
+*MOT:	&=gaspsYeah good.
+*MOT:	a fruit.
+*MOT:	it is it do you think it's sweet taste-?
+*MOT:	what does it taste like?
+*CHI:	juice.
+*MOT:	juice.
+*MOT:	juicy?
+*CHI:	juicy.
+*MOT:	yeah, ⌈good⌉.
+@G:	Ice Cream
+*CHI:	      ⌊yum⌋!
+*CHI:	ice cream.
+*MOT:	do [?] you like that?
+*CHI:	mm.
+*MOT:	what flavor do you think it is?
+*CHI:	strawberry.
+*MOT:	strawberry.
+*MOT:	how many scoops are on there?
+*CHI:	&=holds:up_all_fingers.
+*MOT:	ten?
+*CHI:	&=nods:yes.
+*MOT:	I don't <see> [?] ten.
+*MOT:	um what kind of, shape is this, cone here?
+*CHI:	triangle.
+*MOT:	mm-hm [= yes].
+*MOT:	what is this kinda, what shape is that kind of almost like?
+*CHI:	circle.
+*MOT:	circle.
+*MOT:	do you know what kind of, do [?] you know what this kind of cone is called?
+*CHI:	no.
+*MOT:	it's called a waffle cone &=laughs.
+*MOT:	(be)cause see it looks like little waffles.
+*MOT:	the little squares on there.
+*MOT:	like a waffle cone.
+*MOT:	and you know when I was, little we used to go to this ice cream
+	restaurant called Baskin_Robbins.
+*MOT:	and they had cones just like that.
+*MOT:	they were called I think they called (th)em, sugar cones.
+*CHI:	ooh.
+*MOT:	but sometimes you can get really big ones ⌈ that are called waffle
+	cones⌉.
+*CHI:	                                          ⌊mm-hm⌋.
+*CHI:	oh boy.
+*MOT:	really big ones.
+*MOT:	and those fit a whole bunch of ice cream in (th)em.
+*CHI:	wow.
+*CHI:	                                       ⌈how much⌉?
+*MOT:	do you like looking in the mirror over ⌊there⌋?
+*CHI:	mama how how much pounds?
+*MOT:	how many I-well probably half a pound.
+*CHI:	half?
+*MOT:	         ⌈yeah⌉.
+*CHI:	how much ⌊pounds⌋?
+*MOT:	um.
+*CHI:	does +...
+*MOT:	a big waffle cone?
+*CHI:	no.
+*MOT:	no.
+*CHI:	how how many scoops of ice ice cream does it make?
+*MOT:	a big in a big waffle cone?
+*CHI:	uh huh [= yes].
+*MOT:	oh probably like four or five maybe.
+*CHI:	I think I they they use &=holds:up_all_fingers.
+*MOT:	ten?
+*CHI:	&=nods:yes.
+*MOT:	yeah maybe.
+*MOT:	if they're small scoops I bet they could fit ten.
+*MOT:	would you like to have this flavor of ice cream?
+*CHI:	uh huh [= yes].
+*MOT:	mm-hm [= filler].
+*CHI:	strawberry.
+*CHI:	and mint.
+*CHI:	and chocolate chip.
+*MOT:	okay.
+*MOT:	is strawberry your favorite kind?
+*CHI:	uh, no.
+*MOT:	no.
+*CHI:	my favorite kind is mint.
+*CHI:	and my favorite kind of ice cream is mint.
+*MOT:	mm-hm [= filler].
+*CHI:	and chocolate chip.
+*MOT:	chocolate chip?
+*MOT:	like those two together?
+*MOT:	mint chocolate chip?
+*MOT:	all in one kind?
+*CHI:	no.
+*MOT:	just one kind is mint and the other kind is chocolate chip?
+*CHI:	uh huh [= yes].
+*MOT:	okay.
+@G:	Ballerina
+*MOT:	what's that?
+*CHI:	ballerina.
+*MOT:	hm.
+*CHI:	too boring.
+*MOT:	too boring?
+*CHI:	uh huh [= yes].
+*MOT:	you don't like ballerinas?
+*CHI:	mom do you know who Firstname is gonna be for Halloween?
+*MOT:	um no.
+*MOT:	ballerina?
+*CHI:	uh huh.
+*MOT:	oh.
+*CHI:	ballerina.
+*MOT:	well Halloween, ⌈is already over right⌉?
+*CHI:	our xxx         ⌊yeah⌋.
+*CHI:	and she's gonna be a fairy ballerina.
+*MOT:	oh okay.
+*MOT:	so she was, one of those.
+*CHI:	and when Missus Firstname saw me come down at Firstname's uh
+	Halloween party she stared at my she stared at me.
+*CHI:	and when she saw me she she she's like It's Batman &=laughs.
+*MOT:	you were dressed up.
+*MOT:	do you know what this skirt is called right here?
+*CHI:	a s-ballerina skirt.
+*MOT:	or it's called a tutu.
+*CHI:	tutu.
+*MOT:	tutu.
+*CHI:	tutu.
+*MOT:	and do you know what those are called?
+*MOT:	those things on her feet?
+*CHI:	shoes.
+*MOT:	slippers.
+*CHI:	slippers.
+*MOT:	ballet slippers.
+*CHI:	ballet.
+*MOT:	and you know what this like shirt thing she's wearing is called?
+*CHI:	no.
+*MOT:	leotard.
+*MOT:	leotard.
+*CHI:	leotard.
+*MOT:	yeah.
+@G:	Parrot
+*CHI:	birdy.
+*MOT:	birdy.
+*MOT:	do you think, what do you think about this bird?
+*CHI:	pretty.
+*MOT:	pretty.
+*MOT:	do you like the colors of his feathers?
+*CHI:	mm-hm.
+*CHI:	I like this co-all of the colors on him.
+*MOT:	mm-hm [= filler].
+*MOT:	do you think he can, do anything special?
+*CHI:	fly.
+*MOT:	fly.
+*MOT:	anything else?
+*CHI:	sing.
+*MOT:	sing oh.
+*MOT:	do you think he can talk?
+*CHI:	&=shakes:head_no &=nods:head_yes.
+*MOT:	can he say “Polly want a cracker” &=laughs?
+*CHI:	that's [?] xxx.
+*MOT:	sometimes parrots know how to talk.
+*MOT:	I don't know if this one that can talk or not.
+*CHI:	um Mom?
+*MOT:	what?
+*CHI:	&=turns:page.
+@G:	Skunk
+*MOT:	oh what's that?
+*CHI:	raccoon.
+*MOT:	raccoon?
+*MOT:	is that a raccoon?
+*CHI:	mm-hm [= yes].
+*MOT:	does he have a little um mask on his eyes?
+*CHI:	mm yeah.
+*MOT:	this is not a raccoon.
+*CHI:	what is it?
+*MOT:	a skunk.
+*CHI:	stunk.
+*MOT:	what do you know about skunks?
+*CHI:	they smell-sometimes they smell kinda stinky.
+*MOT:	mm-hm.
+*MOT:	one time I saw some baby skunks.
+*CHI:	oh [?]?
+*MOT:	right in by our apartments where we used to live.
+*MOT:	and there was a whole bunch of baby skunks in a bush.
+*MOT:	they were all cuddled together.
+*MOT:	they were so cute.
+*CHI:	and one time we saw a baby bunny.
+*CHI:	remember that?
+*MOT:	where was that at?
+*CHI:	uh, Pizza Hut.
+*MOT:	pizza Hut?
+*MOT:	oh, yeah.
+*CHI:	       ⌈that was [?] xxx⌉.
+*MOT:	or was ⌊it⌋, no it was that other restaurant on xxx Road.
+*MOT:	bob_evans I think.
+*CHI:	yeah it wasn't it wasn't with Grandma Firstname and Grandpa Firstname.
+*MOT:	it wasn't?
+*CHI:	mm-mm [= no].
+*MOT:	oh okay.
+*CHI:	and we saw a baby rabbit.
+*MOT:	was it cute?
+*CHI:	uh huh.
+*MOT:	did you like it?
+*CHI:	uh huh.
+*CHI:	I I wanted I wanted to adopt it.
+*MOT:	yeah?
+*MOT:	you'd like to have a little pet at home?
+*CHI:	uh huh.
+*CHI:	but too bad we did not have a cage.
+*MOT:	yeah.
+*CHI:	yeah then we, and if we did have a cage then we could adopt a a baby
+	rabbit and then we we could put him in the cage.
+*MOT:	mm-hm [= filler].
+*CHI:	&=coughs.
+*MOT:	hm.
+*MOT:	would you like to have a skunk for a pet?
+*CHI:	no.
+*MOT:	oh.
+*CHI:	that would be stinky.
+*CHI:	pretty stinky.
+*MOT:	yeah.
+@G:	Old Woman
+*MOT:	oop, who's that?
+*CHI:	person.
+*MOT:	a lady?
+*CHI:	person lady.
+*CHI:	person lady.
+*MOT:	why do you think she's a lady?
+*MOT:	what's she wearing around her neck?
+*CHI:	necklace.
+*MOT:	mm-hm.
+*MOT:	and does she have any other, jewelry on her arms?
+*CHI:	uh huh.
+*MOT:	what color are her shoes?
+*CHI:	bracelet +...
+*CHI:	blue.
+*MOT:	mm-hm.
+*MOT:	what color is her coat?
+*CHI:	pink.
+*MOT:	do you know what this thing is called right here?
+*CHI:	no.
+*MOT:	it's called a cane.
+*MOT:	do you know why she might have a cane?
+*CHI:	uh uh [= no].
+*MOT:	why do you think someone might hold a big stick while they're walking?
+*CHI:	(be)cause maybe she's she can't stand up straight.
+*MOT:	oh yeah it might help her stand up straight.
+*CHI:	mm-hm.
+*MOT:	mm-hm, good idea.
+@G:	Pumpkin
+*CHI:	mom.
+*CHI:	pumpkin.
+*MOT:	do you like pumpkins?
+*CHI:	&=nods:yes.
+*MOT:	⌈yeah⌉.
+*CHI:	⌊carve⌋.
+*MOT:	you carve.
+*MOT:	what did you, did you make one of these?
+*MOT:	did you get one of those for, Halloween?
+*CHI:	uh huh.
+*MOT:	what did yours look like?
+*CHI:	a jack-o-lantern.
+*MOT:	yeah?
+*MOT:	did it have triangle shape eyes?
+*CHI:	yes.
+*MOT:	what was inside of it?
+*CHI:	pumpkin ou- outside.
+*MOT:	what was on the inside?
+*MOT:	what did Papa put in there?
+*CHI:	uh, candle.
+*MOT:	&=gasps yeah.
+*MOT:	did you ever see it when it was lit up?
+*CHI:	uh huh [= yes].
+*CHI:	mama.
+*MOT:	what?
+*CHI:	when when it was night time that was a long time ago ⌈um af- after I
+	was uh, after I had I had turned four⌉, ⌈Daddy put them put the
+	ca-light lighted up the um the candles in the night⌉.
+*MOT:	                                                     ⌊mm-hm⌋.
+*MOT:	                                        ⌊mm-hm⌋.
+*MOT:	mm-hm.
+*CHI:	so we could see them light up.
+*CHI:	and we got to stay up late to see them.
+*MOT:	mm-hm.
+*CHI:	⌈but not all night⌉.
+*MOT:	⌊how man⌋ how many pumpkins did we have at our house this year?
+*CHI:	um, three.
+*MOT:	⌈three⌉.
+*CHI:	⌊four⌋.
+*CHI:	four ⌈four⌉.
+*MOT:	I think it was ⌊three⌋.
+@G:	Dolphin
+*MOT:	⌈what's tha⌉ +...
+*CHI:	⌊dolphin⌋.
+*MOT:	dolphin.
+*MOT:	what's he doing?
+*CHI:	diving out of the water.
+*MOT:	mm-hm [= filler].
+*MOT:	do you like dolphins?
+*CHI:	yes.
+*MOT:	have you ever seen a real dol-dolphin?
+*CHI:	no.
+*MOT:	no.
+*MOT:	hm, they don't have any dolphins at the zoo do they?
+*CHI:	no.
+*MOT:	not at the zoo that we've been to anyway.
+*MOT:	              ⌈not at the Toledo zoo⌉.
+*CHI:	we saw we saw ⌊hippos⌋.
+*MOT:	oh yeah &=laughs.
+*CHI:	go poo poo.
+*MOT:	that was a big mess huh?
+*MOT:	that was gross.
+*CHI:	I I liked poo poo &=laughs.
+*CHI:	I- I think their names are Poo Poo.
+*MOT:	no those were not their names.
+*CHI:	oh.
+@G:	Cat
+*CHI:	kitty.
+*MOT:	what do you think his name is?
+*CHI:	uh, Tail.
+*MOT:	tail?
+*CHI:	uh huh.
+*MOT:	okay.
+*CHI:	because he has a tail.
+*MOT:	you think he's a nice kitty?
+*CHI:	uh huh [= yes].
+@G:	Muffin
+*MOT:	what else is in here?
+*CHI:	cupcake!
+*MOT:	does that look good?
+*MOT:	it looks like what kind do you think it is?
+*CHI:	                      ⌈I don't know⌉.
+*MOT:	what do you think are ⌊those⌋, dark things there?
+*CHI:	uh blueberries.
+*MOT:	⌈blueberries⌉.
+*CHI:	⌊mama⌋.
+*MOT:	⌈that's what I thought too⌉.
+*CHI:	⌊mom⌋.
+*MOT:	what?
+*CHI:	my cupcakes at school um had frosting and sprinkles.
+*MOT:	mm.
+*CHI:	and they had and and you know what color, the frosting was?
+*MOT:	green and red.
+*CHI:	uh huh.
+*CHI:	and do you know what what what color inside <it> [?] was?
+*CHI:	it was different colors.
+*MOT:	really?
+*MOT:	a lot of different colors?
+*CHI:	no.
+*MOT:	green and red also?
+*CHI:	no.
+*CHI:	one was brown and one had a vanilla xxx.
+*CHI:	and the red had the chocolate.
+*MOT:	okay.
+@G:	Cracker
+*CHI:	saltine cracker.
+*MOT:	have you ever eaten those before?
+*CHI:	uh huh [= yes].
+*CHI:	at school.
+*MOT:	yeah.
+*CHI:	a lot of times.
+*MOT:	a lot of times?
+*CHI:	mm-hm.
+*MOT:	do you like those?
+*CHI:	mm-hm.
+*MOT:	do you think they would be good with some soup?
+*CHI:	mmm no.
+*CHI:	and and they have salt ⌈ on them⌉.
+*MOT:	                       ⌊I know [?]⌋.
+*MOT:	mm-hm.
+*CHI:	and with crackers I like saltine crackers.
+*CHI:	that's my best kind of crackers.
+*MOT:	wow.
+*CHI:	saltine crackers.
+@G:	Firefighter
+*MOT:	oh.
+*CHI:	fireman.
+*MOT:	what's he doing?
+*CHI:	hosing out fire.
+*MOT:	mm-hm.
+*MOT:	yeah.
+*MOT:	do you think he's up high?
+*CHI:	uh huh [= yes].
+*CHI:	ladder.
+*MOT:	oop I think we're done.
+*CHI:	yep.
+*MOT:	we can stop now.
+*CHI:	uh huh.
+@End

@@ -1,0 +1,263 @@
+@UTF8
+@PID:	11312/a-00032180-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.26|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Cookie
+@Types:	cross, narrative, TD
+*CHI:	um a cookie.
+*INV:	what more can you tell me?
+*CHI:	he um I eat a cookie and it goes with my teeth.
+*INV:	mm.
+*CHI:	I eat it with my teeth xxx.
+*CHI:	he ate it all, look.
+*CHI:	he at it all up.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	he likes to eat the cookie &=makes:Zorg_eat_cookie.
+*INV:	mm.
+*CHI:	he ate it all up.
+*CHI:	look.
+*INV:	hm.
+*CHI:	bye bye.
+*CHI:	he got big nose.
+*CHI:	I found the box.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	baseball man.
+*INV:	what more can you tell me?
+*CHI:	um he plays baseball and he hits the ball and it goes back to someone else.
+*INV:	mm.
+*CHI:	you know what?
+*CHI:	you gotta learn to play baseball.
+*CHI:	I put ponytails up in my hair.
+*INV:	mm.
+*CHI:	I didn't do it today.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't now much about this one.
+*CHI:	well, you can need to learn to play baseball by yourself now because you're no nice.
+@G:	Turtle
+*CHI:	um a turtle.
+*INV:	what more can you tell me?
+*CHI:	he can go underwater.
+*INV:	mm.
+*CHI:	he can swim.
+*INV:	mm-hm [= yes].
+*CHI:	and he's got a shell.
+*CHI:	and he can go inside it.
+*CHI:	so he won't be afraid of anything.
+*INV:	oh.
+*CHI:	that's my mamma's purse
+	[= MOT left purse in room after MOT/CHI session].
+*CHI:	I'm gonna hold it for her.
+*INV:	okay.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well you know what?
+*CHI:	he gotta learn to swim underwater with the turtle and the fish and a crab.
+*INV:	mm.
+*CHI:	I can, I can go underwater at my grandma's beach.
+*INV:	mm.
+*CHI:	but I can't go in the deep water.
+*INV:	mm-hm [= yes].
+*CHI:	(be)cause that scares me and my brother.
+*INV:	mm-hm [= yes].
+*CHI:	and I but turtles and crabs can.
+*INV:	mm.
+*CHI:	I got goggles to see.
+*INV:	mm-hm [= yes].
+*CHI:	and they're pretty and they're green.
+*INV:	mm.
+*CHI:	I like them all.
+*INV:	ah.
+*CHI:	so that's what turtles are all about.
+@G:	Doctor
+*CHI:	um, she's sick.
+*INV:	mm.
+*CHI:	and she's at the doctors.
+*INV:	mm.
+*INV:	what what more can you tell me?
+*CHI:	well she's at the doctor when she's sick she doesn't feel good.
+*INV:	mm-hm [= yes].
+*CHI:	when I'm sick I gotta go to the doctor.
+*INV:	mm.
+*CHI:	once I got new [?] cavities.
+*INV:	mm.
+*CHI:	they're pretty and they got good things in them to make teeth.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much abut this one.
+*CHI:	well you know what?
+*CHI:	you need to learn to go to the doctor and be patient.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	well when you eat bread it tastes good with peanut butter sandwich.
+*INV:	mm.
+*CHI:	that's so good.
+*INV:	mm-hm [= yes].
+*CHI:	I like that.
+*CHI:	it's so good.
+*INV:	mm-hm [= yes].
+*CHI:	and I love it.
+*INV:	mm-hm [= yes].
+*CHI:	and, you like my bow on my dress?
+*CHI:	it's my cheerleading [?] dress.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well you need to learn to eat, you nut.
+*CHI:	he's a funny guy.
+*CHI:	I know all these things.
+@G:	Pig
+*CHI:	pig.
+*INV:	what more can you tell me?
+*CHI:	pig.
+*CHI:	he's a cow pig.
+*CHI:	see the spots?
+*CHI:	xxx cow pig.
+*INV:	mm.
+*CHI:	cow pigs do like this &=snorts.
+*INV:	mm.
+*CHI:	they make funny noises.
+*INV:	anything else you want to tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you gotta learn to snort like a pig &=snorts.
+@G:	Duck
+*CHI:	that's a duck.
+*CHI:	I can sound like a duck.
+*CHI:	quack quack.
+*INV:	what more can you tell me?
+*CHI:	well if this duck learns how to quack he can quack like this.
+*CHI:	quack Quack.
+*INV:	mm.
+*CHI:	so he's a good duck &=makes:Zorg_quack.
+*CHI:	you already know how to quack like a duck now quack
+	[= talking to Zorg].
+*INV:	anything else you want to tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	well if [?] you have to quack like a duck.
+*CHI:	quack.
+@G:	Painter
+*INV:	what is this?
+*CHI:	painting.
+*INV:	what more can you tell me?
+*CHI:	well if she's painting really easy she can't get paint on her.
+*INV:	mm.
+*CHI:	so that's why, she needs to do it.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well do you know what?
+*CHI:	you you need to paint by yourself now.
+*CHI:	I'm not gonna help anymore.
+@G:	Baby
+*CHI:	baby.
+*INV:	mm-hm [= yes].
+*CHI:	I can't, I can't see clearly.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	well if the baby cries and wants some breakfast she say wah.
+*INV:	anything else you want to tell Zorg?
+*CHI:	you gotta cry like a baby [= talking to Zorg].
+*CHI:	this is a funny one.
+@G:	Banana
+*CHI:	banana.
+*INV:	what more can you tell me?
+*CHI:	I like to eat bananas.
+*INV:	mm.
+*CHI:	they're good and they're.
+*CHI:	and [?] do you know what [= talking to Zorg]?
+*CHI:	you need to learn to eat a banana.
+*INV:	anything else you want to tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well if you eat a banana you eat good fruit.
+@G:	Puppy
+*CHI:	        ⌈pup⌉.
+*INV:	what is ⌊this⌋?
+*CHI:	puppy doggie.
+*INV:	mm-hm [= yes].
+*CHI:	he looks pretty.
+*INV:	what more can you tell me?
+*CHI:	well the doggie barks &=barks.
+*CHI:	my doggie doesn't like to be picked up.
+*INV:	mm.
+*CHI:	so he's a Cavelier_King_Charles_Spaniel <kind of dog> [?].
+@G:	Carrot
+*CHI:	and I see carrot.
+@G:	Puppy
+*INV:	anything else you want to tell Zorg?
+*CHI:	well you need to bark like a puppy &=barks.
+@G:	Carrot
+*CHI:	carrot.
+*INV:	what more can you tell me?
+*CHI:	I like to eat carrots.
+*INV:	        ⌈mm-hm⌉ [= yes].
+*CHI:	they're ⌊good⌋.
+*INV:	mm-hm [= yes].
+@G:	Ladybug
+*CHI:	and that's a ladybug.
+*INV:	hold on let's slow down a little bit.
+@G:	Carrot
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well he I like to eat carrots and he does too.
+*INV:	mm.
+*CHI:	bunny rabbits like to eat carrots.
+*INV:	mm.
+@G:	Ladybug
+*CHI:	that's a ladybug.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	well if the ladybug always comes in your house I have a bug catcher um to let him um crawl in.
+*INV:	mm.
+*CHI:	I got a lot of things on it with it.
+*CHI:	and my teacher gave it to me.
+*INV:	mm.
+*CHI:	firstname got one too.
+*INV:	mm.
+*CHI:	all my friends got it too.
+*INV:	mm-hm [= yes].
+*CHI:	they loved it.
+*CHI:	so this bug is a, red ones are &=makes:noise
+	&=pretends:Zorg_eats_bug.
+*CHI:	does he like to eat bugs?
+*INV:	I'm not sure.
+*CHI:	he got a big nose and he can eat (th)em.
+*INV:	mm.
+*INV:	anything else you want to tell Zorg?
+*CHI:	well you know what?
+*CHI:	you need to learn to eat bugs.
+@G:	Cheese
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	well, cheese is so good.
+*CHI:	I love mouse cheese.
+*CHI:	and it's good.
+*CHI:	and I like it.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well you know what?
+*CHI:	you need to learn to eat cheese on your eye.
+@G:	Pirate
+*CHI:	a pirate.
+*INV:	mm-hm [= yes].
+*CHI:	and he likes to get treasure.
+*INV:	mm.
+*CHI:	and the end.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well, you know what?
+*CHI:	you need xxx to be a pirate.
+*CHI:	the end.
+*INV:	do you want to look again?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*INV:	alright well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

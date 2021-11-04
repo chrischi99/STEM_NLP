@@ -1,0 +1,231 @@
+@UTF8
+@PID:	11312/a-00031989-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.06|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Cracker
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	cracker.
+*INV:	what more can you tell me?
+*CHI:	um.
+*CHI:	it's what you eat.
+*CHI:	and that's um, it um +...
+*CHI:	that's it I know &=turns:page.
+*INV:	&=turns:page_back well you know what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't want, I'm, I don't want to um, do um +...
+*CHI:	um I- I don't want to tell it anything else.
+@G:	Cat
+*INV:	what is this?
+*CHI:	cat.
+*INV:	what more can you tell me?
+*CHI:	um a cat walks like um, he walks.
+*CHI:	and um like he has a- he has um +...
+*CHI:	it has a tail.
+*CHI:	and um it has whiskers.
+*CHI:	and sometimes it has black eyes.
+*CHI:	and sometimes it has brown eyes.
+*CHI:	and green eyes.
+@G:	Old Woman
+*CHI:	what is this?
+*CHI:	a lady.
+*INV:	what more can you tell me?
+*CHI:	um a lady walks &=turns:page.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	can I please turn the page?
+*INV:	well why don't you tell me a little bit more.
+*CHI:	and um sometimes they have necklaces.
+*CHI:	like this.
+*CHI:	and watches.
+*CHI:	and sometimes this.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	a dolphin.
+*INV:	what more can you tell me?
+*CHI:	it swims in the water.
+*CHI:	it bes nice.
+*CHI:	and it does, and it jumps back into the [?] water.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	pumpkin.
+*INV:	what more can you tell me?
+*CHI:	um it has a stem.
+*CHI:	some, some um broke off.
+*CHI:	some stems bro- um break off.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	can I please turn the page?
+*INV:	please tell me a little bit more.
+*CHI:	okay.
+*CHI:	and um pumpkins are for Halloween.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	firefighter.
+*INV:	what more can you tell me?
+*CHI:	um it's, when there's a fire they they throw [?] water at the fire.
+*INV:	can you please tell me a little bit more?
+*CHI:	ah and um.
+*CHI:	and um they have these suits.
+*CHI:	and they drive a firefighting [?] thing.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	pineapple.
+*INV:	what more can you tell me?
+*CHI:	um it's orange.
+*CHI:	and it has green on the top.
+*CHI:	and we eat it &=tries:turn_page.
+*INV:	can you please tell me a little bit more?
+*CHI:	hm.
+*CHI:	and um it has these pokey things.
+*CHI:	so we um do the, so we peel this the um this part and this part off.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	mm-hm [= yes].
+*INV:	okay.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	ice cream.
+*INV:	what more can you tell me?
+*CHI:	um it's what you eat.
+*CHI:	and it's very cold.
+*CHI:	but very yummy.
+*CHI:	can I take my shoes off?
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	okay.
+*INV:	can I take my shoes off?
+*CHI:	and um this is a cone.
+*INV:	can you please tell me a little bit more?
+*CHI:	and um it's very cool.
+*CHI:	and um, we have ice cream um in the summer.
+*INV:	&=nods:yes okay.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	mm.
+*CHI:	uh a race car person.
+*CHI:	&=turns:page.
+*INV:	&=turns:page_back what more can you tell me?
+*CHI:	um I [?], he races cars.
+*INV:	can you please tell me a little bit more?
+*CHI:	and um.
+*CHI:	and um he, sometimes they have spots.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	parrot.
+*INV:	what more can you tell me?
+*CHI:	um sometimes they are colorful.
+*CHI:	and and stuff.
+*CHI:	and they um, and they um, and they live on trees.
+*INV:	can you please tell me a little bit more?
+*CHI:	and um they have beaks.
+*CHI:	and they have eyes.
+*CHI:	and they have feet.
+*CHI:	and they have this little furry thing.
+@G:	Judge
+*INV:	what is this?
+*CHI:	worker.
+*INV:	what more can you tell me?
+*CHI:	um he um it works all um it works all day.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	and um.
+*CHI:	and some have glasses.
+*CHI:	some don't.
+*INV:	can you please tell me a little bit more?
+*CHI:	and um.
+*CHI:	sometimes they have pencils.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	and sometimes and sometimes they have um um books on their counter.
+*INV:	mm-hm [= yes].
+@G:	Skunk
+*INV:	what is this?
+*CHI:	a skunk.
+*INV:	what more can you tell me?
+*CHI:	um like.
+*CHI:	um, like.
+*CHI:	it's stinky and it sprays you.
+*INV:	mm-hm [= yes].
+*CHI:	and it's black and white.
+*INV:	can you please tell me a little bit more?
+*CHI:	yeah.
+*CHI:	um.
+*CHI:	and it sprays you when ah- when um, when you get near them.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	um like, it dances.
+*CHI:	and it has, and some have hairdos.
+*CHI:	and they have shoes.
+*CHI:	and tights.
+*CHI:	and tutus.
+*CHI:	and shirts [?].
+*CHI:	and hair.
+*INV:	mm-hm [= yes].
+*CHI:	and hands.
+*CHI:	and stuff.
+*INV:	can you please tell me a little bit more?
+*CHI:	and it dances in ballet class.
+*CHI:	you know I take ballet class.
+*INV:	oh.
+*INV:	neat.
+*CHI:	mm-hm [= yes].
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a butterfly.
+*INV:	what more can you tell me?
+*CHI:	um.
+*CHI:	it flap his wings.
+*CHI:	and some um- some are white.
+*CHI:	some are yellow.
+*CHI:	some um are black.
+*CHI:	some um are black and white.
+*CHI:	and orange.
+*CHI:	and has little dotty [?] things.
+*CHI:	and um.
+*CHI:	and um.
+*CHI:	like first um they turn in, first um they are caterpillars.
+*CHI:	then they live in the cocoon.
+*CHI:	then they come out.
+*CHI:	then um they are- they um are butterflies.
+*INV:	can you please tell me a little bit more?
+*CHI:	and it flies.
+*CHI:	and they [?] come out, And they come out in the summer.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a muffin.
+*INV:	what more can you tell me?
+*CHI:	um like.
+*CHI:	we eat muffins.
+*CHI:	and they're pretty yummy.
+*CHI:	I had a muffin some- um a muffin at my school.
+*INV:	&=nods:yes mm.
+*CHI:	and sometimes it has this on it [= topping].
+*CHI:	and you get &=turns:page.
+*INV:	can you please tell me a little bit more?
+*CHI:	mm.
+*CHI:	and it's yummy.
+*CHI:	and it's made [?].
+*CHI:	some um- some are apple.
+*CHI:	and some- and some are chocolate chip.
+*INV:	hm.
+*INV:	very good.
+*INV:	do you want to look again?
+*CHI:	&=shakes:head no.
+*INV:	no?
+*INV:	okay.
+*INV:	do we want to put Zorg to sleep?
+*CHI:	&=nods:yes.
+*INV:	yeah?
+*INV:	want to put him in his box?
+*INV:	goodnight Zorg.
+*CHI:	&=laughs.
+*INV:	thank you very much.
+*INV:	that was a lot of fun.
+*CHI:	mm.
+*INV:	we'll come back for your shoes.
+*CHI:	okay.
+@End

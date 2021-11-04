@@ -1,0 +1,335 @@
+@UTF8
+@PID:	11312/a-00031995-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;03.30|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Bread
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	<mold yuck> [?].
+*INV:	what more can you tell me?
+*CHI:	you know, I don't know anything about bread.
+*INV:	hm.
+@G:	Turtle
+*INV:	well what is this?
+*CHI:	turtles.
+*CHI:	they use shells &=tries:pull_shirt_off.
+*INV:	what more can you tell me?
+*CHI:	&=removes:sweatshirt.
+*INV:	do you need help?
+*INV:	no you're doin(g) just fine.
+*CHI:	xxx &=runs:couch &=sets:shirt_couch &=runs:back.
+*CHI:	<you think I> [?] can go fast?
+*INV:	mm-hm [= yes].
+*CHI:	yeah real fast.
+*INV:	you've got a fuzzy &=picks:fuzz.
+*CHI:	oh.
+*CHI:	that's (be)cause I cut my hair with scissors [?].
+*INV:	mm yeah yeah.
+*INV:	so what more can you tell me?
+*CHI:	okay.
+*CHI:	turtles, well what what those things?
+*INV:	well what do you think?
+*CHI:	xxx.
+*INV:	oh okay.
+*CHI:	ouch!
+*CHI:	xxx &=walks:heater.
+*INV:	honey can you come sit down?
+*INV:	are you warm is that the problem?
+*INV:	here &=turns:on_air.
+*CHI:	what's that?
+*INV:	it's the air.
+*INV:	it'll make it a little bit colder.
+*INV:	okay so Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um when you take him off your hand he doesn't
+	open &=opens:Zorg_mouth.
+*INV:	yeah but let's not talk about Zorg.
+*INV:	let's +...
+*CHI:	okay.
+*CHI:	they go in their shells when they're cold.
+*INV:	mkay [= okay].
+*CHI:	wait.
+*INV:	mkay [= okay].
+*CHI:	shell's hard.
+*CHI:	hello who's in there &=knocks:on_picture?
+@G:	Duck
+*CHI:	ducks!
+*INV:	what more can you tell me?
+*CHI:	ducks can fly.
+*INV:	mm-hm [= yes].
+*CHI:	yeah.
+*CHI:	and they got beaks for for getting food.
+*INV:	mm-hm [= yes].
+*CHI:	and for eating food out people's hands.
+*INV:	oh okay.
+*CHI:	but we xxx duck at, a park.
+*INV:	mm-hm [= yes].
+@G:	Painter
+*INV:	what is this?
+*CHI:	I don't know.
+*CHI:	painting!
+*INV:	mm what more can you tell me?
+*CHI:	who is she?
+*INV:	well what can you tell me?
+*CHI:	well I don't know.
+*INV:	how (a)bout if you take a guess?
+*INV:	you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know.
+*INV:	you can say whatever you want.
+*CHI:	&=looks:air_conditioner.
+*INV:	that's okay.
+*INV:	do you want me to shut that off?
+*CHI:	&=turns:off_air.
+*INV:	honey come back here and +...
+*CHI:	&=sits:down_at_table.
+*CHI:	I think she's a teacher too.
+*INV:	I, can you say that again?
+*CHI:	I think she's a teacher too.
+*INV:	mm okay.
+*CHI:	or she's a artist (be)cause she's paint.
+*INV:	mm-hm [= yes].
+*CHI:	she's a artist.
+*INV:	oh okay.
+@G:	Ladybug
+*CHI:	ladybugs!
+*CHI:	they're really small.
+*CHI:	I touch them.
+*INV:	mm-hm [= yes].
+*CHI:	and when I touch them they fall.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	well there's a sandbox at our house.
+*INV:	oh okay.
+*CHI:	they got tiny legs.
+*INV:	mm-hm [= yes].
+*CHI:	yeah small legs.
+*INV:	okay.
+@G:	Cheese
+*CHI:	cheese!
+*CHI:	yum.
+*INV:	mm what more can you tell me?
+*CHI:	cheese, that cheese got holes.
+*INV:	mm-hm [= yes].
+*CHI:	um you know I think you should put that thing on your hand again
+	Zorg [?].
+*INV:	okay.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	<no okay> [?].
+*CHI:	hey let's see um.
+*CHI:	hey where's the mouse?
+*CHI:	where's the mouse?
+*INV:	hm.
+*CHI:	look here a cheese is.
+*INV:	mm-hm [= yes].
+@G:	Pirate
+*CHI:	pirate.
+*INV:	ah let's go to this one.
+*INV:	I think we're missing one.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a doctor or something.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	then [?] why she's sick?
+*INV:	I didn't understand what you just said.
+*INV:	can you +...
+*CHI:	ah why she's sick?
+*INV:	I don't know.
+*CHI:	then I don't know about this picture.
+*INV:	well maybe you can tell me?
+*CHI:	well I don't know.
+*INV:	mm.
+*INV:	well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know.
+*INV:	okay well you want to go to another one?
+*CHI:	yeah.
+*CHI:	like the pirate.
+@G:	Pirate
+*INV:	&=laughs.
+*CHI:	I like pirates.
+*INV:	mm.
+*CHI:	treasure!
+*CHI:	pirate!
+*INV:	mm-hm [= yes].
+*CHI:	um what he's holding?
+*INV:	hm what do you think?
+*CHI:	I don't know.
+*INV:	mm.
+*INV:	well what more can you tell me?
+*CHI:	um pirates, I guess pirates are <peg leg> [?].
+*INV:	mm-hm [= yes].
+*CHI:	here &=points:page.
+*INV:	mm.
+*INV:	mm-hm [= yes].
+*CHI:	pirates like these things really, big.
+*INV:	mm-hm [= yes].
+*CHI:	um you know they like treasure.
+*INV:	oh.
+*CHI:	and they wear these things so their heads don't get cold.
+*INV:	mm-hm [= yes].
+*CHI:	we got more pages?
+*INV:	yeah.
+*CHI:	like this is a long one <the book> [?] &=laughs.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	cookie.
+*INV:	what more can you tell me?
+*CHI:	&=pretends:eat_cookie.
+*INV:	&=laughs.
+*CHI:	cookies.
+*CHI:	&=makes:eating_sound &=pretends:sleep.
+*INV:	hey Firstname?
+*INV:	firstname honey let's let's keep looking.
+*INV:	what more can you tell me?
+*CHI:	&=makes:noises.
+*CHI:	cookie.
+*INV:	hey honey once we get through this then we can go back out there and we play some more.
+*CHI:	don't want to.
+*INV:	you don't want to go back out and play more?
+*CHI:	no.
+*INV:	mm.
+*INV:	well what more can you tell me?
+*CHI:	I wanna play a different game.
+*INV:	okay but we have to finish this first.
+*CHI:	okay.
+*CHI:	cookies are crunchy.
+*INV:	mm-hm [= yes].
+*CHI:	and they go sideways and xxx soft dough.
+*INV:	mm-hm [= yes].
+*CHI:	only they got chocolate chips.
+*INV:	mm-hm [= yes].
+*CHI:	and they're real good but sweet too.
+*INV:	mm-hm [= yes].
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	playin(g) in the mud.
+*CHI:	look &=points:spot_pig.
+*INV:	mm.
+*CHI:	pigs make milk for a babies ⌈too &=points:pig⌉.
+*INV:	                            ⌊mm-hm⌋.
+*CHI:	and they go &=snorts.
+*INV:	mm-hm [= yes].
+*CHI:	don't got very big tails.
+*INV:	mm-hm [= yes].
+*CHI:	they got small legs too!
+*INV:	okay.
+@G:	Carrot
+*CHI:	yum.
+*CHI:	I like carrots.
+*INV:	mm.
+*CHI:	bunnies too.
+*INV:	mm.
+*CHI:	we got Easter movie.
+*INV:	mm-hm [= yes].
+*CHI:	and a fire truck movie.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	carrots got a fluffy parts but I don't like the fluffy parts.
+*INV:	mm-hm [= yes].
+*CHI:	I like to eat them that size.
+*CHI:	&=points:picture.
+*INV:	mm-hm [= yes].
+*CHI:	like bunnies.
+*INV:	mm-hm [= yes].
+*CHI:	okay so what other game do you got?
+*INV:	well you're going to have to finish up with me and then we're gonna go see what other games.
+@G:	Baseball Player
+*CHI:	um okay then.
+*CHI:	baseball!
+*INV:	what more can you tell me?
+*CHI:	well baseball gets the baseball and they hit it.
+*INV:	mm-hm [= yes].
+*CHI:	and they wear some hats.
+*INV:	mm-hm [= yes].
+*CHI:	and they get to wear those &=points:picture.
+*INV:	mm-hm [= yes].
+*CHI:	um but they need some things for me to do soccer.
+*CHI:	to put on my hands so they don't get hurt and legs so they don't get hurt.
+*INV:	mm-hm [= yes].
+*CHI:	but we need some &=sighs they don't have it.
+*INV:	mm.
+@G:	Banana
+*CHI:	banana.
+*CHI:	I'm a monkey.
+*CHI:	oo oo ah ah.
+*INV:	well what more can you tell me?
+*CHI:	ba &=points:picture &=pretends:eat_banana &=acts:like_monkey.
+*INV:	well what more can you tell me?
+*CHI:	bananas got skin.
+*CHI:	and they're xxx.
+*INV:	mm-hm [= yes].
+*CHI:	and, what's that?
+*CHI:	&=points:picture.
+*CHI:	xxx.
+*INV:	hm you know I'm not really sure.
+*INV:	what do you think.
+*CHI:	um just a little lump.
+@G:	Dog
+*CHI:	dog.
+*CHI:	                       ⌈ hm⌉.
+*INV:	what more can you tell ⌊me⌋?
+*CHI:	dogs go woof woof woof.
+*INV:	mm-hm [= yes].
+*CHI:	they're real frisky.
+*INV:	mm.
+*CHI:	they got noses just like those.
+*CHI:	&=points:page.
+*INV:	mm-hm [= yes].
+*CHI:	but sometimes they woof louder.
+*CHI:	woof woof woof!
+*INV:	well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=sighs I don't like doing this.
+*INV:	okay well we're almost done.
+*INV:	I think we only have one more.
+*INV:	maybe two.
+@G:	Baby
+*INV:	nope only one.
+*CHI:	baby!
+*INV:	what more can you tell me?
+*CHI:	babies ah, I like babies.
+*INV:	mm-hm [= yes].
+*CHI:	and they, huh my seat &=slides:off_chair.
+*INV:	yeah.
+*CHI:	it's too far away.
+*INV:	well why don't we push it in?
+*INV:	you wanna get up?
+*INV:	here we go.
+*INV:	so what more can you tell me?
+*CHI:	&=rotates:book.
+*CHI:	this is the way you gotta do it <way you're supposed to turn the
+	book> [?].
+*CHI:	this is, if we do it this way then we don't see it the right way.
+*INV:	hm.
+*CHI:	hey it's standing up <the baby, looks that way because the way book
+	is turned> [?].
+*CHI:	babies go wa.
+*INV:	mm-hm [= yes].
+*CHI:	and they got, ow &=hurts:finger!
+*INV:	you okay?
+*CHI:	yeah.
+*CHI:	and they're really small.
+*CHI:	smaller than a mouse.
+*INV:	mm-hm [= yes].
+*CHI:	no mouse is smaller than them.
+*INV:	hm.
+*CHI:	and they go on trips and they sleep and they drink bottles.
+@Comment:	no pictures visible
+*CHI:	no other page.
+*INV:	nope.
+*CHI:	so now can we play another game?
+*INV:	yeah are you sure you don't want to go through any again?
+*CHI:	no.
+*INV:	alrighty.
+@End

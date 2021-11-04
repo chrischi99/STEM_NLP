@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/a-00032005-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.20|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Cheese
+@Types:	cross, narrative, TD
+*CHI:	a cheese.
+*MOT:	what color is that cheese?
+*CHI:	yellow.
+*MOT:	yellow.
+@G:	Doctor
+*CHI:	and people going to having doctor.
+*MOT:	doctor that's right!
+*MOT:	do you remember when you went to the doctor?
+*CHI:	yeah okay ⌈let's⌉ +...
+*MOT:	what is the girl ⌊doing⌋?
+*CHI:	she's taking a entrance [?] &=turns:page.
+*MOT:	look her arm is hurting &=turns:back.
+*MOT:	see she's got a hurting arm.
+@G:	Pirate
+*CHI:	a treasure ⌈ hunt⌉.
+*MOT:	a          ⌊treasure⌋.
+*MOT:	do you know what that is?
+*MOT:	remember what Garfield dressed up for for Halloween?
+*CHI:	yeah he dressed up like a pirate.
+*MOT:	who's that?
+*CHI:	a pirate.
+*MOT:	a pirate.
+@G:	Ladybug
+*CHI:	a bug.
+*MOT:	and what kind of bug is it?
+*CHI:	it's a ladybug.
+*MOT:	a ladybug.
+@G:	Duck
+*CHI:	a duck.
+*MOT:	a duck.
+*MOT:	and what does the duck say?
+*CHI:	quack quack.
+@G:	Baby
+*CHI:	baby.
+*MOT:	yeah.
+*MOT:	and what's the baby doing?
+*CHI:	okay.
+*CHI:	he's playing with his toys.
+*MOT:	yeah.
+@G:	Pig
+*CHI:	a pig.
+*MOT:	and the sound that the pig makes?
+*CHI:	&=snorts.
+*MOT:	&=snorts.
+*MOT:	that's right.
+*CHI:	&=turns:page [= skips page].
+@G:	Banana
+*CHI:	a bana +...
+@G:	Carrot
+*MOT:	oh wait a minute we missed one.
+*CHI:	a carrot.
+*MOT:	and what do you do with a carrot?
+*CHI:	eat it.
+*CHI:	and and rabbits eat it.
+@G:	Banana
+*CHI:	a banana.
+*MOT:	mm-hm [?].
+@G:	Dog
+*CHI:	a dog.
+*CHI:	ruff ruff.
+*MOT:	ruff ruff.
+@G:	Turtle
+*CHI:	turtle.
+*MOT:	turtle.
+@G:	Cookie
+*MOT:	okay.
+*CHI:	a cookie.
+*MOT:	oh yum.
+*CHI:	yummy cookie.
+*CHI:	                      ⌈xxx⌉.
+*MOT:	we make cookies don't ⌊we⌋?
+@G:	Painter
+*CHI:	and that's a painting.
+*MOT:	that is a painting.
+*MOT:	the lady's painting it isn't she?
+@G:	Baseball Player
+*CHI:	a baseball.
+*MOT:	did you play baseball yesterday with Firstname?
+*CHI:	yes.
+*MOT:	yeah?
+@G:	Bread
+*CHI:	a bread.
+*MOT:	a bread.
+*CHI:	and the end.
+*MOT:	and the end.
+*CHI:	well that was great.
+*MOT:	was that a good book?
+*CHI:	yeah.
+*CHI:	I wonder when the when the girl's gonna bring the, we should get it
+	uh that's the end.
+*CHI:	I wonder when when the girl's gonna bring the game.
+*MOT:	I don't know.
+*MOT:	why don't you go knock on the window.
+@End

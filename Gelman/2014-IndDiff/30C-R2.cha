@@ -1,0 +1,260 @@
+@UTF8
+@PID:	11312/a-00032145-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|||||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Baseball Player
+@Types:	cross, narrative, TD
+*INV:	oops .
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	mm, go ahead and take a guess.
+*CHI:	a bat.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	I only know one thing about it.
+*INV:	hm?
+*CHI:	you hit the ball.
+*INV:	ah you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know, anything else.
+*INV:	you can say whatever you want.
+*INV:	whatever you think of.
+*CHI:	I don't know anything else though.
+*CHI:	I don't know anything else.
+*INV:	anything?
+*CHI:	no.
+*INV:	mm, okay.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	a ladybug.
+*INV:	what more can you tell me?
+*CHI:	it crawls.
+*INV:	mm.
+*CHI:	it eats leaves.
+*INV:	mm-hm [= yes].
+*CHI:	babies come out of it.
+*INV:	mm.
+*CHI:	and it flies.
+*INV:	mm.
+*CHI:	that's all I know about it.
+*INV:	anything else you want to say?
+*CHI:	no.
+*INV:	okay.
+@G:	Duck
+*INV:	what is this?
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	it swims.
+*INV:	mm-hm [= yes].
+*CHI:	and it flies.
+*INV:	mm.
+*CHI:	that's all I know about it.
+*INV:	you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I want but I want to turn the page now.
+*INV:	okay.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a doctor.
+*INV:	what more can you tell me?
+*CHI:	he checks people.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know.
+*INV:	well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I wanna xxx turn the page.
+*INV:	mm hold on.
+*INV:	hold on.
+*INV:	let's slow down a little bit okay?
+*CHI:	okay.
+*INV:	okay, hm.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	a pirate.
+*INV:	mm, what more can you tell me?
+*CHI:	it has a sword.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know.
+*INV:	mm, well what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I I don't know anything else though.
+*INV:	can you tell Zorg anything?
+*CHI:	I don't know anything else though.
+*INV:	mm, Firstname it's okay.
+*INV:	you can say whatever you think of.
+*CHI:	but I'm ready to turn the page.
+*INV:	how about if I turn the pages?
+*CHI:	okay.
+*INV:	okay.
+*INV:	can you tell me anything else?
+*CHI:	no.
+*CHI:	I don't know anything else.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know.
+*INV:	what else can you tell me?
+*CHI:	I don't know anything else though.
+*INV:	you can't think of anything?
+*CHI:	no just one more thing.
+*INV:	hm?
+*CHI:	you dip it in carrot dip.
+*INV:	oh.
+*INV:	very, very good.
+*CHI:	that's all I know.
+*INV:	okay, you wanna turn the next page?
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	mm-hm [= yes].
+*CHI:	you hold it.
+*INV:	what more can you tell me?
+*CHI:	I don't know anything else.
+*INV:	what else can you tell me?
+*CHI:	but I don't know anything else.
+*CHI:	I, I only know two things about it.
+*INV:	hm?
+*CHI:	I only know two things.
+*INV:	okay.
+*INV:	tell me.
+*CHI:	I don't know anything else though.
+*INV:	well what were you gonna say?
+*CHI:	nothin(g).
+*INV:	you said what?
+*CHI:	I only know two things and I said the two things already.
+*INV:	what did you say?
+*CHI:	I just said said you hold it.
+*INV:	mm-hm [= yes].
+*CHI:	and, and you, I don't remember the other thing.
+*INV:	oh.
+*INV:	can you can you okay.
+@G:	Banana
+*INV:	can you talk a little bit more?
+*CHI:	no.
+*INV:	please.
+*INV:	what is this?
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know.
+*INV:	please tell me a little bit more.
+*CHI:	no.
+*CHI:	I only know one thing.
+*INV:	okay.
+*CHI:	of it.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	a cheese.
+*INV:	what else can you tell me?
+*CHI:	you eat it.
+*INV:	mm-hm [= yes].
+*INV:	tell me a little bit more.
+*CHI:	you buy it at the store.
+*INV:	okay.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what else can you tell me?
+*CHI:	it plays in the mud.
+*INV:	mm-hm [= yes], tell me a little bit more.
+*CHI:	I just know one thing of it.
+*INV:	can you please tell me more?
+*CHI:	no.
+*CHI:	I'm ready to turn the page.
+*INV:	there's nothing else you can think of?
+*CHI:	no.
+*INV:	okay.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	a turtle.
+*INV:	what more can you tell me?
+*CHI:	it swims in the water.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know.
+*CHI:	I only know one thing.
+*CHI:	I only know one thing.
+*INV:	anything else you can tell me?
+*CHI:	no.
+*INV:	how, about if we play the game outside again if you tell me a little bit more?
+*INV:	can we do that?
+*CHI:	what game?
+*INV:	the game we just played.
+*INV:	we can play that again if you can.
+*CHI:	I'm ready I'm ready to turn the page.
+*INV:	there's nothing else you want to tell me?
+*CHI:	no.
+*INV:	okay go ahead and turn the page.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what else can you tell me?
+*CHI:	you eat it.
+*INV:	mm-hm [= yes].
+*INV:	tell me a little bit more.
+*CHI:	you buy it at the store.
+*INV:	okay.
+*CHI:	and you put butter on it.
+*INV:	mm.
+*INV:	very good.
+*CHI:	it comes in a bag.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know.
+*INV:	okay.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a dog.
+*INV:	mm what more can you tell me?
+*CHI:	um, it, it eats bones.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know.
+*INV:	can you please tell me a little bit more?
+*CHI:	no.
+*INV:	please.
+*CHI:	I don't know anything else though.
+*INV:	okay.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	a cookie.
+*INV:	what else can you tell me?
+*CHI:	you eat it.
+*INV:	mm-hm [= yes].
+*CHI:	I don't know anything else.
+*INV:	can you tell me a little bit more please?
+*CHI:	I don't know anything else though.
+*INV:	oh I'm sure you do.
+*CHI:	no I don't.
+*INV:	no?
+*INV:	there's nothing else?
+*CHI:	no.
+*CHI:	no.
+*INV:	okay.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a tree.
+*INV:	what more can you tell me?
+*CHI:	she's making one on paper.
+*INV:	mm-hm [= yes].
+*INV:	tell me more.
+*CHI:	I don't know anything else.
+*INV:	firstname you can say whatever comes to mind.
+*INV:	whatever you think of.
+*CHI:	I don't, but I I'm done reading this.
+*INV:	are you done?
+*CHI:	yeah.
+*CHI:	yeah.
+*INV:	okay.
+*INV:	you don't want to look again?
+*CHI:	no.
+*INV:	alright.
+*INV:	do you want to put Zorg back into his box?
+*CHI:	yeah.
+*INV:	alrighty.
+@End

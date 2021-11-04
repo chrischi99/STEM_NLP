@@ -1,0 +1,324 @@
+@UTF8
+@PID:	11312/a-00032036-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.26|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Baseball Player
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	play baseball.
+*INV:	what more can you tell me?
+*CHI:	I don't know about that.
+*INV:	oh.
+*INV:	well do you maybe wanna guess or, tell me what you do know?
+*CHI:	<I wanna see the next> [?] page.
+*INV:	okay.
+@G:	Bread
+*CHI:	bread.
+*CHI:	to eat.
+*CHI:	bread to eat.
+*INV:	&=nods:yes what more can you tell me?
+*CHI:	put it in toasters.
+*INV:	mm-hm [= yes].
+*CHI:	cut it.
+*CHI:	make macaroni and cheese with it.
+*INV:	okay.
+*CHI:	and make sandwiches.
+*INV:	mm.
+*CHI:	<let's flip> [?] the page.
+*CHI:	oh.
+@G:	Painter
+*INV:	what is this?
+*CHI:	painting.
+*INV:	what more can you tell me?
+*CHI:	you paint uh trees, uh waterslides birds hey that's what I have.
+*CHI:	robins.
+*CHI:	and numbers.
+*INV:	mm-hm [= yes].
+*CHI:	xxx.
+*CHI:	&=tries:flip_page.
+*INV:	hold on.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=shrugs.
+*CHI:	I don't know about that [?].
+*CHI:	wait, &=pointing:wall_panels blue red blue red blue, blue, red.
+*CHI:	no more blues.
+*CHI:	&=pointing:door brown.
+*INV:	yeah.
+*CHI:	&=pointing:wall and white.
+*CHI:	&=pointing:wall_panel pink.
+*CHI:	&=laughs just kidding.
+*CHI:	it's not pink.
+*CHI:	that's blue.
+@G:	Ladybug
+*INV:	what is ⌈this⌉?
+*CHI:	        ⌊ladybug⌋.
+*CHI:	crawl &=making:crawling_motions_with_arms.
+*INV:	⌈what⌉ +...
+*CHI:	⌊and⌋, crawl on you.
+*INV:	mm-hm [= yes].
+*CHI:	and, bite.
+*INV:	mm-hm [= yes] &=nods:yes.
+*CHI:	and actually they be nice nice.
+*CHI:	if you be nice they'll lick you.
+*INV:	mm.
+*CHI:	<oh I remember> [?] tiger.
+*CHI:	so cute.
+*CHI:	he's in our neighborhood he lives next door with Firstname and Firstname.
+*INV:	mm okay.
+*CHI:	he's cute.
+*INV:	well what more can you tell me?
+*CHI:	oh I would name him Tiger too but &=laughs he's he's not tiger.
+*INV:	mm-hm [= yes].
+*INV:	well what more can you tell me?
+*INV:	anything else?
+*CHI:	they're small.
+*INV:	mm-hm [= yes].
+*CHI:	they tickle you.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	she plays.
+*CHI:	and make bubbles.
+*INV:	mm-hm [= yes].
+*CHI:	and, wait I can make bubbles.
+*INV:	&=laughs.
+*CHI:	I know &=laughs.
+*CHI:	look at those [= talking to stuffed bird].
+*CHI:	peep peep ⌈peep [= bird noises]⌉.
+*INV:	zorg doesn't know much about this ⌊one⌋.
+*INV:	can you help him out?
+*CHI:	this guy &=pointing:to_Zorg?
+*INV:	mm-hm [= yes].
+*CHI:	okay.
+*CHI:	uh, she drinks bottles of milk.
+*INV:	mm-hm [= yes].
+*CHI:	I love milk &=makes:slurping_noises.
+*INV:	&=laughs.
+@G:	Cheese
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	mouse eat cheese and make holes.
+*INV:	mm-hm [= yes].
+*CHI:	uh.
+*CHI:	get groceries from cheese.
+*INV:	mm-hm [= yes].
+*CHI:	and, you eat cheese.
+*CHI:	birds eat cheese.
+*CHI:	&=makes:eating_noises &=puts:bird_to_cheese_picture.
+*INV:	&=laughs.
+*CHI:	um, mouse eat cheese.
+*INV:	mm-hm [= yes].
+*CHI:	that's it.
+@G:	Cookie
+*CHI:	        ⌈cookie⌉.
+*INV:	what is ⌊this⌋?
+*CHI:	a cookie &=makes:eating_noises.
+*INV:	what more can you tell me?
+*CHI:	you crunch loud.
+*INV:	mm-hm [= yes].
+*CHI:	birds eat it &=makes:eating_noises_for_toy.
+*INV:	&=laughs.
+*INV:	zorg ⌈doesn't know much about this one⌉.
+*CHI:	     ⌊a⌋ +...
+*INV:	can you help him out?
+*CHI:	&=makes:toy_eat &=makes:eating_noises.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	xxx this [?] bird.
+*INV:	yeah.
+*CHI:	gup gup gup gup &=plays:with_toy.
+*CHI:	I think he's a little mad [?] &=puts:toy_behind_back.
+*INV:	hm.
+*CHI:	uh.
+*CHI:	I don't know.
+*INV:	mkay [= okay].
+*CHI:	I was just tryin(g) to sneeze.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	I I wanted to sneeze.
+*INV:	do you want me to get you a Kleenex?
+@G:	Duck
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	I have a duck &=gets:toy_back_out.
+*CHI:	Roo [= duck noise].
+*CHI:	it's not a duck.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	it's a bird.
+*INV:	mm-hm [= yes].
+*CHI:	um they swim &=makes:noises &=swimming:gestures.
+*INV:	mm-hm [= yes].
+*CHI:	they make splash.
+*CHI:	um, they eat.
+*INV:	mm-hm [= yes].
+*CHI:	they, they poop.
+*INV:	&=laughs.
+*CHI:	um, they it's they fly &=flapping.
+*INV:	mm-hm [= yes].
+*CHI:	they it's your, they um, stand.
+*INV:	mm-hm [= yes].
+*CHI:	they um I already said that.
+*INV:	&=laughs.
+*CHI:	Kay [?].
+@G:	Puppy
+*CHI:	&=gasps aw!
+*CHI:	I like that puppy.
+*CHI:	he's cute.
+*INV:	what more can you tell me?
+*CHI:	di di di di &=gets:toy_back_out.
+*CHI:	dogs eat and drink.
+*INV:	mm-hm [= yes].
+*CHI:	and play.
+*CHI:	and go outside in the summer.
+*CHI:	and play tag with me.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	I know my dog xxx [= pet name] died.
+*INV:	mm.
+*CHI:	maybe [?] I'll get a new puppy.
+*INV:	mm-hm [= yes].
+*CHI:	and will be <I will be> [?] on the bed.
+*INV:	mm.
+*CHI:	firstname really really misses xxx [= pet name].
+*CHI:	wait, what is our girl dog gonna be?
+*CHI:	a boy or a girl?
+*CHI:	oh I remember a girl.
+*CHI:	oh, they bite and they lick.
+*INV:	mm-hm [= yes].
+*CHI:	they have nails.
+*INV:	mm-hm [= yes].
+*CHI:	they sniff &=makes:sniffing_noises.
+*CHI:	they wag their tail.
+*INV:	mm-hm [= yes].
+*CHI:	they they pet them.
+*INV:	mm-hm [= yes].
+*CHI:	um they itch their nose &=scratches:nose.
+*CHI:	they they itch their ears &=scratches:ears.
+*INV:	&=laughs.
+*CHI:	um.
+*CHI:	wait I already said that.
+*INV:	&=laughs.
+@G:	Carrot
+*CHI:	carrot.
+*INV:	what more can ⌈you⌉ +...
+*CHI:	              ⌊rabbits⌋, eat carrots.
+*CHI:	and you make snowmans with carrots.
+*CHI:	bunnies eat carrots wait I already said that.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	uh, I don't know anything else.
+*CHI:	oh wait, crocodiles eat carrots.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	uh xxx eat carrots.
+*INV:	mm-hm [= yes].
+*CHI:	&=whispers let's turn the page.
+*CHI:	&=turns:page_back.
+*CHI:	oh let's not turn the page.
+@G:	Doctor
+*INV:	oh.
+*INV:	well what is this?
+*CHI:	&=shrugs  I don't know.
+*INV:	can you take a guess?
+*CHI:	&=shrugs I can't think what it is.
+*INV:	hm.
+*CHI:	let me think.
+*CHI:	no I don't know.
+*INV:	&=laughs.
+*CHI:	I don't know my xxx.
+*INV:	well what can you tell me?
+*CHI:	probably you think.
+*INV:	mm.
+*INV:	well what can you tell me?
+*CHI:	&=shrugs I don't know what it's about.
+*CHI:	probably xxx.
+*INV:	can you say ⌈that again⌉?
+@G:	Banana
+*CHI:	            ⌊oh⌋ I ate a banana l today but we have bananas in the car.
+*INV:	mm-hm [= yes].
+*CHI:	I'm hungry.
+*INV:	hm.
+*CHI:	&=sighs.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	mm-hm [= yes].
+*CHI:	I'm tired.
+*CHI:	let's go to sleep &=makes:snoring_noises.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	I'm tired of reading book.
+*INV:	yeah [?] just a few more.
+*CHI:	let's <turn this page> [?].
+@G:	Pig
+*INV:	what is this?
+*CHI:	oh pigs roll in mud.
+*INV:	what more can you tell me?
+*CHI:	they eat hay, ⌈just like horses⌉.
+*INV:	              ⌊mm-hm⌋.
+*INV:	mm-hm [= yes].
+*CHI:	uh they go in barns.
+*INV:	mm-hm [= yes].
+*CHI:	they pee.
+*INV:	&=laughs.
+*INV:	mm-⌈hm [= yes]⌉.
+*CHI:	they ⌊poop⌋.
+*INV:	mm-hm [= yes].
+*CHI:	um, they stretch.
+*CHI:	just like my dad.
+*INV:	mm.
+*CHI:	they sit in chairs.
+*CHI:	they, make oink sounds.
+*CHI:	oink oink oink.
+*INV:	&=laughs.
+*CHI:	um, they itch their ears &=scratches:ears.
+*INV:	mm-hm [= yes].
+*CHI:	they have cheeks.
+*CHI:	and that's all.
+*CHI:	&=turns:page.
+*CHI:	let's play that game again that ⌈xxx play⌉.
+@G:	Pirate
+*INV:	what is                         ⌊this⌋?
+*CHI:	treasure.
+*INV:	what more can you tell me?
+*CHI:	uh, you find treasure.
+*CHI:	there's quarters in treasure.
+*INV:	mm-hm [= yes].
+*CHI:	and, dollars.
+*CHI:	um you have a key in it.
+*CHI:	there's jewelry in it.
+*INV:	mm-hm [= yes].
+*CHI:	um, it's a treasure chest.
+*CHI:	let's do the <last page> [?].
+*CHI:	there's one more page left.
+@G:	Turtle
+*CHI:	(o)kay.
+*CHI:	turtles walk.
+*CHI:	they sneak up in um those
+	&=points:picture, whatever they're called.
+*CHI:	and they um, also crawl, in the sand and they crawl up in the shell.
+*CHI:	that's what I think.
+*CHI:	<now the other page> [?].
+*INV:	what more can you tell me?
+*CHI:	mm, they don't have any ears.
+*INV:	                              ⌈mm⌉.
+*CHI:	I know turtles don't have any ⌊ears⌋.
+*INV:	mm-hm [= yes].
+*CHI:	and that's all.
+*CHI:	all done.
+*INV:	all done.
+*INV:	do you wanna look again?
+*CHI:	uh no let's play the other game that we just played.
+*INV:	oh.
+*CHI:	I like it.
+*INV:	well let's put Zorg back to sleep.
+*CHI:	okay.
+@End

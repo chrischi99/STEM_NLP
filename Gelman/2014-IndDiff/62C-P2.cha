@@ -1,0 +1,292 @@
+@UTF8
+@PID:	11312/a-00032335-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.27|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Ladybug
+@Types:	cross, narrative, TD
+*CHI:	ladybug.
+*MOT:	oh wow.
+*MOT:	is it a girl ladybug or a boy ladybug?
+*CHI:	uh, I think it's, a boy.
+*MOT:	think so?
+*CHI:	yeah.
+*CHI:	boy.
+@G:	Cheese
+*CHI:	cheese.
+*MOT:	wow!
+*MOT:	who likes cheese?
+*CHI:	mouse.
+*MOT:	mice like cheese.
+*MOT:	that's right.
+*MOT:	what kind of cheese is that, do you know?
+*CHI:	uh.
+*MOT:	it has a special name but you probably don't know what it is because you haven't eaten any.
+*MOT:	it's called Swiss cheese.
+*CHI:	swiss cheese.
+*MOT:	it comes from Switzerland.
+*CHI:	Switzerland.
+*MOT:	yeah you know where that is.
+*CHI:	Switzerland.
+@G:	Carrot
+*MOT:	okay.
+*CHI:	carrot.
+*MOT:	wow.
+*CHI:	carrot.
+*MOT:	who likes carrots?
+*CHI:	rabbits.
+*MOT:	rabbits.
+*MOT:	we have rabbits don't we?
+*CHI:	yeah can we give them some carrots?
+*MOT:	that's a good idea.
+*MOT:	maybe when we get home.
+*MOT:	do you know what they like on the carrot?
+*CHI:	what?
+*MOT:	they like this part but they also like that part.
+*MOT:	why do you think they like that part?
+*MOT:	because +...
+*CHI:	why?
+*MOT:	because it reminds them of salad.
+*MOT:	and they like our salad when we give them salad, right?
+*CHI:	yeah.
+@G:	Puppy
+*MOT:	aw what's that?
+*CHI:	puppy.
+*MOT:	oh.
+*CHI:	brown puppy.
+*MOT:	a brown puppy that's right.
+*MOT:	he looks very sweet doesn't he?
+*CHI:	yeah.
+@G:	Duck
+*CHI:	duck.
+*MOT:	hey hey where where have you seen ducks?
+*MOT:	where do we have ducks?
+*MOT:	where have you seen a duck?
+*CHI:	xxx [= whispers].
+*MOT:	in a river.
+*MOT:	you can say the words out loud.
+*MOT:	in a river.
+*CHI:	                                  ⌈river⌉.
+*MOT:	and do we have any ducks near our ⌊house⌋?
+*CHI:	&=nods:yes.
+*MOT:	where?
+*CHI:	xxx [= whispers].
+*MOT:	say say it louder.
+*CHI:	geese.
+*MOT:	&=laughs geese that's right.
+*MOT:	next to the geese in our pond out back.
+*MOT:	that's right.
+@G:	Banana
+*CHI:	banana.
+*MOT:	banana.
+*MOT:	who likes bananas?
+*CHI:	monkeys.
+*MOT:	monkeys and who else?
+*CHI:	&=points:self.
+*MOT:	you do that's right.
+*MOT:	and who else likes bananas?
+*CHI:	xxx [= whispers].
+*MOT:	that's right.
+*MOT:	you can say his name louder.
+*CHI:	firstname.
+*MOT:	your brother Firstname that's right.
+*MOT:	how many bananas can he eat?
+*CHI:	xxx [= whispers].
+*MOT:	a lot.
+*CHI:	                               ⌈lots⌉.
+*MOT:	remember one time he ate three ⌊bananas⌋?
+*CHI:	yep.
+@G:	Baseball Player
+*MOT:	what's he doin(g)?
+*CHI:	playin(g) baseball maybe.
+*MOT:	playin(g) baseball maybe.
+*MOT:	do you like to play baseball?
+*CHI:	I just swing it.
+*MOT:	that's right.
+*MOT:	you're really good at it too aren't you?
+*MOT:	sometimes you hit it when it's on, that's right.
+*CHI:	sometimes I hit it like this &=demonstrates.
+*MOT:	that's right you hit it um, just like that.
+*MOT:	and you do that in the basement with who?
+*CHI:	&=whispers daddy.
+*MOT:	with Daddy.
+*MOT:	you gotta say it louder words louder honey.
+*MOT:	⌈they can't hear (th)em⌉.
+*CHI:	⌊daddy⌋.
+@G:	Bread
+*MOT:	that's right.
+*MOT:	what's that?
+*CHI:	bread.
+*MOT:	bread.
+*MOT:	do you like bread?
+*CHI:	&=shakes:head_no.
+*MOT:	not really?
+*MOT:	you don't really like ⌈sandwiches do you⌉?
+*CHI:	                      ⌊pan⌋, pan.
+*MOT:	pan that's right.
+*MOT:	you remembered your Spanish word for bread.
+*MOT:	good job.
+@G:	Baby
+*MOT:	aw +...
+*CHI:	baby.
+*MOT:	that's a baby.
+*MOT:	who does that baby look like?
+*CHI:	                       ⌈who⌉?
+*MOT:	maybe Miss Firstname's ⌊baby⌋.
+*MOT:	doesn't it?
+*CHI:	yeah.
+*MOT:	yeah.
+*MOT:	does the baby look, what is the baby doing?
+*MOT:	how does the baby look?
+*MOT:	does the baby look sad maybe?
+*MOT:	or ⌈hap⌉ +...
+*CHI:	   ⌊happy⌋.
+*MOT:	happy.
+@G:	Doctor
+*MOT:	what's that?
+*MOT:	what's goin(g) on there?
+*CHI:	her mom is putting her to bed.
+*MOT:	oh yeah.
+*MOT:	but what's around her mom's neck?
+*CHI:	uh, &=whispers a doctor.
+*MOT:	she does look like a doctor doesn't she?
+*MOT:	well if she's a doctor and she's in the bed what's goin(g) on?
+*MOT:	what's goin(g) on there?
+*CHI:	where's her mom?
+*MOT:	I don't know.
+*MOT:	maybe her mom's in the room too.
+*MOT:	but you know what?
+*MOT:	what's on her arm?
+*CHI:	uh, what?
+*MOT:	what is that?
+*MOT:	do you, have you seen one of those before?
+*CHI:	a a bandage.
+*MOT:	it does look like a bandage or maybe a cast.
+*MOT:	maybe she hurt her arm.
+*MOT:	and maybe what would the doctor be doing if she hurt her arm?
+*CHI:	making it feel better.
+*MOT:	that's right.
+*MOT:	I bet you're right.
+*MOT:	and maybe she's in the bed.
+*MOT:	and her the doctor's taking good care of her.
+*MOT:	to help her make her arm get better.
+*MOT:	great job.
+@G:	Pig
+*MOT:	what's that?
+*CHI:	&=snorts.
+*MOT:	&=laughs what is it?
+*CHI:	&=snorts pig.
+*MOT:	pig that's right.
+*MOT:	do you think it's a mommy pig?
+*CHI:	yep.
+*MOT:	I bet so too.
+*MOT:	you know why?
+*MOT:	look at the bottom there.
+*MOT:	that's where all the baby pigs get their milk.
+*MOT:	I bet it's a mommy pig.
+@G:	Turtle
+*MOT:	what's that?
+*MOT:	you know what that is silly goose.
+*CHI:	turtle.
+*MOT:	turtle.
+*MOT:	do turtles move fast or do turtles move slow?
+*CHI:	slow.
+*MOT:	slow.
+*MOT:	that ones pretty.
+*MOT:	look it has red on it too.
+*CHI:	yeah.
+*MOT:	your nose itch?
+*CHI:	&=shakes:head_no.
+*MOT:	no?
+@G:	Cookie
+*MOT:	what's that?
+*CHI:	cookie.
+*MOT:	that looks like it might be +...
+*MOT:	are you hungry for cookies?
+*MOT:	do you like cookies?
+*MOT:	what's your favorite kind of cookie?
+*CHI:	xxx [= whispers].
+*MOT:	you have to speak up because I can't hear you.
+*CHI:	chocolate.
+*MOT:	chocolate cookies.
+*MOT:	do you like to help me make cookies?
+*CHI:	I'll tell you.
+*MOT:	tell me.
+*CHI:	&=whispers:loudly yes.
+*MOT:	yes you like to help me make cookies.
+*CHI:	&=pokes:MOT_nose honk honk.
+*MOT:	honk honk.
+*MOT:	okay let's look at some more pictures.
+@G:	Painter
+*MOT:	&=gasps wow.
+*MOT:	what is she doing?
+*CHI:	draw- maybe drawing a picture.
+*MOT:	what is she drawing a picture of?
+*CHI:	a tree.
+*MOT:	yeah.
+*MOT:	do you see that she's looking at this picture first?
+*MOT:	and then she's drawing a picture of the picture?
+*CHI:	I think ⌈so⌉.
+*MOT:	think   ⌊so⌋.
+*MOT:	she has something on called a smock.
+*MOT:	and that protects her clothes.
+*MOT:	so she doesn't get paint on her shirt.
+*CHI:	yep.
+*MOT:	yep.
+@G:	Pirate
+*MOT:	oh what's that?
+*CHI:	&=whispers captain.
+*MOT:	a captain.
+*MOT:	it does look like a captain from the Wiggles doesn't it?
+*MOT:	he's called a pirate.
+*CHI:	a pirate.
+*MOT:	what's on his shoulder?
+*CHI:	bird.
+*MOT:	what kind of bird?
+*MOT:	do you remember?
+*MOT:	do you remember when you went to Mister Firstname's house and he had
+	a, he had a bird?
+*MOT:	and it was loud?
+*MOT:	do you remember what it's called?
+*CHI:	what?
+*MOT:	a parrot.
+*CHI:	parrot.
+*MOT:	yep.
+*CHI:	parrot.
+*MOT:	a parrot +...
+*MOT:	what do parrots say?
+*MOT:	do you remember how, what kind of sound they make?
+*CHI:	what?
+*MOT:	&=makes:bird_noises.
+*CHI:	&=makes:bird_noises.
+*MOT:	yep just like that.
+*MOT:	okay.
+*MOT:	                  ⌈was that fun⌉?
+*CHI:	all done &=closes:⌊book⌋.
+*MOT:	did you have a favorite picture in here?
+*MOT:	which one was your favorite &=flips:pages?
+@G:	Cookie
+*CHI:	uh I like the cookie one page.
+@G:	Baby
+*CHI:	and, and that.
+*MOT:	you liked the baby?
+@G:	Banana
+*CHI:	and that.
+*MOT:	and the banana?
+*MOT:	yeah.
+@G:	Ladybug
+*MOT:	the cookie and the banana?
+*MOT:	were those your favorite?
+*CHI:	&=nods:yes.
+*MOT:	yeah.
+*CHI:	and the baby.
+*MOT:	and the baby.
+@G:	Pig
+*CHI:	and the pig.
+*MOT:	and the pig.
+*MOT:	okay let's go out.
+*MOT:	let's go see Miss Firstname.
+@End

@@ -1,0 +1,219 @@
+@UTF8
+@PID:	11312/a-00032390-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.11|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pineapple
+@Types:	cross, narrative, TD
+*INV:	        ⌈what is this⌉?
+*CHI:	this is ⌊pineapple⌋.
+*CHI:	and, you can eat it.
+*CHI:	and, it's a and it's a fruit.
+*CHI:	and it's very good.
+*INV:	what else can you tell me?
+*CHI:	um, and it's yellow.
+*INV:	mm-hm [= filler], okay.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	it looks like it has salt on it.
+*INV:	mm-hm [= filler].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, I don't know any more about it.
+*INV:	okay.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a girl.
+*INV:	what more can you tell me?
+*CHI:	um, I don't know.
+*INV:	you can tell me anything you'd like to.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	a skunk.
+*INV:	what more can you tell me?
+*CHI:	if you get too close and bother it, it will spray stinky stuff at you.
+*INV:	tell me more.
+*CHI:	like ah &=makes:spraying_noise.
+*INV:	anything else?
+*CHI:	&=shakes:head_no.
+*INV:	okay.
+@G:	Ice Cream
+*CHI:	⌈ice cream⌉!
+*INV:	⌊whoops⌋ [= skipped page].
+@G:	Butterfly
+*INV:	what is.
+*CHI:	butterfly.
+*INV:	oh.
+*INV:	what more can you tell me?
+*CHI:	it flies.
+*INV:	tell me more.
+*CHI:	I know two people who love butterflies.
+*INV:	mm.
+*INV:	anything else you wanna tell Zorg?
+*CHI:	&=turns:page.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	&=pretends:eat ice cream.
+*INV:	what else can you tell me?
+*CHI:	I made snow ice cream before.
+*INV:	mm.
+*CHI:	all you have to do is get a cone, and then we just put some snow on it.
+*INV:	mm, tell me a little bit more.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	a racecar.
+*INV:	mm, what more can +...
+*CHI:	and it's a football game.
+*INV:	oh.
+*CHI:	with a racecar hat.
+*CHI:	see that guy drove it there.
+*INV:	oh.
+*INV:	tell me more.
+*INV:	please?
+*CHI:	I don't know more about the racecar.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	parrot.
+*INV:	what more can you tell me?
+*INV:	are you okay?
+*CHI:	yeah.
+*INV:	do you wanna take a quick break?
+*CHI:	mm-hm [= yes].
+*INV:	okay let's take a break.
+*INV:	alright so better?
+*INV:	that's my puppet friend Zorg.
+*INV:	he's going to look at a picture book with us.
+*INV:	is that still ⌈alright⌉?
+*CHI:	this          ⌊time⌋.
+*CHI:	this time, I'll I'll ask the questions with Zorg.
+*INV:	oh, well okay.
+*INV:	how (a)bout if I ask the questions, first and then later you can ask questions.
+*INV:	is that okay?
+*CHI:	okay.
+*INV:	okay.
+*INV:	is it okay if we continue looking at the picture book?
+*CHI:	okay.
+*INV:	okay so what what is this?
+*CHI:	a parrot.
+*INV:	what more can you tell me?
+*CHI:	um, he can fly.
+*INV:	mm-hm [= filler].
+*CHI:	it can, it can snap, snap.
+*INV:	mm.
+*INV:	anything else you can tell Zorg?
+*CHI:	it can it has very good eye, sight.
+*INV:	oh, okay.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a grandma.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*INV:	you can tell me whatever you'd like to.
+*CHI:	um, it's a lady.
+*INV:	tell me a little bit more.
+*CHI:	um &=shrugs.
+@G:	Firefighter
+*CHI:	I know.
+*CHI:	it's a firefighter.
+*INV:	&=gasps what more can you tell me?
+*CHI:	he puts out fires.
+*INV:	go ahead and tell me a little bit more.
+*CHI:	he, goes inside the building that's on fire.
+*INV:	hm.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	blueberry muffin.
+*CHI:	mm.
+*INV:	what more can you tell me?
+*CHI:	you can eat it.
+*CHI:	you have to peel off the skin though, on the side.
+*INV:	tell me a little bit more.
+*CHI:	it has blueberries in it.
+*CHI:	that's why it's called blueberry muffins &=makes:Zorg_eat_muffin.
+@G:	Dolphin
+*INV:	hm &=peeks:picture.
+*INV:	what is this?
+*CHI:	whale.
+*CHI:	I've seen a whale show.
+*INV:	ah, what more can you tell me?
+*CHI:	mm-hm [= yes], hm.
+*CHI:	it can jump up high in the water.
+*INV:	oh.
+*INV:	go ahead and tell me a little bit more.
+*CHI:	he looks like a dragon.
+*INV:	oh.
+*INV:	anything else you can tell me?
+*CHI:	um.
+*INV:	is everything okay?
+*CHI:	something's curious &=lays:head_on_zorg &=looks:down.
+*INV:	hm?
+*CHI:	about something.
+*CHI:	see, look.
+*CHI:	there's a ant in his mouth.
+*INV:	oh.
+*CHI:	yuck.
+*INV:	is there anything else you can tell me?
+*CHI:	mm &=shakes:head.
+*INV:	alright.
+*CHI:	let's move on.
+*INV:	mm.
+@G:	Cat
+*INV:	⌈oh⌉.
+*CHI:	⌊cat⌋.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	pumpkin.
+*INV:	oh, what more can ⌈you⌉.
+*CHI:	I had a gigantic pumpkin for ⌊Halloween⌋.
+*INV:	mm, what more can you tell me?
+*CHI:	we can carve it.
+*CHI:	and we can paint the seeds inside it.
+*CHI:	and you can eat the seeds.
+*INV:	oh.
+*CHI:	or plant them.
+*CHI:	to make another pumpkin.
+*INV:	mm.
+*CHI:	but you have to plant them in Fall.
+*INV:	mm.
+*CHI:	when it's Halloween.
+*INV:	mm.
+*CHI:	(be)cause if you plant it, it would take it would, once it rised it wouldn't be Fall anymore.
+*INV:	oh.
+*CHI:	so you have to plant it before Fall.
+*INV:	oh.
+@G:	Cat
+*INV:	oh be careful.
+*INV:	what is this?
+*CHI:	kitten.
+*INV:	what more can you tell me?
+*CHI:	um, I don't know &=plays:with_clasps.
+*INV:	oh careful.
+*INV:	I'm afraid, your hand might get caught.
+*INV:	tell me more.
+*CHI:	mm, hm.
+*CHI:	I don't know.
+*INV:	okay.
+*INV:	you ready?
+*CHI:	uh-huh [= yes].
+@G:	Judge
+*INV:	hm &=gasps what is this?
+*CHI:	a office.
+*INV:	what more can you tell me?
+*CHI:	it's a man.
+*INV:	tell me a little bit more.
+*CHI:	hm, hm, hm.
+*CHI:	I don't know more.
+*INV:	anything else you can tell me?
+*CHI:	no.
+*INV:	okay.
+*INV:	alrighty well thank you.
+*INV:	do you want to look again?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*INV:	okay.
+@End

@@ -1,0 +1,164 @@
+@UTF8
+@PID:	11312/a-00032270-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.17|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Butterfly
+@Types:	cross, narrative, TD
+*INV:	wh +...
+*CHI:	a butterfly.
+*INV:	what more can you tell me?
+*CHI:	um it has wings.
+*CHI:	and it has antennas.
+*CHI:	and it um, it has xxx things right here so he can xxx.
+*CHI:	and this is um his eyes.
+*INV:	anything else you want to tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um he has spots and arms um w-wings.
+*CHI:	and um he has he has black stuff on his wings.
+*INV:	okay.
+@G:	Cat
+*CHI:	a cat.
+*INV:	what more can you tell me?
+*CHI:	um it has legs.
+*CHI:	it has lots of fur and a tail.
+*CHI:	and um ears.
+*CHI:	and it has eyes and a nose and whiskers.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	why?
+*INV:	(be)cause he wants to hear what you have to say.
+*CHI:	oh he um he he goes “meow meow”.
+*INV:	mm.
+@G:	Race Car Driver
+*CHI:	a racecar driver.
+*INV:	what more can you tell me?
+*CHI:	um he um he um the racecar drivers drives the racecar really really fast so he can um win the race.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has, it's blue and it has cards [?] on it.
+@G:	Muffin
+*CHI:	a cupcake.
+*INV:	what more can you tell me?
+*CHI:	cupcakes have sugar.
+*CHI:	and they have all different kinds of things in (th)em [?].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has, thi-um a wrap.
+@G:	Skunk
+*CHI:	a skunk.
+*INV:	what more can you tell me?
+*CHI:	um um when some when the skunk needs um space he just blows his stink out.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has sharp claws.
+*CHI:	so it can climb.
+@G:	Pineapple
+*CHI:	um a pinecone.
+*INV:	what more can you tell me?
+*CHI:	um it has some needles.
+*CHI:	and you can cut it and eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has feathers um +...
+*CHI:	that's how a pineapple is.
+*INV:	mm [?].
+@G:	Ballerina
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	um, they have a dress.
+*CHI:	and they have um pretty shoes.
+*CHI:	and they dance around.
+*INV:	oh, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has hands.
+*CHI:	and um it dances pretty.
+*INV:	mm.
+@G:	Firefighter
+*CHI:	a fireman.
+*INV:	what more can you tell me?
+*CHI:	um, spidermans, firemans um have a big firetruck so they can race to the rescue.
+*CHI:	and then they hold a um tall ladder up and they spray the fire.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it it has to climb all the way to the top.
+*CHI:	and it wears a firecoat and a firehat.
+*CHI:	and gloves.
+@G:	Cracker
+*CHI:	um a cracker.
+*INV:	what more can you tell me?
+*CHI:	crackers have holes.
+*CHI:	and this one looks like a rectangle.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it, has flat things right here &=points:picture.
+@G:	Judge
+*INV:	what is this?
+*CHI:	I don't know.
+*CHI:	what is it?
+*INV:	hm, can you take a guess?
+*CHI:	um is it um, is it at, is it a book reader?
+*INV:	mm, what more can you tell me?
+*CHI:	um it reads books to um everyone.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um he he's um he helps people um.
+*CHI:	he wears glasses and help people read the story.
+*INV:	mm.
+@G:	Dolphin
+*CHI:	a whale.
+*INV:	what more can you tell me?
+*CHI:	um whales dive into the water way deep.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um whales have good flippers [?] so they can swim in deep water.
+@G:	Old Woman
+*CHI:	a grandma.
+*INV:	what more can you tell me?
+*CHI:	um some grandmas have broken legs.
+*CHI:	so they use this to help (th)em walk.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um this grandma wears glasses.
+*CHI:	and holds a stick  help him to her to walk.
+@G:	Pumpkin
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	um pumpkins are orange.
+*CHI:	and um um you make a smiley face some eyes um and a nose and and the pumpkin turns into a jack-o-lantern.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has a stem.
+*CHI:	and um sometimes my grandma makes um a pumpkin, soup.
+*INV:	mm.
+@G:	Ice Cream
+*CHI:	ice cream.
+*INV:	what more can you tell me?
+*CHI:	um ice cream has um cold ice in it.
+*INV:	mm.
+*CHI:	and it has a ice cream cone.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, it um the, the cone is a crunchy.
+*CHI:	and and the ice cream's soft.
+@G:	Parrot
+*CHI:	um a parrot.
+*INV:	what more can you tell me?
+*CHI:	um parrot has feathers.
+*CHI:	and it hangs onto a branch [?] unless you have a tree.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has this parrot has colors on him.
+*CHI:	so many colors.
+*INV:	mm.
+*CHI:	the end.
+*INV:	do you want to look again?
+*CHI:	uh uh [= no].
+*INV:	okay you did great.
+*INV:	thank you very much.
+*INV:	that was a lot of fun.
+@End

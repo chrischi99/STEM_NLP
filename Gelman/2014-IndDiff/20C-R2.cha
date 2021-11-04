@@ -1,0 +1,188 @@
+@UTF8
+@PID:	11312/a-00032085-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.19|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pie
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	I I don't know.
+*CHI:	it should [?] be a pie ⌈I guess⌉.
+*INV:	                       ⌊mm⌋.
+*CHI:	what &=picks:up_book [?].
+*INV:	what can you tell me?
+*CHI:	this um, I'm going to hold it, alright?
+*INV:	okay.
+*CHI:	um they have I think that's carrot pie.
+*INV:	mm.
+*CHI:	because want me to tell Zorg I already told him about that.
+*INV:	well what more can you tell me?
+*CHI:	nothing else &=shrugs.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	a strong man.
+*INV:	what more can you tell me?
+*CHI:	um he could hold up heavy stuff.
+*INV:	mm.
+*CHI:	and he's strong.
+*CHI:	what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	woah [= book falls].
+*CHI:	yes.
+*CHI:	um this man don't xxx &=laughs I'm thirsty.
+*CHI:	I might have water when I go.
+*CHI:	&=swats:at_air did I get it?
+*CHI:	no I didn't.
+*CHI:	&=shrugs:shoulders.
+*INV:	so &=turns:page.
+@G:	Corn
+*INV:	what is this?
+*CHI:	um, corn.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	um, I'm going to pet that &=pets:Zorg.
+*CHI:	um you could eat it and you could set it out from the for the the squirrels.
+*INV:	oh.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+@G:	Police Officer
+*CHI:	I can help him out with this one?
+*INV:	what is this?
+*CHI:	a police officer.
+*INV:	what more can you tell me?
+*CHI:	um they save people if they're dead.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=shakes:head_no.
+@G:	Owl
+*CHI:	I can [?] help him out with this one.
+*INV:	okay.
+*CHI:	um owls could fly Zorg.
+*INV:	what more can you tell me?
+*CHI:	and they could do on your shoulder.
+*CHI:	and they birds can go on your shoulder.
+*CHI:	ah you're getting me!
+*CHI:	I'm all finished with Zorg there.
+@G:	Milk
+*CHI:	this is a cup with glass of milk in it.
+*INV:	what more can you tell me?
+*CHI:	um, um this, people ⌈can drink milk and⌉, I'm I'm just just saying eh
+	where someone has to touch his nose right there &=touches:Zorgs_nose.
+*INV:	                    ⌊oh⌋.
+*INV:	what else can you tell me?
+*CHI:	&=shrugs:shoulders.
+@G:	Rabbit
+*CHI:	this is, a rabbit.
+*INV:	hm what ⌈more⌉?
+*CHI:	rabbits could hop like ⌊this &=hops:on_floor⌋.
+*CHI:	I can make big rabbit.
+*INV:	what more can you tell me?
+*CHI:	um, they could smell people.
+*CHI:	and they could eat food.
+*INV:	hm.
+*CHI:	and carrots.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	um a strawberry is good for you.
+*CHI:	you could pick (th)em off a strawberry tree.
+*INV:	mm.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	a swimmer.
+*INV:	what more can you tell me?
+*CHI:	um they swim with no other ground.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I already told him.
+*INV:	well help him out.
+@G:	Lion
+*CHI:	it's a lion.
+*INV:	what more can you tell me?
+*CHI:	um they roar like this roar.
+*CHI:	I can roar.
+*CHI:	roar.
+*CHI:	I could.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=shakes:head_no.
+*INV:	well what else can you tell me?
+@G:	Frog
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	um frog could hop jump.
+*INV:	what else can you tell me?
+*CHI:	&=shrugs:shoulders.
+@G:	Farmer
+*CHI:	a farmer.
+*INV:	what more can you tell me?
+*CHI:	&=tries:turn_page um, I just got a page stuck to this.
+*INV:	hold on let's slow it down a little bit.
+*INV:	what more can you tell me?
+*CHI:	um, they set up food carrots, and!
+*INV:	what else can you tell me?
+*CHI:	um.
+@G:	Pretzel
+*CHI:	this is a pretzel.
+*INV:	what more can you tell me?
+*CHI:	um pretzels hey can't you touched me [= Zorg touched CHI's arm].
+*INV:	oh sorry.
+*CHI:	I'm gonna touch you next time [= talking to Zorg].
+*INV:	what more can you tell me?
+*CHI:	um, you could eat (th)em.
+*INV:	mm-hm [= yes].
+*INV:	what else can you tell me?
+*CHI:	&=shrugs.
+*INV:	tell me a little bit more.
+*CHI:	I can't.
+@G:	King
+*CHI:	<more page> [?].
+*CHI:	this is ⌈this is a king⌉.
+*INV:	        ⌊wha⌋.
+*INV:	what more can you tell me?
+*CHI:	&=shrugs &=turns:page.
+*INV:	mm-mm [= no] &=turns:page_back.
+*CHI:	what &=laughs.
+*INV:	what more?
+*CHI:	&=turns:page.
+*INV:	&=turns:page_back.
+*INV:	firstname?
+*INV:	please please answer my question.
+*INV:	what more can you tell me?
+*CHI:	um, they have a mother &=covers:mouth &=makes:noises.
+*CHI:	what?
+*INV:	I can't understand you with your hands over your mouth.
+*CHI:	&=laughs I I win.
+*INV:	what else can you tell me?
+*CHI:	&=shrugs nothin(g) else.
+@G:	Snake
+*CHI:	oh I could tell you about this snake.
+*INV:	okay what more can you tell me?
+*CHI:	um this snake his body is his head is big and his body is small.
+*CHI:	and he has a white, a white belly.
+*CHI:	I don't know nothing else about this.
+*INV:	you know Zorg doesn't know much about this one either.
+*INV:	can you help him out?
+*CHI:	&=shakes:head_no.
+*INV:	well what else can you tell me?
+*CHI:	I could tell you I could tell you now it's my turn.
+*INV:	okay well do you want to put Zorg back to sleep?
+*CHI:	yeah.
+*CHI:	maybe he's tired.
+*INV:	mm.
+*INV:	do you want to look again, ⌈at the book⌉?
+*CHI:	                           ⌊no &=shakes:head_no⌋.
+*INV:	okay.
+*INV:	okay well thank you very much for doing that.
+*INV:	do we want to put him in?
+*CHI:	yeah.
+*INV:	goodnight Zorg.
+@End

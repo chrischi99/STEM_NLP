@@ -1,0 +1,163 @@
+@UTF8
+@PID:	11312/a-00032096-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.21|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Bread
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	um bread um you it's chewy.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	I don't know.
+*INV:	you can tell him whatever you'd like to.
+*CHI:	zorg this is bread.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	cookie.
+*INV:	what more can you tell me?
+*CHI:	um a cookie goes crunch crunch.
+*INV:	what else can you tell me?
+*CHI:	it breaks easily.
+*INV:	mm.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a bear.
+*INV:	what more can you tell me?
+*CHI:	um it's a baby.
+*INV:	what else can you tell me?
+*CHI:	it's just standing there.
+@G:	Cheese
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	it has spots.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	chedder cheese.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what ⌈more⌉.
+*CHI:	they showed this um last night on food ⌊network⌋.
+*INV:	oh.
+*CHI:	about pigs.
+*CHI:	you can make um a ceramic um, cooker.
+*CHI:	you just have to do two it's um actually a barbeque that's ceramic.
+*CHI:	you make it have you take it far apart.
+*CHI:	you put something that makes heat in then you put um the pot in then you put the rack you put another fire pot on and then you put a thermometer.
+*INV:	mm.
+*CHI:	and there you go.
+@G:	Doctor
+*CHI:	a doctor.
+*INV:	what more can you tell me?
+*CHI:	um she operates.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	she helps people.
+@G:	Painter
+*INV:	what is this?
+*CHI:	an artist.
+*INV:	what more can you tell me?
+*CHI:	she paints.
+*CHI:	and she always looks at what she's doing.
+*INV:	                       ⌈what more⌉?
+*CHI:	and, I know what she's ⌊painting⌋.
+*CHI:	a tree.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg this is a picture &=points:to_picture.
+@G:	Duck
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	ducks have these feet to help them walk.
+*INV:	mm.
+*INV:	what else can you tell Zorg.
+*INV:	                               ⌈he doesn't⌉.
+*CHI:	and and something in Eqypt there are ducks in this restaurant called
+	xxx and I throw bread to the ⌊ducks⌋.
+*INV:	oh.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	he looks just like my ⌈bother⌉, when he was tiny xxx.
+*INV:	                      ⌊oh⌋.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	oh gee I'll turn it back I was turning forward.
+@G:	Ladybug
+*CHI:	a ladybug.
+*INV:	what more can you tell me?
+*CHI:	it has legs to help it crawl.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	this is a ladybug.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a baseball.
+*INV:	what more can you tell me?
+*CHI:	um this is a bat to hit it when it comes towards him.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about that one.
+@G:	Banana
+*CHI:	look at this.
+*CHI:	it's a banana.
+*INV:	ah what more can you tell me?
+*CHI:	you peel it off of the peel and you eat down down down down till the whole banana is gone.
+*INV:	mm.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um you, if you want it cut up for your baby you go cut cut cut cut.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	a pirate with treasure.
+*INV:	what more can you tell me?
+*CHI:	it has a lock for a chest.
+*CHI:	the chest goes here and then the lock shuts.
+*INV:	mm.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I don't I don't know why pirates always have these patches on their eyes.
+*INV:	mm.
+*CHI:	how come?
+*INV:	you know I'm not sure.
+*CHI:	I'm not sure either.
+@G:	Carrot
+*CHI:	a carrot.
+*CHI:	this is my favorite vegetable.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	you eat from here and you go all the way up till this.
+*INV:	mm.
+*CHI:	and you cut that off and you eat the orange.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a carrot.
+@G:	Turtle
+*CHI:	a turtle.
+*INV:	what more can you tell me?
+*CHI:	it has claws.
+*CHI:	there's a big tortoise that walks on land.
+*CHI:	it's called Franklin.
+*CHI:	it's a huge tortoise.
+*CHI:	it's almost as big as that whole couch.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg this is a turtle.
+*CHI:	that's it.
+*INV:	that's it do you want to look again?
+*CHI:	no.
+*INV:	alright do we want to put Zorg back into his house?
+*CHI:	uh-huh [= yes].
+*CHI:	that's a pretty small house for Zorg.
+*INV:	thank you so much that was so much fun.
+*CHI:	uh-huh [= yes].
+@End

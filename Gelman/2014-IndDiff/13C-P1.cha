@@ -1,0 +1,877 @@
+@UTF8
+@PID:	11312/a-00032040-1
+@Window:	704_1261_683_700_-1_-1_18355_0_18355_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.05|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Broccoli
+@Types:	cross, narrative, TD
+*CHI:	what is this called again?
+*MOT:	sometimes we call it trees but it's not really trees is it?
+*MOT:	br.
+*CHI:	broccoli.
+*MOT:	broccoli you're right.
+*MOT:	good thinking.
+@G:	Clown
+*CHI:	clown?
+*MOT:	clown.
+*CHI:	&=hums.
+@G:	Cake
+*MOT:	you know if you want you could turn it a little bit
+	[= referring to book facing CHI].
+*CHI:	cake!
+*MOT:	cake, cake &=laughs.
+*MOT:	okay.
+@G:	Cereal
+*CHI:	&=flips:two_pages.
+*MOT:	what's this one?
+*MOT:	wait wait wait you missed one.
+*CHI:	&=flips:page_back.
+*CHI:	pizza!
+*MOT:	pizza?
+*CHI:	no.
+*MOT:	&=laughs.
+*CHI:	cereal?
+*MOT:	cereal.
+@G:	Elephant
+*CHI:	uh elephant?
+*MOT:	elephant.
+@G:	Popcorn
+*CHI:	I don't know what <this is> [?].
+*MOT:	well look at it this way &=turns:book.
+*CHI:	bowl?
+*MOT:	there is a bowl.
+*MOT:	what's in it?
+*CHI:	I don't know.
+*MOT:	you don't know?
+*CHI:	no.
+*MOT:	what about kettle?
+*MOT:	remember?
+*MOT:	that kind of kettle, corn.
+*CHI:	kettle corn.
+*MOT:	or popcorn.
+*CHI:	kettle corn.
+*MOT:	kettle corn.
+@G:	Football Player
+*CHI:	football?
+*MOT:	football.
+@G:	Witch
+*CHI:	witch?
+*MOT:	uh-huh [= yes].
+*CHI:	ah.
+*MOT:	&=laughs.
+@G:	Alligator
+*CHI:	ah crocodile.
+*MOT:	ah.
+@G:	Lobster
+*CHI:	ah lobster.
+*MOT:	&=laughs.
+@G:	Teacher
+*CHI:	teacher?
+*CHI:	we already had a teacher.
+*MOT:	       ⌈<you know what> [?]⌉?
+@G:	Orange
+*CHI:	I like ⌊lemons⌋.
+*MOT:	what are they?
+*CHI:	no.
+*CHI:	orange?
+*MOT:	orange.
+*CHI:	I like oranges.
+*MOT:	  ⌈I know you like oranges⌉.
+*CHI:	I ⌊do⌋, xxx.
+@G:	Horse
+*CHI:	horse.
+*CHI:	I like horses.
+@G:	Penguin
+*CHI:	penguins.
+*CHI:	I like penguins.
+@G:	Pilot
+*CHI:	I like-what is this?
+*CHI:	airplane?
+*MOT:	um, yeah.
+*MOT:	how'd you figure out it was an airplane?
+*CHI:	I just saw that man driving.
+*MOT:	you saw the man driving?
+*CHI:	yeah and I know it wasn't in the car.
+*MOT:	how do you know it wasn't in a car?
+*CHI:	(be)cause of those pully things ⌈and the window and the police hat⌉.
+*MOT:	oh (be)cause of                 ⌊the⌋ +...
+*MOT:	good job.
+*CHI:	all done.
+*MOT:	all done.
+@Comment:	picture book closed
+*CHI:	I wanna do that again.
+@G:	Broccoli
+*CHI:	I just want to look at it now.
+*CHI:	oh, missed a page.
+*MOT:	did you miss a page before?
+*MOT:	uh I thought we had (th)em all.
+@G:	Clown
+*CHI:	<there we go> [?] +...
+*MOT:	do you think you could tell stories about each picture?
+*CHI:	uh once upon a time there was a clown and he liked cake.
+@Comment:	child flipping through book, cake picture not visible,
+	clown last visible
+*MOT:	&=laughs good thinking.
+*MOT:	that's good.
+*CHI:	&=flips:pictures.
+@G:	Teacher
+*CHI:	then, he saw a teacher.
+@G:	Pilot
+*CHI:	&=flips:pictures.
+*CHI:	and the teacher was standing next to mm a a, flying man.
+*MOT:	the teacher was standing next to a flying man?
+*CHI:	yeah.
+*MOT:	do do you want to know what the flying man's called?
+*CHI:	&=shakes:head mm [= meaning no].
+*CHI:	&=nods:yes.
+*MOT:	yeah?
+*MOT:	it's called a pilot.
+*CHI:	pilot.
+*MOT:	mm-hm [= yes].
+*CHI:	&=flips:pages.
+@G:	Cake
+*CHI:	and the clown uh they had a piece of cake in their hand.
+*MOT:	&=laughs.
+@G:	Elephant
+*CHI:	and a elephant.
+*CHI:	elephant ears.
+@G:	Cereal
+*CHI:	and some bowl of cereal.
+@G:	Football Player
+*CHI:	and a football guy.
+@G:	Clown
+*CHI:	and a witch.
+@G:	Alligator
+*CHI:	and a alligator.
+@G:	Lobster
+*CHI:	and a lobster.
+@G:	Teacher
+*CHI:	and a teacher.
+@G:	Orange
+*CHI:	and a orange.
+*MOT:	&=laughs.
+@G:	Horse
+*CHI:	and the horse.
+@G:	Penguin
+*CHI:	and the penguin.
+*CHI:	the end &=closes:book.
+@Comment:	no pictures visible
+*MOT:	the end that's some story.
+*MOT:	were they at your house?
+*CHI:	&=shakes:head_no.
+*MOT:	oh, where where were those people?
+*CHI:	mm nowhere.
+*MOT:	nowhere?
+*MOT:	just in your mind?
+*CHI:	can you take this home?
+*MOT:	can we take it home?
+*MOT:	oh that's a really neat idea.
+*MOT:	you know what I think they probably need it for other four-year-olds.
+*MOT:	but you can look at it a little bit more if you want.
+*CHI:	no.
+*MOT:	no?
+*MOT:	you want me to look at it?
+*MOT:	maybe I can tell a story.
+@G:	Clown
+*MOT:	the clown.
+*MOT:	look.
+*MOT:	what's he doing?
+*CHI:	plugging &=plugs:ears.
+*MOT:	plugging his ears.
+*MOT:	do you think his mom was trying to feed him some +...
+@G:	Broccoli
+*MOT:	broccoli &=laughs.
+*MOT:	&=flips:to_clown_picture.
+@G:	Clown
+*MOT:	maybe his mom was trying to feed him some
+	&=flips:to_broccoli_picture broccoli &=flips:to_clown_picture.
+*MOT:	he is plugging his ears isn't he?
+*MOT:	what's this?
+*MOT:	I don't know what that is.
+*MOT:	do you know what that is?
+*MOT:	that red thing?
+*CHI:	maybe it's a rug.
+*MOT:	may it does kinda look like a rug.
+*MOT:	maybe it is a rug, huh.
+*MOT:	why do you think he'd be plugging his ears?
+*CHI:	it is a rug.
+*CHI:	because he doesn't want to listen to it.
+*MOT:	because he doesn't want to listen to it?
+*CHI:	maybe he's yelling.
+*MOT:	oh maybe he's yelling?
+*CHI:	no no.
+*CHI:	his mom is.
+*MOT:	oh maybe his mom is yelling she wouldn't probably be yelling about eating broccoli though would she?
+*CHI:	maybe she asked him a lot of times.
+*MOT:	&=laughs oh maybe she asked him a lot of times.
+*MOT:	maybe she did.
+@G:	Cake
+*CHI:	cake.
+*MOT:	cake.
+*CHI:	&=flips:pages.
+*MOT:	what do you think the the clown likes best?
+*CHI:	cake.
+*MOT:	the cake?
+*CHI:	<yeah yup> [?] +...
+@G:	Cereal
+*CHI:	                             ⌈cereal⌉.
+*MOT:	those look like the kind you ⌊like⌋.
+*MOT:	what are those?
+*CHI:	flakes.
+*MOT:	flakes.
+*MOT:	you like flakes huh?
+@G:	Popcorn
+*CHI:	I don't like that.
+*MOT:	you don't like what?
+*MOT:	popcorn?
+*MOT:	oh yeah.
+*CHI:	that [?].
+@G:	Witch
+*CHI:	witch.
+*CHI:	        ⌈xxx⌉.
+*MOT:	I liked ⌊those⌋.
+*MOT:	your reaction to the witch and the lobster was kind of good.
+*CHI:	&=flips:pages.
+*MOT:	but they're scary or are they funny
+	[= still talking about reaction to witch and lobster]?
+*CHI:	funny.
+*MOT:	funny?
+*CHI:	&=closes:book.
+@Comment:	no pictures visible
+*MOT:	that was pretty quick.
+@G:	Pilot
+*MOT:	what was that what was on the last page.
+*MOT:	do you remember?
+*MOT:	I don't remember.
+*CHI:	&=flips:pages &=stops:last_page.
+*CHI:	pilot.
+*MOT:	pilot.
+*MOT:	good thinking.
+*CHI:	&=closes:book.
+@Comment:	no pictures visible
+*MOT:	what do you think?
+*MOT:	wanna look at it one more time?
+*CHI:	no.
+*MOT:	see if we can tell any more stories about anything else?
+*MOT:	&=opens:book &=flips:pages.
+*CHI:	then, then ⌈<when are> [?] ⌉?
+*MOT:	what do you ⌊think⌋ ⌈the⌉.
+*CHI:	when are we going to play the ⌊game⌋?
+*MOT:	oh you'll play the game in a few minutes.
+*MOT:	what do you think the are there any other people in here?
+*CHI:	no.
+*MOT:	no?
+*CHI:	only two.
+*MOT:	only two?
+*MOT:	who were the people?
+*CHI:	I mean three.
+*MOT:	⌈who⌉?
+*CHI:	⌊clown⌋, uh teacher and pilot.
+*MOT:	oh good thinking.
+*MOT:	good job.
+@G:	Popcorn
+*MOT:	what was the food in this book?
+*MOT:	can you ⌈remember⌉?
+*CHI:	        ⌊uh⌋, popcorn.
+*MOT:	can you remember without looking?
+*MOT:	&=closes:book.
+@Comment:	no pictures visible
+*CHI:	okay.
+*CHI:	popcorn, uh cereal and, uh +...
+@G:	Cake
+*CHI:	what was the last one &=whispers?
+*CHI:	cake.
+*MOT:	cake.
+*MOT:	popcorn cereal and cake.
+*MOT:	was there anything else?
+*MOT:	popcorn cereal.
+*CHI:	cake.
+*MOT:	cake.
+@G:	Broccoli
+*CHI:	uh broccoli.
+*MOT:	broccoli!
+*MOT:	good thinking.
+*MOT:	was there anything else?
+*MOT:	⌈oh⌉!
+*CHI:	⌊no⌋.
+*CHI:	broccoli I said.
+@Comment:	no pictures visible
+*MOT:	broccoli popcorn cereal cake.
+*MOT:	wasn't there one more thing?
+@G:	Orange
+*MOT:	&=opens:book.
+*MOT:	one of your favorite fruits.
+*CHI:	uh orange.
+*MOT:	orange.
+*MOT:	did we get (th)em all?
+*MOT:	do you think?
+*CHI:	yeah.
+@G:	Broccoli
+*MOT:	broccoli.
+@G:	Popcorn
+*MOT:	oh popcorn!
+*MOT:	we did get popcorn.
+@G:	Cake
+*MOT:	cake.
+@G:	Elephant
+*CHI:	and elephant ears.
+*MOT:	and elephant ears &=laughs.
+*CHI:	<cuz he's got> [?] elephant ears &=flips:pages.
+*MOT:	we did forget elephant ears.
+*CHI:	                          ⌈and we forgot⌉ +...
+*MOT:	that's a little different ⌊though⌋.
+*MOT:	you wouldn't actually eat that kind of elephant ear would you?
+*MOT:	bleh [= disgusted sound].
+@G:	Football Player
+*CHI:	and we forgot him.
+*MOT:	what's him?
+*CHI:	we're go we're gonna eat him &=flips:pages.
+*MOT:	what?
+*CHI:	       ⌈xxx⌉.
+@G:	Witch
+*MOT:	that's ⌊silly⌋.
+*MOT:	not unless you're a witch maybe.
+*MOT:	that could be the other part of the story.
+*CHI:	&=closes:book.
+*MOT:	course witches I don't think eat football players.
+@Comment:	no pictures visible
+*MOT:	     ⌈what else do you think⌉?
+*CHI:	<I'm ⌊done> [?]⌋.
+*MOT:	you're done?
+*MOT:	you're done?
+*MOT:	you like that book?
+*CHI:	mm-hm [= yes].
+*MOT:	what do you like about it?
+*CHI:	&=flips:pages.
+*CHI:	&=mumbles.
+*MOT:	which is your favorite picture?
+*CHI:	I dunno.
+*CHI:	let me see here &=flips:pages.
+@G:	Clown
+*MOT:	&=laughs oh the clown.
+*MOT:	with his fingers in his ears.
+*MOT:	what other why do you like him best?
+*CHI:	(be)cause he's silly.
+*MOT:	because he's silly &=laughs.
+*MOT:	he sure is silly.
+*CHI:	mm-hm [= yes].
+*CHI:	&=closes:book &=balances:on_head.
+@Comment:	no pictures visible
+*MOT:	what else do you like about that book?
+*CHI:	me balancing it on my ⌈head⌉.
+*MOT:	you like it balancing on your ⌊head⌋ &=laughs?
+*MOT:	that's very funny.
+*MOT:	can you do it?
+*CHI:	&=takes:hand_away &=leaves:book_head.
+*MOT:	good.
+*CHI:	&=takes:book_off_head.
+*MOT:	                                   ⌈do you think the pictures will go into your brain⌉?
+*CHI:	but I can't balance a basket on my ⌊head⌋.
+*MOT:	oh.
+*MOT:	                              ⌈did you try⌉?
+*CHI:	I actually I can but I didn't ⌊try⌋.
+*CHI:	&=Opens:book &=flips:pages everybody [?] took my toy.
+*MOT:	we could talk about &=closes:book.
+*MOT:	what do you wanna talk about?
+*CHI:	I don't know.
+*MOT:	I don't know.
+*MOT:	oh we could play I_Spy with that book.
+*CHI:	okay.
+*MOT:	I spy +...
+*CHI:	no I wanna do it with the room.
+*MOT:	with the room?
+*CHI:	I spy something, silver.
+*MOT:	something silver?
+*CHI:	I mean +...
+*MOT:	that thing?
+*CHI:	no.
+*MOT:	oh the wall over there that little, ⌈thing⌉?
+*CHI:	                                    ⌊no⌋.
+*MOT:	uh.
+*CHI:	that's white [= referring to place where MOT just pointed].
+*MOT:	well no the box is sort of gray silver.
+*MOT:	what about something in the lights up above.
+*MOT:	no?
+*MOT:	what about over here?
+*CHI:	no.
+*MOT:	no?
+*MOT:	not along here?
+*MOT:	what about the plug?
+*CHI:	no.
+*MOT:	no?
+*MOT:	what about the little knobby up there?
+*CHI:	no.
+*MOT:	you're not switching it on me are you?
+*CHI:	no.
+*MOT:	okay so it's not that it's not that it's not that
+	&=points:to_three_different_things.
+*MOT:	is it the switches over there?
+*CHI:	no.
+*MOT:	is it the handle?
+*CHI:	no.
+*MOT:	are you switchin(g) it on me?
+*CHI:	no.
+*MOT:	is it the hinges?
+*MOT:	the things along side the doors?
+*CHI:	no.
+*MOT:	okay I give up.
+*CHI:	it's the mirror.
+*MOT:	oh the mirror.
+*MOT:	that is kind of a silver mirror isn't it?
+*MOT:	that's kinda fun.
+@G:	Clown
+*MOT:	&=opens:book &=flips:pages.
+*MOT:	what do you think the clown would do with [?] that mirror?
+*CHI:	um, be silly?
+*MOT:	the clown would probably be silly in the mirror.
+*MOT:	uh &=flips:pages, what do you think is the clown's favorite
+	food?
+*CHI:	&=gets:up &=moves:to_couch.
+*MOT:	are you done?
+*MOT:	it's okay if you wanna be done.
+@G:	Cereal
+*CHI:	maybe cereal.
+*MOT:	you think the clown's favorite food is cereal?
+*CHI:	&=nods:yes.
+*MOT:	why do you think the clowns favorite food is cereal?
+*CHI:	because he's silly?
+*MOT:	&=laughs (be)cause he's silly.
+*MOT:	what makes cereal silly?
+*CHI:	um xxx, making shapes out of it.
+*MOT:	oh yeah maybe he makes shapes out of it you're right.
+@G:	Clown
+*CHI:	because he could cut a little square or something.
+*MOT:	uh-huh [= yes], he could cut a little square or something.
+*MOT:	good thinking.
+@G:	Witch
+*CHI:	&=makes:noise &=changes:positions_on_couch.
+*MOT:	&=laughs what do you think is the witch's favorite food?
+*CHI:	<what did you say> [?] ?
+*MOT:	what do you think is the witch's favorite food?
+@G:	Cake
+*CHI:	                 ⌈uh⌉.
+*MOT:	out of what's in ⌊the⌋, ⌈book⌉.
+*CHI:	                        ⌊cake⌋.
+*MOT:	the what?
+*CHI:	cake.
+*MOT:	cake.
+*MOT:	why do you think she likes the cake?
+@G:	Witch
+*CHI:	because she, is mean.
+*MOT:	(be)cause she's mean?
+*CHI:	&=nods:yes.
+*MOT:	why would she like cake (be)cause she's mean?
+*CHI:	because she's, uh she doesn't eat good food?
+*MOT:	oh (be)cause she doesn't eat good food.
+*MOT:	hm that's interesting.
+*MOT:	but wait a second what's what's your favorite food out of the &=laughs out of that book?
+*CHI:	(be)cause some people eat [?] +...
+*MOT:	(be)cause what?
+@G:	Cake
+*CHI:	if they eat too much cake they, they, um, get mean.
+*MOT:	(be)cause if you eat too much cake you might get mean?
+*CHI:	&=nods:yes.
+*MOT:	hm.
+*MOT:	why do you think?
+*CHI:	&=gets:off_couch &=goes:back_to_table &=flips:pages.
+*MOT:	what are you looking for?
+*CHI:	&=closes:book.
+*CHI:	I spy something, actually your turn.
+*MOT:	I wanna spy something in the book &=opens:book &=flips:pages.
+@G:	Teacher
+*MOT:	I spy something, hmm &=flips:pages.
+*CHI:	you can trick people xxx.
+*MOT:	I spy something white.
+@G:	Broccoli
+*CHI:	&=turns:pages &=points:at_broccoli.
+*CHI:	⌈this⌉?
+*MOT:	⌊mm-hm⌋.
+*MOT:	no.
+@G:	Clown
+*CHI:	this?
+*MOT:	nope.
+*MOT:	good guessing though.
+@G:	Cake
+*CHI:	this?
+*MOT:	is that white?
+*MOT:	look close.
+*CHI:	yellow.
+*MOT:	it's yellow isn't it?
+@G:	Cereal
+*CHI:	no not that.
+@G:	Elephant
+*CHI:	this?
+*MOT:	oh no.
+*MOT:	good thinking though.
+*MOT:	good guessing.
+@G:	Football Player
+*CHI:	not the football player.
+@G:	Popcorn
+*CHI:	this?
+*MOT:	nope.
+*CHI:	um xxx &=flips:pages.
+*CHI:	hm.
+@G:	Teacher
+*CHI:	this?
+*MOT:	uh-huh [= yes].
+*MOT:	yep.
+*MOT:	it's her shirt.
+*MOT:	it's the teacher's shirt.
+@G:	Broccoli
+*CHI:	&=flips:pages.
+*CHI:	I spy something, green.
+*MOT:	       ⌈green⌉.
+*CHI:	I mean ⌊green⌋ [?] &=whispers.
+*MOT:	green?
+*CHI:	mm-hm [= yes].
+*MOT:	should I start at the beginning of the book or the back of the book?
+*CHI:	back.
+*MOT:	back of the book?
+*CHI:	yeah.
+*MOT:	&=flips:pages.
+@G:	Pilot
+*MOT:	oh pilot?
+*CHI:	no.
+@G:	Orange
+*MOT:	um, the little stem on the orange?
+*MOT:	that's sorta green isn't it?
+*CHI:	mm-mm [= no] that's not green.
+@G:	Teacher
+*MOT:	her shirt?
+*CHI:	no.
+*MOT:	her jacket?
+*MOT:	⌈ma⌉ +...
+*CHI:	⌊that's⌋, uh um, light [?] blue.
+*CHI:	              ⌈that⌉ +...
+*MOT:	that'll sorta ⌊blue⌋?
+*MOT:	yeah it is kind of a teal isn't it?
+*MOT:	sort of an aquaey blue?
+*MOT:	it's not that &=points:to_picture?
+*CHI:	uh-uh [= no].
+*MOT:	oh.
+@G:	Alligator
+*MOT:	&=sighs xxx.
+*MOT:	crocodile?
+*CHI:	uh-uh [= no].
+*MOT:	xxx kinda green.
+*MOT:	is that a crocodile or an alligator?
+*MOT:	I don't remember ⌈which is which⌉.
+*CHI:	                 ⌊uh⌋, ⌈crocodile have the most uh⌉, teeth.
+*MOT:	                       ⌊which⌋ +...
+*MOT:	crocodiles have the most teeth?
+*CHI:	yeah so it that has to be a alligator.
+*MOT:	oh that's interesting ⌈(be)cause⌉, (be)cause he's missing some teeth.
+*CHI:	                      ⌊missing [?]⌋, something.
+*MOT:	oh so this has to be an alligator?
+*MOT:	huh, that's good thinking.
+*MOT:	I didn't know that &=flips:pages.
+*CHI:	because [?] +...
+@G:	Witch
+*CHI:	&=stops:MOT_from_turning_witch_page &=points:to_picture.
+*CHI:	xxx.
+*MOT:	oh, the green face and the green hands?
+*CHI:	&=Shakes:head_no.
+*MOT:	&=laughs.
+@G:	Popcorn
+*MOT:	hm I don't see any green in the popcorn.
+*MOT:	&=laughs.
+*CHI:	&=laughs.
+@G:	Cereal
+*MOT:	is there any green in the cereal?
+*CHI:	no.
+*MOT:	no!
+*MOT:	yuck.
+*MOT:	&=laughs.
+@G:	Cake
+*CHI:	what about the cake?
+*MOT:	I don't see any in the cake.
+*CHI:	but frosting can be.
+*MOT:	frosting could be green.
+*MOT:	have we made green frosting before?
+*CHI:	mm-mm [= no].
+*MOT:	no?
+*CHI:	uh only, there's green pudding too.
+*MOT:	green pudding?
+*MOT:	there is green pudding.
+*MOT:	what kind of flavor is that do you +...
+@G:	Clown
+*MOT:	&=gasps ⌈xxx <those spots> [?]⌉.
+*CHI:	        ⌊no⌋.
+*MOT:	what about his pants?
+*CHI:	no.
+@G:	Broccoli
+*MOT:	what about the broccoli?
+*CHI:	yeah.
+*MOT:	oh &=laughs.
+*MOT:	that was good.
+*MOT:	you made me go through the whole book to find that &=laughs.
+*MOT:	that was good.
+*MOT:	good thinking.
+*CHI:	&=closes:book.
+@Comment:	no pictures visible
+*CHI:	I spy something green.
+*MOT:	you spy something green.
+*MOT:	the only thing I see in the room might be, that chair.
+*MOT:	is it the chair?
+*CHI:	&=looks:around yeah.
+*MOT:	&=laughs you can't switch it on me.
+*MOT:	I spy something, blue.
+*CHI:	those.
+*MOT:	nope.
+*CHI:	&=gets:up &=walks:around_room.
+*CHI:	chair?
+*MOT:	nope.
+*CHI:	this &=points:to_couch?
+*MOT:	it's small.
+*CHI:	small &=whispers.
+*MOT:	and it's in the room.
+*CHI:	&=points:to_carpet.
+*MOT:	oh is that small or is that big?
+*CHI:	small.
+*MOT:	small?
+*MOT:	    ⌈you mean the⌉ +...
+*CHI:	the ⌊dots⌋ ⌈are small⌉.
+*MOT:	oh the     ⌊dots⌋.
+*MOT:	yeah the dots are small you're right.
+*CHI:	this &=points:to_wall?
+*MOT:	you're right.
+*MOT:	&=laughs good job.
+*MOT:	a little piece of blue tape.
+*MOT:	good job.
+*CHI:	I spy something black.
+*MOT:	I spy something, black.
+*MOT:	the plug &=laughs?
+*CHI:	no it's not.
+*MOT:	I like your smile bub.
+*MOT:	uh, the things are on the ceiling?
+*CHI:	no.
+*MOT:	my shoe heel?
+*CHI:	no.
+*MOT:	you seem so smart I can't figure you out.
+*MOT:	um +...
+*CHI:	&=laughs.
+*MOT:	&=laughs.
+*MOT:	is it on my purse?
+*CHI:	no.
+*MOT:	is it the switches?
+*CHI:	no.
+*MOT:	the light switch?
+*CHI:	no.
+*MOT:	is it on your shirt?
+*CHI:	no.
+*MOT:	oh I thought I had it for sure.
+*MOT:	is it the pupils in my eyeballs?
+*CHI:	no.
+*MOT:	&=laughs.
+*CHI:	&=laughs.
+*MOT:	what about my eyelashes?
+*CHI:	no.
+*MOT:	xxx eyelashes?
+*MOT:	what about that right there, ⌈<little bit> [?] ⌉?
+*CHI:	                             ⌊no⌋.
+*MOT:	what about along the floor boards?
+*CHI:	no.
+*MOT:	one more guess and then you tell me?
+*CHI:	&=points:to_words_on_side_of_book.
+*MOT:	oh that was tricky!
+*MOT:	that was littly bitty!
+*MOT:	that's good.
+*MOT:	do you know what this says?
+*MOT:	things.
+*MOT:	in.
+*CHI:	in.
+*MOT:	our.
+*CHI:	our, book, world.
+*MOT:	world.
+*CHI:	world.
+*MOT:	this is?
+*CHI:	&=makes:funny_sound.
+*MOT:	that's book.
+*MOT:	that's the word you just said.
+*MOT:	book.
+*MOT:	what's this letter?
+*CHI:	k@l.
+*MOT:	that one is?
+*CHI:	k@l ⌈b@l⌉.
+*MOT:	    ⌊oh this one is⌋.
+*MOT:	k@l b@l yes bookb@k.
+*MOT:	yep you're right.
+*CHI:	&=gets:up_from_table &=lies:on_couch.
+*MOT:	chillin(g) out are you?
+*CHI:	no this [?] turn to spy something.
+*CHI:	I spy something white.
+*MOT:	you spy something white?
+*CHI:	uh-huh [= yes].
+*MOT:	the couch?
+*CHI:	                           ⌈no⌉.
+*MOT:	it's got a little white in ⌊it⌋.
+*CHI:	⌈no⌉.
+*MOT:	⌊the⌋, walls?
+*CHI:	no.
+*MOT:	I think I spy something white in the mirror.
+*MOT:	do you spy something white in the mirror?
+*CHI:	uh no.
+*MOT:	no?
+*MOT:	on the other side of the mirror?
+*CHI:	no.
+*MOT:	can you see anything?
+*MOT:	um.
+*CHI:	xxx &=whispers.
+*MOT:	is it that way
+	[= meaning is the white thing in the direction of the mirror]?
+*CHI:	no.
+*MOT:	(be)cause you're looking that way that's what makes me think.
+*MOT:	something white.
+*MOT:	is it the book?
+*CHI:	nope &=laughs.
+*MOT:	&=laughs uh, that?
+*CHI:	no.
+*MOT:	oh, I thought I had it.
+*MOT:	is it my teeth?
+*CHI:	no &=laughs.
+*MOT:	&=laughs something behind oh is it this &=pats:wall?
+*CHI:	no not that.
+*MOT:	you aren't switch.
+*CHI:	it's that one &=points:to_wall.
+*CHI:	that one, that one.
+*CHI:	        ⌈this one⌉.
+*MOT:	oh that ⌊wall⌋!
+*MOT:	oh, tricky.
+*MOT:	pretty tricky.
+@G:	Lobster
+*MOT:	I spy something, red that's in the book.
+*CHI:	that's in the book &=flips:pages?
+*MOT:	do you remember anything red that's in the book?
+*MOT:	wait before we look can you think of anything that's red that's in the book?
+@G:	Clown
+*CHI:	this?
+*MOT:	nope.
+*CHI:	&=flips:pages.
+@G:	Lobster
+*MOT:	it's uh, lives in the water.
+*CHI:	uh, I think I know.
+*MOT:	what is it?
+@G:	Alligator
+*CHI:	&=stops:on_crocodile_page &=points:to_picture.
+*CHI:	crocodile?
+*MOT:	nope.
+@G:	Lobster
+*CHI:	&=points:to_picture.
+*MOT:	oh yep, lobster.
+@Comment:	no pictures visible
+*CHI:	okay I spy something red.
+*MOT:	you spy something red.
+*MOT:	this &=points:acoustic_panel_behind_head?
+*CHI:	uh-uh [= no].
+*MOT:	table?
+*CHI:	no.
+*CHI:	actually it's um, this &=points:to_acoustic_panel_on_other_wall.
+*MOT:	that one?
+*MOT:	xxx &=whispers.
+*MOT:	&=flips:pages.
+*MOT:	I spy something, or I'm thinking.
+@G:	Penguin
+*MOT:	did we do this one?
+*MOT:	seems like we skipped this one.
+*CHI:	um no.
+*MOT:	I don't remember I don't remember.
+*MOT:	do you remember seeing this?
+*CHI:	no we skipped that ⌈one⌉.
+*MOT:	                   ⌊oh⌋, what is it?
+*CHI:	penguin?
+*MOT:	penguin.
+*MOT:	I don't know how we forgot the penguin.
+*MOT:	<I think he> [?] must've just been stuck to another page.
+*MOT:	&=flips:pages.
+@G:	Elephant
+*MOT:	I am thinking, of, an animal.
+*CHI:	&=goes:to_couch &=lies:down.
+@G:	Lobster
+*CHI:	lobster?
+*MOT:	⌈mm [?]⌉.
+@G:	Horse
+*CHI:	⌊horse⌋?
+@G:	Elephant
+*MOT:	he's really big &=closes:book.
+*CHI:	I wanna look at it &=gets:up &=flips:pages.
+*MOT:	really really really big.
+*CHI:	elephant?
+*MOT:	an elephant.
+*MOT:	where do elephants live?
+*CHI:	um +...
+*MOT:	do you know?
+*CHI:	going in the water.
+*MOT:	they go in the water?
+*MOT:	yeah sometimes they do.
+*MOT:	and they splash all that water on their backs, remember?
+*CHI:	yeah and they drink it.
+*MOT:	and they drink it, mm-hm [= yes].
+*CHI:	xxx, ⌈<I don't> [?]⌉.
+*MOT:	do you ⌊know⌋?
+*MOT:	                       ⌈Africa⌉.
+@Comment:	no pictures visible,
+*CHI:	when are they gonna be ⌊here⌋?
+*MOT:	when are they gonna be here?
+*MOT:	probably pretty soon.
+*MOT:	what do you wanna do the most?
+*CHI:	I don't know.
+*MOT:	do you think you'll get to play something?
+*CHI:	a game ⌈xxx⌉.
+*MOT:	a      ⌊game⌋.
+*CHI:	xxx ⌈xxx⌉.
+*MOT:	a   ⌊game⌋.
+*MOT:	you know what you'll get to play a game while mom goes and does something else.
+*MOT:	I think I'm gonna go look at another story or something and you get to, play a game.
+*CHI:	a grown up story?
+*MOT:	I don't know.
+*MOT:	I'll tell you when I get back.
+*MOT:	but I think you get to look at or you get to play a game.
+*MOT:	what game was that?
+*MOT:	I can't quite remember.
+*CHI:	<I don't either> [?].
+*MOT:	you don't remember?
+*MOT:	what's the game that we have that has um, the purple clay in it?
+*MOT:	do you remember that one?
+*MOT:	you like that one.
+*MOT:	it kinda smells kinda funny.
+*MOT:	⌈<and it's> [?]⌉.
+*CHI:	⌊yes⌋, it smells bad.
+*MOT:	it smells bad.
+*MOT:	but it's a fun game.
+*MOT:	I know you like that game.
+*MOT:	it has lots of ⌈questions in it⌉.
+*CHI:	I think it's not that one ⌊though⌋.
+*MOT:	it's not that one?
+*CHI:	hullabaloo.
+*CHI:	it's Hullabaloo.
+*MOT:	it's Hullabaloo?
+*MOT:	or is it Caribou?
+*CHI:	caribou.
+*MOT:	caribou.
+*MOT:	I think Hullabaloo, is that the one you jump on?
+*MOT:	it has little things on the floor?
+*MOT:	                                        ⌈is that what Hullabaloo is⌉?
+*CHI:	yeah and the other one is kinda it said ⌊Hullabaloo⌋ but I don't
+	what I don't know what the other name that we have.
+*CHI:	it's not the other one.
+*MOT:	you don't think it's Caribou and the one with the cards?
+*MOT:	you know we have those cards in the, boxes?
+*MOT:	and, oh and they have those little red and blue little pieces, game pieces.
+*CHI:	I don't know what it.
+*MOT:	I don't know either &=laughs.
+*MOT:	well are you getting kinda ready do you think to play something different?
+*MOT:	you know what I have a question for ya.
+*MOT:	when you're on our couch at home what do you get to is there anything that you might wear differently?
+*CHI:	I need to go potty.
+*MOT:	oh you have to go potty?
+*MOT:	okay we'll forget about that for now.
+*MOT:	do you think do you know what I was thinking though?
+*MOT:	when you climb up on our couch usually I tell you to kick  kick off
+	your +...
+*CHI:	shoes.
+*MOT:	shoes.
+@End

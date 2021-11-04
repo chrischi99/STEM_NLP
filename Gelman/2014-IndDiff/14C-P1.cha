@@ -1,0 +1,512 @@
+@UTF8
+@PID:	11312/a-00032046-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.18|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Teacher
+@Types:	cross, narrative, TD
+*MOT:	what's happening in this picture?
+*MOT:	what is that?
+*CHI:	teacher.
+*MOT:	is that a teacher?
+*MOT:	how do you know it's a teacher?
+*CHI:	because she's drawing stuff on the board.
+*MOT:	what is she drawing on the board?
+*CHI:	numbers.
+*MOT:	just numbers.
+*MOT:	so you think she's a math teacher?
+*MOT:	or maybe, a reading teacher.
+*CHI:	&=turns:page.
+*MOT:	you're already done with that one?
+*MOT:	that was fast.
+*MOT:	her hair is disappearing.
+*MOT:	can you see her hair?
+*CHI:	yes.
+*CHI:	right up on the bangs.
+*MOT:	it's hard to see though.
+*CHI:	&=burps.
+*MOT:	oh excuse me.
+*CHI:	excuse.
+*MOT:	let's use our manners please.
+*MOT:	we're turning the page?
+@G:	Cereal
+*MOT:	what's that?
+*CHI:	cereal.
+*MOT:	yeah.
+*MOT:	who eats that in the morning time?
+*CHI:	&=points:MOT.
+*MOT:	yeah.
+*MOT:	but you you always have to have muesli.
+*CHI:	yeah.
+*MOT:	yeah &=laughs.
+*MOT:	what color?
+*CHI:	yellow.
+*MOT:	and the cereal is yellow too?
+*CHI:	yes.
+*MOT:	is it crunchy or is it soft?
+*CHI:	crunchy.
+*MOT:	&=whispers yummy yummy.
+*MOT:	is it good or is it bad?
+*CHI:	yum.
+*MOT:	&=laughs.
+*MOT:	should we turn the page?
+*CHI:	oh yum.
+*MOT:	maybe there's ice cream.
+*MOT:	what do you think?
+@G:	Popcorn
+*MOT:	&=gasps uh oh ⌈what does what does this remind you of⌉?
+*CHI:	              ⌊popcorn⌋.
+*CHI:	popcorn.
+*MOT:	what does it +...
+*CHI:	oh movie night.
+*MOT:	movie night.
+*MOT:	when is movie nights?
+*CHI:	fridays.
+*MOT:	fridays.
+*MOT:	that's when Daddy makes us popcorn.
+*MOT:	and we get to watch a movie.
+@G:	Alligator
+*MOT:	whoa oh.
+*MOT:	oh no what does that remind you of?
+*CHI:	captain_hook.
+*MOT:	oh Captain_Hook.
+*MOT:	can you hear him?
+*MOT:	what is he saying?
+*CHI:	&=makes:ticking_noises.
+*CHI:	yikes.
+*CHI:	<I think> [?] there's a crocodile coming near my foot.
+*MOT:	do you see him down there?
+*MOT:	better keep our feet up huh?
+*MOT:	kinda scary looking isn't he?
+*CHI:	he stinks.
+*MOT:	he stinks?
+*CHI:	&=flips:pages oh I saw just +...
+*MOT:	you know what?
+*MOT:	you're go you're goin too fast.
+*MOT:	you're cheatin(g).
+*CHI:	why?
+@G:	Penguin
+*MOT:	⌈oh⌉.
+*CHI:	⌊oh⌋.
+*MOT:	what do you think?
+*CHI:	cutey.
+*CHI:	penguin.
+*MOT:	yeah how do you think he feels?
+*CHI:	soft.
+*MOT:	soft.
+*MOT:	does he like to live where it's cold or hot?
+*CHI:	cold.
+*MOT:	does he live in the water or does he live on the ground?
+*CHI:	in the water.
+*MOT:	yes.
+*MOT:	he's a good swimmer isn't he?
+@G:	Orange
+*MOT:	uh what's that?
+*CHI:	orange.
+*MOT:	that looks tasty doesn't' it?
+*CHI:	mm.
+*MOT:	mm I like oranges too.
+*CHI:	hey I think we missed +...
+*CHI:	&=flips:penguin_page
+	&=flips:orange_page.
+*MOT:	we missed one?
+@G:	Penguin
+*CHI:	I thought we missed a page ⌈but it was that penguin one⌉.
+*MOT:	did                        ⌊ya⌋?
+*MOT:	&=laughs.
+*CHI:	let's go &=yawns.
+*MOT:	are you sleepy?
+@G:	Orange
+*CHI:	that's a picture of a orange.
+*MOT:	kinda boring.
+*MOT:	should we turn the page?
+@G:	Witch
+*CHI:	yikes that's Mama.
+*MOT:	that's Mama?
+*CHI:	yeah.
+*MOT:	mama's a witch?
+*CHI:	yeah.
+*CHI:	you've always been a witch.
+*MOT:	yeah I've always been a witch.
+*MOT:	that's for sure.
+*MOT:	yeah.
+*MOT:	what are you gonna be for Halloween next year?
+*CHI:	what?
+*CHI:	what?
+*MOT:	what are you gonna be for Halloween next year?
+*CHI:	a bat.
+*MOT:	a bat?
+*MOT:	you'll be be Mama's bat?
+*MOT:	should I be a witch again?
+*CHI:	yeah.
+*CHI:	with a broom.
+*MOT:	with a broom?
+*MOT:	yeah I need to get a new broom don't I?
+*MOT:	probably.
+*MOT:	anything else?
+*CHI:	that's it.
+*MOT:	okay.
+*MOT:	should I turn the page or do you want to turn it?
+@G:	Pilot
+*MOT:	what's happening here?
+*CHI:	&=sings.
+*MOT:	who is that?
+*MOT:	what?
+*CHI:	bumba bumba.
+*MOT:	bumba way.
+*CHI:	no I was I was saying bumba.
+*MOT:	bumba?
+*MOT:	why were you saying bumba?
+*CHI:	no [?] like Pumba.
+*MOT:	oh like Pumba.
+*MOT:	I see.
+*MOT:	you're being silly.
+*MOT:	what are you doing?
+*CHI:	xxx.
+*MOT:	you got ants in your pants?
+*CHI:	yes.
+*MOT:	I think so.
+*MOT:	what is this a picture of?
+*MOT:	I can't figure this out.
+*MOT:	what is this?
+*CHI:	it's somebody that controls airplanes.
+*MOT:	oh what are those guys called?
+*CHI:	what?
+*MOT:	what are those people called who control airplanes?
+*CHI:	I don't remember.
+*MOT:	how about, a pilot?
+*CHI:	yes.
+*MOT:	sometimes they're captains.
+*MOT:	that's pretty cool.
+*MOT:	so what's he sayin(g)?
+*MOT:	come on aboard?
+*CHI:	come on aboard.
+*MOT:	where are we going?
+*CHI:	we're going to South America.
+*MOT:	south America?
+*MOT:	what are we going to find in South America?
+*CHI:	penguins.
+*MOT:	penguins what else?
+*CHI:	polar bears.
+*MOT:	polar bears.
+*MOT:	cool.
+*CHI:	bears.
+*MOT:	I don't know if I want to see bears.
+*CHI:	grizzly bears.
+*MOT:	not grizzly bears please.
+*MOT:	I don't wanna go see.
+*CHI:	                    ⌈all right⌉ +...
+*MOT:	what else can we go ⌊see⌋?
+*CHI:	I'll just keep with you.
+*MOT:	how about some little teeny tiny frogs?
+*CHI:	they're in a hot place.
+*MOT:	in a hot place.
+*MOT:	are we going to a hot place or a cold place in South America?
+*CHI:	we're gonna go, to a cold place.
+*MOT:	yeah?
+*MOT:	is that why we're going to see the penguins?
+*CHI:	yeah.
+*MOT:	I think South America is a little bit warmer, except for Patagonia.
+@G:	Lobster
+*CHI:	yikes.
+*CHI:	       ⌈yikes⌉.
+*MOT:	what's ⌊that⌋?
+*CHI:	crab.
+*MOT:	you know what it is?
+*CHI:	what?
+*MOT:	it's kinda like a crab but it's called a lobster.
+*CHI:	yikes.
+*MOT:	and you know what?
+*MOT:	these are really good eatin(g).
+*MOT:	mama likes to eat lobsters &=laughs.
+*MOT:	they're very +...
+*CHI:	yuck.
+*MOT:	yes they're very tasty.
+*CHI:	yuck.
+*MOT:	you put (th)em in a pot of water and you boil (th)em up.
+*MOT:	they're very tasty.
+*MOT:	mama and Daddy sometimes we went to a +...
+*CHI:	but you have to cut off the eye balls.
+*MOT:	yeah you would.
+*MOT:	sometimes they put the whole thing on a plate and you can kinda look at it and eat it.
+*MOT:	kinda gives you the willies though.
+*MOT:	usually you just eat the meats back here in the tail.
+*MOT:	it's very tasty.
+*CHI:	yuck.
+*MOT:	daddy and I when we go to a place called Cape Cod we like it there.
+*MOT:	and we eat lobster.
+*CHI:	yeah like Red_Lobsters.
+*MOT:	mm-hm [= yes].
+*CHI:	remember that fox?
+*CHI:	he had a sign up on his wall that's said red lobsters?
+*MOT:	what fox?
+*CHI:	remember the fox fox in Pinocchio?
+*MOT:	oh yeah the fox in Pinocchio.
+*CHI:	I wanted to go over there.
+*MOT:	that's a heater.
+*CHI:	oh that stinks.
+*MOT:	that's all it is.
+*MOT:	it's just a heater.
+*CHI:	did you think this where's the window, that you knock on?
+*MOT:	&=yawns you just knock on that mirror when you're ready.
+*MOT:	we're not finished yet.
+*MOT:	you wanna finish?
+*CHI:	why?
+*CHI:	you mean something's under it?
+*MOT:	I don't know.
+*MOT:	they're I think they're in the next room and they're waiting for us to finish our book.
+*CHI:	let's go.
+@G:	Clown
+*CHI:	             ⌈clown⌉.
+*MOT:	I turned the ⌊page⌋.
+*MOT:	who's +...
+*CHI:	that's that's.
+*MOT:	who does that remind you of?
+*CHI:	firstname.
+*MOT:	firstname?
+*CHI:	yeah.
+*MOT:	is he a clown?
+*MOT:	do we have any other clowns in our family?
+*CHI:	uncle Firstname.
+*MOT:	uncle Firstname.
+*CHI:	does it look like snuckles?
+*MOT:	no.
+@G:	Cake
+*MOT:	oh.
+*MOT:	what do you say about that?
+*CHI:	&=points:to_mother.
+*MOT:	is it my favorite?
+*CHI:	yeah.
+*MOT:	what is it missing though?
+*CHI:	what?
+*MOT:	what do you always need with cake?
+*CHI:	what?
+*MOT:	you don't know?
+*CHI:	I don't know.
+*MOT:	I need ice cream.
+*MOT:	what about you?
+*CHI:	<ice cream> [?].
+*MOT:	oh.
+*MOT:	maybe it's the next?
+@G:	Broccoli
+*MOT:	nope.
+*MOT:	what's that?
+*CHI:	broccoli &=turns:page.
+*MOT:	you don't want to look at the broccoli?
+*CHI:	xxx.
+*CHI:	it's a vegetable.
+*MOT:	yes it is a vegetable.
+@G:	Horse
+*CHI:	a horsey.
+*MOT:	a horsey.
+*MOT:	is that a mama horsey or is it a baby one?
+*CHI:	I can't tell.
+*MOT:	I can't either.
+*MOT:	it's kind of a little one.
+*MOT:	maybe it might be a baby.
+@G:	Elephant
+*MOT:	oh my gosh.
+*CHI:	baby elephant.
+*MOT:	baby elephant.
+@G:	Football Player
+*CHI:	&=turns:page.
+*MOT:	who what is you didn't even look at that.
+*MOT:	what is that?
+*CHI:	it's a football player.
+*MOT:	is it a boy or a girl?
+*CHI:	girl.
+*MOT:	yeah?
+*MOT:	girls can play football?
+*CHI:	yeah.
+*MOT:	are you gonna play football?
+*CHI:	no.
+*MOT:	cool.
+*MOT:	are you all done playing?
+*MOT:	what are you doing?
+*CHI:	&=whispers knocking &=mimes:knocking_on_window.
+*MOT:	what do you want to read it one more time?
+*CHI:	oh man.
+*MOT:	well it's up to you do you want to?
+*CHI:	alright I'll read it again.
+*MOT:	you're getting kinda antsy.
+*MOT:	what do you think?
+*CHI:	you you gave me ants in my pants.
+*CHI:	you gave me ants in my pants stinky.
+*CHI:	oh I want to feel that
+	[= refers to panels on wall].
+*CHI:	it's like soft.
+*CHI:	oh I'm going to sit on that.
+*MOT:	you're gonna do what?
+*CHI:	sit on that?
+*MOT:	you wanna sit you wanna sit on the chairs and look at the book again?
+*MOT:	or are we all done?
+*MOT:	should we look at it one more time?
+*CHI:	ah.
+*MOT:	well it's up to you.
+*CHI:	yes.
+*MOT:	well I can't look at you if your fanny is facing me.
+*MOT:	you're being really silly.
+*CHI:	hey guess what?
+*MOT:	what?
+*CHI:	I see the people in the next room.
+*MOT:	you see the people in the next room?
+*CHI:	yes.
+*MOT:	how can you see them?
+*CHI:	look hard.
+*MOT:	&=laughs come on Firstname let's look at our picture book.
+*CHI:	I +...
+*MOT:	you're being silly.
+*CHI:	see there's the people in the room.
+*CHI:	there's the people.
+@G:	Teacher
+*MOT:	hey let's play a letter game.
+*CHI:	look at them.
+*MOT:	hey.
+*CHI:	what?
+*MOT:	let's play a letter game?
+*CHI:	what?
+*MOT:	what what is this?
+*MOT:	a teacher.
+*MOT:	what letter?
+*CHI:	t.
+*MOT:	t good job.
+@G:	Cereal
+*MOT:	what's this?
+*CHI:	corn bits.
+*MOT:	what letter?
+*CHI:	k?
+*MOT:	k is a good guess but if it's corn bits it would be, C.
+@G:	Popcorn
+*MOT:	what letter?
+*CHI:	p.
+*MOT:	good girl.
+@G:	Alligator
+*MOT:	what letter?
+*CHI:	croc +...
+*CHI:	croc +...
+*MOT:	crocodile.
+*MOT:	c.
+*MOT:	what makes the c sound?
+*CHI:	c.
+*MOT:	say it loud.
+*CHI:	c.
+*MOT:	say it loud.
+*CHI:	c.
+*MOT:	&=laughs c.
+*CHI:	c.
+*CHI:	c.
+*CHI:	c!
+@G:	Penguin
+*MOT:	what letter?
+*CHI:	p &=whispers.
+*MOT:	good.
+@G:	Orange
+*MOT:	this is a hard one.
+*MOT:	what letter?
+*CHI:	a, a +...
+*MOT:	range.
+*MOT:	orange.
+*CHI:	orange.
+*MOT:	what letter?
+*MOT:	what's the first letter?
+*CHI:	I can't figure out.
+*MOT:	o, orange.
+*CHI:	o?
+*MOT:	o.
+*MOT:	yeah it's an O.
+@G:	Witch
+*MOT:	what about this one?
+*CHI:	a +...
+*CHI:	a W?
+*MOT:	good deal.
+@G:	Pilot
+*MOT:	what about this one?
+*MOT:	what did we decide he was?
+*CHI:	&=whispers a xxx.
+*MOT:	(o)kay what letter?
+*CHI:	&=whispers p.
+*MOT:	good girl.
+*CHI:	p.
+*CHI:	p.
+@G:	Lobster
+*MOT:	what about this one?
+*CHI:	l.
+*MOT:	you didn't even have to sound it out.
+@G:	Clown
+*MOT:	what about this one?
+*MOT:	what letter?
+*CHI:	l, L.
+*MOT:	c, clown.
+*CHI:	clown.
+*CHI:	l.
+*MOT:	what's the first letter?
+*CHI:	k.
+*MOT:	well that's a good guess but it's a C.
+*MOT:	we'll have to figure out how to figure that out.
+@G:	Cake
+*MOT:	oh.
+*CHI:	chocolate.
+*MOT:	it's kind of a hard one.
+*MOT:	it's like Charley.
+*MOT:	what letter is that one?
+*CHI:	c.
+*MOT:	yep.
+*MOT:	chocolate.
+*MOT:	Charley.
+*MOT:	choo choo.
+@G:	Broccoli
+*MOT:	what about this one?
+*MOT:	what letter?
+*CHI:	b.
+*MOT:	good girl.
+@G:	Horse
+*MOT:	what letter?
+*CHI:	h.
+*MOT:	you know (th)em all!
+@G:	Elephant
+*MOT:	what letter?
+*CHI:	uh, el, la.
+*CHI:	Ella +...
+*MOT:	elephant.
+*CHI:	elephant.
+*MOT:	e.
+*CHI:	elephant.
+*MOT:	what makes the e sound?
+*CHI:	a.
+*MOT:	e.
+*CHI:	e.
+*MOT:	e.
+*MOT:	a makes the ah sound.
+*MOT:	right?
+*CHI:	yeah.
+*MOT:	okay.
+@G:	Football Player
+*MOT:	what's that?
+*CHI:	a football player.
+*MOT:	yep.
+*CHI:	what's the letter like kind of like f.
+*MOT:	what's that letter &=whispers?
+*MOT:	what makes that sound?
+*CHI:	f.
+*MOT:	good girl.
+*MOT:	you know it all.
+*MOT:	you know what's really hard?
+*CHI:	what?
+*MOT:	the vowels.
+*CHI:	the vowels.
+*CHI:	I'm not doing those.
+*MOT:	you're not doing vowels?
+*MOT:	okay.
+*CHI:	no.
+*MOT:	are we all done?
+*MOT:	can you knock on the window?
+*CHI:	no can't you.
+*MOT:	I could if you want me to.
+*MOT:	do you want me to or do you want to?
+*CHI:	you.
+*MOT:	okay.
+*CHI:	I'm gonna watch you.
+@End

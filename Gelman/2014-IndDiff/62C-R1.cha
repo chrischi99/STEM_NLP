@@ -1,0 +1,226 @@
+@UTF8
+@PID:	11312/a-00032336-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.04|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Lion
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	uh a lion uh roars &=roars.
+*CHI:	a lion that roars [= speaking for Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh it's somebody that sits on it.
+*INV:	mm.
+*CHI:	and they think they're cowboys.
+*INV:	ah.
+*CHI:	turn the page.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a policeman.
+*INV:	what more can you tell me?
+*CHI:	who is he calling?
+*INV:	I'm not sure.
+*CHI:	maybe, he's asking somebody to stop.
+*INV:	oh.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, it's a policeman that goes in his car.
+*CHI:	and he, and he uh does something to people that are not really good at driving.
+*INV:	oh.
+*INV:	does Zorg wanna turn the page?
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	pretzel.
+*INV:	what more can you tell me?
+*CHI:	uh something that somebody eats.
+*CHI:	yummy pretzel.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, it's somebody that eats.
+*CHI:	okay I can do it [= speaking for Zorg].
+@G:	King
+*INV:	what is this?
+*CHI:	a king [= speaking for Zorg].
+*INV:	what more can you tell me?
+*CHI:	uh, he's thinking.
+*CHI:	thinking about what?
+*INV:	hm.
+*CHI:	thinking, what he does.
+*CHI:	maybe he, does, I don't know.
+*CHI:	tell me.
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	maybe, he goes home all the time.
+*INV:	oh.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh, it's it's him that he goes home all the time.
+*CHI:	okay I can do that [= speaking for Zorg].
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a carrier.
+*INV:	what more can you tell me?
+*CHI:	uh how about, uh, she gives that stuff to the ground.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, carrier that puts it on the grass.
+*CHI:	okay I can do it [= speaking for Zorg].
+@G:	Frog
+*INV:	what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	ribbit ribbit.
+*CHI:	uh how (a)bout, it a frog that hops.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	sure.
+*CHI:	uh it's a people, it is a frog that hops.
+*CHI:	okay I can do it [= speaking for Zorg].
+@G:	Cookie
+*INV:	what is this?
+*CHI:	what is it?
+*CHI:	what do you think it is?
+*CHI:	cookie.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	uh, it's a people it's a people that comes to eat it.
+*INV:	go an-go ahead and tell Zorg a little bit more.
+*CHI:	uh Zorg it is that people that comes to eat it.
+*CHI:	okay I can do that [= speaking for Zorg].
+*INV:	sorry.
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn.
+*CHI:	someone comes to eat.
+*CHI:	with, a hamburger.
+*INV:	oh, what more can you tell me?
+*CHI:	uh, somebody comes to eat it.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	a bunny rabbit that I have at home.
+*INV:	oh what more can you tell me?
+*CHI:	uh how (a)bout it's a people that pets it.
+*INV:	go ahead and tell me a little bit more.
+*CHI:	uh, t is a people that uh pets it [= speaking for Zorg].
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	strawberry.
+*INV:	what more can you tell me?
+*CHI:	uh how (a)bout uh, what is it?
+*CHI:	it's a strawberry.
+*CHI:	and, it is uh, a strawberry that somebody comes to eat with.
+*INV:	mm, anything else you can tell me?
+*CHI:	uh it's a people that comes to eat it [= speaking for Zorg].
+@G:	Milk
+*CHI:	ooh, missed it [= turned too many pages].
+*INV:	ah &=fixes:pages.
+*CHI:	        ⌈ah⌉.
+@G:	Surfer
+*INV:	what is ⌊this⌋?
+*CHI:	uh, skier.
+*INV:	mm, what more can you tell me?
+*CHI:	uh how (a)bout, uh he's skiing because uh he likes to ski all the time.
+*INV:	mm.
+*INV:	go ahead and tell me a little bit more.
+*CHI:	uh, turn the page.
+@G:	Milk
+*INV:	what is this?
+*CHI:	milk [= speaking for Zorg].
+*INV:	what more can you tell me?
+*CHI:	I'm gonna drink my water first.
+*INV:	okay.
+*CHI:	I'm gonna go ask my mom for just a little bit more
+	&=drinks:water_from_cup.
+*INV:	okay.
+*CHI:	I'll be back.
+*INV:	okay.
+*CHI:	stay in here.
+*INV:	is it okay if I come with you?
+*CHI:	sure.
+*INV:	okay &=leaves:room &=returns.
+*CHI:	okay we're back.
+*INV:	yep.
+*INV:	is it okay if we keep looking at the picture book?
+*CHI:	sure.
+*INV:	alright.
+*INV:	so what is this?
+*CHI:	milk.
+*INV:	what more can you tell me?
+*CHI:	uh someone that comes to drink it.
+*INV:	mm.
+*CHI:	and somebody comes to drink that [= speaking for Zorg].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	somebody that comes to drink it.
+*CHI:	somebody that comes to drink it right [= speaking for Zorg].
+@G:	Snake
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	okay what more can you tell me?
+*CHI:	uh how (a)bout it's a snake that comes to do, to do sliding on the
+	ground &=hisses.
+*INV:	mm.
+*INV:	you're doing really great.
+*CHI:	thank you.
+*INV:	can you tell Zorg more?
+*CHI:	&=chews &=points:mouth [= indicates mouth full].
+*INV:	take your time.
+*INV:	it's okay.
+*CHI:	okay.
+*CHI:	know what?
+*CHI:	I like this room a lot.
+*INV:	mm.
+*CHI:	it's cool.
+*INV:	that's nice to hear.
+*INV:	it is a cool room.
+*CHI:	yeah.
+*INV:	mm-hm [= filler].
+*CHI:	I've been, up in-what's inside the ceiling?
+*INV:	um, I'm not sure.
+*CHI:	stuff.
+*INV:	                                    ⌈oh⌉.
+*CHI:	it makes to turn the lights off and ⌊on⌋.
+*INV:	oh.
+*CHI:	like switch.
+*INV:	oh, uh huh.
+*INV:	so what more can you tell me?
+*CHI:	uh, Zorg is, it is, that snake slides on the ground.
+@G:	Owl
+*INV:	what is this?
+*CHI:	&=chews an owl.
+*INV:	what more can you tell me?
+*CHI:	uh, it is an owl that flies around +...
+*CHI:	it's an owl that all flies around the world.
+*INV:	oh, can you tell me anything else?
+*CHI:	uh Zorg it is an owl that flies all around the world.
+*CHI:	a owl that comes to fly all around the world [= speaking for Zorg].
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	a boy that's stretching.
+*INV:	what more can you tell me?
+*CHI:	uh, it's a boy that stretches.
+*CHI:	and, you pull, and pulls onto that.
+*INV:	go ahead and tell me a little bit more.
+*CHI:	uh Zorg it is a man that pulls this up.
+*CHI:	and stretches.
+*CHI:	a man that pulls this up and stretches [= speaking for Zorg].
+*INV:	anything else you can tell me?
+*CHI:	&=eats:crackers.
+*INV:	anything else you can tell me?
+@Comment:	end of book
+*CHI:	all done &=turns:page.
+*INV:	all done.
+*CHI:	                    ⌈yep⌉.
+*INV:	do you want to look ⌊again⌋?
+*CHI:	no thanks.
+*INV:	okay.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

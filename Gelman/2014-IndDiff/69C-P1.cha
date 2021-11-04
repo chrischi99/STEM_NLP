@@ -1,0 +1,236 @@
+@UTF8
+@PID:	11312/a-00032376-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.05|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Carrot
+@Types:	cross, narrative, TD
+*CHI:	carrots.
+*MOT:	what what else is on that carrot?
+*CHI:	vegetables.
+*MOT:	vegetab +...
+*MOT:	you're right it is a vegetable.
+*MOT:	but what's what's this stuff?
+*MOT:	what's that?
+*CHI:	grass.
+*MOT:	grass?
+*MOT:	you think?
+*CHI:	yeah.
+*MOT:	oh alright.
+@G:	Baseball Player
+*CHI:	baseball player.
+*MOT:	okay wait wait wait wait wait.
+*MOT:	slow down.
+*MOT:	slow down.
+*MOT:	slow down.
+@G:	Baby
+*MOT:	&=gasps what's that?
+*CHI:	a baby.
+*MOT:	what's that baby doing?
+*CHI:	           ⌈playing⌉.
+*MOT:	maybe like ⌊this⌋ &=turns:book.
+*MOT:	is that better?
+*MOT:	or is it like this.
+*CHI:	it's like this.
+*MOT:	which-?
+*MOT:	this one?
+*MOT:	okay are you over the baby?
+*MOT:	wait let's +...
+*MOT:	wait let's look.
+*CHI:	he's cool.
+@G:	Baseball Player
+*CHI:	now look at baseball player.
+*MOT:	what's what's the baseball player doing?
+*CHI:	playing baseball.
+*MOT:	okay but wait.
+*MOT:	why do you want to rush through the book?
+*MOT:	you just want to tell me what everything is don't ya?
+*CHI:	yeah.
+*MOT:	yeah.
+*MOT:	okay what's what's he doing?
+*CHI:	batting.
+*MOT:	batting.
+*MOT:	and what kind of shoes does he have on?
+*CHI:	baseball shoes.
+*MOT:	are they special?
+*CHI:	mm-hm.
+*MOT:	how are they different?
+*CHI:	very different than mine.
+*MOT:	then yours?
+*MOT:	are they different then these &=points:CHI_shoes?
+*CHI:	they are even cooler.
+*MOT:	they're even cooler?
+*MOT:	oh I see.
+*MOT:	how are they how are they cooler?
+*CHI:	                                      ⌈because they⌉ +...
+*MOT:	do you think his baseball shoes light ⌊up⌋?
+*CHI:	yeah can I +...
+@G:	Bread
+*CHI:	and here's a picture of bread and +...
+*MOT:	okay wait wait wait wait wait.
+@G:	Painter
+*MOT:	okay alright.
+*CHI:	and a painting picture.
+*MOT:	      ⌈what is she⌉ +...
+@G:	Ladybug
+*CHI:	and a ⌊bug⌋.
+*MOT:	what kind of bug?
+*CHI:	ladybug.
+@G:	Painter
+*CHI:	alright we can look at this page.
+*MOT:	okay.
+*MOT:	      ⌈if if you insist⌉.
+*CHI:	she's ⌊painting⌋.
+*MOT:	what is she painting?
+*CHI:	a tree.
+*MOT:	uh huh.
+*CHI:	that's all we can, ⌈that's⌉ +...
+*MOT:	is she painting it from her ⌊memory⌋?
+*CHI:	yes.
+*MOT:	she is?
+*MOT:	or is she painting it maybe from that picture in her hand?
+*CHI:	that picture of her hand.
+*MOT:	but where's her paint?
+*MOT:	how is she painting that picture?
+*CHI:	with grass.
+*MOT:	with grass?
+*CHI:	with paint.
+*MOT:	oh.
+@G:	Ladybug
+*CHI:	ladybug.
+*MOT:	is it a ladybug are you sure?
+*CHI:	yes.
+*MOT:	where's her other leg?
+*CHI:	oh just on the other side.
+*MOT:	oh okay.
+*MOT:	just checking.
+@G:	Puppy
+*MOT:	what's that?
+*CHI:	puppy.
+*MOT:	what kind of a pup-wait.
+*MOT:	what kind of a puppy is that?
+*CHI:	a bulldog.
+*MOT:	a bulldog?
+*CHI:	it's like a bulldog.
+*MOT:	oh do you think that that kitty cat, or that doggie is bigger than xxx [= pets]?
+*CHI:	that doggie is one two three four five six seven eight nine ten.
+*CHI:	it's bigger than xxx [= pets].
+*MOT:	oh okay.
+*CHI:	this is, ten times +...
+*MOT:	do you think it's a dog or a puppy?
+*CHI:	a puppy.
+*MOT:	okay.
+@G:	Cookie
+*CHI:	a cookie.
+*MOT:	what's wrong with that cookie?
+*CHI:	it's breaked apart.
+*MOT:	oh, do you think it would be, good to eat?
+*CHI:	yeah.
+@G:	Turtle
+*CHI:	then the turtle crawling.
+@G:	Doctor
+*CHI:	and the doctor taking care of that girl.
+@G:	Pirate
+*CHI:	and a pirate.
+*MOT:	&=gasps a pirate.
+*CHI:	                      ⌈xxx⌉.
+*MOT:	who's on that pirates ⌊shoulder⌋?
+*CHI:	a parrot.
+*MOT:	a parrot.
+*CHI:	and some gold.
+@G:	Cheese
+*CHI:	a cheese, with holes.
+@G:	Pig
+*CHI:	a pig.
+*CHI:	with black spots.
+@G:	Banana
+*CHI:	a banana with the xxx.
+*CHI:	and that's all I ⌈xxx⌉.
+@Comment:	book closed
+*MOT:	and that's       ⌊it⌋?
+*MOT:	do you want to do it again?
+*MOT:	can you tell me more about the stuff in the book?
+*CHI:	that's all the pages.
+*CHI:	that's all I can say.
+*MOT:	yeah I know can you tell me, wait.
+*MOT:	can you talk to me more about the pictures?
+*CHI:	yeah I'll talk about more with not looking at the pictures.
+*MOT:	oh okay ⌈do you remember the⌉ +...
+*CHI:	I'll show ⌊you⌋ the man ⌈who written this book⌉.
+*MOT:	oh                      ⌊okay⌋.
+*MOT:	who is the man in the book?
+*CHI:	no I don't know who written it.
+*MOT:	who wrote it?
+*CHI:	yes it's by Firstname.
+*MOT:	who's that?
+*CHI:	firstname.
+*MOT:	firstname?
+*CHI:	firstname is a good gol-guy.
+*MOT:	oh.
+*CHI:	who's good at e-great at bowling.
+*CHI:	and getting new books.
+*MOT:	can you can you read that to me?
+*MOT:	what is says on the spine of the book?
+*CHI:	it's John Bowl.
+*MOT:	can, you know what?
+*MOT:	look at this bottom word.
+*CHI:	        ⌈what⌉?
+*MOT:	what is ⌊that⌋?
+*MOT:	tell me what letters are on the bottom.
+*CHI:	d-k-o-o-b.
+*MOT:	okay wait.
+*MOT:	whoa whoa.
+*MOT:	how do we read?
+*MOT:	do we read stuff this way?
+*MOT:	or do we go forward?
+*MOT:	forward or backward?
+*CHI:	forward.
+*MOT:	okay so if we're starting forward what do +...
+*MOT:	very nice.
+*MOT:	don't do that.
+*CHI:	there was a boo boo &=puts:fingers_in_mouth.
+*MOT:	there's a-?
+*MOT:	is it better?
+*CHI:	yeah.
+*MOT:	okay.
+*MOT:	so if we read this way what what letters are in there?
+*CHI:	b-o-o-k.
+*MOT:	okay and what word is B-O-O-K?
+*MOT:	sound it out for me.
+*CHI:	beek.
+*MOT:	try again.
+*MOT:	what if you have two vowels together?
+*CHI:	they xxx.
+*MOT:	so sound it out together.
+*CHI:	b-o-kay.
+*MOT:	b-oo, oo, k.
+*CHI:	b-oo-oo-k.
+*MOT:	book.
+*CHI:	book.
+@G:	Carrot
+*MOT:	now okay if that's a vegetable, what other kind of vegetables are there?
+*CHI:	green vegetables.
+*MOT:	green ones, okay.
+*CHI:	orange vegetables.
+*MOT:	okay.
+*CHI:	yellow vegetables.
+*MOT:	really?
+*CHI:	yeah.
+*MOT:	are you sure?
+*MOT:	are there purple vegetables?
+*CHI:	yes.
+*CHI:	⌈no⌉.
+*MOT:	⌊what's⌋ what's a purple vegetable?
+*CHI:	it's things that are controlled.
+*CHI:	guys Mom there's other kind.
+*MOT:	what what are you doing bud?
+*CHI:	trying to think what it is &=walks:register.
+*MOT:	that is the heater and the air conditioner.
+*CHI:	mommy I'm done in here.
+*MOT:	you're done in here?
+*MOT:	okay.
+*MOT:	here you wanna knock on the glass?
+@End

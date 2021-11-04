@@ -1,0 +1,232 @@
+@UTF8
+@PID:	11312/a-00032042-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.05|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Owl
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	owl.
+*INV:	what more can you tell me?
+*CHI:	<that it> [?] has claws.
+*INV:	mm-hm [= yes].
+*CHI:	in the front and one claw in the back.
+*INV:	mm-hm [= yes].
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm, ah, mm, ah, they they sleep at morning.
+*CHI:	and they wake up at night.
+*INV:	okay.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	he got an x on him.
+*INV:	mm.
+*CHI:	mm, mm, ah, ah there's a little thing under him.
+*INV:	mm-hm [= yes].
+*CHI:	so he doesn't get on water.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	eh, I don't know.
+*INV:	well you know what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	ah, hm.
+*INV:	it's okay.
+*INV:	you can say whatever you'd like.
+*CHI:	I don't know.
+*INV:	mm.
+*INV:	you wanna try a new one?
+@G:	Frog
+*INV:	what is this?
+*CHI:	my dad saw one of these.
+*INV:	mm-hm [= yes].
+*INV:	what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	he have little legs that's sticky.
+*INV:	mm-hm [= yes].
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I he have um, eyes.
+*INV:	mm.
+*CHI:	I don't know what else.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	bunny.
+*INV:	what more can you tell me?
+*CHI:	mm-hm [= yes] he has ears that's long.
+*CHI:	and hm, maybe he has claws.
+*CHI:	but I don't know.
+*INV:	mm-hm [= yes].
+*CHI:	and he has hair.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm.
+*CHI:	I don't know, what [?] else.
+@G:	King
+*INV:	what is this?
+*CHI:	hm it no.
+*CHI:	king?
+*INV:	mm-hm [= yes].
+*CHI:	and, and he's just sitting down.
+*INV:	what more can you tell me?
+*CHI:	mm &=fidgets:with_Zorg.
+*INV:	can I see Zorg for a second?
+*INV:	you know what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm, he has a necklace.
+*INV:	mm-hm [= yes].
+*CHI:	and, I don't know.
+*INV:	okay.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	strong man.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	he has he can lift up this.
+*CHI:	&=points:to_barbell.
+*CHI:	and.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm he's, he's naked.
+*INV:	mm.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	strawberry.
+*INV:	what more can you tell me?
+*CHI:	mm ah <it juice inside> [?].
+*CHI:	mm and you eat it.
+*INV:	mm.
+*INV:	now Zorg doesn't know much about this one.
+*CHI:	&=laughs.
+*INV:	can you help him out?
+*CHI:	mm there's a stem on top of it.
+*INV:	mm-hm [= yes].
+*CHI:	hm it has leafs on here and there's a lot of seeds.
+*INV:	mm.
+@G:	Lion
+*INV:	&=gasps what is this?
+*CHI:	a lion.
+*CHI:	and he has hair.
+*CHI:	and he has claws.
+*INV:	what more can you tell me?
+*CHI:	and he has hair on him right here.
+*INV:	hm.
+*CHI:	&=points:page.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm, he has a tail.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	pretzel.
+*INV:	what more can you tell me?
+*CHI:	mm that's hm salt on there.
+*INV:	mm.
+*CHI:	and you eat it.
+*INV:	mm.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=laughs mm-hm [= yes], it has bread inside.
+*INV:	mm.
+@G:	Pie
+*INV:	what is this?
+*CHI:	mm pie.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	there's hm +...
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=laughs mm there's crust on it.
+*INV:	mm-hm [= yes].
+@G:	Farmer
+*INV:	what is this?
+*CHI:	picture.
+*INV:	mm-hm [= yes].
+*CHI:	mm there's a fence and.
+*CHI:	there's a house and another house.
+*CHI:	cat.
+*CHI:	fruit.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	hm, I don't know.
+*INV:	well you know what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh there's a fence there.
+*INV:	oh.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a police man.
+*INV:	mm-hm [= yes].
+*CHI:	and the police car.
+*CHI:	police hat.
+*CHI:	police jacket.
+*CHI:	and police yeah.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	mm he's got xxx.
+*INV:	mm.
+*INV:	you know what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	there's hm hm, there's a phone that you can talk in.
+*INV:	mm.
+@G:	Corn
+*INV:	well what is this?
+*CHI:	corn.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	mm.
+*CHI:	and it comes from the ground.
+*INV:	mm-hm [= yes].
+*CHI:	hm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=grabs:Zorg.
+*CHI:	I got him [?] [= to Zorg].
+*INV:	ah [= as Zorg]!
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	mm, I don't know.
+*INV:	do you have Zorg or does Zorg have you?
+*CHI:	I have Zorg.
+*INV:	yum yum yum yum [= as Zorg].
+@G:	Milk
+*INV:	&=gasps what is this?
+*CHI:	milk.
+*INV:	what more can you tell me?
+*CHI:	you drink it.
+*CHI:	and it comes from the ground ah a cow.
+*CHI:	and you can xxx.
+*INV:	mm you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm, it comes from and it comes from a jug.
+*INV:	mm.
+@G:	Snake
+*INV:	what is this?
+*CHI:	snake.
+*INV:	what more can you tell me?
+*CHI:	mm-hm [= yes], it has a big body.
+*INV:	mm-hm [= yes].
+*CHI:	and it have little scales.
+*INV:	mm okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I got ya [= talking to Zorg]!
+*INV:	ah xxx [= as Zorg].
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	and maybe it has a rattle thing.
+*INV:	mm.
+@Comment:	no pictures visible
+*INV:	alright.
+*INV:	all done.
+*INV:	do you wanna look again?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+@End

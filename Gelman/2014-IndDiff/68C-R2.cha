@@ -1,0 +1,235 @@
+@UTF8
+@PID:	11312/a-00032373-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.20|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Witch
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a witch.
+*INV:	what more can you tell me?
+*CHI:	um whenever you're asleep a witch um comes out to the night.
+*CHI:	and try to trying to um trying to um make everything worst.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	when when when when a witch finds a broom a magical broom her makes in the sky um um um um in the night.
+*CHI:	their fly on their on their on their on their broom.
+*CHI:	and tries to um tries to ruin everything.
+*INV:	mm, okay.
+*CHI:	zorg had it &=uses:Zorg_To_turn_page.
+*CHI:	but he might need a little trouble.
+*CHI:	I think we got it.
+*CHI:	oh we do.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	penguin.
+*INV:	what more can you tell me?
+*CHI:	when somebody goes to to to to to um, to, to um, one of the, when
+	somebody goes to a zoo there might there might want to their might
+	see penguins.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	um when when somebody has to when somebody has to go go when
+	somebody noticed that that their didn't have school and their day
+	was off a school so they're decided to go to the to to to the to the
+	zoo and they find out that there's penguins.
+*INV:	mm.
+*CHI:	he got it &=uses:Zorg_to_turn_page.
+*INV:	        ⌈ooh⌉.
+*CHI:	but not ⌊yet⌋.
+*INV:	oh.
+*CHI:	he got two.
+*CHI:	I'll get the rest.
+@G:	Teacher
+*CHI:	science teacher right?
+*INV:	what is this?
+*CHI:	um a teacher.
+*INV:	what more can you tell me?
+*CHI:	um when you go to school um your-your teacher um says to look in your book about one two three four five six seven eight nine ten eleven twelve to write in their books.
+*CHI:	and their teacher just goes up and down everywhere so their know which line is to the other line.
+*CHI:	and this line is to the other line.
+*CHI:	and somebody sitting in the in the back.
+*CHI:	and somebody's not sitting in the back.
+*INV:	mm, anything else you'd like to tell Zorg?
+*CHI:	mm let's just turn the page [?].
+@G:	Pilot
+*INV:	what is this?
+*CHI:	um a bus man.
+*CHI:	and when somebody, when somebody um goes on the bus um um to to go home their might need help getting getting home.
+*CHI:	and and their mom told that that that you have to ride a bus.
+*INV:	mm, what else can you tell me?
+*CHI:	um if somebody really has to go to the school if their mom doesn't pick them up and their dad doesn't pick them up, um their decided to go on the bus.
+*INV:	mm, what more can you tell Zorg?
+*CHI:	um, I think Zorg wants to, ⌈turn the page⌉.
+*INV:	                           ⌊yep⌋.
+*INV:	alright.
+*CHI:	do you need help [= to Zorg] &=Zorg_turns_page?
+*CHI:	no he had it.
+*CHI:	he had it but, ah he had it.
+*INV:	mm.
+*CHI:	I hold it up for him to +...
+@G:	Lobster
+*CHI:	oh lobster.
+*INV:	what more can you tell me?
+*CHI:	um when you find a lobster in in your house what is real and you
+	order it at a restaurant um um um you might get pinched [?].
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	when you find um um a lobster on a rock just just just step on his
+	tail then he then he'll become dead.
+*INV:	mm.
+*CHI:	and  then he won't, then he won't pinch you.
+*INV:	mm.
+*CHI:	I think Zorg got it, nope &=uses:Zorg_to_turn_page.
+*INV:	mm, okay.
+*CHI:	come on Zor +...
+*CHI:	we might want to move this over &=pushes:book.
+*CHI:	there.
+*CHI:	now Zorg can get it.
+@G:	Clown
+*CHI:	clown.
+*INV:	what more can you tell me?
+*CHI:	when when you go to the circus you find a clown in in the road.
+*CHI:	and then, the parade starts to come.
+*CHI:	and then the plane, and then the clown has to go, where the jumping things are.
+*CHI:	where people can jump on things.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	um when when you say um what you wanna make me out of the balloons the the the the clown makes it for you.
+*CHI:	(be)cause last time I got I got a doggie balloon with a leash on him.
+*INV:	mm.
+*CHI:	when I found a clown.
+*INV:	mm, you're doing really great.
+*CHI:	okay come on &=uses:Zorg_to_turn_page.
+*CHI:	there's supposed to be a lot of pages for this to be hard.
+*CHI:	I think he might need, he might need this to be over.
+*INV:	mm.
+@G:	Elephant
+*CHI:	elephant.
+*INV:	what more can you tell me?
+*CHI:	when you when when you um go to to to to the to the cir-when you go to the circus somebody's on on on you find you find a you find a um you find a elephant.
+*CHI:	and uh somebody's riding on the elephant.
+*CHI:	and and he has decorations on him.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um Zorg, um sometimes when people um when people um really really um think their could go to the circus and see the elephant looking very decorations out then then their might then their might just think of going there.
+*INV:	mm.
+@G:	Cake
+*INV:	what is this?
+*CHI:	cake.
+*INV:	what more can you tell me?
+*CHI:	when when it's somebody's birthday um um you si-um somebody might get the your favorite um your favorite um your favorite um um bir-birthday cake.
+*CHI:	chocolate and white inside the cake.
+*INV:	mm.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	broccoli.
+*INV:	what more can you tell me?
+*CHI:	when somebody orders um um um um broccoli they just eat it so their know which line is the is that.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well I'm holding up this page so so Zorg can, flip the flip the page over.
+*INV:	oh, okay.
+*CHI:	when somebody goes to a restaurant their their find um their find something on the menu what their want to do.
+*CHI:	so they just order broccoli.
+*INV:	mm.
+*CHI:	and fries.
+*CHI:	and, some, some mac and cheese.
+@G:	Horse
+*INV:	what is this?
+*CHI:	horse.
+*CHI:	when somebody wents to a farm, when somebody goes to a farm um they just ride on a hor-they're ride on a horse.
+*INV:	what else can you tell me?
+*CHI:	um well before you get on a horse you might wanna you might wanna,
+	you might wanna, you might want to, you might want to put um
+	something over the something over the horse so you don't fall off
+	the horse, ⌈while you're riding it⌉.
+*INV:	           ⌊mm⌋.
+*INV:	okay.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	popcorn.
+*INV:	what more can you tell me?
+*CHI:	when somebody um makes popcorn for for their movie um their their um put it in their in their um in their s in their in their um, in their, in their um, oven.
+*CHI:	and their cook it.
+*CHI:	and then when their when their hears the alarm come off then that means that means their popcorn is done.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	crocodile.
+*CHI:	when someone goes in the water um um their might get get hurt from crocodiles.
+*INV:	what more can you tell me?
+*CHI:	when somebody goes very far away um their their see their see a crocodile.
+*CHI:	and and before their and before their their um leave um that croc crocodiles will just swim very fast.
+*INV:	mm.
+*CHI:	like Zorg is &=moves:Zorg.
+*CHI:	he's trying to blow away this [= Zorg].
+*CHI:	he's sniffing away.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	when somebody sees the sunset going down then the crocodiles come up.
+*INV:	mm.
+@G:	Orange
+*INV:	what is this?
+*CHI:	I forgot Zorg was gonna do it &=Zorg:turns_page.
+*INV:	oh, yeah yeah.
+*CHI:	zorg is getting tired.
+*INV:	oh.
+*CHI:	from turning the page.
+*INV:	oh, yeah.
+*INV:	turning the page can be tiring.
+*INV:	it looks like he only has a few more pages through to turn.
+*CHI:	yep one, two, and that's all.
+*INV:	okay.
+*CHI:	one two three.
+*INV:	okay.
+*INV:	so what is this?
+*CHI:	um, orange.
+*CHI:	when somebody gets when somebody finds a orange at a store they
+	just take it and their and their eat it and their throws aw +...
+*CHI:	and but first their ta their their take off the the sticker and and wash it so it doesn't get get get yucky for for it smells.
+*INV:	mm, what more can you tell me?
+*CHI:	let me count this for a second &=counts:pages.
+*CHI:	one, two, three.
+*CHI:	um when when somebody um goes to the store their just their their um their thinks there's juice inside and so their just take it.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	ah I forgot.
+*CHI:	zorg's gonna do it.
+*CHI:	(be)cause he just, needs to do three &=turns:page_back
+	&=uses:Zorg_to_turn_page.
+*INV:	oh okay.
+*CHI:	when people um find chips at stores their put it in a bowl and eat some for their movie.
+*INV:	what more can you tell me?
+*CHI:	if somebody found found a big bowl but it but it's the same color like this one um their just their just um their their put all the chips in there.
+*CHI:	so they can save the rest for tomorrow.
+*CHI:	because they just don't want to, take it out because their might their might get um their might um want to go back to sleep if their open up the box and just pour it in.
+*INV:	okay.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	football player.
+*CHI:	when somebody goes to a football um their their figure out which um football player what their want to see.
+*CHI:	and their sister goes in there so they know which one is the.
+*INV:	what more can you tell me?
+*CHI:	when somebody um um really has to go to the football team to pick up their sister and their brother, their their decided to watch her instead of taking her out of the team.
+*CHI:	because their because her teacher their teacher might say “Stay in
+	the team stay in the team”.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well I think Zorg, just wants to turn the page.
+*INV:	okay.
+*INV:	phew all done.
+*CHI:	that was a lot of pages.
+*INV:	ah, do you want to look again?
+*CHI:	no it's too much.
+*INV:	okay.
+*INV:	let's put Zorg back into his box.
+*INV:	thank you very much for doing that with me.
+*INV:	you did great.
+@End

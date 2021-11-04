@@ -1,0 +1,231 @@
+@UTF8
+@PID:	11312/a-00032378-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.05|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Penguin
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	um I can only tell twelve of them.
+*CHI:	well this is a penguin.
+*CHI:	it can walk, sideways.
+*CHI:	waddle.
+*CHI:	it can move left and right like that.
+*INV:	anything else you'd like to tell me?
+*CHI:	um no thanks.
+*INV:	okay.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	a broccoli.
+*INV:	what more can you tell me?
+*CHI:	I can only tell twelve of (th)em.
+*CHI:	today I can only do three at winter time.
+*CHI:	it's sunny.
+*CHI:	I can only do twelve.
+*INV:	okay.
+*CHI:	what day is it?
+*INV:	uh, Wednesday.
+*CHI:	wednesday.
+*CHI:	only on Wednesdays I can do three of them.
+*INV:	oh can we, can we talk?
+*CHI:	yeah.
+*INV:	okay what more can you tell me?
+*CHI:	mm I can tell, alright I'll tell all of them.
+*CHI:	this is a broccoli.
+*CHI:	you can eat it.
+*INV:	tell me a little bit more.
+*CHI:	and you can eat the, the grass.
+*CHI:	you can eat that vegetable.
+*CHI:	ve-broccolis are vegetables and carrots are vegetables.
+*INV:	mm.
+*CHI:	yeah.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	a a clown is funny.
+*CHI:	and it can do funny tricks.
+*INV:	mm, tell me a little bit more.
+*CHI:	well and it can get a circle and blow blow balloons.
+*INV:	oh.
+*CHI:	yeah.
+*CHI:	and I always bend chairs at lunch time.
+*CHI:	and my mom says always “no”.
+*INV:	mm.
+@G:	Cake
+*INV:	what is this?
+*CHI:	a cake.
+*INV:	what more can you tell me?
+*CHI:	I can tell, you eat it.
+*CHI:	and it has frosting.
+*CHI:	I don't know how to make, we don't have any frosting for cake.
+*INV:	mm.
+*CHI:	I can only make marble cake.
+*INV:	mm.
+*CHI:	it's very delicious.
+*CHI:	but there's a cake store all over town.
+*INV:	oh.
+*INV:	tell me a little bit more.
+*CHI:	well there's a lot more to discover.
+*INV:	mm.
+*CHI:	well the cake you-has, has bread.
+*INV:	mm.
+*CHI:	and that's all I can tell you about cake.
+*INV:	alright.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	football player.
+*INV:	what more can you tell me?
+*CHI:	it throws football.
+*CHI:	and you wrestle.
+*INV:	mm, tell me a little bit more.
+*CHI:	well, when I-I-I went to football and the blue team were harder than the white, then-the white team were harder than the blue team.
+@G:	Elephant
+*CHI:	let me show you more about elephants.
+*INV:	okay.
+*CHI:	elephants are very special-what is this?
+*INV:	I'm not sure.
+*CHI:	huh?
+*CHI:	oh.
+*CHI:	it's a rhinoceros with a trunk.
+*INV:	mm, what more can you tell me?
+*CHI:	well it can, run fast.
+*CHI:	and it can smack its trunk, ⌈with water⌉.
+*INV:	                            ⌊mm⌋.
+*CHI:	and can and they can splash.
+*CHI:	that's all I can tell you about that.
+*INV:	okay.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	cereal.
+*CHI:	you eat it.
+*CHI:	only one thing you have to do.
+*CHI:	and you put it in milk.
+*CHI:	those are all the things you have to do.
+*INV:	tell me a little bit more.
+*CHI:	I can't because I only tell two things.
+*INV:	can you tell me a little bit more?
+*CHI:	sure sure.
+*CHI:	and it goes in a bowl.
+*INV:	mm.
+@G:	Pilot
+*CHI:	I can show you something cool.
+*INV:	&=gasps what is this?
+*CHI:	a man.
+*CHI:	a train.
+*INV:	what more can you tell me?
+*CHI:	a train can go fast and speedy.
+*INV:	tell me a little bit more.
+*CHI:	and it control the train with the buttons and the steering wheel.
+*INV:	mm.
+*CHI:	you know what is a steering wheel?
+*CHI:	it's a thing that's black and white.
+*INV:	mm.
+*CHI:	well my dad has a black and white video game.
+*INV:	oh.
+*CHI:	how we play that Cranium boa-that ball that Cranium ball game?
+*INV:	hm, we can play when we're all done.
+*CHI:	okay.
+*INV:	okay.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	a teacher can have a board that's chalk, but my teacher doesn't have any.
+*CHI:	well it's not like this with the board.
+*CHI:	it has a chalk board in, preschool.
+*INV:	tell me a little bit more.
+*CHI:	well it can use chalk.
+*CHI:	and it tells you what you have to do.
+*CHI:	and it reads a book what you have to do.
+*INV:	mm.
+*CHI:	that's all I can tell ya.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	a lobster.
+*INV:	what more can you tell me?
+*CHI:	well I saw I saw lobsters at Meijer.
+*INV:	mm.
+*CHI:	there was only one last night.
+*INV:	mm.
+*CHI:	he was so worried about his mom and dad.
+*INV:	mm.
+*CHI:	there was a kid one.
+*CHI:	it was so sad he missed his mom and dad.
+*INV:	oh.
+*INV:	tell me a little bit more.
+*CHI:	well they can chop your fingers and snap (th)em out.
+*INV:	oh.
+*CHI:	and you know what sea [?] mantis do?
+*CHI:	their tail really stings.
+*INV:	mm.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	a crocodile.
+*INV:	what more can you tell me?
+*CHI:	it chops your fingers.
+*CHI:	and eats you.
+*INV:	mm.
+*CHI:	and it can eat all your fingers.
+*CHI:	and two [?].
+*INV:	tell me a little bit more.
+*CHI:	well, it smacks its tail with any people like a baseball bat.
+*INV:	okay.
+@G:	Witch
+*CHI:	and I'll show you about witches.
+*CHI:	witches are bad.
+*INV:	what more can you tell me?
+*CHI:	because they live in Halloween.
+*INV:	mm, tell me a little bit more.
+*CHI:	they have bats.
+*INV:	mm.
+*CHI:	they have a broom.
+@G:	Orange
+*CHI:	and can I tell the las-all the different food [?].
+*INV:	what is ⌈this⌉?
+*CHI:	that's a ⌊orange⌋.
+*CHI:	it can it can eat it.
+*CHI:	it has some  xxx.
+*INV:	tell me a little bit more.
+*CHI:	well, it can-you can eat it with out this &=points:picture.
+*INV:	mm.
+*CHI:	or you can eat it with this &=points:picture.
+*INV:	mm.
+*CHI:	how you play in a ball game, of Cranium?
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	cereal.
+*INV:	what more can you tell me?
+*CHI:	how come [?] I got two cereals.
+*INV:	hm ⌈I'm not sure⌉.
+*CHI:	   ⌊xxx⌋.
+*CHI:	you can eat it.
+*INV:	mm.
+*CHI:	and it goes in a bowl.
+*CHI:	and, you eat it with milk.
+*INV:	tell me a little bit more.
+@G:	Horse
+*CHI:	I can tell you the last thing.
+*INV:	what is this?
+*CHI:	a horse can walk.
+*INV:	what more can you tell me?
+*CHI:	it has a feathery [?] tail.
+*CHI:	and it has four arms.
+*CHI:	and it has four legs.
+*INV:	tell me a little bit more.
+*CHI:	well, it has a big body and a long neck.
+*CHI:	that's all.
+*CHI:	can I play that Cranium game again?
+*INV:	yeah.
+*INV:	do you want to look through this again?
+*CHI:	no.
+*INV:	okay.
+*INV:	well thank you very much for playing that with me.
+*INV:	that was a whole lot of fun.
+*INV:	let's go see if we can find that Cranium game again.
+@End

@@ -1,0 +1,373 @@
+@UTF8
+@PID:	11312/a-00032246-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.12|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Ice Cream
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	ice cream.
+*INV:	what more can you tell me?
+*CHI:	mm you eat ice cream.
+*INV:	mm.
+*CHI:	hm and, that's all I know.
+*INV:	mm, can you tell me a little bit more?
+*CHI:	how much?
+*INV:	a little bit.
+*CHI:	I don't know any, more thing about ice cream.
+*CHI:	you put ice cream in a cone.
+*INV:	mm.
+*CHI:	and cups.
+*INV:	mm.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	a firetruck.
+*INV:	what more can you tell me?
+*CHI:	hm, they put out hoses.
+*INV:	mm.
+*CHI:	and, I don't know what else.
+*INV:	well what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	what?
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	who?
+*INV:	zorg &=holds:puppet_up.
+*CHI:	his name is zorg?
+*INV:	mm-hm [= yes].
+*CHI:	I don't like that name.
+*INV:	mm.
+*CHI:	why is his name zorg?
+*INV:	um that's just his name.
+*INV:	do you want to give him a new name?
+*CHI:	&=shakes:head_yes.
+*INV:	okay what do you want to call him?
+*CHI:	hm, Zack.
+*INV:	okay.
+*INV:	z-what more can you tell Zack?
+*INV:	he doesn't know much about this one.
+*CHI:	hm, they're running to a, fire.
+*INV:	mm.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	a racecar.
+*INV:	what more can you tell me?
+*CHI:	um, they race and race.
+*INV:	mm.
+*CHI:	fast.
+*INV:	mm.
+*CHI:	and, steering helps them stay on the road.
+*INV:	mm.
+*INV:	anything else you wanna tell Zack?
+*INV:	he doesn't know much about this one.
+*CHI:	I think that's it.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	a dolphin.
+*INV:	what more can you tell me?
+*CHI:	does he know about a dolphin?
+*INV:	mm-mm [= no].
+*INV:	what more can you tell Zack?
+*INV:	he doesn't know much about this one.
+*CHI:	he knows all of this stuff &=points:pages_book?
+*INV:	mm-mm [= no].
+*INV:	he wants to hear what you have to say.
+*CHI:	well they dive.
+*CHI:	like he's doing right now &=pretends:drive &=makes:Driving_sound.
+*INV:	mm.
+*CHI:	okay I'm all done with this &=laughs.
+*INV:	can we keep going?
+*INV:	can we look at the picture book a little bit more?
+*CHI:	&=nods:yes.
+*INV:	okay.
+*INV:	anything more you wanna tell me?
+@G:	Skunk
+*INV:	what is this?
+*CHI:	a skunk.
+*CHI:	pee-ew.
+*INV:	what more can you tell me?
+*CHI:	they stink.
+*INV:	mm.
+*CHI:	and they spray.
+*CHI:	if you scare (th)em or something.
+*INV:	mm.
+*CHI:	<like> [?] boo!
+*INV:	what more can you tell Zack?
+*INV:	he doesn't know much about this one.
+*CHI:	what is this &=points:ant_in_Zorg_mouth?
+*INV:	I'm not sure.
+*CHI:	it looks like a ant.
+*INV:	mm.
+*CHI:	what are we gonna do after this?
+*INV:	um, we'll play.
+*CHI:	xxx.
+*CHI:	like firstname did?
+*INV:	mm-hm [= yes].
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	mm, can you take a guess?
+*INV:	what do you think?
+*CHI:	hey what's he doing [= about Zorg]?
+*INV:	listening to you.
+*INV:	                             ⌈wha⌉ +...
+*CHI:	why is he shivering a little ⌊bit⌋?
+*INV:	mm.
+*INV:	what can you tell me?
+*CHI:	I I don't know about, much about that.
+*INV:	do you think that maybe, what what do you think?
+*CHI:	&=shrugs:shoulders.
+*INV:	mm do you think maybe it's a pineapple?
+*CHI:	&=nods:yes.
+*INV:	mm, what more can you tell me?
+*CHI:	that's all.
+*INV:	mm.
+*CHI:	okay ⌈I'll just tell you like, two more pages⌉.
+*INV:	Zack ⌊doesn't⌋ +...
+*INV:	okay.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	mm.
+*CHI:	like the ice cream.
+*INV:	mm.
+*CHI:	which is right, there I think &=points:previous_pages.
+*INV:	what else can you tell me?
+*CHI:	hm, what's on here &=points:Zorg?
+*INV:	how about if I tell you when we're all done?
+*CHI:	&=nods:yes.
+*INV:	okay.
+*INV:	what else can you tell me?
+*CHI:	uh +...
+@G:	Old Woman
+*CHI:	hey, that's a cane right there.
+*INV:	mm.
+@G:	Cracker
+*CHI:	hm &=turns:back_pages.
+*INV:	what more can you tell Zack?
+*INV:	he doesn't know much about this one.
+*CHI:	remember his name is not Zack.
+*CHI:	oh, I thought you ⌈changed his name back to his old name⌉.
+*INV:	                  ⌊mm-mm [= no]⌋.
+*INV:	mm-mm [= no].
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a wol-woman.
+*INV:	what more can you tell me?
+*CHI:	I don't know much about people.
+*INV:	mm, well you can say whatever you'd like to.
+*CHI:	but when they hurt, their foot they need a cane.
+*INV:	mm.
+*CHI:	that's all I know.
+*INV:	can you tell me a little bit more?
+@G:	Muffin
+*CHI:	oh this is a really great one.
+*INV:	what is this?
+*CHI:	a blueberry muffin.
+*INV:	oh what more can you tell me?
+*CHI:	well we have chocolate chip cookies at our house.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	&=tries:turn_page.
+*INV:	can we slow down a little bit and talk a little bit more?
+@G:	Ballerina
+*CHI:	I know a lot about this.
+*INV:	okay.
+*INV:	what is this?
+*CHI:	it's a dancer.
+*INV:	mm what more can you tell me?
+*CHI:	okay I'll tell okay now +...
+*CHI:	hey you got your watch upside down.
+*INV:	mm &=nods:yes.
+*INV:	I'm okay.
+*INV:	what more can you tell me?
+*CHI:	what time is it?
+*INV:	eleven o'clock.
+*CHI:	mm, and she dances around.
+*INV:	mm.
+*CHI:	so people can see her.
+*INV:	mm.
+*CHI:	only I know two things about this.
+*INV:	okay.
+*CHI:	and that +...
+*INV:	tell me more &=laughs.
+*CHI:	I know lots about &=turns:pages +...
+*INV:	you told me you knew a lot [= about ballerina].
+*INV:	can you tell me, more?
+@G:	Butterfly
+*CHI:	I know, hey.
+*CHI:	I know a lot about bugs.
+*CHI:	and insects and stuff.
+*INV:	oh.
+*INV:	can can we go back please?
+*INV:	I think we missed quite a few.
+@G:	Ballerina
+*INV:	okay so what is this?
+*CHI:	a dancer.
+*INV:	what more can you tell me?
+*CHI:	okay this is the last page I'm gonna tell you.
+*INV:	mm.
+*CHI:	okay this is the last question too.
+*CHI:	and um, she spins and she, dances around where she's supposed to dance.
+*INV:	mm.
+*INV:	can we can we finish the book?
+*CHI:	remember I was gonna tell you two more pages?
+*INV:	oh can we do two pages now?
+*CHI:	not again.
+*INV:	oh.
+*CHI:	how (a)bout that other one?
+*INV:	you're all done?
+*CHI:	how (a)bout?
+*CHI:	where's that other book?
+*CHI:	where is that?
+*INV:	&=leaves:room.
+*CHI:	your name is firstname?
+*INV:	no firtname's in the other room.
+*CHI:	oh.
+*INV:	so is it okay if we keep looking?
+*INV:	we're almost done.
+*CHI:	&=nods:yes.
+*INV:	okay.
+*INV:	you sure it's okay?
+*CHI:	yeah we'll just look at the pages.
+*INV:	okay.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	did you hear someone knocking?
+*INV:	my buddy knocked.
+*INV:	it's okay.
+*INV:	everything's okay.
+*CHI:	why did she ta-ta knock?
+*INV:	um to let us know everything's okay.
+*CHI:	oh.
+*INV:	so is it okay if we keep looking and talking?
+*CHI:	yeah.
+*INV:	so ⌈what is this⌉?
+*CHI:	well we can just ⌊look⌋.
+*INV:	oh okay.
+*INV:	can we talk a little bit too?
+*INV:	one, two, three, four, five &=counts:pages.
+*INV:	is it okay if we just do the five pages?
+*CHI:	&=nods:yes.
+*INV:	okay.
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	that's all I can tell you, remember?
+*INV:	can you tell me a little bit more?
+*INV:	can you talk a little bit?
+*CHI:	how (a)bout two more questions?
+*INV:	okay.
+*CHI:	um, this is a talking book?
+*INV:	mm-hm because I want to hear what you have to say.
+*INV:	so does Zack.
+*CHI:	hey, ⌈ what is this guy⌉?
+*INV:	so tell me ⌊more⌋.
+*CHI:	what is he, well what is this guy?
+*INV:	I have an idea.
+*CHI:	hm?
+*INV:	I will answer all your question every questions that you have for me once we're all done with the picture book.
+*INV:	but we have to look at the picture book first.
+*INV:	and then you can ask me, as many questions as you want.
+*CHI:	okay.
+*INV:	okay.
+*INV:	so my turn first?
+*CHI:	&=nods:yes.
+*INV:	what is this?
+*CHI:	wait my my turn.
+*INV:	mm once we're all done.
+*CHI:	oh.
+*INV:	okay?
+*CHI:	okay.
+*INV:	okay.
+*INV:	what is this?
+*CHI:	parrot.
+*CHI:	I already told you.
+*INV:	so what more can you tell me?
+*CHI:	they fly.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	&=throws:Zorg ow.
+*CHI:	is that a pig or something [= about Zorg]?
+*INV:	I'll answer all your questions when we're all done.
+*INV:	what else can you tell me?
+@G:	Judge
+*INV:	what is this?
+*CHI:	a director.
+*INV:	what more can you tell me?
+*CHI:	all I can tell you is what he is.
+@G:	Cat
+*INV:	I have an idea.
+*INV:	how about if we look at you just tell me what everything is for the last four and then we go back and we talk again okay?
+*INV:	will that be okay?
+*CHI:	well we can do the first thing that you said.
+*CHI:	we can do that.
+*CHI:	but not the second thing.
+*INV:	but I want to talk to you.
+*INV:	will you talk to me?
+*CHI:	you can talk to me if you want to.
+*INV:	I'll answer all your questions when we're all done.
+*CHI:	&=gets:up &=walks:couch.
+*INV:	okay, you wanna be done?
+*INV:	yeah?
+*INV:	okay.
+@G:	Judge
+*INV:	okay so +...
+*CHI:	somebody's knocking on the +...
+*INV:	yes that's to let us know your brother is in the other room watching us talk about the picture book.
+*INV:	is that okay?
+*CHI:	&=nods:yes.
+*INV:	okay.
+*INV:	so what is this?
+*CHI:	it's a director.
+*INV:	what more can you tell me?
+*CHI:	I can only tell you the things.
+*INV:	okay.
+@G:	Cat
+*INV:	what is this?
+*CHI:	a cat.
+*INV:	what more can you tell me?
+*CHI:	                                                                ⌈xxx⌉.
+*INV:	tell me tell me a little bit more so that your brother can hear ⌊us⌋.
+*INV:	so that he can watch us.
+*CHI:	okay I'll, we'll just talk about the other things that how bout that we all do every day.
+*INV:	oh but he, your brother wanted to watch us look at the picture book.
+*INV:	alright just can can we finish?
+*INV:	we only have a few pictures left.
+*CHI:	how many?
+*INV:	um, two.
+*CHI:	two?
+*INV:	yeah.
+*CHI:	two more?
+*INV:	yep.
+@G:	Pumpkin
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	it gets turned into a jack-o-lantern.
+*INV:	okay.
+*CHI:	and it and they and people bring (th)em for halloween.
+*INV:	oh, very good.
+*INV:	anything else?
+*CHI:	no.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a butterfly.
+*INV:	what ⌈more can⌉ +...
+*CHI:	and it ⌊flies⌋.
+*INV:	mm.
+*CHI:	and, it lays eggs.
+*INV:	mm.
+*INV:	anything else?
+*CHI:	no.
+*CHI:	okay that's it.
+*INV:	we're all done.
+*INV:	great.
+*INV:	thank you very much for doing that with me.
+*INV:	I think your brother probably really liked watchin(g) us.
+@End

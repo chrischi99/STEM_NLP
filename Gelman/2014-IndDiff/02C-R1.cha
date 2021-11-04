@@ -1,0 +1,185 @@
+@UTF8
+@PID:	11312/a-00031976-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.22|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Penguin
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	they have beaks.
+*CHI:	he's listening to this one.
+*INV:	mm-hm [= yes].
+*CHI:	and they have tails.
+*CHI:	feathers.
+*CHI:	this one has blue eyes.
+*CHI:	a white tummy.
+*CHI:	they're black.
+*CHI:	they have a little black on their beaks, and their beaks are orange.
+*CHI:	and they have yellow feet and some, silver claws.
+*CHI:	all penguins have claws.
+*INV:	okay.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	um I I'm tired of doing it.
+*INV:	oh well let's just do it a little bit more.
+*CHI:	but I know what it is.
+*CHI:	a lobster.
+*INV:	a lobster?
+*INV:	what more can you tell me?
+*CHI:	it has whiskers.
+*CHI:	pinchers.
+*CHI:	some fins and lobsters swim.
+*CHI:	and they I'll show you how they
+	walk &=crab_walks.
+*INV:	oh.
+*INV:	what it what are you doing?
+*CHI:	it's, called crab walk.
+*INV:	oh okay.
+*CHI:	firstname from xxx [= daycare] taught us how to do it.
+*INV:	that's neat.
+*CHI:	but now she is going to another xxx [= daycare].
+*INV:	oh okay.
+*INV:	do you wanna hold the book?
+*CHI:	yes.
+*INV:	okay.
+*INV:	oops.
+@G:	Popcorn
+*CHI:	popcorn.
+*INV:	what more.
+*CHI:	yummy.
+*INV:	what more can you tell me?
+*CHI:	it's cheesy and hot and it has, um it has popcorn kernels.
+*CHI:	and it's in a bowl.
+*INV:	&=nods:yes okay.
+*CHI:	&=traces:picture_finger.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes.
+*CHI:	well he was listening to that one too.
+*INV:	okay.
+*CHI:	he wants to listen so he doesn't, he's gonna listen.
+*INV:	okay.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a colt or a philly.
+*INV:	what more can you tell me?
+*CHI:	it has hooves.
+*INV:	mm-hm [= yes].
+*CHI:	it has a long nose.
+*CHI:	some pointy ears.
+*CHI:	a mane.
+*CHI:	a tail.
+*INV:	&=nods:yes.
+*CHI:	let's flip the page.
+*INV:	okay.
+@G:	Witch
+*INV:	what is this?
+*CHI:	it's a witch.
+*INV:	what more can you tell me?
+*CHI:	they come out at Halloween and they're only pretend.
+*INV:	&=nods:yes okay.
+*CHI:	that's all I know.
+*INV:	okay.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*CHI:	they're at circuses and they do funny things but not very much funny to me.
+*INV:	what more can you tell me?
+*CHI:	they're &=turns:page +...
+@G:	Elephant
+*CHI:	oh, &=points elephant.
+*INV:	&=nods:yes what more can you tell me?
+*CHI:	they have long trunks.
+*CHI:	and they have big ears.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he's listening still.
+*INV:	&=laughs oh okay.
+*CHI:	and they have white toes white tusks.
+*CHI:	and their tusks are made for pushing things.
+*INV:	&=nods:yes okay.
+@G:	Orange
+*CHI:	&=skips:page.
+*INV:	oops &=turns:back.
+*CHI:	orange.
+*INV:	what more can you tell me?
+*CHI:	I don't know what else.
+*INV:	&=nods:yes okay.
+@G:	Pilot
+*CHI:	oh.
+*INV:	w +...
+*CHI:	a pilot.
+*INV:	what more can you tell me?
+*CHI:	that he drive um planes.
+*INV:	mm-hm [= yes].
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out.
+*CHI:	no he's he's still listening.
+*INV:	&=laughs okay.
+*CHI:	&=turns:page he's still listening when when I talk.
+*INV:	okay.
+@G:	Broccoli
+*INV:	well what is this?
+*CHI:	broccoli.
+*INV:	broccoli?
+*INV:	what more can you tell me?
+*CHI:	it's a vegetable.
+*INV:	&=nods:yes mm-hm [= yes].
+*INV:	what else can you say?
+*CHI:	&=turns:page.
+@G:	Cake
+*CHI:	oh cake.
+*CHI:	chocolate frosting.
+*CHI:	yum.
+*INV:	yum.
+*INV:	what more can you tell me?
+*CHI:	I don't know &=tries:turn_page.
+*INV:	&=stops:CHI let's talk a little bit more, about
+	this one.
+*CHI:	&=turns:page.
+*INV:	okay.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	a football player.
+*INV:	football player.
+*INV:	what more can you tell me.
+*CHI:	I don't know what else &=turns:page.
+@G:	Teacher
+*INV:	well ⌈what is this &=points⌉?
+*CHI:	     ⌊a⌋ teacher.
+*INV:	what more can you tell me?
+*CHI:	they teach people ⌈that don't know anything about things⌉.
+*INV:	                  ⌊mm-hm⌋.
+*INV:	firstname you're doing really well.
+@G:	Alligator
+*CHI:	oh a crocodile.
+*INV:	what more can you tell me?
+*CHI:	they snap &=mimes:chomp_arms.
+*INV:	mm-hm [= yes].
+*CHI:	and eat all day and all night.
+*CHI:	and they stay up every night.
+*CHI:	and at lunch time they go get a thing or snacks.
+*INV:	mm-hm [= yes].
+@G:	Cereal
+*INV:	&=gasps what is this?
+*CHI:	cereal.
+*INV:	what more can you tell me?
+*CHI:	you eat it with a spoon &=turns:page.
+@Comment:	end of book
+*INV:	can we say a little bit more, about this one
+	&=attempts:turn_back?
+*CHI:	no &=closes:book.
+*INV:	no?
+*INV:	okay.
+*INV:	do you want to look at any again?
+*CHI:	no.
+*INV:	okay.
+*INV:	okay.
+*INV:	thank you very much.
+@End

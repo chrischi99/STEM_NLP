@@ -1,0 +1,286 @@
+@UTF8
+@PID:	11312/a-00032001-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|5;00.14|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Doctor
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	hospital.
+*INV:	what more can you tell me?
+*CHI:	um the little girl's sick, in there.
+*CHI:	and the doctor's seeing if she's okay.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a doctor and little girl sick.
+*CHI:	sh she's making her feel better.
+@G:	Banana
+*INV:	what is this?
+*CHI:	um it's a banana.
+*CHI:	monkeys like bananas too.
+*CHI:	and my brother Firstname had a banana today, ⌈ for breakfast⌉.
+*INV:	                                             ⌊mm⌋.
+*CHI:	xxx French toast &=whispers.
+*INV:	what more can you tell me?
+*CHI:	and it has a stump and you have to pinch and pull one down.
+*CHI:	you have to pinch another side and pull it.
+*CHI:	you have to pinch another side and pull it.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a banana.
+*CHI:	monkey's like bananas.
+*CHI:	and my brother Firstname ate it for breakfast today with French toast.
+*CHI:	and it has a stem you can pinch here and then you can pinch here and then you can pinch here.
+*CHI:	and that's and and monkeys get bananas from a monkey from a banana tree.
+*INV:	mm.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a piggie.
+*INV:	what more can you tell me?
+*CHI:	piggies live on farms and, and you can eat piggies.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a piggie and you can eat piggies.
+*CHI:	and, it it lives on a farm.
+*CHI:	and it gets all dirty because of mud.
+*INV:	mm.
+@G:	Ladybug
+*CHI:	that's a ladybug.
+*CHI:	it looks kind of weird.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	um, a ladybugs can fly when that comes up.
+*CHI:	&=points:picture it helps them to fly.
+*CHI:	and bees can fly too.
+*CHI:	and, ladybugs have red wings with um, black speckles around.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	zorg this is a ladybug.
+*CHI:	these are it's wings &=points:picture.
+*CHI:	and it has red wings with round black spots.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	in the other book we looked at there was a girl who was a football player.
+*INV:	oh.
+*CHI:	well this a football player.
+*CHI:	wait oh yeah I'm talking to you.
+*CHI:	yeah.
+*CHI:	and this is a football player.
+*CHI:	and and it hits balls, and somebody catches it.
+*INV:	what more can you tell me?
+*CHI:	um, and they have a number but that one doesn't.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a football player.
+*CHI:	&=points:picture.
+*CHI:	that's called a bat and it hits balls and somebody grabs it.
+*CHI:	and it has a number but this one doesn't.
+*INV:	mm.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	it's cheese.
+*CHI:	um, mice like to eat cheese.
+*CHI:	um, and my brother like to eat cheese but not that kind of cheese.
+*CHI:	&=points:picture.
+*CHI:	it's in a wrapper and it's orange.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	and mice like to if you put that part off ⌈if you put a little part
+	off um mice will like to eat it because it's little⌉.
+*INV:	                                          ⌊mm-hm [= yes]⌋.
+*CHI:	and mice will grab it ⌈(be)cause it's little⌉.
+*INV:	                      ⌊mm⌋.
+*CHI:	and mice won't eat the big cheese.
+*CHI:	they can't lift it up.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is cheese.
+*CHI:	and mice like to eat cheese.
+*CHI:	and and if you cut it and then the mice could eat.
+*CHI:	and a little piece and then and then the mice could eat it.
+*CHI:	and if it's a big piece the mice can't lift it up.
+@G:	Painter
+*CHI:	what's that?
+*CHI:	a artist.
+*INV:	oh.
+*INV:	what more can you tell me?
+*CHI:	uh artists paint pretty pictures.
+*INV:	mm.
+*CHI:	and some they have these cloths so they can get dirty on it.
+*CHI:	&=points:picture.
+*INV:	mm-hm [= yes].
+*CHI:	so.
+*CHI:	and she's painting a picture of a tree.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg, this is a artist.
+*CHI:	and the she has a cloth so so her shirt doesn't get messy but the cloth gets messy.
+*CHI:	and she's painting a picture of this tree.
+*CHI:	oop that's not it &=whispers &=turns:page.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	it's a turtle.
+*CHI:	and turtles walk slow.
+*INV:	mm.
+*CHI:	you know in my music class they um had a turtle picture and it was slow.
+*CHI:	<then the rabbit one> [?] said this is a fast rabbit and this is a slow turtle.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	um ah turtles have shells so when they're scared they get in their
+	shells &=hides.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well I'm telling Zorg what I'm telling you.
+*INV:	oh okay.
+*INV:	well can you tell him more?
+*CHI:	about can can I start telling Zorg about it?
+*INV:	if if you wanna tell him more you can.
+*CHI:	I wanna tell him.
+*CHI:	zorg this is a turtle.
+*CHI:	turtles walk slow and when they're scared they hide in their shell.
+@G:	Cookie
+*CHI:	zorg this is a cookie.
+*CHI:	and my brother xxx that cookie.
+*CHI:	my brother Firstname always likes cookies.
+*INV:	oh.
+*CHI:	and one time when when I was playing and I was teasing Firstname that maybe if he was good he could get a cookie.
+*CHI:	and and and my and my brother Firstname went to my aunt Firstname
+	and say cookie cookie cookie and he said no Firstname was just being
+	silly.
+*INV:	&=laughs what more can you tell me?
+*CHI:	um, cookies when you eat them they kind of get little crumbs.
+*INV:	oh.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well this is a cookie.
+*CHI:	and when you eat it there's little crumbs.
+*CHI:	and Zorg um, with my brother I told my brother Firstname if he was good he could get a cookie.
+*CHI:	and he went over to my aunt Firstname and said cookie and and and my aunt Firstname said no because I was being it was (be)cause I was being silly.
+@G:	Baby
+*CHI:	xxx this is a baby.
+*CHI:	babies that's just a photograph.
+*INV:	oh okay.
+*CHI:	that's just a photograph.
+*CHI:	is this a photograph?
+*CHI:	yeah.
+*CHI:	um, in the other book that my mom was looking at with me there was just a drawing of a pilot.
+*INV:	oh, well what more can you tell me?
+*CHI:	about the baby?
+*CHI:	the baby has a Snoopy and a bunny and maybe that's another bunny.
+*INV:	okay.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg this is a baby.
+*CHI:	and, and it's laying on maybe it's mom's bed or it's big brother or it's big sister.
+*CHI:	and it has Snoopy and two bunnies.
+*INV:	mm.
+@G:	Duck
+*CHI:	zorg this is a ducks.
+*CHI:	and actually this is a duck.
+*CHI:	it goes quack quack.
+*CHI:	and it can fly.
+*CHI:	and it swims in the water.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	and it has orange feet.
+*CHI:	and it's a daddy duck because it looks like a daddy duck.
+*INV:	oh.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg this is a duck.
+*CHI:	ducks go quack quack.
+*INV:	what else can you tell me?
+*CHI:	and, and, ducks can fly, Zorg.
+*CHI:	and even that's a daddy duck.
+*CHI:	and this is what a daddy duck looks like.
+*CHI:	and this is where it goes quack quack &=hides.
+@G:	Bread
+*INV:	what is this?
+*CHI:	it's bread.
+*CHI:	and you eat bread.
+*CHI:	and or you could eat peanut butter and jelly and sandwiches.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	um bread you like could put butter on it and make it to be toast.
+*INV:	mm.
+*CHI:	or jelly on it it could be toast.
+*CHI:	or peanut butter it could be toast.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg this is bread.
+*CHI:	you make sandwiches with bread.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	this is a carrot.
+*CHI:	but it's kind of, longer and straighter than um then um little carrots.
+*INV:	mm.
+*CHI:	and it has a stem and that's different because the little carrots don't have stems.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	and carrots you could eat.
+*CHI:	it's a vegetable.
+*CHI:	you can dip carrots in, dressing like salad.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg this is a carrot.
+*CHI:	you eat carrots.
+*CHI:	and you can put it in dressing like salad.
+@G:	Pirate
+*CHI:	this is a pirate.
+*INV:	what more can you tell me?
+*CHI:	and it has a parrot on him.
+*INV:	mm-hm [= yes].
+*CHI:	and it and all pirates have that don't they?
+*CHI:	&=points:picture.
+*INV:	hm.
+*CHI:	&=whispers all pirates have that.
+*INV:	I'm not really sure.
+*INV:	what do you think?
+*CHI:	I think so.
+*CHI:	and pirates like to go on the treasure hunts.
+*INV:	mm.
+*CHI:	pirates have a patch.
+*CHI:	all pirates do.
+*INV:	oh.
+*CHI:	when [?] they're pirates.
+*INV:	mm okay.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg this is a pirate and it has a parrot on him.
+*CHI:	and it likes to go treasure hunting.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	it's, it's a dog.
+*CHI:	and dogs go woof woof.
+*CHI:	and and that's a puppy.
+*CHI:	um, um, so.
+*CHI:	um dogs can crawl like this &=crawls.
+*CHI:	not like like on your knees but that's what my brothers do.
+*CHI:	but I don't wanna do I don't want I don't like doing that.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	and dogs have ears and a tail like cats.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a doggie.
+*CHI:	doggies go woof woof.
+*CHI:	and they have ears.
+*CHI:	and they have a tail.
+*CHI:	and they crawl like this &=demonstrates.
+*CHI:	but my brothers do it on their knees.
+@Comment:	End of book
+*INV:	all done.
+*INV:	do you wanna look again?
+*CHI:	no.
+@End

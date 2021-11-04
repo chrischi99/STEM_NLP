@@ -1,0 +1,247 @@
+@UTF8
+@PID:	11312/a-00032331-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.19|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Turtle
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	turtle.
+*INV:	what more can you tell me?
+*CHI:	uh turtles hide from their predators in their shell.
+*CHI:	kinda like this and you don't see it.
+*CHI:	it's kinda like when a mouth closes you can't see the tongue.
+*CHI:	that's what turtles do.
+*CHI:	they cover up.
+*CHI:	peoples think they're a little rock, sliced up.
+*CHI:	in a lot of pieces and then it gets up and walks away.
+*INV:	mm.
+*CHI:	and that's a lot of I know about that.
+*INV:	okay Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and it swims underwater.
+*CHI:	and uh, I think that's all I know.
+*INV:	alright.
+@G:	Pig
+*INV:	what is this?
+*CHI:	pig.
+*INV:	what more can you tell me?
+*CHI:	uh that a pig has a uh, makes it sound go “oink oink”.
+*CHI:	and it has a squiggly tail.
+*INV:	mm.
+*CHI:	     ⌈and⌉ +...
+*INV:	zorg ⌊doesn't⌋, oh.
+*CHI:	and it takes baths in the mud.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and they live at farms.
+*INV:	mm.
+*CHI:	and then they uh eat pig food.
+@G:	Cookie
+*CHI:	oh I love to eat these.
+*INV:	what is this?
+*CHI:	cookie.
+*INV:	what more can you tell me?
+*CHI:	uh you eat cookies and they're baked.
+*CHI:	pl- and they need lots ingredients.
+*CHI:	and they're baked.
+*CHI:	okay?
+*INV:	mm-hm [= yes].
+@G:	Cheese
+*INV:	what is this?
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	well my sister loves cheese just like me.
+*CHI:	and did you see it stand up like that &=tries:balance_pages.
+*INV:	oh, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and mouses like to, climb in tall stacks of cheese, tall towers of cheeses like a little building.
+*INV:	mm.
+*CHI:	oh and when there's a big hole at the top they kinda stand on the edge of it.
+*CHI:	and they kinda fall.
+*INV:	mm.
+*CHI:	and uh that's uh I think alls I know about the cheese one.
+*INV:	okay.
+@G:	Duck
+*INV:	what is this?
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	ducks uh swim.
+*CHI:	and they and they fly.
+*CHI:	and uh they're kinda like cauldrons but cauldrons stay.
+*CHI:	in the winter.
+*CHI:	and uh, we turned it over like this, it would be upside down.
+*CHI:	and when you make it stand up, looks like it would be catching it's food.
+*CHI:	like that.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh and ducks swim.
+*CHI:	and the male ducks have a green head.
+*CHI:	and I forgot what color the uh other ducks have.
+*CHI:	I forgot what color the mommy duck has.
+*INV:	mm.
+*CHI:	so.
+*CHI:	and orange feet.
+*CHI:	orange web feet.
+*CHI:	and they have uh a beak.
+*INV:	mm.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	baseball player.
+*INV:	what more can you tell me?
+*CHI:	baseball players play in baseball game.
+*CHI:	and the batter hits the ball.
+*CHI:	and if it if it goes out of the game home score.
+*CHI:	it's a home run.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*CHI:	he doesn't know much about this one.
+*CHI:	I don't remember more about this, one.
+*INV:	alright.
+@G:	Ladybug
+*CHI:	comes ladybug.
+*INV:	what more can you tell me?
+*CHI:	ladybugs are red with spots.
+*CHI:	with black spots.
+*CHI:	and they and they have lots of black and uh right here.
+*CHI:	they have uh, kinda like mm a dark milk color.
+*CHI:	and my friend Firstname at school can only have soy milk.
+*INV:	mm, well what more can you tell Zorg?
+*CHI:	he doesn't know much about this one.
+*CHI:	and, it uh flies but it has legs and a face.
+*CHI:	I think that's all I know about it.
+*INV:	okay.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bre +...
+@G:	Pirate
+*CHI:	oop forgot this guy [= realizes skipped page] &=turns:back.
+*CHI:	pirate.
+*INV:	what more can you tell ⌈me⌉?
+*CHI:	                       ⌊parrot⌋.
+*CHI:	and the treasure chest.
+*CHI:	and it uh uh hey, something's wrong with this pirate.
+*CHI:	look it's missing its sword, (be)cause I can't see its sword.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and uh it it's guarding its ches-treasure.
+*CHI:	and the pirate's telling the parrots something.
+*CHI:	and I think that's much about I know about this one.
+*INV:	okay.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	they make sandwiches out of bread.
+*CHI:	and a lot of other things.
+*CHI:	and uh you eat bread.
+*CHI:	and you make banana bread out of rotted bananas.
+*CHI:	and I think that's all I I know about the ban- the bread.
+*INV:	okay.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a girl painting a picture.
+*INV:	what more can you tell me?
+*CHI:	uh, the girl is painting a picture of a tree.
+*CHI:	that ha- this has leaves all the way up.
+*CHI:	I think she's drawing the leaves right now.
+*INV:	mm what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and to paint pictures some pe- you have to wear a smock kinda to
+	keep it out of your way.
+*CHI:	and that's all I know about this one.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	carrot.
+*INV:	what more can you tell me?
+*CHI:	well I'm not such a carrot cruncher.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, it you eat carrots.
+@G:	Painter
+*CHI:	hey um the next painting was painting girl.
+@G:	Bread
+*CHI:	before that there was bread.
+@G:	Carrot
+*CHI:	and then came a carrot.
+*CHI:	so they, the bread and the carrot you eat.
+*CHI:	and, and you have (th)em sometimes for a +...
+@G:	Bread
+*CHI:	some people, Firstname likes to have toast for breakfast.
+*CHI:	that's made out of bread.
+*INV:	mm.
+@G:	Carrot
+*CHI:	but that's completely what I know about this.
+*INV:	okay.
+@G:	Puppy
+*CHI:	hey look.
+*INV:	what is this?
+*CHI:	a dog.
+*INV:	what more can you tell me?
+*CHI:	uh, uh dogs makes a sound like “ruff ruff”.
+*INV:	mm.
+*CHI:	and dogs get puppies.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and then they, have a uh, then they have claws.
+*CHI:	and but that's completely all I know.
+*INV:	okay.
+@G:	Baby
+*INV:	what is this?
+*CHI:	baby.
+*INV:	what more can you tell me?
+*CHI:	uh that babies are, I gotta turn like this &=rotates:book.
+*INV:	mm.
+*CHI:	because look the baby's kinda +...
+*CHI:	hey look stars, stars.
+*CHI:	stars and leaves.
+*CHI:	they're both the same colors.
+*INV:	mm.
+*CHI:	so.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, and there is a uh, uh he has a rabbit.
+*CHI:	and Snoopy.
+*CHI:	and that's all I know about this one.
+*INV:	mm.
+@G:	Puppy
+*CHI:	uh gotta turn, oh I forgot we're going this way &=turns:page_back.
+*INV:	hm.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a girl, who's sick.
+*INV:	what more can you tell me?
+*CHI:	she's at the, the hospital.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and she uh is uh xxx +...
+*CHI:	and she's sick (be)cause I think she got a cold.
+*CHI:	and that's all I know about this one.
+*INV:	mm okay.
+@G:	Banana
+*CHI:	here comes our last page.
+*INV:	what is this?
+*CHI:	banana.
+*INV:	            ⌈wha⌉ +...
+*CHI:	my favorite ⌊food⌋.
+*INV:	what more can you tell me?
+*CHI:	I like to eat bananas.
+*CHI:	well, I don't like to eat rotten bananas made out of ro-banana bread I don't like to eat.
+*CHI:	I wanted to try banana bread but my mom would let me.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I'm gonna eat bananas and +...
+*CHI:	I think that's all I know, okay?
+*INV:	alright.
+*INV:	&=gasps do you want to look again?
+*CHI:	no.
+*INV:	okay.
+*INV:	well let's put Zorg back into his home.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a whole lot of fun.
+@End

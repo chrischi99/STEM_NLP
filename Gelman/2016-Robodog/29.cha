@@ -1,0 +1,682 @@
+@UTF8
+@PID:	11312/a-00033632-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Child, MOT Mother, INV Investigator
+@ID:	eng|Gelman|CHI|3;|female|||Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@Media:	29, audio, unlinked
+@G:	Robodog
+*INV:	&=brings:robodog alright here's the first one.
+*MOT:	so what are we supposed to do +...
+*INV:	just hang out and talk as if you would you know naturally.
+*MOT:	okay.
+*INV:	you know play.
+*MOT:	okay.
+*INV:	whatever you want to do to fill the five minutes.
+*MOT:	okay.
+*INV:	are you going to go get it?
+*MOT:	go get it honey.
+*MOT:	what is it?
+*CHI:	&=approaches:robodog it's a dog.
+*MOT:	&=approaches:robodog well come here don't be scared of him.
+*CHI:	child walks away from the robodog.
+*MOT:	uh-oh [= robodog stops] &=talks:robodog.
+*CHI:	&=talks:robodog.
+*MOT:	do you think come here doggy.
+*MOT:	come here doggy.
+*CHI:	come here.
+*CHI:	can I pet him?
+*MOT:	yeah.
+*CHI:	okay &=pets:dog &=returns:couch [= robodog moves].
+*MOT:	oh look it +...
+*MOT:	do you want to go pet him again?
+*CHI:	no I want another toy.
+*MOT:	well you will in a little bit but play with this one first.
+*CHI:	okay.
+*CHI:	&=talks:robodog hi doggy.
+@Comment:	child scared of the dog.
+*MOT:	aw aw you want mommy to move it so it walks towards us?
+*CHI:	yeah.
+*MOT:	mom moves the robodog so it is facing them.
+*MOT:	it stopped.
+*MOT:	do you wanna play with the doggie [= robodog stops]?
+*CHI:	yeah.
+*MOT:	alright go.
+*CHI:	he doesn't want me to because he is going to bite me.
+*MOT:	no he won't bite you.
+*MOT:	that doggie can't bite.
+*MOT:	you don't want to play with +...
+*MOT:	you don't want to play with him honey?
+*CHI:	&=shrugs:shoulders mm-mm [= no].
+*CHI:	&=sits:couch &=watches:robodog.
+*MOT:	&=sits:couch &=watches:robodog alright.
+*MOT:	bye bye doggie.
+*MOT:	you want it to go night night?
+*CHI:	mm-hm [= yes].
+*MOT:	where should we put it so it can go night night huh?
+*CHI:	look at him.
+*MOT:	yeah.
+*MOT:	you still want him to go bye bye huh?
+*CHI:	mm-hm [= yes].
+*CHI:	I I want you to put him away.
+*MOT:	put it away?
+*CHI:	mm-hm [= yes].
+*MOT:	why?
+*CHI:	because I don't want to.
+*MOT:	okay.
+*MOT:	&=points you want me to put it over there?
+*CHI:	no I want you to put it &=sighs &=whines +...
+*MOT:	what where well you know what Firstname's gonna to come and get it in a second okay?
+*MOT:	in probably one minute Firstname's gonna to come get it.
+*MOT:	okay.
+*MOT:	alright?
+*MOT:	so do you want me to put it over here for now?
+*CHI:	no.
+*MOT:	what do you want?
+*MOT:	huh +...
+*CHI:	I don't.
+*MOT:	it's a nice doggie.
+*MOT:	I'll put him right over here okay &=picks:robodog_up &=hides:robodog.
+*CHI:	no &=cries!
+*MOT:	no I'll put it I'll put it right by the door okay okay?
+*MOT:	is that okay?
+*CHI:	yeah.
+*MOT:	alright Firstname.
+*CHI:	&=cries:stop.
+*MOT:	you're silly [= robodog moves].
+*CHI:	&=looks:robodog.
+*MOT:	&=looks:robodog &=gasps uh-oh [= robodog makes noise].
+*MOT:	&=approaches:robodog I'll put it right there &=places:robodog_center
+	[= robodog grunts].
+*MOT:	what's it doing?
+*MOT:	it's talking.
+*CHI:	&=turns &=smiles.
+*MOT:	you like it now?
+*MOT:	huh?
+*CHI:	mm-hm [= yes].
+*CHI:	he's looking down.
+*MOT:	yeah?
+*INV:	&=enters hi I'm back.
+*INV:	are you ready for another one?
+*CHI:	mm-hm [= yes].
+*INV:	okay.
+*MOT:	she was bit by a dog +...
+*CHI:	I wa +...
+*INV:	oh really?
+*MOT:	I don't know if that's why that- +...
+*CHI:	I I I I I wa- I I I want another dog.
+@Comment:	child repeatedly interrupts her mom.
+*INV:	well I have something different for you is that okay?
+*INV:	okay I'll bring the next one in.
+*INV:	you can help me out by playing with this one for five minutes.
+@G:	Car
+*MOT:	you wanna play with the car?
+*INV:	I'll come back in a few minutes okay?
+*MOT:	okay.
+*INV:	alright thanks.
+*MOT:	now go play with the car.
+*CHI:	&=leaves:couch &=plays:with_car where's the button to push it?
+*MOT:	I don't know go bring it here.
+*MOT:	is there a button?
+*CHI:	&=brings:mom_car.
+*MOT:	I don't think there is.
+*MOT:	looks when you when you push it this little thing goes up and down
+	up and down &=gives:child_car.
+*CHI:	is this is  the button?
+*MOT:	I don't know but it just goes up and down when it goes.
+*MOT:	you got to push it okay?
+*CHI:	see it is going up and down.
+*MOT:	you like it?
+*MOT:	what color is that car?
+*CHI:	um blue.
+*MOT:	blue?
+*MOT:	purple and?
+*CHI:	blue.
+*MOT:	green.
+*MOT:	what color are the lights?
+*CHI:	um they're yellow.
+*MOT:	good job!
+*CHI:	and and the back is red.
+*MOT:	you got that right.
+*CHI:	do you like right here?
+*MOT:	yup come here honey let me show you something.
+*CHI:	&=brings:car_mom.
+*MOT:	&=lifts:hood come here look under the under the hood.
+*MOT:	look what color's that?
+*CHI:	that's blue.
+*MOT:	that's purple yes purple.
+*MOT:	you wanna have it go fast?
+*CHI:	mm-hm [= yes].
+*MOT:	&=rolls:car okay.
+*CHI:	&=brings:car_table &=runs well well do you think it broked?
+*MOT:	I don't know.
+*MOT:	are you gonna play with it?
+*CHI:	yeah.
+*MOT:	okay.
+*CHI:	&=plays:car &=rolls:car_MOT.
+*MOT:	woop.
+*MOT:	do you want to play with it on the floor?
+*CHI:	I want to play with it on this table.
+*MOT:	okay.
+*CHI:	&=plays:steering_wheel look it.
+*MOT:	&=nods:head_yes.
+*CHI:	does does this man goes does the man goes in here?
+*MOT:	probably.
+*MOT:	they didn't give you a man though did they?
+*MOT:	to play with.
+*CHI:	ca- can can I let him go in this car?
+*MOT:	yes if if they have one yeah.
+*CHI:	well lets see if she has one.
+*MOT:	okay when she comes back we'll ask her okay?
+*MOT:	do you want one or two men?
+*MOT:	or do you want a boy and a girl?
+*CHI:	I I want a boy and a girl.
+*CHI:	and and I I want a sister to go in the car too.
+*MOT:	oh a sister?
+*CHI:	hi-huh.
+*MOT:	alright sounds good.
+*CHI:	and and I want a a a a brother baby.
+*MOT:	oh a baby brother?
+*CHI:	the the the the little baby the that goes with the momma.
+*MOT:	mm-hm [= yes].
+*CHI:	and how do you open this?
+*CHI:	&=opens:hood let's put the baby in here.
+*MOT:	&=opens:hood in there.
+*MOT:	okay okay &=nods:head_yes.
+*MOT:	can you make the car go fast?
+*CHI:	mm-hm [= yes].
+*CHI:	this car will go fast.
+*CHI:	I'll ask her.
+*MOT:	you'll ask her?
+*CHI:	mm-hm [= yes].
+*MOT:	firstname?
+*CHI:	mm-hm [= yes].
+*MOT:	alright.
+*MOT:	can you make it go fast on the floor?
+*CHI:	and well when you when when the baby and the brother and the sister and the mommy +...
+*MOT:	I'm there?
+*CHI:	mm-mm [= no].
+*MOT:	alright.
+*CHI:	do you think I'll have mother doggy after this?
+*MOT:	we'll see.
+*CHI:	can I have a mother doggy after this.
+*MOT:	we'll have to ask Firstname okay?
+*CHI:	okay.
+*MOT:	alright but she wants you to play with this right now (o)kay?
+*CHI:	okay.
+*CHI:	and and then she will put it away?
+*MOT:	&=nods:head_yes.
+*CHI:	and then I can have the mother doggy?
+*MOT:	we'll see.
+*MOT:	okay?
+*INV:	&=enters hi you guys are doing great are you having fun?
+*CHI:	no can I have a mother doggy?
+*INV:	well you can have something else if you give me that one.
+*MOT:	&=laughs.
+*CHI:	okay.
+*INV:	okay?
+*INV:	okay close your eyes and I'll bring the next one.
+*CHI:	okay &=sits:couch &=closes:eyes.
+*INV:	alright here you go.
+*INV:	here's the next one.
+@G:	Meerkat
+*MOT:	oh cool.
+*INV:	have fun &=leaves.
+*MOT:	what's that?
+*CHI:	um I can't remember.
+*MOT:	what is it.
+*MOT:	let's see &=sits:near_child &=picks:meerkat_up.
+*MOT:	that is a +...
+*MOT:	I don't know what that is.
+*MOT:	I think that it's like a little I don't know &=gives:child_meerkat.
+*MOT:	a little it's not like a squirrel is it?
+*CHI:	no.
+*MOT:	is it a +...
+*MOT:	weasel?
+*CHI:	no.
+*MOT:	it looks like a weasel huh?
+*MOT:	do you like it?
+*CHI:	mm-hm [= yes].
+*MOT:	good.
+*CHI:	I like his eyes.
+*MOT:	yeah what color are his eyes?
+*CHI:	his eyes are black.
+*MOT:	yeah.
+*CHI:	I like animals.
+*MOT:	do you?
+*CHI:	mm-hm [= yes] &=hugs:meerkat.
+*MOT:	aw.
+*MOT:	do you want to give him a name?
+*CHI:	um it's +...
+*CHI:	I know.
+*MOT:	what?
+*CHI:	it ita kangaroo.
+*MOT:	is it?
+*MOT:	it's like a kangaroo.
+*MOT:	that's very good!
+*MOT:	what's your kangaroo's name?
+*CHI:	um his name is Firstname.
+*MOT:	firstname.
+*MOT:	aw that's a nice name.
+*CHI:	&=stands:meerkat see him stand?
+*MOT:	uh-huh [= yes].
+*MOT:	so you gonna leave him?
+*MOT:	you're just gonna leave him on the floor there?
+*CHI:	mm-hm [= yes].
+*MOT:	do you want to have him bounce?
+*CHI:	mm-hm [= yes] &=leaves:couch &=bounces:meerkat.
+*CHI:	I'll watch him bounce &=bounces:meerkat.
+*CHI:	well now I'm gonna gonnan to have him sit down on this chair.
+*MOT:	okay.
+*CHI:	&=places:meerkat_chair oh I'll make his dinner.
+*MOT:	oh you're gonna make his dinner okay?
+*MOT:	what are you gonna make him for dinner?
+*CHI:	now I'm going to make him macaroni and cheese for him and I'm going to make macaroni and cheese for you.
+*MOT:	oh for me too?
+*CHI:	mm-hm [= yes].
+*MOT:	oh thank you!
+*CHI:	um your dinner is gona be ready in a second.
+*MOT:	okay.
+*CHI:	so go downstairs.
+*MOT:	okay how about if I sit at the table?
+*MOT:	don't don't unplug those okay honey?
+*MOT:	how about if I sit at the table (o)kay and wait &=sits:table?
+*CHI:	well you have to eat one cracker.
+%com:	child pretends to give her mom a cracker.
+*MOT:	oh a cracker.
+*MOT:	is this thank you.
+*MOT:	is Firstname gonna have a cracker?
+*CHI:	um I'm gonna give him.
+*CHI:	it is under these plugs.
+*MOT:	oh it is?
+*CHI:	&=feeds:cracker_to_meerkat.
+*MOT:	oh thank you.
+*CHI:	I'll get one for me.
+*CHI:	where is one for me &=looks:for_cracker?
+*CHI:	I didn't get one.
+*MOT:	oh.
+*CHI:	&=eats:cracker &=sits:table.
+*MOT:	that was very good.
+*CHI:	did you want to color some papers?
+*MOT:	oh what we don't have any papers to color though do we?
+*CHI:	um yeah.
+*CHI:	they're right here.
+*MOT:	oh.
+%com:	child pretends to find paper and gives it to her mom.
+*MOT:	thanks!
+*CHI:	color?
+*MOT:	oh is that okay this is the paper?
+*CHI:	yes.
+*MOT:	well where's the crayons?
+*CHI:	oh the crayons are right on top of the fridge.
+*CHI:	I'll get (th)em.
+*MOT:	okay.
+*CHI:	&=places:crayons_on_table.
+*MOT:	oh thank you &=pretends:color.
+*MOT:	is Firstname gonna color?
+*CHI:	yeah I'm gonna give him some paper &=gives:meerkat_some_paper &=moves:meerkat_arm.
+*MOT:	aw look what I made.
+*CHI:	he he colored a butterfly.
+*MOT:	aw.
+*MOT:	what color is the butterfly?
+*CHI:	um he he said it's blue.
+*MOT:	oh.
+*CHI:	now do you want dinner now?
+*MOT:	sure.
+*CHI:	well what would you like?
+*MOT:	well what do you have?
+*CHI:	um I have macaroni and cheese and the burgers.
+*MOT:	macaroni and cheese and what?
+*CHI:	macaroni and cheese and the burgers.
+*INV:	&=enters hi how are you?
+*INV:	can you give this one back?
+*CHI:	yeah &=gives:INV_meerkat.
+*INV:	okay thanks.
+*CHI:	can you give me another one?
+*INV:	let's look at this one &=points:starfish.
+*INV:	do you want to help me uncover this one?
+*CHI:	mm-hm [= yes].
+*INV:	okay.
+*CHI:	&=uncovers:starfish.
+@G:	Starfish
+*INV:	there you can look at this one for five minutes and then I'll come back again &=leaves.
+*MOT:	okay what is that honey?
+*MOT:	what is that?
+*MOT:	let's look at it &=approaches:tank.
+*CHI:	&=approaches:tank.
+*MOT:	huh you know what?
+*MOT:	look at right there &=points:tank.
+*MOT:	what does that look like?
+*MOT:	it looks like an octopus doesn't it?
+*CHI:	yeah.
+*MOT:	do you think it is?
+*CHI:	uh-huh [= yes].
+*MOT:	&=approaches:cage it's not an octopus but it is something like that isn't it?
+*MOT:	oh look it's moving &=sits:chair.
+*CHI:	&=walks:away_from_tank.
+*MOT:	go you honey it's not going to hurt you.
+*CHI:	no.
+*MOT:	alright.
+*MOT:	come it's not scary.
+*MOT:	you want mommy to get close?
+*CHI:	mm-mm [= no].
+*CHI:	&=moves:away_from_cage you put put.
+*MOT:	no I didn't it's the chair you silly &=approaches:tank.
+*MOT:	look it.
+*MOT:	what color is this?
+*CHI:	&=approaches:tank it's blue.
+*MOT:	&=brings:child_to_tank.
+*CHI:	no.
+*MOT:	alright.
+*MOT:	what's it doing?
+@Comment:	mom and child are looking at the tank.
+*MOT:	huh?
+*CHI:	um I don't know.
+*MOT:	is it waving its arms?
+*MOT:	how many arm how many legs does it have?
+*CHI:	um two legs.
+*MOT:	&=points:tank two?
+*MOT:	I see one two three four and there's one hidden back there.
+*CHI:	oh &=looks:away_from_tank.
+*MOT:	you don't like it?
+*CHI:	mm-mm [= no].
+*MOT:	well why don't you like it?
+*CHI:	cause.
+*MOT:	does it look like an octopus or nothing?
+*MOT:	alright well I'm gonna to move so you can look.
+*MOT:	do you want to look at it more closely, huh &=approaches:chair?
+*CHI:	&=follows:mother.
+@Comment:	mom and child are sitting around the table.
+*MOT:	do you want to look at it more closely?
+*MOT:	go and go and look at it.
+*CHI:	no.
+*MOT:	alright.
+*MOT:	do you think it's an octopus huh?
+*CHI:	mm-hm [= yes].
+*MOT:	okay.
+*CHI:	&=looks:tank.
+*MOT:	alrighty then.
+*CHI:	she'll put the cover on in a minute?
+*MOT:	yeah.
+*MOT:	do you want her to put the cover on it?
+*CHI:	mm-hm [= yes].
+*MOT:	alright.
+*MOT:	what color is the cover?
+*CHI:	&=looks:tank_cover um it is white.
+*MOT:	what are you doing with that tongue huh?
+*MOT:	&=tickles:child.
+*CHI:	&=laughs.
+*CHI:	I got a tongue between my teeth.
+*MOT:	who's that in the mirror?
+*CHI:	it's me!
+*MOT:	uh-huh [= yes].
+*CHI:	&=sits:table.
+*MOT:	get off the table.
+*CHI:	because I will hurt myself okay.
+*MOT:	I don't want you to hurt yourself.
+*CHI:	okay &=leaves:table.
+*CHI:	do you want to sit in the +...
+*MOT:	huh look it it's moving.
+*MOT:	wow &=stares:tank.
+*CHI:	&=stares:tank.
+*MOT:	it's that neat?
+*CHI:	um.
+*MOT:	huh?
+*CHI:	yes.
+*MOT:	do you wanna go closer and watch it?
+*CHI:	no.
+*MOT:	alright you don't have to.
+*MOT:	okay?
+*CHI:	&=approaches:chair.
+*MOT:	&=whispers:child what do you think it's name is?
+*CHI:	I don't know.
+*MOT:	do you have any idea?
+*CHI:	um Firstname.
+*MOT:	oh Firstname.
+*INV:	&=enters hi looks like you might be ready for a something else huh?
+*CHI:	&=smiles.
+*MOT:	&=laughs.
+*INV:	are you?
+*MOT:	she was a little scared of that one.
+*INV:	&=laughs justifiably.
+*MOT:	what is it?
+*INV:	should we cover this one back up?
+*INV:	um if you don't mind I'd like to wait for that stuff (un)til the end +...
+*MOT:	oh okay I'm sorry +...
+*INV:	that's fine.
+*INV:	should we cover this up?
+*CHI:	mm-hm [= yes].
+*INV:	yeah.
+*MOT:	xxx.
+*INV:	and I'll bring something else that I hope you'll like.
+*INV:	wanna close your eyes?
+*CHI:	&=sits:couch &=closes:eyes.
+*MOT:	&=laughs.
+*INV:	okay go ahead and open (th)em &=places:degu_on_table.
+@G:	Degu
+*MOT:	what is that?
+*INV:	I'll be back in five minutes okay?
+*CHI:	it's a mouse.
+*MOT:	oh.
+*INV:	&=leaves:room.
+*CHI:	&=leaves:couch &=approaches:degu mouse she's moving.
+*MOT:	yeah.
+*MOT:	you wanna come over by it?
+*CHI:	uh-huh [= yes] &=walks:cage.
+*CHI:	&=walks:couch how about I cannot.
+*MOT:	why?
+*CHI:	because I don't want it to bite me.
+*MOT:	it won't bite you.
+*MOT:	it's in a cage.
+*MOT:	it won't bite you.
+*MOT:	you wanna come talk to it?
+*CHI:	mm-mm [= no].
+*MOT:	no.
+*CHI:	just want to talk to it here.
+*MOT:	okay.
+*CHI:	&=talks:degu hi hi.
+*MOT:	what color is the mouse?
+*CHI:	he's black.
+*MOT:	well kind of brownish black huh?
+*MOT:	what color is the mouse's eyes?
+*CHI:	um it's it's black.
+*MOT:	yeah.
+*CHI:	see he knows how to walk.
+*MOT:	yeah.
+*MOT:	what do you think the mouse's name is?
+*CHI:	um I I don't know.
+*MOT:	oh.
+*CHI:	tell me what his name is.
+*MOT:	I don't know.
+*MOT:	I wanted you to guess.
+*MOT:	what do you think it is?
+*CHI:	um look it my shoes are slipping off.
+*MOT:	well don't take them off.
+*CHI:	my my other foot did.
+*MOT:	well come here then.
+*CHI:	&=walks:mom.
+*MOT:	slide them in.
+*MOT:	here you go.
+*CHI:	&=returns:couch.
+*MOT:	&=talks:degu hi mousy hi mousy ousy.
+*CHI:	she she she has little teeth.
+*MOT:	yeah do you see them?
+*CHI:	uh-huh [= yes] +...
+*MOT:	does he have whiskers?
+*CHI:	and does he have friends?
+*MOT:	I'm sure he has friends.
+*CHI:	see she's eating &=points:cage.
+*CHI:	he he he he +...
+*MOT:	you wanna come over here and sit down?
+*CHI:	no.
+*MOT:	okay.
+*CHI:	&=talks:degu hi little mousy mouse mouse hi hi hi hi.
+*MOT:	what color are his little teeth?
+*CHI:	um it's white.
+*MOT:	oh are they white?
+*CHI:	look at my teeth.
+*MOT:	yeah.
+*CHI:	my teeth are white too.
+*MOT:	yeah that's true.
+*CHI:	um um um what color is my cheek?
+*MOT:	white.
+*CHI:	no it's pink.
+*MOT:	pink you're right that's true that's right.
+*CHI:	and what color is my chin?
+*MOT:	pink.
+*CHI:	and what color is this cheek?
+*MOT:	pink.
+*CHI:	and what color are my eyes?
+*MOT:	blue.
+*CHI:	&=points:pants what color are these?
+*MOT:	tan.
+*CHI:	&=points:shirt and what color is this?
+*MOT:	pink.
+*CHI:	no it's red.
+*MOT:	pinkish purple it's more like purple.
+*CHI:	but it's more +...
+*MOT:	&=talks:degu hi mousy hi mousy.
+*MOT:	he wants to come out  and play.
+*CHI:	don't let him go out.
+*MOT:	do you want me to let me out?
+*CHI:	no.
+*MOT:	why?
+*CHI:	I don't wanna.
+*MOT:	alight.
+*MOT:	you could take him home with you.
+*CHI:	no.
+*MOT:	put him in your pocket.
+*CHI:	no.
+*MOT:	I am just kidding silly.
+*CHI:	look what I put on me &=shows:finger.
+*MOT:	that nice.
+*MOT:	alright.
+*CHI:	can you get if off for me?
+*MOT:	well come here.
+*CHI:	okay get it off &=walks:mom.
+*MOT:	what is it?
+*CHI:	it's it's a part of the toothpaste.
+*MOT:	&=rubs:toothpaste girls.
+*INV:	&=enters:room you've got something on your fingers?
+*CHI:	uh-huh [= yes].
+*INV:	yeah.
+*CHI:	it's toothpaste.
+*INV:	toothpaste on your finger?
+*MOT:	yes.
+*INV:	okay I'll take this one and then we is just have one more okay?
+*MOT:	she's so scared.
+*INV:	&=laughs.
+*CHI:	can can I have the mother back?
+*INV:	can you what?
+*CHI:	can I have a mother now?
+*INV:	a mother now?
+*MOT:	&=laughs.
+*INV:	that's the only one I have.
+*MOT:	maybe that was a mother mouse.
+*INV:	this is the last one.
+*INV:	wanna close your eyes and I'll take the cover off this one?
+*CHI:	&=sits:couch &=covers:eyes.
+*INV:	are they closed?
+*INV:	you're peeking but that's okay &=uncovers:computer_box.
+@G:	Computer Box
+*INV:	there you go.
+*INV:	you guys can play with this one for minutes and then I'll come back
+	and we'll do a different activity &=leaves:room.
+*MOT:	&=approaches:computer_box what is this?
+*CHI:	&=approaches:computer_box.
+*CHI:	can I push the buttons?
+*MOT:	yeah.
+*MOT:	did they push?
+*MOT:	&=pushes:button what colors are those?
+*MOT:	huh.
+*CHI:	&=slams:box.
+*MOT:	be be careful be gentle.
+*MOT:	&=pushes:buttons huh [= computer box beeps].
+*MOT:	huh.
+*CHI:	I'm seeing what it it do.
+*MOT:	move your hand in front of it.
+*CHI:	I +...
+*MOT:	like this move your hand in front.
+*CHI:	&=places:hand_in_front [= computer box beeps].
+*MOT:	do you like that?
+*MOT:	what colors are the lights?
+*CHI:	um this is um yellow.
+*MOT:	uh-huh [= yes].
+*CHI:	and this is red.
+*MOT:	yeap.
+*CHI:	red red red red red red red red.
+*MOT:	and this is &=points:computer_box?
+*CHI:	blue.
+*MOT:	what color?
+*CHI:	blue +...
+*MOT:	green.
+*CHI:	can I push these buttons?
+*MOT:	uh-huh [= yes].
+*CHI:	I'm just doing my (com)puter work down here.
+*MOT:	you're doing what?
+*CHI:	I'm doing my (com)puter work down here.
+*MOT:	oh.
+*CHI:	so go sit at the table.
+*MOT:	okay what are you doing with it?
+*CHI:	um I'm doing I'm I'm I'm I'm doing my work down here.
+*MOT:	oh your work?
+*MOT:	okay.
+*MOT:	what kind of work are you doing?
+*CHI:	um I'm just I'm I'm just I'm working on my computer.
+*MOT:	okay is that your computer?
+*CHI:	uh-huh [= yes].
+*MOT:	okay [= computer box beeps].
+*CHI:	&=looks:mom see my papers running out.
+*MOT:	oh okay.
+*CHI:	mm and here's some paper for you &=walks:table.
+*MOT:	oh thank you.
+*CHI:	&=walks:computer_box.
+*MOT:	what are are you typing?
+*CHI:	uh-huh [= yes] I'm just writing some letters on on Firstname's name.
+*MOT:	oh Firstname?
+*MOT:	okay.
+*CHI:	give give that picture to Firstname.
+*MOT:	okay I will thank you.
+*MOT:	I'll be sure to give it to her.
+*CHI:	&=plays:computer okay I'm done with my computer.
+*MOT:	good job!
+*CHI:	&=walks:mom mm-hm [= yes].
+*MOT:	you are?
+*CHI:	now I'm going to see a new snake?
+*MOT:	oh sure.
+*CHI:	see this &=shows:mom_a_belt?
+*MOT:	it's a snake?
+*CHI:	mm-hm [= yes].
+*MOT:	oh.
+*CHI:	don't touch it.
+*MOT:	I won't.
+*CHI:	you you can just feed him.
+*MOT:	okay.
+*MOT:	what food do you feed him?
+*CHI:	I I feed him um snake food and I feed my rabbit.
+*CHI:	do you want to see my rabbit?
+*MOT:	sure.
+*CHI:	see my rabbit &=points:couch?
+*MOT:	aw.
+*CHI:	don't touch the rabbit.
+*MOT:	okay.
+*CHI:	because I don't want him to bite you.
+*MOT:	okay.
+*CHI:	now do you want to see my little lion?
+*MOT:	sure.
+*CHI:	see my lion right here &=approaches:door &=shows:mom_lion &=ignores:computer:box?
+*MOT:	uh-huh [= yes] oh what's +...
+*CHI:	it it it is a this is little one.
+*MOT:	oh.
+*CHI:	he's quiet because he's sleeping.
+*MOT:	what's your lion's name?
+*CHI:	see my baby?
+*MOT:	aw.
+*INV:	&=enters am I gonna knock you with the door?
+*INV:	oh there you are.
+*INV:	great job.
+*INV:	thanks for playing with these things with me and now I have a different activity.
+*INV:	would you like to sit in this chair and I'll show you what it is?
+@End

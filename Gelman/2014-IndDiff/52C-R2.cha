@@ -1,0 +1,194 @@
+@UTF8
+@PID:	11312/a-00032277-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.12|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Horse
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	trying to think what it is.
+*INV:	any ideas?
+*INV:	go ahead and take a guess.
+*CHI:	hm, hm.
+*CHI:	I know it's not a cow.
+*INV:	mm.
+*INV:	well what can you tell me?
+*CHI:	it says, I know what it says but I just can't do it right.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well, some people ride it.
+*CHI:	and some people they get off of it and they put it through the gate so they don't run away.
+*INV:	do you want to turn the page?
+*CHI:	&=nods:yes.
+*INV:	okay.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	popcorn.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you eat it don't throw it.
+*CHI:	now can we turn the page?
+*INV:	mm-hm [= yes].
+@G:	Teacher
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	she she she teaches to the children.
+*CHI:	and they do it, at their house.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you know that that she gets a piece of chalk and she drew something with it.
+*CHI:	now I'm gonna turn the page.
+*INV:	okay.
+@G:	Elephant
+*INV:	what +...
+*CHI:	it's a elephant.
+*INV:	what more can you tell me?
+*CHI:	it goes &=makes:elephant_noise like a elephant.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	can we just turn the page?
+*INV:	alrighty.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	I know what he do's.
+*CHI:	when he wants to walk.
+*CHI:	he do's this &=waddles:penguin.
+*CHI:	that's silly.
+*INV:	anything else you can tell me?
+*CHI:	they slide on their tummy when they wants to go in the water.
+*INV:	mm, okay.
+*CHI:	now I want to turn the page.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	someone riding in a car.
+*INV:	mm what more can you tell me?
+*CHI:	can we just turn the page?
+*INV:	can you tell me a little bit more?
+*CHI:	sure.
+*CHI:	it goes fast or slow.
+*INV:	mm.
+*INV:	anything else you want to tell me?
+*CHI:	&=shakes:head_no.
+*INV:	okay.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	I don't know about it.
+*INV:	mm, okay.
+*INV:	well you can say whatever comes to mind or whatever you think of.
+*INV:	can you just tell me a little bit?
+*CHI:	sure.
+*INV:	okay.
+*CHI:	xxxx.
+*CHI:	sometimes clowns make them, make them laugh.
+*INV:	anything else you can tell me?
+*CHI:	&=shakes:head_no.
+*INV:	okay.
+@G:	Lobster
+*INV:	&=gasps what is this?
+*CHI:	a crab.
+*INV:	what more can you tell me?
+*CHI:	it pinch you.
+*CHI:	see.
+*CHI:	with this he doos it.
+*INV:	what more can you tell Zorg?
+*CHI:	he doesn't know much ⌈about this one⌉.
+*INV:	                     ⌊hey⌋ I seen some at the store one day.
+*INV:	mm.
+*CHI:	I know that they walked.
+*INV:	mm.
+*CHI:	they don't just stand there.
+@G:	Football Player
+*INV:	what is this &=laughs?
+*CHI:	a football player.
+*INV:	what more can you tell me?
+*CHI:	he throws the ball.
+*CHI:	not just catch it by his self.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	now can I turn the page?
+*INV:	okay.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	chips.
+*INV:	what more can you tell me?
+*CHI:	you eat them not throw them.
+*INV:	can you say a little bit more?
+*CHI:	alright.
+*CHI:	sometimes you can watch tv with them.
+*INV:	mm.
+*CHI:	with them in a bowl.
+*CHI:	now can I turn the page?
+*INV:	mm-hm [= yes].
+@G:	Cake
+*INV:	what is this?
+*CHI:	a piece of cake.
+*INV:	what more can you tell me?
+*CHI:	you eat it if you got this the one that you wanted.
+*CHI:	if you trade it and you already got it then you can't trade.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well you don't throw a piece.
+*CHI:	can I turn the page?
+*INV:	mm-hm [= yes].
+*INV:	you're doing really well.
+@G:	Witch
+*INV:	what is this?
+*CHI:	a witch.
+*INV:	what more can you tell me?
+*CHI:	she flies through the sky with that broom.
+*INV:	what else can you tell me?
+*CHI:	I don't know, what what else.
+*CHI:	so, can I just turn the page now?
+*INV:	mm-hm [= yes].
+@G:	Alligator
+*INV:	what is this?
+*CHI:	a crocodile.
+*INV:	&=laughs what more can you tell me?
+*CHI:	he, he does this &=pretends:bite.
+*CHI:	they try to bite you.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	sometimes they get out of the water.
+*CHI:	now I'm gonna turn the page.
+*INV:	okay.
+@G:	Orange
+*INV:	what is this?
+*CHI:	a orange.
+*INV:	what more can you tell me?
+*CHI:	you eat it not squirt it.
+*CHI:	one time my mom did that at someone.
+*CHI:	and she squirt it on her eye.
+*INV:	mm, anything else +...
+*CHI:	<firstname> [?] tried to do it but he didn't squirt it on his eye.
+*INV:	mm.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	broccoli.
+*INV:	what more can you tell me?
+*CHI:	you eat it not throw it on the ground.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	sometimes there's some on on carrots.
+*INV:	mm.
+*CHI:	now can I turn?
+*INV:	mm-hm [= yes].
+*INV:	&=gasps do you want to look again?
+*CHI:	&=shakes:head_no.
+*INV:	nope all done?
+*INV:	alright.
+*INV:	let's put Zorg back into his home.
+*INV:	thank you very much for doing that with me Firstname.
+*INV:	that was a whole lot of fun.
+@End

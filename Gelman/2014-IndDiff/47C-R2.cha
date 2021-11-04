@@ -1,0 +1,301 @@
+@UTF8
+@PID:	11312/a-00032247-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.28|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Frog
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	frog.
+*CHI:	hop hop.
+*INV:	what more can you tell me?
+*CHI:	what is, Zack?
+*INV:	an alien.
+*INV:	from a planet far far away.
+*CHI:	how did you get him?
+*INV:	how about if you ask me all of your questions when we're all all done?
+*CHI:	okay.
+*INV:	okay.
+*INV:	so what more can you tell me?
+*CHI:	I thought I was gonna tell you all the questions about these when we're done?
+*INV:	well I'll ask you questions about the book.
+*CHI:	uh huh.
+*INV:	and you can answer.
+*INV:	and then when we're done if you have any questions for me I'll answer.
+*CHI:	&=nods:yes.
+*INV:	okay.
+@Comment:	noises outside room
+*CHI:	what are they doing?
+*INV:	nothing.
+*CHI:	when are we gonna be done doing this?
+*INV:	um in a little bit.
+*INV:	is that okay?
+*CHI:	can we do six more pages?
+*INV:	how about if we keep going and we'll see where we end up.
+*CHI:	okay.
+*INV:	okay.
+*INV:	so what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	they hop.
+*CHI:	and I can show you how they hop.
+*INV:	mm.
+*CHI:	hop &=hops.
+*CHI:	and they go “ribbit ribbit”.
+*INV:	anything else you wanna tell me?
+*CHI:	I don't know anything.
+*INV:	mm.
+*CHI:	hm.
+*CHI:	&=gasps they eat flies!
+*INV:	ah.
+*CHI:	and what is that right there &=points:wall?
+*INV:	remember our deal?
+*CHI:	mm-hm [= yes].
+@G:	Snake
+*INV:	what is this?
+*CHI:	snake.
+*INV:	what more can you tell me?
+*CHI:	it swallows things whole.
+*INV:	mm.
+*CHI:	we would throw up if we did that.
+*INV:	mm.
+*CHI:	can't believe a snake can do that.
+*INV:	mm.
+*CHI:	hey what is that &=points:picture?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	hm I don't +...
+*CHI:	hm okay.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	his name is not zorg.
+*INV:	what more can you tell Zack?
+*INV:	he doesn't know much about this one.
+*CHI:	hey you forgot his name.
+*CHI:	hm, they say sss [= snake sounds].
+*INV:	mm.
+@G:	Milk
+*INV:	what is this?
+*CHI:	milk.
+*INV:	what more can you tell me?
+*CHI:	hm, you drink it.
+*CHI:	firstname loves milk.
+*INV:	mm, what more can you tell zor- Zack?
+*INV:	he doesn't know much about this one.
+*CHI:	I got a bike shirt.
+*INV:	mm.
+*CHI:	know what that says [= words on shirt]?
+*INV:	hm?
+*CHI:	I don't know but, can you tell?
+*INV:	mm remember our deal?
+*CHI:	&=nods:yes.
+*INV:	okay.
+*CHI:	hey what's our de-what's our deal?
+*INV:	I'll answer all your questions at the very end.
+*CHI:	okay.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a planter.
+*INV:	what more can you tell me?
+*CHI:	she plants flowers.
+*CHI:	and vegetables.
+*INV:	mm, what else can you tell me?
+*CHI:	she lives at a farm.
+*INV:	mm.
+*CHI:	and she's got lots of animals.
+*INV:	mm.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	a bunny.
+*INV:	what more can you tell me?
+*CHI:	hm, I wanna sit over here &=moves:couch.
+*CHI:	can they see us from over here?
+*INV:	mm-hm [= yes].
+*CHI:	mm well bunny rabbits hop.
+*CHI:	and they have long ears.
+*CHI:	and they eat carrots.
+*INV:	mm.
+*CHI:	from gardens.
+*CHI:	and, they have sharp claws.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	mm can you take a guess?
+*CHI:	police officer.
+*INV:	mm, what more can you tell me?
+*CHI:	hm she has sirens on top of her car.
+*INV:	mm.
+*CHI:	and, she picks people when they're really hurt.
+*INV:	mm.
+*CHI:	that's a really important thing.
+*INV:	mm.
+*CHI:	and, they drive real fast.
+*INV:	mm-hm [= filler].
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn.
+*CHI:	ew.
+*CHI:	what are those little black thingies?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	&=shrugs.
+*INV:	what more can you tell me?
+*CHI:	this is the last time I'm gon, I wanna come here.
+*CHI:	I'm going to a fun park and meeting my friend there today if I do a great job doing this.
+*INV:	mm.
+*CHI:	and, you eat corn.
+*CHI:	and, they have all different kinds of spots.
+*INV:	mm.
+*CHI:	and &=turns:page.
+@G:	Pie
+*INV:	what is this?
+*CHI:	waffle.
+*INV:	what more can you tell me?
+*CHI:	you eat waffles.
+*CHI:	and you put syrup on them.
+*CHI:	and, you put peanut butter.
+*INV:	anything else you wanna tell Zack?
+*INV:	he doesn't know much about this one.
+*CHI:	xxx.
+*CHI:	I want to give him another new name.
+*INV:	okay.
+*CHI:	can you think of another name for him?
+*INV:	how (a)bout firstname?
+*CHI:	no.
+*INV:	mm.
+*CHI:	not have the same name as me.
+*CHI:	hm think of another name.
+*INV:	I'm not sure.
+*CHI:	            ⌈hm⌉.
+*INV:	what do you ⌊think⌋?
+*CHI:	we can call him zorg again.
+*INV:	zorg?
+*INV:	okay.
+*INV:	so what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	whoa, ouch &=falls:floor_purposefully.
+*CHI:	hey do you have new shoes?
+*INV:	uh, remember our deal?
+*CHI:	um, that's all I know.
+@G:	Lion
+*CHI:	ooh a lion.
+*INV:	what more can you tell me?
+*CHI:	they have sharp claws.
+*CHI:	and they have tails.
+*CHI:	and they have, hair around their faces.
+*INV:	mm, anything else you wanna tell zorg?
+*CHI:	hm, they have hips on the back of their legs.
+*INV:	mm.
+*CHI:	and they have tails.
+@G:	Owl
+*INV:	what is this?
+*CHI:	a owl.
+*INV:	what more can you tell me?
+*CHI:	I can whistle.
+*INV:	hm.
+*CHI:	when I tried when I was three I went &=blows:air.
+*CHI:	they fly.
+*INV:	mm, anything else you can tell zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	what is on the other xxx [= INV cards]?
+*INV:	ooh do you remember what we talked about?
+*INV:	let's keep going.
+*INV:	we just have a few more pages left.
+*CHI:	count how many.
+*INV:	&=counts:pages.
+*CHI:	how many?
+*INV:	six.
+*INV:	can we finish up?
+*CHI:	can can you move your chair over here please?
+*INV:	will we look at the picture book?
+*CHI:	&=nods:yes.
+*INV:	okay &=moves:chair.
+*CHI:	they have sharp claws.
+*CHI:	purple claws.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	a stretch.
+*INV:	what more can you tell me?
+*CHI:	he's really strong.
+*CHI:	and, what is the thing called &=points:weight?
+*INV:	hm I'm not sure.
+*CHI:	maybe a stretcher.
+*INV:	mm.
+*CHI:	and he has strong muscles.
+@G:	Surfer
+*CHI:	ooh a surfboarder, &=imitates:surfing hm.
+*INV:	what more can you tell me?
+*CHI:	I'm gonna scoot it all the way to the door &=moves:chair_door.
+*INV:	what more can you tell me?
+*CHI:	I can't see it from over here.
+*INV:	&=moves:book.
+*CHI:	Julie I want to lay down on the carpet &=lays:floor.
+*CHI:	hm, he has a surfboard you see.
+*CHI:	and they try to win.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	strawberry.
+*INV:	what more can you tell me?
+*CHI:	that those little green things often you eat (th)em.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	did you just call him zorg?
+*INV:	mm-hm [= yes].
+*INV:	remember we went back to zorg?
+*CHI:	hey I've been, how (a)bout firstname?
+*INV:	okay.
+*CHI:	we can call him firstname.
+*INV:	okay.
+*CHI:	like my brother firstname.
+*INV:	okay.
+*INV:	what more can you tell firstname?
+*INV:	he doesn't know much about this one.
+*CHI:	hm, xxx pop.
+*CHI:	I just realized something.
+*INV:	hm?
+*CHI:	after this we can fit that zor- um firstname in this box and we
+	could um hide him and try to find him.
+*INV:	okay.
+*CHI:	and I could and you hide him and I try to find him.
+*INV:	okay.
+*CHI:	and they have little leaves growing out of them.
+@G:	King
+*INV:	what is this?
+*CHI:	I'm not sure.
+*INV:	go ahead and take a guess.
+*CHI:	king.
+*INV:	mm, what more can you tell me?
+*CHI:	they sleep.
+*INV:	mm.
+*CHI:	they have queens queens.
+*CHI:	whoa we have two more.
+*CHI:	I mean &=counts:pages we have two more.
+*INV:	what more can you tell firstname [= sibling]?
+*INV:	he doesn't know much about this one.
+*CHI:	um xxx.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	pretzel.
+*CHI:	and you eat (th)em.
+*CHI:	and, I don't know what those, white things are.
+*INV:	mm.
+*CHI:	so, and they taste good.
+*CHI:	and they taste really good.
+*INV:	what else can you tell me?
+*CHI:	everybody they they are healthy.
+*INV:	anything else you wanna tell firstname?
+*INV:	he doesn't know much about this one.
+*CHI:	and they look like snakes.
+*INV:	all done.
+*CHI:	whoa I did a really good job.
+*INV:	you did do a really good job.
+*CHI:	hey what about that surprise?
+*INV:	oh well how (a)bout if we put zorg or firstname or-what else did we call him, Zack back into his box.
+*CHI:	no we call him firstname.
+*INV:	we call him firstname.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

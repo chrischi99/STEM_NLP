@@ -1,0 +1,176 @@
+@UTF8
+@PID:	11312/a-00032379-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.21|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Lion
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a lion.
+*CHI:	a lion has fur.
+*CHI:	a furry tail.
+*CHI:	a long tail.
+*CHI:	claws.
+*CHI:	big knees.
+*CHI:	and a big body.
+*CHI:	and so much fur.
+*CHI:	and, a small face.
+*CHI:	two small eyes.
+*INV:	can you tell me a little bit more?
+*CHI:	and they can walk.
+*INV:	okay.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	police.
+*INV:	what more can you tell me?
+*CHI:	police has a hat and a megaphone.
+*CHI:	and it has a badge in it, on there.
+*CHI:	and it has and it drives a car.
+*INV:	okay.
+@G:	Ballerina
+*INV:	I think, what is this?
+*CHI:	I can't tell about ballerinas because I'm a boy.
+*INV:	oh.
+@G:	Surfer
+*INV:	okay well what is this?
+*CHI:	well a boy.
+*INV:	what more can you tell me?
+*CHI:	he slides.
+*CHI:	he's sliding on diving under water and sliding on the board.
+*CHI:	what is that?
+*INV:	I'm not sure.
+*CHI:	a swimming board.
+*CHI:	yeah it is.
+*CHI:	and swim trunks and hair.
+@G:	Frog
+*INV:	what is this?
+*CHI:	frog.
+*INV:	what more can you tell me?
+*CHI:	it can jump really high.
+*INV:	tell me a little bit more.
+*CHI:	and, it eats bugs.
+*CHI:	and it has jumping feet.
+@G:	Pie
+*CHI:	        ⌈a waf⌉ +...
+*INV:	what is ⌊this⌋?
+*CHI:	a waffle cover.
+*CHI:	and you stuff it.
+*INV:	what more can you tell me?
+*CHI:	a wa-a waffle has stuff in it.
+*INV:	tell me a little bit more.
+*CHI:	well, that is, and I can't remember what it has inside it.
+*INV:	mm, okay.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a lady, carrying stuff.
+*INV:	what more can you tell me?
+*CHI:	well it has this on.
+*CHI:	and a hat on.
+*CHI:	and carrying food.
+@G:	Snake
+*INV:	what is this?
+*CHI:	a snake.
+*CHI:	hey this is the one like Pokemon.
+*INV:	mm, tell me a little bit more.
+*CHI:	his name is Slam Slake Snake.
+*INV:	anything else you want to say?
+*CHI:	it can it it swallows bugs.
+*INV:	mm.
+*CHI:	and it has a face on it.
+*INV:	mm.
+*CHI:	and it has that big tail.
+*CHI:	and look at it.
+*INV:	mm.
+*CHI:	it's big as a worm.
+@G:	Owl
+*INV:	oh what is this?
+*CHI:	a owl.
+*INV:	what more can you tell me?
+*CHI:	it has two giant claws.
+*CHI:	it has wings.
+*CHI:	and scary eyes and a, blue nose.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	oh yeah.
+*CHI:	it has leaves on it.
+*CHI:	and it has seeds in it.
+*INV:	tell me a little bit more.
+*CHI:	it has juice in it.
+*CHI:	and seeds.
+*CHI:	and grass on it.
+*CHI:	and a top on it.
+*INV:	oh.
+@G:	Weightlifter
+*INV:	what is this?
+*INV:	do you want a Kleenex?
+*CHI:	yeah &=blows:nose.
+*CHI:	this is a strong guy.
+*CHI:	do you know what strong guys do?
+*INV:	hm?
+*CHI:	it lifts up stuff and lifts weight.
+*INV:	mm.
+*CHI:	and it's strong.
+*CHI:	well my dad do basketball.
+*CHI:	I keep beating Dad at kids' sports.
+*INV:	mm.
+*CHI:	and I keep beating Mom on, and I keep beating xxx
+	&=throw:away_tissue.
+*CHI:	and it has balls on it.
+*CHI:	and a big weight.
+@G:	Milk
+*INV:	what is this?
+*CHI:	milk.
+*INV:	what more can you tell me?
+*CHI:	you drink it.
+*CHI:	and then it's and then you swallow it.
+*INV:	tell me a little bit more.
+*CHI:	and it's white.
+*CHI:	and it's in a glass.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	a pretzel.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	and then it has, seeds in it.
+*INV:	tell me a little bit more.
+*CHI:	and, it's very not good for me.
+*INV:	mm.
+*CHI:	big kids don't love it.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	a bunny rabbit.
+*CHI:	a bunny rabbit can jump high.
+*INV:	what more can you tell me?
+*CHI:	and they can go boing boing boing &=makes:fingers_hop.
+*CHI:	and they can hop really big.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	well kings have a crown.
+*CHI:	                     ⌈and they have⌉ +...
+*INV:	tell me a little bit ⌊more⌋.
+*CHI:	and a necklace.
+*CHI:	and it has a dress on.
+@G:	Corn
+*INV:	what is this?
+*CHI:	a, a different co, a cor, a corn xxx.
+*INV:	what more can you tell me?
+*CHI:	hey how we get this thing &=tries:turn_page?
+*CHI:	no more on this page?
+*INV:	no.
+*INV:	what more can you tell me?
+*CHI:	it has splotches in it.
+*CHI:	and corn pops.
+*CHI:	and it has wild grass in it.
+*INV:	tell me a little bit more.
+*CHI:	and it has red black and yellow corn pops.
+*INV:	okay, you want to look again?
+*CHI:	no.
+*INV:	okay well how about we go press stop?
+@End

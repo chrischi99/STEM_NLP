@@ -1,0 +1,199 @@
+@UTF8
+@PID:	11312/a-00032306-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.18|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Dolphin
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a whale.
+*CHI:	the whale jumps up and then he goes in the water.
+*INV:	what more can you tell me?
+*CHI:	whales xxx their tails and make big water splash.
+*INV:	anything else you can tell Zorg?
+*CHI:	he he can jump up and wag his tail to make big splashes.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	I don't know what that is.
+*INV:	hm.
+*INV:	can you take a guess?
+*CHI:	I don't know what it is so.
+*INV:	well what can you tell me?
+*CHI:	uh he does a fir +...
+*CHI:	I don't know what that is.
+*INV:	hm.
+*INV:	any ideas?
+*CHI:	&=nods:head_yes.
+*INV:	go ahead and take a guess.
+*CHI:	a firefighter going up on the a big xxx ladder.
+*CHI:	he just doing this.
+*CHI:	pulling the lever down.
+*CHI:	doing something.
+*CHI:	trying to stop that from falling in the sk- out of the sky.
+*INV:	what else can you tell me?
+*CHI:	he he pulling the lever to make that go in the sky.
+*CHI:	and then he pulls this, up.
+*CHI:	and then he tried to um kill that but he couldn't.
+*CHI:	he did it again and didn't didn't kill it.
+*INV:	anything else you want to tell Zorg?
+*CHI:	he climbs up the green ladder.
+*CHI:	and then he pulls the lever and he shows that.
+*CHI:	but, it didn't go there.
+*CHI:	and then he put that up.
+*CHI:	and then he tried to do it.
+*CHI:	and then he did it.
+*CHI:	and then he didn't do it.
+*CHI:	and then he put it up again.
+*CHI:	and then he did it.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	go ahead and take a guess.
+*CHI:	I want you to.
+*INV:	but I want to hear what you have to say.
+*INV:	you're doing really well.
+*INV:	so what what can you tell me?
+*INV:	go ahead and take a guess.
+*INV:	what is this?
+*INV:	well what can you tell me?
+*CHI:	I don't know what that is.
+*INV:	well what more can you tell me?
+*CHI:	mm I don't know what it is but, it my friend always sees it.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	you wanna try another page?
+*CHI:	&=nods:yes.
+*INV:	yeah.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a butterfly flying.
+*INV:	what more can you tell me?
+*CHI:	he flies up in the he flies up in the tree.
+*CHI:	and then he, flies all the way everywhere.
+*INV:	anything else you want to tell Zorg?
+*CHI:	&=shakes:head_no.
+*INV:	okay.
+@G:	Judge
+*INV:	what is this?
+*CHI:	a man talking.
+*CHI:	everybody you have to know what's going what what's going down to the city.
+*INV:	what more can you tell me?
+*CHI:	he's telling everybody.
+*CHI:	he's sitting down in a chair and he's talking.
+*CHI:	and everybody's listening and being quiet.
+*INV:	anything else you want to tell Zorg?
+*CHI:	&=shakes:head_no.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	a stum- a skunk.
+*CHI:	and he smells bad.
+*INV:	what more can you tell me?
+*CHI:	he he he just goes everywhere and hes +...
+*CHI:	people close the door because he stinks.
+*INV:	what else can you tell Zorg?
+*CHI:	he's he goes xxx people's house and then he stinks.
+*CHI:	and then he goes to ano- a lot of people house's and then he stinks
+	<all over> [?] the world.
+*CHI:	but he hides, too.
+*INV:	hm.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	a pineapple.
+*INV:	what more can you tell me?
+*CHI:	that's on Spongy.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's a pineapple.
+*INV:	anything else you'd like to say?
+*CHI:	&=shakes:head_no.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	you put cheese on it and then you eat it.
+*INV:	what more can you tell Zorg?
+*CHI:	you put it you pu it's a cracker and then you eat it with cheese on it.
+@G:	Old Woman
+*INV:	what is this?
+*INV:	go ahead and take a guess.
+*INV:	what more can you tell me?
+*INV:	it's okay you can say whatever you'd like to.
+*CHI:	wanna flip the page.
+*INV:	okay.
+@G:	Race Car Driver
+*INV:	  ⌈what is this⌉?
+*CHI:	a ⌊racecar⌋.
+*INV:	what more can you tell me?
+*CHI:	the girl the guy was in his car trying [?] to beat the other racers and then he did.
+*CHI:	and that's why he got out of the car.
+*INV:	what else can you tell Zorg?
+*CHI:	I don't know what I want to tell him something.
+@G:	Cat
+*INV:	what is this?
+*CHI:	uh that's a cat.
+*INV:	what more can you tell me?
+*CHI:	he plays with his kitty toys and walk around.
+*INV:	what more can you tell Zorg?
+*CHI:	I don't know.
+@G:	Cupcake
+*INV:	what is this?
+*CHI:	a cupcake.
+*INV:	what more can you tell me?
+*CHI:	you open this up and then you eat the cupcake.
+*INV:	what else can you tell Zorg?
+*CHI:	you open this up and you eat the cupcake.
+*INV:	anything else you can tell Zorg?
+*CHI:	&=shakes:head_no.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	it's a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	pumpkin you pick the pumpkin out and then you bring it home.
+*INV:	what else can you tell Zorg?
+*CHI:	you bring you pick out your pumpkin.
+*CHI:	you go get it.
+*CHI:	and then you bring it back home.
+*CHI:	you bring it to your home.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	what more can you tell me?
+*CHI:	he gets on he flies on his birdhouse.
+*CHI:	and he gets right here and then he <says> [?].
+*CHI:	and then he flies away.
+*CHI:	and then more little birds get in his house.
+*INV:	what more can you tell Zorg?
+*CHI:	I don't know.
+*INV:	anything else?
+@G:	Ice Cream
+*INV:	what's this?
+*CHI:	a ice cream cone.
+*CHI:	xxx and then you lick it.
+*CHI:	when you're done before you eat the ic- you eat the you eat the ice
+	cream cone even this.
+*INV:	what more can you tell me?
+*CHI:	you you hold it and then you lick it.
+*CHI:	and then you ea and then you keep licking it.
+*CHI:	and when you're done you you eat it and then you eat that.
+*INV:	anything else you can tell Zorg?
+*CHI:	&=shakes:head_no.
+*CHI:	one minute &=tries:turn_page.
+*CHI:	two stuck together.
+*INV:	mm.
+*INV:	that may be the last page.
+*INV:	I think it is.
+*INV:	do you want to look again?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*INV:	do we want to put Zorg back into his box?
+*CHI:	mm-hm [= yes].
+*INV:	do you want to?
+*INV:	alright.
+*CHI:	that's the end of it.
+*INV:	great well thank you very much.
+*INV:	that was a whole lot of fun.
+@End

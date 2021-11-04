@@ -1,0 +1,195 @@
+@UTF8
+@PID:	11312/a-00032391-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.25|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Alligator
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	alligator.
+*INV:	what more ⌈can you⌉ +...
+*CHI:	it likes to eat ⌊things⌋.
+*CHI:	I've seen one on tv eating a dead pig.
+*INV:	mm, what else can you tell me?
+*CHI:	it likes to eat fish.
+*CHI:	that's its favorite food.
+*INV:	oh.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has sharp teeth.
+*INV:	mm.
+*CHI:	and it likes to eat other dead creatures.
+*INV:	oh.
+@G:	Witch
+*INV:	what is this?
+*CHI:	witch.
+*CHI:	it sometimes put it it puts their cat in in potion and it will turn into a frog.
+*INV:	oh, what else can you tell me?
+*CHI:	witch can fly on their brooms.
+*INV:	mm.
+*CHI:	and they, and they like to turn people into things sometimes.
+*INV:	oh.
+*CHI:	they're really mean.
+*INV:	oh.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	so, and bats come out at Halloween.
+*CHI:	there's one right there &=points:picture.
+*INV:	oh.
+@G:	Orange
+*INV:	what is this?
+*CHI:	orange.
+*CHI:	you can eat a orange.
+*INV:	what else can you tell me?
+*CHI:	you have to peel the skin off first.
+*INV:	zorg doesn't' know much about this one.
+*INV:	can you help him out?
+*CHI:	um and then, you can eat it.
+*INV:	okay.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	cereal.
+*CHI:	corn flakes.
+*INV:	what more can you tell me?
+*CHI:	you, I like to have my cereal with milk in it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, and it's, really cool.
+*INV:	mm.
+*CHI:	and you have to eat it and it's a spoon food.
+*INV:	mm.
+*CHI:	some people like to eat it with a fork.
+*INV:	mm.
+*CHI:	it's really hard to eat with a fork.
+*INV:	mm.
+*INV:	okay.
+@G:	Clown
+*INV:	what is this?
+*CHI:	clown.
+*INV:	what more can you tell me?
+*CHI:	it likes to do silly things.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, it I've seen one at a birthday party before.
+*INV:	oh.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	police officer.
+*INV:	what more can you tell me?
+*CHI:	it catches bad guys.
+*INV:	well, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	two policemen can go in one car.
+*INV:	mm.
+*CHI:	the back is the robbers.
+*CHI:	the front is for policemen.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	lobster.
+*CHI:	it likes to attack things with their pinchers.
+*INV:	what more can you tell me?
+*CHI:	I used to have one in my bathtub.
+*INV:	mm.
+*CHI:	that my dad got me.
+*CHI:	and it was plastic.
+*INV:	ah.
+*CHI:	it was made out of rubber.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	teacher.
+*INV:	what more can you tell me?
+*CHI:	he's writing on a chalkboard.
+*CHI:	with a piece of chalk.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, and he really likes, and the teacher really likes to teach people things.
+*INV:	okay.
+@G:	Cake
+*INV:	⌈what is this⌉?
+*CHI:	⌊cake⌋ &=pretends:eat.
+*INV:	what more can you tell me?
+*CHI:	it has buttercream on it right there.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, you can eat a piece of cake.
+*INV:	okay.
+*INV:	you're doing really well.
+*CHI:	and, my mom's birthday, just was a couple days ago.
+*INV:	mm.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	a elephant.
+*INV:	what more can you tell me?
+*CHI:	um, um, um elephants, you can sometimes see (th)em at the zoo.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, I think I might want wanna sit back in this chair
+	&=points:chair_INV.
+*INV:	okay, cool &=switches:chair.
+*CHI:	um, and a elephant can smell very good (be)cause its big trunk.
+*INV:	mm, okay.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	this is a penguin.
+*CHI:	they like to live in the cold parts.
+*INV:	mm.
+*CHI:	where it's very cold.
+*INV:	what more can you tell me?
+*CHI:	and they aren't very cold.
+*CHI:	the penguins aren't cold though.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*INV:	anything else you wanna say?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	broccoli.
+*CHI:	we eat lots of it in our family.
+*INV:	what more can you tell me?
+*CHI:	and, it's very yummy.
+*INV:	mm.
+*CHI:	and it's a vegetable and vegetables are very good for you.
+*INV:	mm.
+@G:	Horse
+*INV:	what is this?
+*CHI:	horsie.
+*INV:	what more can you tell me?
+*CHI:	and a horse, can, likes to eat hay.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	salad.
+*INV:	what more can you tell me?
+*CHI:	people can eat salads.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I don't really know about salads either.
+*INV:	mm, okay.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	football player.
+*INV:	what more can you tell me?
+*CHI:	there's a football at-a couple footballs at my house.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and, football is really fun.
+*CHI:	you have to run um, a really much.
+*INV:	mm.
+*CHI:	and if you run too much, if you do, and you have to run to home base.
+*CHI:	and, I've played tee ball before.
+*INV:	mm.
+*CHI:	so, that's the end.
+*INV:	do you want to look again?
+*CHI:	&=shakes:head_no.
+*INV:	alright.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

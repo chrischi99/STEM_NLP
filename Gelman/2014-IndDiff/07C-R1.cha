@@ -1,0 +1,195 @@
+@UTF8
+@PID:	11312/a-00032006-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.28|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pumpkin
+@Types:	cross, narrative, TD
+*CHI:	oh it's orange and, uh, a thing on the, top.
+*INV:	well what is this?
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	a orange well it's a like a on the ground.
+*CHI:	grows out.
+*INV:	okay.
+*CHI:	xxx I'm gonna pick &=turns:page.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	hm &=shrugs.
+*INV:	can you take a guess?
+*CHI:	that's a dancing.
+*INV:	great.
+*INV:	what what more can you tell me?
+*CHI:	maybe it's yellow and black and, and maybe it's pink, and right
+	about it's, black ⌈ um⌉.
+*INV:	                  ⌊okay⌋.
+*CHI:	and pink and red.
+*INV:	okay.
+*CHI:	xxx this &=tries:turn_page.
+*INV:	I didn't hear what you just said.
+*INV:	can you say that again?
+*CHI:	red &=points:picture.
+*INV:	mkay [= okay].
+@G:	Butterfly
+*CHI:	butterfly.
+*INV:	&=gasps.
+*CHI:	a orange and black and, and white.
+*INV:	what more can you tell me?
+*CHI:	it's flies.
+*CHI:	and it's, flies in a flower.
+*INV:	okay.
+*CHI:	&=turns:page.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	white and black.
+*CHI:	I know.
+*INV:	yeah but what is this?
+*CHI:	that is a skunk.
+*INV:	okay.
+*INV:	what more can you tell me?
+*CHI:	white and black.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	that is white and black &=points:picture.
+*INV:	mkay [= okay].
+@G:	Ice Cream
+*CHI:	&=gasps.
+*INV:	&=gasps.
+*CHI:	a ice cream.
+*CHI:	and a black um little bit orange there, and pink.
+*INV:	what more can you tell me?
+*CHI:	uh it's a have a thing on this, there.
+*INV:	okay now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this is, a Zorg this is orange and pink.
+*INV:	okay.
+@G:	Race Car Driver
+*CHI:	oh.
+*INV:	what is this?
+*CHI:	that is a race car.
+*CHI:	it's white and and and red, and blue.
+*INV:	what more can you tell me?
+*CHI:	it's purple and it's, yellow.
+*INV:	uh-huh [= yes].
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this Zorg this is white and blue and purple.
+*INV:	okay.
+@G:	Dolphin
+*INV:	&=gasps what is this?
+*CHI:	a dolphin.
+*CHI:	wi and a white and a and blue.
+*INV:	what more can you tell me?
+*CHI:	it's a blue and it splashes all around.
+*INV:	okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is blue and white and, and black.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	that's orange and black and green.
+*INV:	yeah but what is this?
+*CHI:	a pinecone.
+*INV:	what more can you tell me?
+*CHI:	it's orange and a green.
+*INV:	okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is orange and green.
+*CHI:	see &=turns:page?
+@G:	Firefighter
+*CHI:	a firefire.
+*CHI:	it's black and green, and colors.
+*INV:	great.
+*INV:	what more can you tell me?
+*CHI:	it's have white.
+*INV:	okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is white and black and colors.
+@G:	Muffin
+*CHI:	pie.
+*CHI:	orange and.
+*CHI:	hm.
+*CHI:	and uh hm when can that, be on the bottom &=points:picture.
+*INV:	you know I don't know.
+*CHI:	I think it's a towel xxx.
+*CHI:	xxx &=moves:chair_to_table.
+*INV:	what more can you tell me?
+*CHI:	it's orange and, and orange.
+*INV:	okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you tell him a little bit more?
+*CHI:	a orange and a, nother orange.
+@G:	Parrot
+*CHI:	and a birdie with blue and green, and blue and yellow.
+*INV:	what more can you tell me?
+*CHI:	its flies has wings.
+*INV:	can you say that again I didn't +...
+*CHI:	it's a it flies.
+*INV:	okay did you say something else too?
+*CHI:	it does xxx and it and it goes in a cave.
+*INV:	okay.
+*INV:	great.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	a blue and green and yellow.
+*INV:	okay.
+@G:	Cracker
+*CHI:	a cracker.
+*CHI:	a cracker that's that's blue and a I mean a, orange and white.
+*INV:	what more can you tell me?
+*CHI:	it's a colors.
+*CHI:	it can eat.
+*CHI:	it eats.
+*INV:	okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is orange and white.
+*CHI:	so.
+@G:	Old Woman
+*CHI:	it's a blue, and green I mean, I mean what is this?
+*INV:	I don't know.
+*INV:	what is this?
+*CHI:	I think this is blue and green and yellow and black and and grey and yellow blue.
+*INV:	what more can you tell me?
+*CHI:	it's walks.
+*INV:	okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is blue and yellow and grey and red and green and black and red and yellow.
+*INV:	okay.
+*CHI:	so.
+@G:	Cat
+*CHI:	a cat.
+*INV:	&=gasps.
+*CHI:	a a let's see.
+*CHI:	yellow and black.
+*INV:	what more can you tell me?
+*CHI:	it has paws and it have a long tail.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help ⌈ him out⌉?
+*CHI:	zorg Zorg this is white and ⌊black⌋.
+@G:	Judge
+*INV:	&=gasps what is this?
+*CHI:	a black and a white.
+*INV:	what more can you tell me?
+*CHI:	it it walks.
+*INV:	okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is black and white.
+*INV:	mkay [= okay].
+*CHI:	so we did that &=closes:book.
+*INV:	yeah we did.
+*INV:	do you wanna look again?
+*CHI:	no.
+*INV:	no?
+*INV:	okay do we want to put Zorg to sleep?
+*CHI:	sure.
+*INV:	okay.
+*INV:	good night Zorg.
+@End

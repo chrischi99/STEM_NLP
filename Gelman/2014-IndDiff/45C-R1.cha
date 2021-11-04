@@ -1,0 +1,298 @@
+@UTF8
+@PID:	11312/a-00032234-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.19|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Muffin
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	cupcake.
+*INV:	what more can you tell me?
+*CHI:	I think it's chocolate-chip cupcake.
+*INV:	mm.
+*CHI:	now I and,  I can't have chocolate.
+*INV:	mm.
+*CHI:	I ca- I'm allergic to peanuts.
+*INV:	oh.
+*CHI:	and I, and I have a dog and I'm allergic to dogs.
+*CHI:	but we we're keepin(g) him, forever.
+*INV:	mm.
+*CHI:	his name, my my dog's name is xxx [= pet].
+*INV:	hm.
+*CHI:	and I even have a toy dog named Winston.
+*INV:	hm.
+*CHI:	and, and it used to be my mom's.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	can't you?
+*INV:	I wanna hear what you have to say?
+*CHI:	I have to [?] eat (th)em &=makes:Zorg_Eat_CHI_face.
+*CHI:	he was trying to eat my nose.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a lady.
+*INV:	mm, what more can you tell me?
+*CHI:	look's like she's old (be)cause he has, (be)cause she has that
+	&=points:cane.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	&=pretends:Zorg_bites_CHI_face.
+*INV:	what more can you tell zorg?
+*CHI:	old.
+*CHI:	um +...
+*CHI:	do you put anything in his hands [= referring to Zorg]?
+*INV:	can I see zorg?
+@G:	Parrot
+*INV:	what is this?
+*CHI:	do you put put anything in his hands [= referring to Zorg]?
+*INV:	mm-mm [= no].
+*CHI:	a bird.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	it's on a pirate's shoulder.
+*INV:	oh.
+*CHI:	probably.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it flies and where pirates are.
+*CHI:	can we, can we play that game?
+*INV:	yeah once we're all done looking at the picture book.
+*INV:	is that alright?
+@G:	Judge
+*CHI:	somebody in his office.
+*INV:	what more can you tell me?
+*CHI:	he has a computer.
+*INV:	mm.
+*CHI:	that's why I know it's his office.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	hm, he has a chair.
+*CHI:	(be)cause I see a chair peaking out, ⌈ over his shoulder⌉.
+*INV:	                                     ⌊ah⌋.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	I'm no- I'm never gonna be that.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	besides, it's a ballerina.
+*CHI:	looks like one.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	dancing on her toes.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a butterfly.
+*CHI:	we have a lot of butterflies in our backyard.
+*INV:	hm.
+*CHI:	and mister and missus firstname our neighbors, ⌈ they, in the back
+	yard the, the, the whole back yard there's a⌉, there's a whole shade
+	+...
+*INV:	                                               ⌊mm-hm [= filler]⌋.
+*CHI:	and and they have a lot of mosquitoes.
+*INV:	hm.
+*CHI:	and over by the little playhouse at our house there's a, there's a
+	little bit of shade comin(g) +...
+*CHI:	and it's over the playhouse.
+*INV:	what more can you tell me?
+*CHI:	about my backyard?
+*CHI:	about my backyard?
+*INV:	um, well what is this [= picture]?
+*CHI:	a butterfly.
+*INV:	oh.
+*INV:	what more can you tell me?
+*CHI:	about my backyard?
+*INV:	about whatever you want to.
+*CHI:	wel- okay m +...
+*INV:	about, about the picture book.
+*CHI:	I don't know what's in, under this page &=turns:page.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	hm can you take guess?
+*CHI:	well that, it has, looks like it has prickles on it.
+*INV:	mm.
+*CHI:	&=turns:page.
+*INV:	&=turns:page_back what more can you tell me?
+*CHI:	I think this is the one that my +...
+@G:	Dolphin
+*CHI:	&=turns:multiple_pages a dolphin under, under under this page.
+@G:	Pineapple
+*INV:	&=turns:page_back what more can you tell me?
+*CHI:	about this page?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't, I don't know.
+*INV:	hm.
+*INV:	anything you can say?
+*CHI:	I don't know.
+*INV:	okay.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	it has holes in it.
+*INV:	mm, what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you eat it.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	a dolphin.
+*INV:	what more can you tell me?
+*CHI:	it jumps high in the, in the air and then and +...
+*CHI:	and it lives in the ocean.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he eats fish.
+*INV:	hm &=turns:page.
+@G:	Firefighter
+*CHI:	fighterfighter.
+*INV:	&=turns:page_back [= one page skipped].
+@G:	Cat
+*CHI:	oh, a cat.
+*INV:	&=laughs what more can you tell me?
+*CHI:	it meows.
+*CHI:	and I'm allergic to cats.
+*INV:	hm.
+*CHI:	so that's why I don't have a cat.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	fuzzy &=lifts:page.
+*CHI:	and we know what's under this picture.
+@G:	Firefighter
+*CHI:	a fighterfighter.
+*INV:	what more can you tell me?
+*CHI:	it sprays fires out.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	saves cats, up in a tree.
+*INV:	mm.
+@G:	Ice Cream
+*CHI:	and, that's ice cream.
+*INV:	mm.
+*CHI:	and you eat it.
+*INV:	what more can you tell me?
+*CHI:	I don't, I don't like the, the cone.
+*INV:	hm.
+*INV:	                     ⌈zorg⌉ +...
+*CHI:	I like the ice cream ⌊part⌋.
+*CHI:	my favorite is blue.
+*INV:	mm.
+*CHI:	let's see what's under here &=turns:page.
+@G:	Skunk
+*CHI:	        ⌈ew, a skunk⌉.
+*INV:	what is ⌊this⌋?
+*INV:	what more can you tell me?
+*CHI:	it sprays.
+*INV:	mm.
+*CHI:	from his butt.
+*INV:	mm.
+*CHI:	and there's a skunk out in the woods in our backyard.
+*INV:	mm.
+*CHI:	some- I +...
+*CHI:	and you know what?
+*INV:	hm?
+*CHI:	there was, there was four skunks in the basement of my church.
+*INV:	oh wow.
+*CHI:	one and- and somebody got the skunks.
+*INV:	oh.
+*CHI:	and they weren't in separate cages.
+*CHI:	they were all in the, in the same cage.
+*INV:	oh.
+*CHI:	three children and the baby live in a smaller cage.
+*INV:	mm-hm [= filler].
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	it has a stem.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	we cut it, like a, ⌈like a halloween⌉.
+*INV:	                   ⌊hm⌋.
+*CHI:	we cut it out for halloween.
+*INV:	ah.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	baseball.
+*CHI:	and a baseball player.
+*INV:	what more can you tell me?
+*CHI:	I don't, the nine, and that +...
+*CHI:	there's a nine and a one on it.
+*INV:	mm.
+*CHI:	so what's that?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	ninety-one.
+*INV:	hm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's a racecar.
+*INV:	oh [?].
+*CHI:	and the car races.
+*INV:	oh.
+*CHI:	&=turns:page that's it.
+*INV:	that's it.
+*CHI:	I think this is what my mom xxx &=turns:page.
+@G:	Judge
+*CHI:	it's way back, way back at the office.
+*CHI:	&=turns:page_end end.
+@G:	Judge
+*CHI:	way back at the office.
+@G:	Bicycle
+*CHI:	way back at the bike.
+*CHI:	I'm a turkey am I, aren't I?
+*INV:	mm.
+*CHI:	&=opens:book_judge
+	&=closes:book.
+@G:	Muffin
+*CHI:	back at the cupcake.
+@G:	Old Woman
+*CHI:	lady.
+@G:	Judge
+*CHI:	office.
+*CHI:	I'm pretty tricky.
+*INV:	mm.
+@G:	Bicycle
+*CHI:	bike.
+@G:	Judge
+*CHI:	office.
+@G:	Bicycle
+*CHI:	bike.
+@G:	Judge
+*CHI:	office.
+@G:	Bicycle
+*CHI:	bike.
+@G:	Judge
+*CHI:	office.
+*CHI:	is there, do you wanna leave a tab?
+*INV:	hm?
+*CHI:	do you wanna leave a tab?
+*INV:	you can do whatever you like.
+*INV:	is there anything else you'd like to tell me?
+*CHI:	this &=takes:index_Card +...
+*INV:	hm?
+*CHI:	is your name spelled with a c@l?
+*INV:	mm-mm [= no].
+*CHI:	well, is it, what is this?
+*INV:	it's just a card for me.
+*CHI:	&=picks:up_index_Card nothing on the back.
+*INV:	mm-mm [= no].
+*CHI:	can I leave this for a tab [= index card]?
+*INV:	okay.
+*CHI:	&=places:Card_between_pages
+	&=closes:book.
+*INV:	did you wanna look again?
+*CHI:	no.
+*INV:	okay.
+*INV:	then we are all done.
+*CHI:	lets go out and, I wanna go out and play.
+*INV:	okay great.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

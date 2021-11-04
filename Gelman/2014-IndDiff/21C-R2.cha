@@ -1,0 +1,195 @@
+@UTF8
+@PID:	11312/a-00032091-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.28|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Old Woman
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	old lady.
+*INV:	what more can you tell me?
+*CHI:	uh, she has a walking stick.
+*INV:	mm-hm [= yes].
+*CHI:	and a necklace, shoes a coat hands pants shoes shoes shoes shoes glasses and hair.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	<want help> [?].
+*CHI:	watch.
+*CHI:	belt and that's it.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	um it has holes in it.
+*CHI:	shaped like a square, and that's it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it have one two three four sides.
+*INV:	mm-hm [= yes].
+*CHI:	that's it.
+@G:	Cat
+*INV:	what is this?
+*CHI:	a cat.
+*INV:	what more can you tell me?
+*CHI:	it has eyes, feet tail whiskers mouth and a nose ears fur, nails right there.
+*INV:	mm.
+*CHI:	and I think that's it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh, I don't see any more things.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	a pineapple.
+*INV:	what more can you tell me?
+*CHI:	it's real.
+*INV:	mm.
+*CHI:	and uh has po these pokey things.
+*CHI:	this &=points.
+*CHI:	this &=points.
+*CHI:	I don't anything and and I said all of them on that page.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, I said all the things on it.
+*INV:	mm.
+*INV:	you can say whatever comes to mind.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	a whale.
+*INV:	what more can you tell me?
+*CHI:	a dolphin.
+*INV:	mm.
+*CHI:	it swims in the water.
+*CHI:	it's kinda [?] like a shark.
+*CHI:	it has a tail eyes a nose.
+*CHI:	I think it's a killer whale.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has arms.
+*CHI:	it's white on the bottom.
+*CHI:	that's it.
+*INV:	okay.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	a racecar.
+*INV:	what more can you tell me?
+*CHI:	it goes in a race.
+*CHI:	guys drive it.
+*CHI:	and, people watch it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't see anything else.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	and.
+*CHI:	pirates have (th)em.
+*INV:	what more can you tell me?
+*CHI:	it has a cage.
+*CHI:	it has locks [?] on the colors on parrots.
+*CHI:	and it has nose and eyes and, um, there's no more things.
+*CHI:	I said all of them.
+*CHI:	and feathers.
+@G:	Butterfly
+*INV:	what s this?
+*CHI:	a butterfly.
+*INV:	what more can you tell me?
+*CHI:	uh and a caterpillar and then it and then it goes into a cocoon and it turns into a butterfly.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um two eyes it have these wings.
+*CHI:	those beautiful colors sometimes.
+*CHI:	and that's all.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a cupcake.
+*INV:	what more can you tell me?
+*CHI:	I don't know about this I don't know really about this one a little bit.
+*INV:	you can say whatever comes to mind.
+*CHI:	I'm not doing this one.
+*CHI:	I don't know about this one.
+*INV:	tell me tell me just a little bit.
+*CHI:	it has this on (th)em &=points.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	a skunk.
+*INV:	what more can you tell me?
+*CHI:	um it makes stinky smells.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has a tail.
+*CHI:	it has fur.
+*CHI:	it makes stinky smells.
+*CHI:	it had these sharp claws.
+*CHI:	I think that's it.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	ice cream.
+*INV:	what more can you tell me?
+*CHI:	in a cone.
+*CHI:	and put sprinkles on it.
+*INV:	mm-hm [= yes].
+*CHI:	that's it.
+*INV:	well Zorg doesn't know much about this on.
+*INV:	can you help him out?
+*CHI:	um, pointy end.
+*CHI:	it has eyes &=laughs.
+*CHI:	doesn't have eyes.
+*CHI:	that's it.
+@G:	Judge
+*INV:	what is this?
+*CHI:	a man.
+*INV:	what more can you tell me?
+*CHI:	uh I don't know about this one.
+*CHI:	he wears a coat.
+*CHI:	that's it &=tries:turn_page.
+*INV:	hold on let's slow down a little bit.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, I don't know about this one.
+*CHI:	he wears a coat.
+*CHI:	he has a face and eyes and a nose and a mouth.
+*INV:	you're doing real good.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	a fireman.
+*INV:	what more can you tell me.
+*CHI:	he squirts he squirts out water.
+*CHI:	he squirts out fire.
+*INV:	mm.
+*CHI:	he squirts out water to the fire.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, something the people climb up the ladder.
+*CHI:	and, that's it.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	um, you make faces out of em at Halloween.
+*CHI:	that's dirty [?].
+*CHI:	that's it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, has this &=points.
+*CHI:	and that's it.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	um, she dances and do a lot of stuff.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, I don't I don't know about this one.
+*CHI:	that's it.
+*INV:	do you want to look again?
+*CHI:	mm-mm [= no].
+*INV:	do you want to put Zorg back to sleep?
+*CHI:	yeah.
+*INV:	in his home?
+*INV:	well thank you for doing that with me.
+*INV:	that was a lot of fun.
+@End

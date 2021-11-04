@@ -1,0 +1,99 @@
+@UTF8
+@PID:	11312/a-00032250-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.15|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Cheese
+@Types:	cross, narrative, TD
+*CHI:	cheese.
+*MOT:	what?
+*CHI:	cheese.
+*MOT:	cheese.
+@G:	Doctor
+*CHI:	doctor.
+*MOT:	a doctor.
+*MOT:	and what's going on with her?
+*CHI:	sick.
+*MOT:	she's sick?
+*MOT:	why do you think she's sick?
+*CHI:	(be)cause she's laying down in her bed.
+*MOT:	okay.
+@G:	Ladybug
+*CHI:	ladybug.
+*MOT:	ladybug.
+@G:	Pirate
+*CHI:	pirate.
+*MOT:	pirate.
+*MOT:	what's that?
+*CHI:	treasure chest &=turns:page.
+*MOT:	what's on his shoulder?
+*CHI:	parrot.
+@G:	Carrot
+*CHI:	       ⌈carrot⌉!
+*MOT:	what's ⌊that⌋?
+*CHI:	parrot carrot &=turns:page.
+*CHI:	that rhymes.
+*MOT:	&=gasps you're so smart.
+*MOT:	you're so smart.
+@G:	Turtle
+*CHI:	turtle.
+*MOT:	turtle.
+@G:	Duck
+*CHI:	duck!
+*MOT:	okay okay slow down.
+*MOT:	what color was that duck?
+*CHI:	xxx &=turns:page.
+@G:	Bread
+*MOT:	was it purple?
+*CHI:	&=nods:yes.
+*MOT:	no.
+*CHI:	it was, it was green.
+*MOT:	oh it was green okay.
+*CHI:	brow- ⌈ brown bread⌉.
+@G:	Duck
+*MOT:	it did have ⌊green⌋.
+@G:	Bread
+*MOT:	some bread &=nods:yes.
+@G:	Painter
+*CHI:	painting.
+*CHI:	a girl's painting &=turns:page.
+*MOT:	yeah.
+*MOT:	what is she painting?
+*CHI:	a tree.
+*MOT:	a tree.
+@G:	Baby
+*CHI:	baby.
+*MOT:	a baby.
+*MOT:	with toys.
+@G:	Cookie
+*CHI:	a cookie &=turns:page.
+@G:	Baseball Player
+*CHI:	man playing baseball.
+*MOT:	yeah.
+@G:	Puppy
+*CHI:	puppy.
+*MOT:	aw that's a cute puppy.
+*CHI:	the end.
+*CHI:	brown &=points:puppy.
+*MOT:	&=turns:page [= last two pages stuck together].
+*CHI:	pig!
+*MOT:	oh &=covers:picture.
+*CHI:	pink pig.
+*MOT:	a pig?
+*CHI:	dirty.
+*CHI:	he's dirty in mud.
+*MOT:	well I think those are just spots.
+*CHI:	mm-mm [= no] &=shakes:head_no.
+*MOT:	you think he's dirty from rolling in the mud?
+*CHI:	&=nods:yes.
+*MOT:	okay &=turns:first_page.
+*MOT:	do you wanna look at it again?
+*CHI:	&=shakes:head_no.
+*MOT:	no?
+*MOT:	that was good?
+*CHI:	I wanna read another book &=looks:around_room.
+*MOT:	alright.
+@End

@@ -1,0 +1,208 @@
+@UTF8
+@PID:	11312/a-00032337-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.27|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Lamp
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	light that people sit in sit right by the couch.
+*CHI:	and they read stories with it.
+*INV:	what else can you tell me about this light?
+*CHI:	uh, uh, hm.
+*CHI:	what else can I tell?
+*CHI:	&=whispers xxx.
+*CHI:	people that sit by um a light, that sits on the couch.
+*CHI:	and the couch just stays right there.
+*INV:	oh.
+*INV:	zorg doesn't know anything about lights.
+*INV:	what can you tell him about lights?
+*CHI:	zorg?
+*CHI:	what [= speaking for Zorg]?
+*CHI:	I wanna tell you something about lights.
+*CHI:	what can you tell me [= speaking for Zorg]?
+*CHI:	people sits by, people sits by the lights on the couch.
+*CHI:	and the couch just stays there.
+*CHI:	oh great [= speaking for Zorg].
+@G:	Clown
+*INV:	what is this?
+*CHI:	clown [= speaking for Zorg].
+*INV:	what more can you tell me?
+*CHI:	uh, clowns make silly faces.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	sure.
+*CHI:	zorg?
+*CHI:	what [= speaking for Zorg]?
+*CHI:	uh that clown makes a silly face.
+*CHI:	oh, lalalala [= speaking for Zorg].
+*INV:	okay.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	uh, cereal.
+*INV:	what more can you tell me?
+*CHI:	it xxx eat it [= speaking for Zorg].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	yes I do [= speaking for Zorg].
+*CHI:	I heard you [= speaking for Zorg].
+*CHI:	I heard you too [= speaking for Zorg].
+*INV:	oh okay, okay.
+@G:	Penguin
+*CHI:	I want to see what the other one is [= speaking for Zorg].
+*CHI:	ooh penguin [= speaking for Zorg].
+*INV:	what more can you tell me?
+*CHI:	penguins &=whispers waddle.
+*CHI:	waddle.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hear, he can hear anything about this book.
+*INV:	oh okay.
+*INV:	is there anything else you want to tell Zorg?
+*CHI:	uh, Zorg?
+*CHI:	what [= speaking for Zorg]?
+*CHI:	you always say that, what [= speaking for Zorg]?
+*CHI:	uh, this penguin waddles.
+*CHI:	oh I know that [= speaking for Zorg].
+@G:	Alligator
+*INV:	what is this?
+*CHI:	alligator [= speaking for Zorg].
+*INV:	what more can you tell me?
+*CHI:	alligator swims in, in the ocean.
+*INV:	is there anything else you wanna tell Zorg?
+*CHI:	I already heard you [= speaking for Zorg].
+*INV:	okay.
+@G:	Cake
+*INV:	what is this?
+*CHI:	cake [= speaking for Zorg].
+*INV:	what more can you tell me?
+*CHI:	uh people that eat it [= speaking for Zorg].
+*INV:	is there anything else you can tell me?
+*CHI:	uh, cake can get cut up in halfs.
+*CHI:	people can eat it.
+*CHI:	guess I have to go potty again.
+*INV:	oh okay.
+*INV:	let's go &=leaves:room &=returns.
+*CHI:	okay.
+*INV:	okay.
+*INV:	so is it okay if we keep looking at the picture book with Zorg?
+*CHI:	sure.
+@G:	Witch
+*INV:	what is this?
+*CHI:	uh I don't know.
+*INV:	hm.
+*INV:	do you want to take a guess?
+*CHI:	uh can you guess it please?
+*INV:	sure.
+*INV:	do you think it's maybe um, a witch?
+*CHI:	&=nods:yes.
+*CHI:	&=whispers yeah.
+*INV:	oh.
+*CHI:	witch.
+*INV:	what more can you tell me?
+*CHI:	uh is that witch bad or nice?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	I think it's, is it nice?
+*INV:	I'm not sure.
+*CHI:	I guess it is.
+*INV:	anything else you wanna tell Zorg?
+*CHI:	I already heard you [= speaking for Zorg].
+*INV:	okay.
+*CHI:	stop telling me that [= speaking for Zorg].
+*CHI:	I know I know why [= speaking for Zorg].
+@G:	Football Player
+*INV:	what is this?
+*CHI:	a football player [= speaking for Zorg].
+*INV:	what more can you tell me?
+*CHI:	I already heard you [= speaking for Zorg].
+*INV:	oh but what more can you tell me?
+*CHI:	uh it it's a baseball player that, how (a)bout it is a football player.
+*INV:	oh, anything else you can tell me?
+*CHI:	how, he's gonna throw to the, into the baseball player.
+*CHI:	it's another baseball player.
+*INV:	mm, okay.
+@G:	Orange
+*INV:	what is this?
+*CHI:	&=whispers orange.
+*INV:	what more can you tell me?
+*CHI:	&=whispers xxx.
+*INV:	mm.
+*CHI:	for somebody.
+*INV:	anything else you can tell ⌈me⌉?
+@G:	Horse
+*CHI:	                           ⌊horse⌋.
+*INV:	oh what more can you tell me?
+@G:	Orange
+*CHI:	uh, people that eats it cuts it up.
+*INV:	oh, okay.
+@G:	Horse
+*CHI:	horse.
+*INV:	what more can you tell me?
+*CHI:	that somebody climbs on.
+*INV:	what else can you tell me?
+*CHI:	uh, hm.
+*CHI:	somebody that pulls him that the horse can know which way it can go.
+*INV:	okay.
+*CHI:	that's how it works.
+@G:	Elephant
+*CHI:	elephant.
+*CHI:	lives in the zoo.
+*INV:	what else can you tell me?
+*CHI:	uh its, its trunk goes like &=makes:noise &=motions:trunk_raising.
+*INV:	&=laughs okay.
+*INV:	anything else you wanna tell Zorg?
+*CHI:	I already heard that [= speaking for Zorg].
+*INV:	oh okay.
+*CHI:	stop saying that you silly [= speaking for Zorg].
+*INV:	oh okay.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	uh people that is drawing.
+*INV:	what more can you tell me?
+*CHI:	pictures.
+*INV:	what else can you tell me?
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	&=whispers popcorn.
+*INV:	what more can you tell me?
+*CHI:	uh, it they put it in little, it comes from little kernels.
+*CHI:	and then they pop it on the top.
+*INV:	mm.
+*INV:	you're doing really well.
+*CHI:	and they and they eat it.
+*INV:	mm.
+*CHI:	take it in the car.
+*CHI:	sit at a table.
+@G:	Broccoli
+*INV:	⌈what is this⌉?
+*CHI:	⌊broccoli⌋.
+*INV:	what more can you tell me?
+*CHI:	make you really really really really really really really strong.
+*INV:	mm, what else can you tell me?
+*CHI:	somebody can eat, eat it.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	&=whispers window.
+*INV:	what more can you tell me?
+*CHI:	somebody, somebody that peeks out of the window.
+*CHI:	and they can look at the clouds.
+*CHI:	everything else and the trees.
+*CHI:	and the lake, by their house.
+*INV:	anything else you wanna tell me?
+@G:	Lobster
+*INV:	what is this?
+*CHI:	&=whispers crab.
+*CHI:	pinch pinch pinch.
+*INV:	what more can you tell me?
+*CHI:	uh, it's a crab that swims down by ocean.
+*INV:	oh, what else can you tell me?
+*CHI:	&=turns:page.
+*INV:	&=gasps all done.
+*CHI:	all done.
+*INV:	do you wanna look again?
+*CHI:	uh no thanks.
+@End

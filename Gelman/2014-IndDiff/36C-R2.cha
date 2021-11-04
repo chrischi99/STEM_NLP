@@ -1,0 +1,197 @@
+@UTF8
+@PID:	11312/a-00032181-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.28|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	King
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	well when you're a king you probably can be married.
+*INV:	mm.
+*CHI:	so, you like my tights?
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well you need to be a king you little mouse  [= talking to Zorg].
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	um, that he's strong (be)cause he's got strong muscles.
+*INV:	mm, what more can you tell me?
+*CHI:	well when he's strong he can probably lift this up
+	&=points:to_picture.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you need to be a muscle boy [= talking to Zorg].
+*CHI:	dead &=laughs.
+@G:	Lion
+*INV:	what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	well when you're a lion you roar.
+*INV:	mm.
+*CHI:	it's like a lion roars.
+*CHI:	like he will try to bite you.
+*INV:	mm.
+*CHI:	so that's why you can be a lion.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to be a lion [= talking to Zorg].
+@G:	Pie
+*INV:	what is this?
+*CHI:	a bagel.
+*INV:	what more can you tell me?
+*CHI:	well when he turns into a bagel &=hits:Zorg_on_table
+	[= makes loud noise].
+*CHI:	you eat that.
+*INV:	mm-hm [= yes].
+*CHI:	you so you have to eat it because it's so tasty with peanut butter in it.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	well you need to eat [= talking to Zorg].
+@G:	Rabbit
+*INV:	⌈what is this⌉?
+*CHI:	⌊it's⌋.
+*CHI:	a bunny rabbit.
+*INV:	what more can you tell me?
+*CHI:	when he when you are a bunny you can hop like this &=hops.
+*CHI:	like a froggy and a bunny.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to hop hop hop hop hop hop hop hop hop hop hop
+	[= talking to Zorg].
+*CHI:	he was hopping.
+*CHI:	he's gonna sit right up here on his seat &=puts:Zorg_on_box.
+*CHI:	like there.
+*INV:	okay.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	well when you eat strawberries it's a good fruit.
+*INV:	mm.
+*CHI:	and I really like strawberries.
+*INV:	mm.
+*INV:	   ⌈what more oh⌉.
+*CHI:	my ⌊dad⌋.
+*CHI:	um my daddy likes go to the Red Sox game.
+*INV:	mm.
+*CHI:	so that's why he likes to eat those at the Red Sox.
+*INV:	mm.
+*CHI:	it's kinda like cherry stuff.
+*INV:	oh.
+*CHI:	but it's a strawberry.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a a a girl farmer.
+*INV:	what more can you tell me?
+*CHI:	well they growed vegetables in their garden because so they can eat cucumbers and all that stuff because it's kinda yummy.
+*INV:	mm.
+*CHI:	so that's why I just wanted ta, just eat fruit and all that stuff.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to be a girl farmer if you're gonna to be a farmer dude
+	[= talking to Zorg].
+@G:	Corn
+*INV:	what is this?
+*CHI:	a corn.
+*INV:	what more can you tell me?
+*CHI:	well if you have a corn you can probably eat it (be)cause it's healthy for your, stomach.
+*INV:	mm.
+*CHI:	because if you eat corn it will probably make you, healthy and make you big and strong.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to grow vegetables in the garden dude [= talking to Zorg].
+@G:	Surfer
+*INV:	what is this?
+*CHI:	he's wa he's in the water and and he's water skiing.
+*INV:	hm.
+*CHI:	because he's on a skateboard see.
+*INV:	mm.
+*CHI:	because um if you're in the water you can probably bring it in the water with him.
+*CHI:	because you can probably skate in the water.
+*INV:	mm what more can you tell me?
+*CHI:	well, when you're in the water when I was in the water there's probably some um, mm, lobsters and crabs and all that stuff.
+*INV:	mm.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	a pretzel.
+*INV:	what more can you tell me?
+*CHI:	well when you turn into a pretzel um I wanna tell you something.
+*CHI:	when you get over by a um a backloader it'll smush you like a grape.
+*INV:	mm.
+*CHI:	I like pretzels.
+*INV:	mm.
+*CHI:	have you seen one like that before?
+*INV:	mm I'm not sure.
+*CHI:	me either.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to eat it pretzel you [= talking to Zorg].
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a police lady and a boat.
+*INV:	mm what more can you tell me?
+*CHI:	well when you're a police lady in a boat you can probably drive a boat.
+*INV:	oh.
+*CHI:	so that's why she's a police lady.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you need to be a police lady mister [= talking to Zorg].
+@G:	Snake
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	what more can you tell me?
+*CHI:	when you're a snake you can probably the snake will eat you (be)cause he's got long long long long long teeth.
+*INV:	mm.
+*CHI:	so that's why in this one it it helped Zorg out.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to be a snake mister [= talking to Zorg].
+@G:	Owl
+*INV:	what is this?
+*CHI:	an owl.
+*INV:	what more can you tell me?
+*CHI:	well when you're an owl you can fly around like
+	this &=runs:in_circle.
+*INV:	mm.
+*CHI:	when you're an owl you can just say [?] hoot hoot hoot.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to be an owl mister [= talking to Zorg].
+@G:	Milk
+*INV:	what is this?
+*CHI:	juice.
+*INV:	what more can you tell me?
+*CHI:	when juice is in a cup um you juices come from oranges.
+*INV:	mm.
+*CHI:	so juices are yummy because you eat them because they're good fruit for you.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to eat orange you [= talking to Zorg].
+@G:	Frog
+*INV:	what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	well when you're a frog you can probably hop like a bunny.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you need to hop like a frog mister.
+*CHI:	the end.
+*INV:	the end.
+*INV:	do you want to look again?
+*CHI:	mm, um, I'm thinkin(g).
+*INV:	okay.
+*CHI:	um I don't think so.
+*INV:	okay.
+*INV:	thank you very much for doing that with me.
+@End

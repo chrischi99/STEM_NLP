@@ -1,0 +1,200 @@
+@UTF8
+@PID:	11312/a-00032079-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.31|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Strawberry
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	does does Zerch know about strawberries?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh Zorch uh this is a strawberry and you squeeze (th)em and juice comes out into your mouth.
+*INV:	anything else you want to say?
+*CHI:	uh no, not really.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a policeman.
+*INV:	what more can you tell me?
+*CHI:	uh they save people from bad guys.
+*INV:	hey what's in this thing [= referring to Zorg]?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a policeman and he and she likes and she saves people from bad guys.
+*CHI:	I'll turn the page.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	you eat (th)em.
+*CHI:	but why why why can't you pick the ant out of Zorg's mouth?
+*INV:	you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	does does Zorg know about ants?
+*INV:	mm, he doesn't know anything.
+*CHI:	does he only know anything does he only know anything when you tell him?
+*INV:	mm-hm [= yes].
+*CHI:	this is a cracker and you eat (th)em and then they taste tasty.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	a rabbit and it boing boing boings around.
+*INV:	what more can you tell me?
+*CHI:	it likes to eat carrots.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg's chewing your arm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh Zorg this is a rabbit.
+*CHI:	it likes to boing boing boing around.
+@G:	Milk
+*INV:	what is this?
+*CHI:	a glass of milk.
+*INV:	what more can you tell me?
+*CHI:	you drink it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	why doesn't he know about milk?
+*CHI:	you drink it!
+*INV:	what else can you tell me?
+*CHI:	uh, you have to drink it to grow.
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn.
+*INV:	what more?
+*CHI:	corn on the cob.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	why do I always need to help Zorg out?
+*INV:	because he doesn't know anything.
+*CHI:	does he only know about ceilings?
+*INV:	mm he doesn't know about anything.
+*CHI:	does he only know how to do this [= makes Zorg jump up and down]?
+*CHI:	oops.
+@G:	Frog
+*INV:	what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	a one eyed frog.
+*CHI:	(be)cause one of its eyes are out of it.
+*INV:	what else can you tell me?
+*CHI:	uh they like to hop.
+*CHI:	they hop into the sky.
+@G:	Snake
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	what more can you tell me?
+*CHI:	uh they like to, eat electric stuff.
+*INV:	what else can you tell me?
+*CHI:	they like to, uh crawl around.
+*CHI:	am I being really good?
+*INV:	mm-hm [= yes].
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	uh I uh a man who's strong.
+*INV:	what more can you tell me?
+*CHI:	he lifts weights.
+*INV:	mm.
+*CHI:	really high.
+*CHI:	and he can do this &=pretends:lift_weight.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh Zorg this is a man and he can punch people out and then, um look
+	&=points:to_shirt.
+*INV:	mm.
+*CHI:	I got a xxx sticker.
+*INV:	mm-hm [= yes].
+*CHI:	they stick to you really good.
+*CHI:	usually.
+@G:	Pie
+*INV:	what is this?
+*CHI:	pie.
+*INV:	what more can you tell me?
+*CHI:	uh, you eat it.
+*INV:	mm-hm [= yes].
+*CHI:	and you're supposed to cut it before you eat it.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	does he only know about the insides of him?
+*INV:	zorg doesn't know anything.
+*CHI:	zorg this is the pie you eat (th)em and, you cut (th)em before you eat (th)em.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	you're doing real good.
+*INV:	what more can you tell me?
+*CHI:	uh, he blows that.
+*INV:	what else can you tell me?
+*CHI:	uh, he, uh sits in a chair.
+*INV:	mm.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a farmer.
+*INV:	what more can you tell me?
+*CHI:	they make food.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	does he only know a tiny bit about it?
+*INV:	he doesn't know anything.
+*CHI:	does he only know about the way it shines on him?
+*INV:	he doesn't know anything.
+*CHI:	does he only know a little bit of things in there?
+*INV:	well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a farmer.
+*CHI:	they make food.
+@G:	Owl
+*INV:	what is this?
+*CHI:	owl.
+*INV:	what more can you tell me?
+*CHI:	uh, they fly.
+*CHI:	and they fly up up up up up up up (be)cause there's (be)cause they have so big things.
+*INV:	what else can you tell me?
+*CHI:	uh they like to eat stuff.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	a boarder.
+*INV:	what more can you tell me?
+*CHI:	he's he waterboards in the water.
+*INV:	what else can you tell me?
+*CHI:	he likes to, surf in the water.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh Zorg this is, a boarder.
+*CHI:	he likes to board in the water.
+*CHI:	and he uh knows how to get stay on it because he has something that helps him stay on it.
+@G:	Lion
+*INV:	what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	they eat horses.
+*INV:	what else can you tell me?
+*CHI:	uh they like, uh they like to chase (th)em before they eat (th)em.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he likes uh Zorg this is a lion.
+*CHI:	and it likes to eat horses for dinner.
+*CHI:	and, it's a lion.
+*CHI:	it also likes to chase things before it eats (th)em.
+*CHI:	the end.
+*INV:	the end.
+*INV:	do you want to look again?
+*CHI:	&=shakes:head_no.
+*INV:	alright.
+*INV:	well let's put Zorg back to sleep.
+*CHI:	why?
+*INV:	oh because I think it's his bedtime.
+*INV:	do you want to put him in?
+*CHI:	yeah after I put this xxx sticker back on me?
+*INV:	okay well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

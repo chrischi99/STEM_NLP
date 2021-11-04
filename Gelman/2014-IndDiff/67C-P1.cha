@@ -1,0 +1,613 @@
+@UTF8
+@PID:	11312/a-00032364-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.22|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Cheese
+@Types:	cross, narrative, TD
+*MOT:	what is that a picture of?
+*CHI:	I don't know.
+*MOT:	cheese?
+*CHI:	cheese.
+*MOT:	swiss cheese.
+@G:	Painter
+*CHI:	a tree.
+*MOT:	yeah.
+*MOT:	what's she doing, in this picture?
+*CHI:	writing a tree.
+*MOT:	writing a tree?
+*MOT:	she's, yep painting.
+*MOT:	good job.
+*CHI:	painting.
+*MOT:	who do you think she is?
+*CHI:	I don't know.
+*MOT:	you don't know?
+*MOT:	do you think maybe she's an artist?
+*CHI:	&=nods:yes.
+*MOT:	or a teacher?
+*CHI:	a artist.
+*MOT:	or a mommy?
+*CHI:	artist.
+*MOT:	maybe she's all three.
+@G:	Turtle
+*MOT:	who's that?
+*CHI:	a frog.
+*MOT:	a frog?
+*MOT:	or a turtle?
+*CHI:	turtle.
+*MOT:	a turtle good job.
+@G:	Pig
+*CHI:	a pig.
+*MOT:	a pig.
+*MOT:	what does a pig say?
+*CHI:	oink oink &=laughs.
+@G:	Bread
+*CHI:	   ⌈bread⌉.
+*MOT:	mm ⌊bread⌋.
+*MOT:	is that your favorite?
+*CHI:	yeah.
+*MOT:	yeah.
+@G:	Doctor
+*MOT:	what's in that picture?
+*CHI:	a doctor helping a girl.
+*MOT:	yeah.
+*MOT:	what do you think's happening with the girl?
+*CHI:	her dead.
+*MOT:	her dead?
+*CHI:	              ⌈yeah⌉.
+*MOT:	I don't think ⌊so⌋.
+*MOT:	look.
+*MOT:	what's this on her arm?
+*CHI:	a band aid.
+*MOT:	did she break her arm?
+*CHI:	yeah.
+*MOT:	a cast huh?
+*CHI:	cast.
+*MOT:	you think the doctor will be able to help her?
+*CHI:	mm yeah.
+*MOT:	yeah.
+*MOT:	make her feel better.
+@G:	Pirate
+*MOT:	who is that?
+*CHI:	a pirate.
+*MOT:	who's on his shoulder?
+*CHI:	a bird.
+*CHI:	            ⌈mo⌉ +...
+*MOT:	yeah what's ⌊this⌋?
+*CHI:	treasure.
+*MOT:	treasure xxx.
+*CHI:	mom what's on the foot?
+*MOT:	he has a wooden leg.
+*MOT:	it looks like his leg got cut off at the knee.
+*MOT:	so he put this stick there so he could walk still.
+*MOT:	that was pretty smart wasn't it?
+*CHI:	mm-hm.
+@G:	Duck
+*CHI:	a duck.
+*MOT:	a duck.
+*MOT:	what does a duck say?
+*CHI:	I don't know.
+*MOT:	you don't know what a duck says?
+*MOT:	quack quack quack.
+*MOT:	quack.
+@G:	Baseball Player
+*MOT:	what's this guy doin?
+*CHI:	playin(g) baseball.
+*MOT:	yeah.
+*MOT:	do you like baseball?
+*CHI:	yeah.
+*MOT:	does your daddy like baseball?
+*CHI:	not really.
+*MOT:	not really?
+*CHI:	no xxx.
+*MOT:	daddy used to play baseball.
+*MOT:	he was a catcher.
+@G:	Ladybug
+*MOT:	ooh what's this?
+*CHI:	a bumble.
+*MOT:	a bug.
+*MOT:	what kind of bug?
+*CHI:	&=makes:noise_disgust.
+*MOT:	a ladybug.
+*CHI:	somebody kills ladybugs.
+*MOT:	no ladybugs are lucky.
+*MOT:	did you know that?
+*CHI:	no.
+*MOT:	ladybugs are lucky.
+@G:	Cookie
+*CHI:	xxx oh whats that?
+*MOT:	what is that?
+*CHI:	a cookie.
+*MOT:	what kind of cookie?
+*CHI:	a sugar cookie.
+*MOT:	you think it's a sugar cookie?
+*CHI:	yeah.
+*MOT:	what kind of cookie is your favorite?
+*CHI:	uh sugar cookie &=laughs.
+@G:	Baby
+*MOT:	what's in that picture?
+*CHI:	a baby.
+*MOT:	    ⌈who's⌉ +...
+*CHI:	wah ⌊wah⌋ &=laughs +...
+*CHI:	“wah wah”.
+*MOT:	what's the baby doing?
+*CHI:	tryin(g) to play with some toys.
+*MOT:	yeah what kind of toys?
+*CHI:	a puppy dog.
+*MOT:	mm-hm [= filler].
+@G:	Banana
+*CHI:	a tranana [= banana].
+*MOT:	a banana?
+*MOT:	you like bananas?
+*CHI:	yeah, ⌈kind of⌉.
+*MOT:	      ⌊hm⌋.
+@G:	Carrot
+*MOT:	what's this one?
+*CHI:	a carrot.
+*MOT:	a carrot.
+*MOT:	yummy.
+*MOT:	are carrots healthy or not healthy?
+*CHI:	good healthy.
+*MOT:	they're good and healthy yeah.
+@G:	Puppy
+*CHI:	a dog.
+*MOT:	yeah, a big dog or a little dog?
+*CHI:	a little dog.
+@Comment:	book closed
+*MOT:	you are very much the speed reader today.
+*CHI:	I wanna go play.
+*MOT:	well can we read the book some more?
+*CHI:	mm mm mm mm mm &=hums.
+*MOT:	how about if we read the book again?
+*CHI:	no.
+*MOT:	we can make up a story.
+*CHI:	no.
+*MOT:	watch &=tries:take_book.
+*CHI:	no.
+*MOT:	no?
+*MOT:	well we have we have another probably fifteen minutes or so before we go play.
+*CHI:	mm-mm [= no].
+*CHI:	I'm not +...
+@G:	Puppy
+*MOT:	what's your favorite picture in the book?
+*MOT:	can you show me?
+*CHI:	the dog.
+*MOT:	let's see.
+*MOT:	<can we> [?] find him again?
+@G:	Cheese
+*MOT:	&=opens:book.
+*CHI:	no not the cheese.
+*MOT:	not the cheese?
+*CHI:	&=closes:book &=opens:from_back.
+@G:	Puppy
+*CHI:	the doggy.
+*CHI:	I like the, dog.
+*CHI:	I like it.
+*MOT:	what's the dog's name?
+*CHI:	um Pup- xxx [= pets].
+*MOT:	can you tell me a story about the dog?
+*CHI:	a dog ate cheese.
+*MOT:	a dog that ate cheese?
+*MOT:	that sounds like xxx [= pets].
+*MOT:	is xxx [= pets] your dog?
+*MOT:	hm?
+*MOT:	is xxx [= pets] your dog?
+*MOT:	does he eat cheese?
+*CHI:	yeah.
+*MOT:	yeah.
+*CHI:	put my feet up &=puts:feet_on_table.
+*MOT:	no let's not put your feet on the table.
+*MOT:	that's not what tables are for.
+*CHI:	I want to put (th)em up.
+*MOT:	thank you Dirty Socks &=pushes:feet_off_table.
+*CHI:	I I can't +...
+*MOT:	if you want to put your feet up we have to go sit on the couch.
+*CHI:	the couch is xxx.
+*CHI:	couch xxx don't put the feet up [?].
+*MOT:	mm?
+*CHI:	don't put the feet up.
+*MOT:	no but you could put your feet up, on the couch but not on the table.
+*CHI:	but I want to put my head down.
+*MOT:	okay let's go snuggle on the couch then.
+*CHI:	but I'm not sleeping.
+*MOT:	okay you don't have to sleep &=sits:on_couch.
+*CHI:	hey I need to lay down.
+*MOT:	come here.
+*CHI:	I need the whole couch.
+*MOT:	well where would Mommy sit?
+*MOT:	then where would Mommy sit &=tickles:CHI?
+@G:	Cheese
+*MOT:	okay.
+*MOT:	once upon a time there was a chunk of cheese.
+*CHI:	no.
+@G:	Painter
+*MOT:	and the cheese was a very big fan of artwork.
+*MOT:	do you think the cheese likes art?
+*CHI:	no.
+@G:	Cheese
+*MOT:	so Mister Chunk of Cheese hired an artist  to paint him a picture of
+	a beautiful tree &=laughs.
+*CHI:	stop.
+@G:	Turtle
+*MOT:	and then along came Mister Turtle.
+*CHI:	the cheese ran into Mister Turtle?
+*MOT:	and Mister Turtle liked the cheese so much he
+	nibble nibble nibbled all these holes in it.
+*MOT:	so Mister Turtle after he ate all that cheese was very full.
+@G:	Pig
+*MOT:	he felt like a pig.
+*MOT:	(be)cause he ate all the cheese &=laughs.
+*MOT:	how am I doin(g)?
+*CHI:	good.
+*MOT:	is this a good story?
+*CHI:	yeah.
+@G:	Bread
+*MOT:	so after eating all the cheese Mister Turtle thought he should have
+	some ⌈bread⌉.
+*CHI:	     ⌊bread⌋ &=laughs.
+@G:	Turtle
+*MOT:	so, Mister Turtle oops, Mister Turtle after eating all the cheese
+	and feeling like a pig +...
+@G:	Painter
+*MOT:	uh we left out the artwork.
+@G:	Bread
+*MOT:	decided to eat some bread.
+@G:	Painter
+*MOT:	while admiring the artwork, that the art teacher was painting.
+*MOT:	how are we doing?
+*CHI:	good.
+@G:	Doctor
+*MOT:	uh oh.
+*MOT:	but then Mister Turtle got called to go help the little girl feel better.
+*MOT:	so he could entertain her at the hospital, huh?
+*CHI:	you're funny &=laughs.
+@G:	Pirate
+*MOT:	and on the way he ran into a pirate.
+*MOT:	who had a treasure chest full of treasures.
+@G:	Duck
+*MOT:	well where does the duck come into the picture &=laughs?
+*MOT:	huh?
+*CHI:	and the duck came with him.
+*MOT:	and the duck came with him?
+*CHI:	mm-hm [= yes].
+*MOT:	okay so Mister Turtle and Mister Duck after running into the pirate
+	and getting the treasure decided to go and play some +...
+@G:	Baseball Player
+*CHI:	baseball.
+*MOT:	baseball.
+*CHI:	no the pig and the t- and th that duck and the and the frog.
+*MOT:	oh so the turtle and the duck and the +...
+@G:	Ladybug
+*MOT:	uh-uh oh.
+*MOT:	and while they were playing baseball they were invaded by a swarm of lady-ba-bugs.
+*CHI:	<the> [?] ladybug came with them.
+*MOT:	oh so now we've got the turtle traveling with the ladybug and the
+	pig and the, ⌈duck⌉.
+@G:	Cookie
+*CHI:	and and the  ⌊duck⌋ ate all the cookies.
+*MOT:	the duck ate all the cookies?
+*CHI:	and didn't left uh some for them.
+*MOT:	oh no.
+@G:	Baby
+*MOT:	what about the baby?
+*CHI:	the baby went with (th)em.
+*MOT:	oh.
+@G:	Banana
+*MOT:	did the baby eat the banana?
+*CHI:	yeah.
+*CHI:	xxx.
+@G:	Carrot
+*MOT:	who got the carrot?
+@G:	Puppy
+*CHI:	um, the dog went with them.
+*MOT:	the dog went with (th)em?
+*CHI:	yeah.
+*MOT:	did he eat the carrot?
+*CHI:	yeah.
+@G:	Carrot
+*MOT:	what's healthier carrots or cookies?
+*CHI:	cookies.
+*MOT:	cookies?
+*MOT:	no +...
+*MOT:	are you pulling my leg?
+@Comment:	no pictures visible
+*MOT:	are you pulling my leg?
+*MOT:	what's healthier carrots or cookies?
+*CHI:	frogs.
+*MOT:	frogs?
+*MOT:	mommy likes frog legs.
+*MOT:	do you like frog legs?
+*MOT:	yummy.
+*MOT:	breaded.
+*CHI:	you wet Mom?
+*MOT:	I'm wet?
+*CHI:	  ⌈yeah⌉.
+*MOT:	I ⌊know⌋ (be)cause we went swimming.
+@G:	Carrot
+*MOT:	so what's healthier carrots or cookies?
+*CHI:	carrots.
+*MOT:	carrots.
+*MOT:	carrots &=tickles:CHI.
+*MOT:	good job.
+*MOT:	do you like carrots?
+*CHI:	um no I like peanut butter.
+*MOT:	is peanut butter healthy?
+*CHI:	yeah.
+*MOT:	yeah.
+*CHI:	bam &=hits:MOT.
+*MOT:	bam.
+*CHI:	xxx.
+*MOT:	have we had enough picture booking?
+*CHI:	no, we had pancakes.
+*MOT:	pancakes?
+@G:	Cheese
+*CHI:	no.
+*CHI:	cheese.
+*CHI:	a baby.
+*CHI:	a frog.
+*CHI:	I'm baby and chairs.
+*MOT:	what &=laughs?
+*CHI:	yeah.
+*MOT:	are you being a silly Pumpkin?
+*MOT:	fix your pant leg.
+*CHI:	uh.
+*MOT:	do you like that mirror?
+*MOT:	do you like that mirror?
+*MOT:	hm?
+@Comment:	book closed.
+*MOT:	tickle tickle tickle tickle tickle.
+*MOT:	hey you know what we can do?
+*MOT:	we can count how many pages are in that picture book.
+*CHI:	no.
+*MOT:	want to?
+*CHI:	no.
+*MOT:	you want to?
+*CHI:	no.
+*MOT:	no?
+*CHI:	I want to go play.
+*MOT:	you want to go play?
+*MOT:	how about if we count the pages in the picture book and then we'll go play.
+*CHI:	you count and I ⌈say what the what kind they are⌉.
+*MOT:	you'll help     ⌊me⌋?
+@G:	Cheese
+*MOT:	okay one.
+*CHI:	dsd.
+*MOT:	one what?
+*CHI:	dsd.
+*MOT:	dsd?
+*MOT:	what is dsd?
+*CHI:	a xxx American flag.
+*CHI:	xxx.
+*MOT:	club American flag?
+*CHI:	yeah.
+*MOT:	I don't know that.
+*CHI:	they made that out of xxx.
+*MOT:	hm.
+*CHI:	now now turn the page.
+*MOT:	one.
+@G:	Painter
+*MOT:	two.
+*CHI:	um frog legs.
+*MOT:	&=laughsYou're making stories up &=laughs.
+@G:	Turtle
+*MOT:	three.
+*CHI:	pancakes.
+@G:	Pig
+*MOT:	four.
+*CHI:	cheese and crackers.
+@G:	Bread
+*MOT:	five.
+*CHI:	bread and cheese.
+@G:	Doctor
+*MOT:	six.
+*CHI:	doctor and baby.
+@G:	Pirate
+*MOT:	seven.
+*CHI:	cheese and babies.
+@G:	Duck
+*MOT:	eight.
+*CHI:	um pancakes and nothing.
+@G:	Baseball Player
+*MOT:	nine.
+*CHI:	pancakes and sledding and and going skateboarding.
+@G:	Ladybug
+*MOT:	ten.
+*CHI:	frog legs are not good to eat and they're for hanging[?] doors.
+@G:	Cookie
+*MOT:	I lost count.
+*MOT:	is this eleven?
+*CHI:	carpet is going be red.
+@G:	Baby
+*MOT:	twelve.
+*CHI:	babies are not allowed to eat frog &=laughs.
+*MOT:	oh that's not nice.
+@G:	Banana
+*MOT:	thirteen.
+*CHI:	xxx fall down.
+@G:	Carrot
+*MOT:	fourteen.
+*CHI:	carrots don't walk &=laughs.
+@G:	Puppy
+*MOT:	fifteen.
+*CHI:	dogs don't go pee on their head.
+*MOT:	oh we don't talk about dog pee.
+*MOT:	fifteen pages.
+*MOT:	how many is fifteen?
+*CHI:	nothing.
+*MOT:	nothing?
+@Comment:	no pictures visible
+*MOT:	how high can you count?
+*MOT:	can you count?
+*CHI:	two.
+*CHI:	thirteen and nineteen and thirteen and four.
+*MOT:	wow, how many is this &=holds:up_one_finger?
+*CHI:	one.
+*MOT:	how many is this &=holds:up_two_fingers?
+*CHI:	on-two.
+*MOT:	how many is this &=holds:up_three_fingers?
+*CHI:	<blue> [?] chairs.
+*MOT:	how many is this?
+*CHI:	twenty one.
+*MOT:	twenty one?
+*MOT:	you're being silly.
+*CHI:	want to go sit on the chair?
+*CHI:	first I'll push it.
+*MOT:	hm?
+*CHI:	blue chair.
+*CHI:	blue xxx.
+*CHI:	sit in it.
+*MOT:	sit in it?
+*CHI:	yeah.
+*MOT:	are we gonna read the picture book again?
+*CHI:	xxx.
+*MOT:	I have no idea how much time has passed.
+*CHI:	two four.
+*CHI:	two four xxx.
+*MOT:	you need some lotion for your face Pumpkin &=points:CHI_lip.
+*MOT:	your skin really dried out in the swimming pool.
+*CHI:	why?
+*MOT:	hm?
+*CHI:	why?
+*MOT:	all the chemicals.
+*CHI:	why?
+*MOT:	from the pool water.
+*CHI:	I want ⌈to put my feet up &=puts:foot_on_table⌉.
+*MOT:	did    ⌊you⌋ l +...
+*MOT:	no not on the table.
+*MOT:	no feet on the table.
+*MOT:	did you like the picture book?
+*CHI:	I can't hold my feet up.
+*MOT:	&=gasps oh that's rough.
+*CHI:	I'm gonna get a chair set my feet on it.
+*CHI:	but only me.
+*MOT:	what color is that chair?
+*CHI:	green.
+*MOT:	mm-hm [= filler].
+*MOT:	it's your fav-Is that your favorite color?
+*CHI:	not really.
+*MOT:	no?
+*MOT:	what's your favorite color?
+*CHI:	blue.
+*MOT:	is there any blue in the picture book?
+*CHI:	     ⌈um⌉.
+@G:	Cheese
+*MOT:	show ⌊me⌋.
+*CHI:	no.
+@G:	Painter
+*MOT:	show me if you see any blue say “stop”.
+@G:	Bread
+*CHI:	no.
+@G:	Doctor
+*CHI:	blue.
+*MOT:	where?
+*CHI:	there.
+*MOT:	&=gasps it is blue.
+*MOT:	it's a pretty blue too isn't it?
+*CHI:	mm.
+@G:	Pirate
+*MOT:	is there any other blue?
+*CHI:	no xxx .
+*MOT:	that's not blue?
+*CHI:	that's not real [?] blue.
+*MOT:	kinda blue huh?
+*CHI:	uh kind not xxx.
+*CHI:	no.
+@G:	Baby
+*CHI:	blue.
+*MOT:	blue stars.
+*MOT:	good job &=turns:pages.
+*MOT:	any other blue?
+*CHI:	hey you slipped a page.
+*MOT:	did I?
+*MOT:	what sk-what page did I skip?
+@G:	Banana
+*CHI:	that page.
+*MOT:	what's on it?
+*CHI:	a banana [= mispronounces] &=laughs.
+*MOT:	banana [= correcting pronunciation].
+*MOT:	banana.
+@G:	Baby
+*CHI:	baby.
+@G:	Banana
+*MOT:	banana.
+@G:	Baby
+*CHI:	baby.
+@G:	Cheese
+*MOT:	what other colors do you like?
+*CHI:	cheese and crackers.
+*MOT:	are you hungry?
+*MOT:	you're talking about food an awful lot today.
+*CHI:	cheese and babies.
+*MOT:	yeah.
+*CHI:	cheese is eating baby.
+*CHI:	cheese is eating a baby.
+*MOT:	cheese is eating a baby?
+*MOT:	how about a baby is eating cheese?
+*MOT:	do babies like cheese?
+@G:	Baby
+*CHI:	a baby went potty, in a toilet.
+*MOT:	wow that's pretty good.
+*MOT:	babies usually go in a diaper don't they?
+*MOT:	that must be a very smart baby.
+*CHI:	but my baby goes and pees on my carpet.
+*MOT:	&=gasps I hope not.
+*MOT:	you must've forgot to put a diaper on.
+*CHI:	wha-why?
+*MOT:	because if a baby had a diaper on it wouldn't pee on the carpet right?
+*CHI:	but I xxx I xxx I don't want to dress a baby.
+*MOT:	oh.
+*CHI:	I wanna [?] dress by myself.
+*MOT:	mm.
+*MOT:	you do a good job of dressing by yourself.
+*MOT:	not in your nose.
+*CHI:	&=fingers:in_nose.
+*MOT:	not in your nose.
+*MOT:	yucky.
+*MOT:	that's how we make people sick, right?
+*CHI:	mom I want hold hands.
+*MOT:	hold hands?
+*CHI:	baby.
+*CHI:	baby.
+*CHI:	baby.
+*CHI:	baby.
+*CHI:	baby.
+*CHI:	baby.
+*CHI:	baby.
+*CHI:	     ⌈baby⌉.
+*MOT:	baby ⌊what⌋?
+*CHI:	baby pancakes.
+*CHI:	baby pancakes &=laughs.
+*CHI:	baby pancake.
+*MOT:	so what do you want to do now?
+*CHI:	baby pancakes.
+*CHI:	baby canpakes.
+*CHI:	baby pancakes.
+*CHI:	baby pancakes.
+*CHI:	baby xxx.
+*MOT:	that's hard to-that's hard to say three times fast isn't it?
+*CHI:	baby pancakes.
+*MOT:	are we done with the picture book?
+*MOT:	are we done with the picture book?
+*CHI:	yeah.
+*MOT:	yeah.
+@G:	Puppy
+*CHI:	(be)cause I like dogs.
+*MOT:	oh.
+*CHI:	that why.
+*MOT:	you like that mirror don't you?
+*CHI:	xxx.
+*MOT:	yeah.
+*CHI:	xxx.
+*MOT:	yeah.
+*CHI:	am I gonna [?] bleed?
+*MOT:	no, don't lick it though.
+*MOT:	you gotta stop lickin(g) your lips because they're getting really chapped.
+*MOT:	okay you ready to go play?
+*MOT:	okay we'll see if we can go play.
+*INV:	&=knocks &=enters if you guys are all set it's okay to ⌈come on out⌉.
+*MOT:	                                                       ⌊alrighty⌋, let's put the chairs back.
+@End

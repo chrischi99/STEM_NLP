@@ -1,0 +1,404 @@
+@UTF8
+@PID:	11312/a-00032102-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.08|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Doctor
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	mm I don't know.
+*CHI:	I don't know.
+*INV:	well go ahead and take a guess.
+*CHI:	mm, don't know.
+*CHI:	I just can't, know it.
+*INV:	do you have any ideas?
+*CHI:	nope.
+*INV:	well what can you tell me?
+*CHI:	I don't know about that thing yet.
+*CHI:	I don't know about it.
+*INV:	well what do you think?
+*CHI:	I don't know.
+*INV:	do you think maybe it's a, doctor?
+*CHI:	&=nods:yes.
+*INV:	yeah?
+*CHI:	a doc the doctor's right there though.
+*INV:	well what more can you tell me?
+*INV:	you can tell me whatever you'd like.
+*INV:	whatever you can think of.
+*CHI:	there's a phone on that pillow.
+*INV:	mm.
+*CHI:	a phone remote control, on that pillow.
+*INV:	mm, what else can you tell me?
+*CHI:	um, there's a kid right there.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know about this picture.
+*INV:	okay.
+*CHI:	so why don't we turn the page?
+*INV:	okay.
+*CHI:	mm.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	a pirate and a bird [?] and a treasure chest.
+*INV:	what more can you tell me?
+*CHI:	money inside the treasure chest.
+*CHI:	treasure inside the treasure chest.
+*CHI:	bird on the pirate.
+*CHI:	little hat on the pirate.
+*CHI:	a bird on the pirate.
+*CHI:	standing on the pirate.
+*CHI:	the pirate has that brown thing and a boot.
+*INV:	mm.
+*CHI:	what is that brown thing?
+*INV:	you know I'm not sure.
+*INV:	what do you think?
+*CHI:	I don't know.
+*INV:	mm.
+*CHI:	why don't we turn the page now?
+*INV:	alright.
+@G:	Duck
+*CHI:	        ⌈it's a⌉.
+*INV:	what is ⌊this⌋?
+*CHI:	a mallard duck.
+*INV:	what more can you tell me?
+*CHI:	duck has a a yellow beak.
+*CHI:	ducks, float on water.
+*INV:	mm-hm [= yes].
+*CHI:	that's why they have webbed feet.
+*INV:	mm.
+*CHI:	wa &=moves:chair.
+*CHI:	they ducks can fly.
+*INV:	mm.
+*CHI:	mm that's all I know about it.
+*INV:	okay.
+*CHI:	why don't we turn it?
+*INV:	alright.
+@G:	Cheese
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	mouse cheese.
+*CHI:	that's all there is.
+*CHI:	that's all I know about it.
+*CHI:	that's all.
+*INV:	what else can you tell me?
+*CHI:	I don't know anything else about that mm that &=points.
+*INV:	alright.
+*CHI:	(o)kay so why don't we turn it?
+*INV:	okay.
+@G:	Pig
+*INV:	what is this?
+*CHI:	brown and pink pig.
+*INV:	what more can you tell me?
+*CHI:	ah, has those things hanging down.
+*INV:	mm-hm [= yes].
+*CHI:	its head it pointing down.
+*CHI:	has a little tail.
+*CHI:	the legs are long.
+*CHI:	the nails look sharp.
+*CHI:	that's all I know about it.
+*INV:	you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	what animal is Zurg Zorg?
+*INV:	I'm not sure.
+*CHI:	it's it's the same as same Zurg isn't it the same?
+*CHI:	zurg is in Buzz Light is in Toy_Story_Two.
+*INV:	oh.
+*CHI:	that's what Zurg is.
+*CHI:	he's mean.
+*INV:	oh.
+*CHI:	he's big.
+*CHI:	but they're all toys even though he is a toy too.
+*CHI:	but he can talk.
+*CHI:	all the toys are alive.
+*INV:	mm.
+*CHI:	it's a it's a story about toys.
+*CHI:	it has to be they have to to be alive because Andy isn't with them a lot.
+*INV:	mm-hm [= yes].
+*CHI:	and Andy is can talk louder.
+*INV:	mm-hm [= yes].
+*CHI:	and so they have to talk and and Woody but at first all the toys didn't know if there was a Buzz.
+*CHI:	but Buzz the toy was on on the bed.
+*CHI:	he was standing.
+*INV:	oh.
+*CHI:	and Buzz has a laser.
+*INV:	well you.
+*CHI:	he's a Space_Ranger.
+*INV:	oh.
+*CHI:	he's a Space_Ranger.
+*INV:	oh.
+*CHI:	that's why he has wings.
+*CHI:	that pop out.
+*INV:	well this Zorg is from a planet far far away, and so he doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	what what other things live in his old town?
+*INV:	I don't know.
+*CHI:	have you ever been there before?
+*INV:	mm-mm [= no].
+*CHI:	why don't you go there?
+*INV:	because he's from far far away.
+*CHI:	well you should go in a jet.
+*CHI:	that'll make you go fast.
+*INV:	oh.
+*CHI:	or a racecar.
+*INV:	oh.
+*CHI:	or a motorcycle.
+*INV:	oh.
+*CHI:	(be)cause those are the only things that go goes faster.
+*INV:	uh-huh [= yes].
+*CHI:	planes jets.
+*CHI:	yep that's a type of plane.
+*CHI:	all kinds of planes and.
+*CHI:	all kinds of cars to Texas.
+*CHI:	because Texas is only we only have to drive two days.
+*INV:	oh.
+*CHI:	I drove there once.
+*INV:	really?
+*CHI:	uh-huh [= yes] because my uh grandma and my grandpa lives there.
+*INV:	oh.
+*CHI:	they live in Texas.
+*CHI:	but Grandpa keeps on going to xxx because there's not more trees there.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	mm carrot.
+*INV:	what more can you tell me?
+*CHI:	hm, well the orange part is the root.
+*INV:	mm.
+*CHI:	and we eat it.
+*INV:	mm-hm [= yes].
+*CHI:	this orange thing is a root.
+*INV:	mm.
+*CHI:	and we eat the root.
+*INV:	mm-hm [= yes].
+*CHI:	that's the thing that we eat.
+*CHI:	this is a root.
+*CHI:	you see this thing?
+*CHI:	it's a root.
+*CHI:	and and this thing we eat.
+*CHI:	we eat carrot's roots.
+*INV:	what else can you tell me?
+*CHI:	it has this green stuff.
+*CHI:	mm, it's the carrot it long.
+*INV:	oh.
+*CHI:	it's so long.
+*CHI:	where'd you get him [= referring to Zorg]?
+*INV:	I'm not really sure.
+*CHI:	did you order a puppet?
+*CHI:	I ordered some books.
+*INV:	oh.
+*CHI:	I ordered a set.
+*INV:	maybe.
+*CHI:	yeah maybe you ordered.
+@G:	Painter
+*INV:	what is this?
+*CHI:	mm, painter.
+*INV:	mm, what more can you tell me?
+*CHI:	there's rocks and trees and grass on it.
+*CHI:	and the sky, and clouds.
+*CHI:	cirrus clouds.
+*INV:	mm.
+*CHI:	they're called cirrus clouds.
+*INV:	what else can you tell me?
+*CHI:	mm, orange shirt.
+*CHI:	black hair.
+*CHI:	blackish brownish hair.
+*CHI:	that's all I know about this page.
+*CHI:	so why don't we go on?
+*INV:	okay.
+*CHI:	wa.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	there's a lot of toys around, it.
+*INV:	what else can you tell ⌈me⌉?
+*CHI:	what is that baby      ⌊called⌋?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	I don't know.
+*CHI:	nope [?].
+*CHI:	um, well Firstname has a little brother called Firstname.
+*CHI:	he's a little little because he just been born.
+*INV:	oh.
+*CHI:	just been born.
+*CHI:	and and xxx been borned a years ago.
+*INV:	mm.
+*CHI:	some years ago.
+*CHI:	I don't know when he been borned because it was too long ago.
+*CHI:	hm, there's a bunny and a, dog around it.
+*CHI:	that's all I know about this picture so I'm going to turn the page.
+*CHI:	okay?
+*INV:	okay.
+@G:	Puppy
+*CHI:	skippin(g) pages [= CHI is having trouble turning the page].
+*INV:	&=gasps.
+*CHI:	a dog.
+*INV:	what more can you tell me?
+*CHI:	eh well I have a dog.
+*INV:	mm.
+*CHI:	but it's bigger.
+*CHI:	it's like like that big I think.
+*INV:	oh.
+*CHI:	my house is like it's kind of golden.
+*CHI:	it has new steps that aren't painted yet.
+*INV:	oh.
+*CHI:	so they're all brown.
+*CHI:	we haven't put stuff on the steps yet.
+*CHI:	so it's just plain steps.
+*INV:	what.
+*CHI:	xxx steps already done.
+*INV:	what else can you tell me?
+*CHI:	so we're both in blue chairs now.
+*CHI:	only you look upside down and so I'm gonna turn it that way when you want to look.
+*CHI:	tell me when you want to look okay?
+*INV:	(o)kay.
+*CHI:	that's all I know about this.
+*CHI:	do you want to look at it now?
+*INV:	okay.
+*INV:	okay.
+*CHI:	now I'm going to turn the page.
+*INV:	okay.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	look at the bread.
+*CHI:	it's cut.
+*INV:	okay.
+*CHI:	that's the piece that went right there.
+*CHI:	that is the piece that went there.
+*CHI:	that's the piece that went right there.
+*INV:	okay.
+*CHI:	why don't we go onto the couch, (o)kay?
+*INV:	okay.
+*CHI:	that'll be bigger.
+*CHI:	so we'll both fit on it good.
+*CHI:	I pick that spot.
+*CHI:	we're on the bread.
+*CHI:	it's still on the bread.
+*CHI:	so it went this way.
+*CHI:	why do you have that piece of paper right there?
+*INV:	oh just to remind me.
+*CHI:	I don't know about anything else about this bread.
+*INV:	okay.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	uh, a red ladybug.
+*INV:	what more can you tell me?
+*CHI:	mm, short legs.
+*CHI:	little head.
+*CHI:	black spots.
+*CHI:	they fly.
+*CHI:	it's red.
+*CHI:	the orange ones are mean but the red ones aren't.
+*CHI:	so whenever you see a red one don't go near it, (o)kay?
+*CHI:	(be)cause they're the meanest ladybug.
+*CHI:	the orange ones are the meanest ladybug.
+*CHI:	they're mean.
+*CHI:	but the red ones are nice.
+*CHI:	I think the orange ones are dangerous because I think their legs are sharp.
+*INV:	mm.
+*CHI:	this is all I know about this ladybug.
+*INV:	okay.
+*CHI:	turn the page.
+*INV:	okay.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	mm, turtle.
+*INV:	what more can you tell me?
+*CHI:	mm, I can't see very well because the light's too bright.
+*CHI:	the light's too bright to see it.
+*INV:	&=adjust:lights.
+*CHI:	where are you going?
+*CHI:	oh you're just turning the light down.
+*CHI:	when I lean too much back it's too light.
+*CHI:	so, that's all I know about the turtle.
+*INV:	well what else can you tell me?
+*CHI:	it has some yellow and some red.
+*CHI:	brown.
+*CHI:	that's the shell.
+*CHI:	short legs.
+*CHI:	little head.
+*CHI:	little eyes.
+*CHI:	that's all I know about it.
+*INV:	okay.
+*CHI:	so we're going to turn it.
+*INV:	okay.
+*CHI:	and it there's a little tail.
+*CHI:	that's all I know.
+*INV:	you're doing really good.
+*CHI:	and black.
+*CHI:	that's all I know about it.
+@G:	Banana
+*CHI:	eh skipped the page.
+*CHI:	banana.
+*INV:	what more can you tell me?
+*CHI:	mm, bananas can be peeled by by us.
+*CHI:	we peel bananas.
+*CHI:	because you don't eat that part right there.
+*INV:	mm.
+*CHI:	we eat that part.
+*CHI:	that stuff is the stuff that was on there.
+*INV:	oh.
+*CHI:	and that's all I know that's all of what I know about it.
+*INV:	well what else can you tell me?
+*CHI:	mm, this one is peeled.
+*INV:	mm.
+*CHI:	and that's all I know.
+*INV:	(o)kay.
+*CHI:	so I'm going to turn it.
+*INV:	alright.
+@G:	Cookie
+*CHI:	hey there's a cookie on the other side.
+*CHI:	I when I was turning it I saw the cookie.
+*INV:	oh.
+*CHI:	see here's a cookie.
+*INV:	oh.
+*INV:	well what more can you tell me?
+*CHI:	it's cracked.
+*INV:	mm.
+*CHI:	I don't see I think it's just a sugar cookie.
+*CHI:	(be)cause I don't see chocolate on it.
+*INV:	mm.
+*CHI:	and there's a lot of pieces.
+*INV:	mm.
+*CHI:	it's round.
+*CHI:	but there's a crack.
+*CHI:	it stops and then it goes again.
+*CHI:	that's all I know about it.
+*INV:	okay.
+*CHI:	so I'm gonna turn the.
+*CHI:	we're getting [?] close to the end.
+@G:	Baseball Player
+*INV:	&=gasps what is this?
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	he has a brown bat.
+*CHI:	black and yellow, thing.
+*CHI:	he stepped.
+*CHI:	he stepped and he sideways.
+*CHI:	blue blue and white pants.
+*CHI:	that's all I know about it.
+*INV:	what else can you tell me?
+*CHI:	blue and black shoes.
+*CHI:	that's all.
+*INV:	okay.
+*CHI:	so [= no pictures visible].
+*CHI:	oh we're done!
+*INV:	do you want to look again?
+*CHI:	nah.
+*INV:	okay.
+*CHI:	well thank you so much for doing that with me.
+*INV:	that' was so much fun.
+*INV:	do you want to put Zorg back to sleep?
+*CHI:	let's put him back in his box.
+*INV:	yeah.
+*INV:	do you want to?
+*INV:	goodnight Zorg.
+*CHI:	why is that hole right there?
+*INV:	so he can look out and sleep and.
+*CHI:	breathe?
+*INV:	breathe definitely yeah.
+*INV:	thank you very much.
+@End

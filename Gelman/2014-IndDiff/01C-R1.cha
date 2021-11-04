@@ -1,0 +1,171 @@
+@UTF8
+@PID:	11312/a-00031970-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.25|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Teacher
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	um a person teaching.
+*INV:	what more can you tell me?
+*CHI:	I know math.
+*INV:	hm &=nods:yes.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	like um one &=holds:fingers_up and one makes one plus, um
+	one plus one equal equals two.
+*INV:	&=nods:yes mm.
+*CHI:	&=turns:page.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horse.
+*INV:	what more can you tell me?
+*CHI:	I don't know a lot like like um horses.
+*CHI:	my friend Firstname really knows about horses.
+*CHI:	he been studying horses at his <horn horn> [?], home.
+*INV:	mm-hm [= yes].
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know it ah because Firstname hasn't told me yet.
+*CHI:	&=turns:page.
+@G:	Cake
+*CHI:	cake.
+*INV:	what more can you tell me?
+*CHI:	um this is the frosting &=pointing:frosting.
+*CHI:	this is the cake &=pointing:cake.
+*CHI:	this is the frosting &=points.
+*INV:	mm-hm [= yes].
+*INV:	anything else you can say?
+*CHI:	&=turns:page.
+@G:	Witch
+*CHI:	witch.
+*INV:	what more can you tell me?
+*CHI:	green &=points:witch_face.
+*CHI:	green &=points:witch_hands.
+*CHI:	hey but why does she have claws?
+*INV:	&=leans hm.
+*INV:	I don't really know.
+*CHI:	hey witches don't use the witches usually have teeth.
+*INV:	hm &=nods:yes.
+*INV:	mkay [= okay].
+*CHI:	&=turns:page.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	cereal.
+*INV:	cereal?
+*INV:	what more can you tell me?
+*CHI:	&=turns:page.
+*INV:	oh can we talk about this one a little bit &=turns:back.
+*CHI:	I don't.
+*CHI:	pour it and milk on it put it in a bowl.
+*INV:	mkay [= okay].
+@G:	Football Player
+*INV:	what is this?
+*CHI:	a girl playing football.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	um, &=points:picture blue and white.
+*CHI:	and a blue helmet.
+*CHI:	hey but, why should why do girls usually um girls don't usually play basketballs.
+*INV:	hm.
+*CHI:	and girls don't usually play sports.
+*CHI:	girls don't usually like playing sports.
+*INV:	mm.
+*INV:	hm.
+*CHI:	&=turns:page.
+@G:	Popcorn
+*CHI:	popcorn.
+*INV:	popcorn?
+*INV:	what more can you tell me?
+*CHI:	um.
+*CHI:	hey why do they put red on it &=points:picture?
+*INV:	&=leans hm I don't really know.
+*INV:	anything else you wanna say?
+*CHI:	no &=turns:page.
+@G:	Penguin
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	um.
+*CHI:	penguins cannot fly but they can swim &=gestures:swimming.
+*INV:	&=nods:yes mm-hm [= yes].
+*INV:	zorg doesn't know much about this.
+*CHI:	&=turns:page.
+*INV:	oh, okay.
+*INV:	well Zorg doesn't know much about this one &=points:penguin.
+*CHI:	&=turns:back.
+*INV:	can you help him out?
+*CHI:	which one?
+*INV:	&=pointis:penguin this one.
+*CHI:	I told he he heared.
+*INV:	he heard?
+*CHI:	yeah.
+*CHI:	&=bounces:picture.
+*INV:	what'd he hear?
+*CHI:	penguins can swim can can swim but not fly.
+*CHI:	&=turns:back &=turns:page.
+*INV:	&=nods:yes.
+*INV:	(o)kay.
+*CHI:	&=turns:page.
+@G:	Pilot
+*INV:	what is ⌈this⌉?
+*CHI:	        ⌊airplane⌋.
+*INV:	what more can you tell me?
+*CHI:	I don't know airplanes.
+*INV:	can you take a guess?
+*CHI:	&=turns:page no.
+@G:	Lobster
+*INV:	okay.
+*INV:	what is this?
+*CHI:	a lobster.
+*INV:	you're doing really well.
+*INV:	what more can you tell me?
+*CHI:	lobsters, &=gestures:claw_hands grab, pinch stuff.
+*INV:	mm-hm [= yes].
+@G:	Elephant
+*CHI:	an, &=turns:page elephant.
+*INV:	what more can you tell me?
+*CHI:	um, I don't know a lot about elephants &=turns:page.
+@G:	Broccoli
+*CHI:	broccoli.
+*INV:	broccoli?
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*INV:	what more can you tell me?
+*CHI:	&=laughs that broccoli looks like little trees.
+*INV:	&=nods mm-hm [= yes].
+*CHI:	these are not, &=points:picture these are not um these are not
+	um you don't usually eat these but these are buds.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	&=turns:page.
+@G:	Alligator
+*CHI:	a alligator.
+*INV:	a alligator?
+*INV:	what more can you tell me?
+*CHI:	uh I don't know a lot about them &=turns:page.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	clown?
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*CHI:	⌈I haven't I haven't been in a circus for a long time⌉.
+*INV:	⌊well⌋ +...
+*INV:	&=nods mkay [= okay].
+@G:	Orange
+*CHI:	orange.
+*INV:	orange?
+*INV:	what more can you tell me?
+*CHI:	my dad juggles, with (th)em.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	you eat (th)em.
+*CHI:	you peel (th)em.
+*INV:	&=nods:yes.
+@Comment:	end of book
+*INV:	great.
+*INV:	&=closes:book alrighty.
+*INV:	well thank you very much.
+*INV:	do you want to put Zorg back into his box?
+*INV:	let him go back to sleep?
+@End

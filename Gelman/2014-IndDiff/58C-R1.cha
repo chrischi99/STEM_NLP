@@ -1,0 +1,278 @@
+@UTF8
+@PID:	11312/a-00032312-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.21|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Ice Cream
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	ice cream.
+*INV:	what more can you tell me?
+*CHI:	you eat ice cream.
+*INV:	and you, you put a cone on it or you can eat it in a bowl.
+*CHI:	and other people have ice cream from stores, too.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	ice cream is for licking or for [?] eating with a spoon.
+*CHI:	you can eat it off a cone with a spoon or you can eat it from a bowl with a spoon.
+*INV:	okay.
+*CHI:	and I can lick it from a cone, or from in a bowl.
+*INV:	ah.
+*CHI:	I can do that.
+*CHI:	unless it's cold [?] I can just put my tongue in.
+*INV:	ah, okay, anything else?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*INV:	okay.
+@G:	Cat
+*INV:	what is this &=looks:next_picture &=gasps &=laughs?
+*CHI:	a cat.
+*INV:	what more can you tell me?
+*CHI:	um cats have fur.
+*CHI:	and they have <four> [?] legs.
+*CHI:	and they have, whiskers.
+*CHI:	and their whiskers help them with things.
+*CHI:	and al-and-and some-lo-a lot of cats are different colors.
+*CHI:	and some people, have cats.
+*CHI:	and all cats are different and some people have the same kind of cats.
+*INV:	mm, anything else you want to tell Zorg?
+*CHI:	&=nods:yes.
+*INV:	okay.
+*CHI:	they have a tail but people don't.
+*CHI:	because tails al +...
+*CHI:	they have tails because so so so just because.
+*INV:	oh.
+*CHI:	that's all I know.
+*INV:	okay.
+*INV:	do you want to turn the page or do you want me to?
+*CHI:	&=turns:page.
+@G:	Race Car Driver
+*INV:	&=gasps what is this?
+*CHI:	a racecar.
+*INV:	what more can you tell me?
+*CHI:	racecars go really fast.
+*CHI:	and they could cause people an accident because they're going so fast.
+*CHI:	someone could crash maybe.
+*INV:	mm.
+*CHI:	and they go in a speed xxx with lots of people watching.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	people ride in it and they have to put on special seatbelts and things so they don't fall out and they don't break the car.
+*CHI:	because the car's really sensitive.
+*CHI:	because they go so fast on it.
+*INV:	oh okay.
+*CHI:	and the wheels aren't that strong.
+*INV:	mm.
+*CHI:	they're really strong but they can't quite handle other wheels.
+*INV:	oh, okay.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	a dolphin.
+*INV:	what more can you tell me?
+*CHI:	dolphins go <in the> [?] water.
+*CHI:	and they live in the ocean.
+*CHI:	and sharks could eat dolphins.
+*INV:	mm.
+*CHI:	and dolphins can go up so sharks can't eat them.
+*CHI:	and when they come back down sharks can eat them.
+*CHI:	so when when they go up sharks can't eat them and so and and [?] they live in the wa and and they jump back into the water.
+*INV:	mm, anything else you want to tell Zorg?
+*CHI:	no I can't like xxx.
+*CHI:	they have fins and they, they have fins and they have a tail like any other sea animal.
+*INV:	oh okay.
+@G:	Judge
+*INV:	what is this?
+*CHI:	um I don't know.
+*INV:	hm, can you take a guess?
+*CHI:	&=nods:yes.
+*CHI:	a person who sits and does paperwork.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	he he likes papers and wears glasses.
+*CHI:	and he has a book that tells him things.
+*INV:	mm-hm [= filler].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I don't know.
+*INV:	okay.
+*INV:	you're doing really really good.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	what more can you tell me?
+*CHI:	parrots have lots of colors on their tails.
+*CHI:	and on the body.
+*CHI:	they have feathers too.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	they they have shar-a little bit of sharp claws.
+*CHI:	and they have a pointy beak like all other birds that so he can eat, his food out of birdfeeders.
+*INV:	mm, okay.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	a fireman.
+*INV:	what more can you tell me?
+*CHI:	he fights out fires.
+*INV:	mm, what more can you tell Zorg?
+*CHI:	he doesn't know much about this one.
+*CHI:	he he has a hose that can, get out the fire.
+*CHI:	and, and he has a big ladder so he can do from anywhere.
+*CHI:	so so so all they can be saved from the fire.
+*INV:	mm.
+*INV:	I'll be right back &=leaves:room &=returns.
+*CHI:	after this can I can I go get a drink of water?
+*INV:	sure do you want to grab a drink of water right now ⌈and then we can
+	come back⌉?
+*CHI:	                                                    ⌊yeah⌋.
+*CHI:	yeah.
+*INV:	okay &=leaves:room &=returns.
+*CHI:	xxx &=leaves:room &=returns.
+*INV:	what's that?
+*CHI:	are we gonna do some other things after this?
+*INV:	um I think actually this is it.
+*INV:	after we're all done with the book we can +...
+*CHI:	what are we gonna do with this [= Zorg]?
+*INV:	well +...
+*CHI:	what are we gonna do with him?
+*INV:	oh well we'll take, we'll put him back in his box so that he can go back to sleep.
+*CHI:	oh we're not doing anything with him.
+*INV:	no we're not gonna do anything with him.
+*INV:	alrighty so is it okay if we if Zorg continues to look at the picture book with us?
+*CHI:	yes.
+*INV:	okay.
+*INV:	alrighty.
+*INV:	anything else?
+*CHI:	no.
+*INV:	okay.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a c-a muffin.
+*INV:	what more can you tell me?
+*CHI:	muffins have things on them.
+*CHI:	and they have a wrapper on them.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	they they some have blueberries.
+*CHI:	and some are plain.
+*CHI:	and some, and some of them are are just plain and they don't have anything on them.
+*CHI:	and no nuts <and some have> [?] nuts.
+*INV:	mm.
+*INV:	okay.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a monarch butterfly.
+*INV:	what more can you tell me?
+*CHI:	monarch butterflies, have dots on on the outside of the xxx inside.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um they they turn out to caterpillars first and then come the monarch butterflies.
+*CHI:	and they have, these things just because some so [?] because um they they so they can smell and do things.
+*CHI:	and they drink nectar from [?] different flowers just like bumble bees.
+*INV:	mm.
+*INV:	okay.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a [?] ballerina.
+*INV:	what more can you tell me?
+*CHI:	ballerinas have tutus.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um they spin on their ballerina shoe.
+*CHI:	and they have special tutus.
+*CHI:	and they have different kind of places.
+*INV:	mm.
+*CHI:	and sometimes xxx places.
+*INV:	mm okay.
+*CHI:	&=coughs.
+*INV:	you alright?
+*CHI:	mm-hm [= filler].
+*INV:	okay.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	pineapple.
+*INV:	what more can you tell me?
+*CHI:	pineapples have a little bit pokey on on the on the skin.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	the end, the ends have pokey bits on the ends.
+*CHI:	and the green on the xxx on the pokey bits.
+*CHI:	and it's brown xxx on the pokey bits.
+*INV:	mm, okay.
+@G:	Skunk
+*INV:	&=gasps what is that?
+*CHI:	a skunk.
+*INV:	what more can you tell me?
+*CHI:	skunks have special stinkiness coming from bu, um coming from their tail.
+*INV:	mm.
+*CHI:	coming from inside under the tail.
+*CHI:	and they and they xxx white and black.
+*CHI:	and they and they have whiskers and sharp claws.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	his tail closes up when he's when it  when <he's> [?] pushing the ba
+	the bad smell out.
+*INV:	okay.
+*CHI:	and they have fur.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a old lady.
+*INV:	what more can you tell me?
+*CHI:	old ladies have necklaces and they have canes so they can walk well outside.
+*CHI:	and they and they and they have special and they have grey hair.
+*CHI:	and they wear glasses around.
+*CHI:	and some don't.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	old people, have, I don't know.
+*INV:	okay.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	they're crunchy.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh they have holes in them.
+*CHI:	so the you eat them.
+*CHI:	you can eat them (be)cause they have holes in them that you can eat.
+*CHI:	and they have crumbs or xxx.
+*INV:	mm.
+*INV:	okay.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	um pumpkins are orange.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um from the top you carry it from where the stem is.
+*CHI:	and they grow in the dirt.
+*CHI:	and when they're when they're big and you can pull (th)em out of the dirt.
+*CHI:	and they can come.
+*CHI:	and you can make things with them.
+*CHI:	and  make a scary face.
+*CHI:	and and you can do anything, with them.
+*INV:	mm.
+*INV:	okay.
+*INV:	&=gasps.
+*CHI:	the end.
+*INV:	the end.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	no?
+*INV:	okay.
+*INV:	do we want +...
+*CHI:	do I get two toys because I was so good?
+*INV:	you are so good.
+*INV:	do you want to put Zorg back in his box?
+*CHI:	yes.
+*INV:	and we can go on out.
+*INV:	let's go see what we have.
+@End

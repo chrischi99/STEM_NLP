@@ -1,0 +1,197 @@
+@UTF8
+@PID:	11312/a-00032229-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;07.08|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@Types:	cross, narrative, TD
+*INV:	this is my puppet friend zorg and he's gonna look at a picture book
+	with us.
+*INV:	is that alright?
+*CHI:	yeah.
+@G:	Truck
+*INV:	what is this?
+*CHI:	a truck.
+*INV:	what can you tell me about trucks?
+*CHI:	you ride (th)em.
+*INV:	zorg doesn't know anything about this truck.
+*INV:	what can you tell him about this truck?
+*CHI:	it's blue.
+*CHI:	and it has wheels.
+*INV:	mm.
+@G:	Lamp
+*INV:	what is this?
+*CHI:	a a lamp.
+*INV:	what can you tell me about this lamp?
+*CHI:	that's how you get light.
+*INV:	zorg doesn't know anything about lamps.
+*INV:	what can you tell him about lamps?
+*CHI:	I don't know.
+*INV:	mm.
+*INV:	you can say whatever you'd like to.
+*INV:	do you wanna hold zorg?
+*CHI:	no.
+*INV:	do you wanna sit on the couch?
+*CHI:	yeah.
+*INV:	yeah &=sits:couch.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	it's red.
+*INV:	mm-hm [= filler].
+*CHI:	and it have leaves on it.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's green.
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn.
+*INV:	what more can you tell me?
+*CHI:	it's yellow.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*INV:	can you use your words?
+*CHI:	I don't know.
+*INV:	do you wanna hold the book?
+*CHI:	no.
+*INV:	no do you want me to?
+*CHI:	yeah.
+*INV:	okay.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	police officer.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	the car is blue.
+*INV:	mm.
+*INV:	what else can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	the police officer has a hat on.
+@G:	Milk
+*INV:	what is this?
+*CHI:	a cup.
+*INV:	what more can you tell me?
+*CHI:	you drink outta cups.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it doesn't have a lid on it.
+@G:	Pie
+*INV:	what is this?
+*CHI:	a pie.
+*INV:	what more can you tell me?
+*CHI:	you eat pie.
+*INV:	mm.
+*INV:	what else can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it got holes in it.
+@G:	Snake
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	what more can you tell me?
+*CHI:	the snake is xxx.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	the snake got a tail.
+*INV:	anything else you wanna say?
+*CHI:	no.
+@G:	Lion
+*INV:	what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	the lion got a a tail.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	the lion gots the leg.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	it's wearin(g) a crown.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	the king is wearing a cape.
+@G:	Frog
+*INV:	what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	we had some frogs in our pool today.
+*INV:	oh.
+*CHI:	the frog hops.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	frogs like to be in the water.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	bunny.
+*INV:	what more can you tell me?
+*CHI:	it got ears.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's white and grey.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	somebody holding some fruit.
+*INV:	what more can you tell me?
+*CHI:	the woman's wearing a hat.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	the woman has a basket.
+*INV:	you wanna turn the page?
+*CHI:	yeah.
+@G:	Owl
+*INV:	what is this?
+*CHI:	a owl.
+*INV:	what more can you tell me?
+*CHI:	the owl has wings.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	that owl, got two eyes.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	mm, can you take a guess?
+*CHI:	it's somebody holding its arms out.
+*INV:	mm, what more can you tell me?
+*CHI:	the woman doesn't have a shirt on.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I don't know.
+*INV:	you can say whatever comes to mind.
+*INV:	you're doing really well.
+*CHI:	&=shrugs:shoulders.
+*INV:	you wanna try the next page?
+*CHI:	yeah.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	somebody with its bathing suit on.
+*INV:	mm, what more can you tell me?
+*CHI:	its in, the woman's in the water.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's on something.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	a pretzel.
+*INV:	what more can you tell me?
+*CHI:	you eat pretzels.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's a big pretzel.
+*INV:	can you say a little bit more?
+*CHI:	the pretzel has salt on it.
+*INV:	all done.
+*INV:	do you wanna look again?
+*CHI:	no.
+*INV:	no?
+*INV:	okay.
+*INV:	would you like to put zorg back into his home?
+*CHI:	yeah.
+*INV:	alrighty.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a whole lotta fun.
+@End

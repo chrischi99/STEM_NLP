@@ -1,0 +1,588 @@
+@UTF8
+@PID:	11312/a-00032341-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.18|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Doctor
+@Types:	cross, narrative, TD
+*MOT:	oh, what's this?
+*CHI:	a girl who's sick.
+*MOT:	where is she do you think?
+*CHI:	hospital.
+*MOT:	the hospital?
+*CHI:	mm-hm [= yes].
+*MOT:	why do you think she's in a hospital?
+*CHI:	because she's sick.
+*MOT:	what what do you see in the picture that makes it look like she's in a hospital?
+*CHI:	a bed.
+*MOT:	a bed.
+*CHI:	a nurse.
+*MOT:	yeah.
+*MOT:	have you ever been to a hospital before?
+*CHI:	uh huh [= yes].
+*MOT:	when did you go to a hospital?
+*CHI:	when I was three.
+*MOT:	you were thr- what did you do there?
+*CHI:	uh I don't know.
+*CHI:	I forget.
+*MOT:	you wanna take your boots off?
+*CHI:	mm-hm [= yes] &=takes:off_boot &=sock:falls_off [= stays in boot].
+*CHI:	oh my sock.
+*MOT:	here, let's put it back on &=helps:CHI_with_sock.
+*MOT:	I remember one time when you were in the hospital.
+*CHI:	when was that?
+*MOT:	do you remember when you went to xxx Hospital?
+*MOT:	you were about two.
+*CHI:	yeah +...
+*MOT:	and you had to get something done on your chin, or your lip.
+*CHI:	uh huh [= yes].
+*MOT:	what was it?
+*CHI:	get stitches.
+*MOT:	you got stitches.
+*CHI:	got stitches.
+*MOT:	alright.
+*MOT:	do you remember anything about that?
+*CHI:	no.
+*MOT:	stitches?
+*CHI:	what whats +...
+*MOT:	does that girl look happy?
+*CHI:	no.
+*MOT:	what's on her arm?
+*CHI:	a cast.
+*MOT:	a cast.
+*MOT:	what happen, what do you think happened to her arm?
+*CHI:	broken her leg.
+*MOT:	broken her leg?
+*CHI:	I mean broken her arm.
+*MOT:	you think she broke her arm?
+*CHI:	mm-hm.
+*MOT:	okay.
+*MOT:	⌈xxx⌉.
+@G:	Turtle
+*CHI:	⌊turtle⌋.
+*MOT:	turtle.
+*MOT:	what kind of turtle do you think that is?
+*CHI:	shell turtle.
+*MOT:	a shell turtle?
+*CHI:	claw turtle.
+*MOT:	it has claws.
+*CHI:	uh huh [= yes].
+*MOT:	what can turtles do that's kind of neat?
+*CHI:	uh stick their heads into their houses.
+*MOT:	mm-hm [= yes].
+*MOT:	they can stick their heads, and then is it like they're hiding?
+*CHI:	mm-hm [= filler].
+*MOT:	do you know of any turtles on tv?
+*MOT:	have you ever seen a a video ⌈about a turtle⌉?
+*CHI:	oh oh oh yeah I saw a video of Caillou picking up a rock but a
+	turtle's head xxx it       ⌊out⌋.
+*CHI:	and then he put the turtle back.
+*CHI:	and then he said “He was hiding in that ro- the turtle was hiding in
+	that rock”.
+*MOT:	the turtle was hiding in the rock?
+*CHI:	mm-hm [= filler].
+*CHI:	but it was the shell.
+*MOT:	do you think this is a hard shell or a soft shell?
+*CHI:	hard.
+*CHI:	all shells are hard.
+*MOT:	do you remember another tv show about a turtle?
+*CHI:	uh no I-that's the only one I've seen.
+*MOT:	I can tell you about one.
+*CHI:	did you see one?
+*MOT:	come sit back down okay.
+*MOT:	do you remember watching Franklin?
+*CHI:	Franklin, oh yeah yeah.
+*MOT:	that's supposed to be about a turtle too.
+*CHI:	oh yeah.
+*MOT:	he's he's a green turtle.
+*CHI:	oh.
+*CHI:	he does but he doesn't, but he has a shell.
+*MOT:	mm-hm [= yes].
+*CHI:	but he doesn't have claws.
+*MOT:	no claws.
+*MOT:	he's a nice turtle.
+*CHI:	yeah he's a nice xxx.
+*MOT:	you're very wiggly.
+@G:	Bread
+*MOT:	what's that?
+*CHI:	bread.
+*MOT:	what kind of br- what color is it?
+*CHI:	brown brown.
+*MOT:	do you like this kind of bread?
+*CHI:	I-I never tried it.
+*CHI:	now let's turn the page.
+*MOT:	firstname.
+*MOT:	you gotta sit real still and cooperate okay.
+*MOT:	so you can get your toy at the end.
+*MOT:	or whatever it's gonna be.
+*MOT:	um +...
+*CHI:	I think they've filled the box with new stuff.
+*MOT:	yeah.
+*MOT:	what do you what do you think this smells like?
+*CHI:	&=sniffs let me smell.
+*MOT:	well not the picture but what does +...
+*MOT:	if there was a loaf of bread at our house what would it smell like?
+*CHI:	I don't know.
+*MOT:	what do you, would you like to put something on this bread?
+*CHI:	&=nods:yes.
+*MOT:	what would you like to put on it?
+*CHI:	honey.
+*MOT:	honey?
+*MOT:	can you turn around a little bit?
+*CHI:	uh huh.
+*MOT:	you'd like to have honey on it?
+*CHI:	uh huh.
+*MOT:	anything else you like to have on bread?
+*CHI:	honey.
+*MOT:	what else?
+*CHI:	honey.
+*MOT:	yes.
+*CHI:	uh that's +...
+*MOT:	do you like +...
+*CHI:	that the honey is the only thing.
+*MOT:	uh how about nutella?
+*CHI:	yes yes yes.
+*CHI:	I like, oh I like nutella and honey.
+*MOT:	do you like peanut butter?
+*CHI:	no.
+*CHI:	just nutella.
+*CHI:	and honey.
+*CHI:	and teddy bears.
+@G:	Carrot
+*MOT:	alright hey what's this picture?
+*CHI:	a carrot.
+*MOT:	what's what's that stuff?
+*CHI:	grass.
+*MOT:	grass?
+*MOT:	do your, do the carrots you eat have that green stuff on (th)em?
+*CHI:	uh uh [= no].
+*MOT:	did we ever eat that green stuff?
+*CHI:	uh uh [= no].
+*MOT:	no?
+*CHI:	but in um Tiny he did.
+*MOT:	tiny ate a carrot like that?
+*CHI:	uh huh with and he even ate this part.
+*MOT:	he did?
+*CHI:	mm-hm [= yes].
+*MOT:	did he like it?
+*CHI:	mm well well JC the rabbit he was laughing at him and then he said
+	“you even ate the green part” &=laughs.
+*MOT:	who was Tiny?
+*MOT:	what kind of animal was Tiny?
+*CHI:	a dog.
+*MOT:	he was a dog okay.
+*CHI:	it's our movie of Tiny.
+*MOT:	yeah.
+*MOT:	firstname are the, is this a big carrot or a small carrot?
+*CHI:	big.
+*MOT:	big.
+*MOT:	do you like, do you usually eat big carrots ⌈ or small⌉?
+*CHI:	uh                                          ⌊huh⌋.
+*CHI:	both.
+*MOT:	both yeah.
+*MOT:	which kind do you like the best?
+*CHI:	long.
+*MOT:	you like the long ones the best?
+*CHI:	mm-hm [= yes].
+*MOT:	would this be a good one to put into a snowman's, nose?
+*MOT:	I mean into a snowman's face?
+*CHI:	nope.
+*MOT:	it wouldn't?
+*MOT:	why not?
+*CHI:	because it has those green stuff.
+*MOT:	oh.
+*MOT:	what if you took the green stuff off?
+*MOT:	would that be a good thing to use for um +...
+*CHI:	oh yeah yeah yeah.
+*CHI:	I wanna make a a snowman with a carrot.
+*MOT:	you do?
+*CHI:	uh huh.
+*MOT:	would this be a good carrot to use?
+*CHI:	I want to to use little carrots, for dip.
+*MOT:	for dip?
+*MOT:	what?
+*CHI:	no no for a snowman.
+*MOT:	for a snowman?
+*CHI:	uh huh [= yes].
+*MOT:	do you like having, eating these, with dip?
+*CHI:	mm-hm [= yes].
+*MOT:	what kind of dip do you like?
+*CHI:	uh ranch and cheese.
+@G:	Baby
+*MOT:	oh hey look at this next picture.
+*CHI:	oh baby me.
+*MOT:	baby you?
+*CHI:	yeah.
+*MOT:	why do you think it's you?
+*CHI:	because it's a baby.
+*MOT:	oh.
+*MOT:	but look at what-what color hair does this baby have?
+*CHI:	oh uh black.
+*MOT:	so is that you?
+*CHI:	no.
+*MOT:	do you have a stuffed animal like this?
+*CHI:	I'm I'm just pretending it's me.
+*MOT:	do you have any stuffed animals like this?
+*CHI:	mm-mm [= no].
+*MOT:	which one is this?
+*CHI:	snoopy!
+*MOT:	did you ever see Snoopy on tv?
+*CHI:	uh huh [= yes].
+*CHI:	I no no no, only on our movie of Snoopy.
+*CHI:	I I saw a Snoopy Christmas and Snoopy, Snoopy, uh Thanksgiving.
+*MOT:	alright.
+*CHI:	but that's all I saw.
+*MOT:	would you like to hold this baby Firstname ?
+*MOT:	would you like to hold that little baby?
+*CHI:	uh huh [= yes].
+*MOT:	yeah?
+*MOT:	do you remember when you held baby Firstname?
+*CHI:	uh huh [= yes].
+*MOT:	yeah.
+*MOT:	you sat on a couch and held him.
+*CHI:	uh huh.
+*CHI:	I want to sit on this [= chair at table].
+*MOT:	okay come over here.
+*MOT:	bring it over this way.
+*CHI:	no they only want it over here.
+*MOT:	oh.
+*MOT:	should I come sit over there too?
+*CHI:	mm-hm [= yes].
+*CHI:	you sit on this chair.
+*CHI:	on the green one.
+*CHI:	alright?
+*MOT:	I hope that's okay.
+*CHI:	it's okay.
+*MOT:	okay, baby.
+*MOT:	what's on her sheets?
+*CHI:	uh stars.
+@G:	Banana
+*MOT:	okay what's that?
+*CHI:	banana.
+*MOT:	who eats bananas?
+*CHI:	me.
+*CHI:	firstname.
+*CHI:	you.
+*CHI:	papa.
+*CHI:	xxx.
+*CHI:	everybody.
+*MOT:	do you want to come sit in this chair, ⌈ instead
+	&=tries:move_CHI_facing_camera⌉?
+*CHI:	                                       ⌊mm-mm⌋ [= no].
+*MOT:	no?
+*CHI:	I want to sit in this blue one.
+*MOT:	oh you like the blue ones?
+*CHI:	yeah.
+*MOT:	does any animals eat these bananas?
+*CHI:	nope.
+*MOT:	no animals like bananas?
+*CHI:	mm-mm [= no].
+*MOT:	how about monkeys?
+*CHI:	I hear something [= people talking outside room].
+*MOT:	yeah.
+@G:	Pirate
+*MOT:	ooh what's that?
+*CHI:	a pirate.
+*MOT:	tell me about that, what you see in this picture.
+*CHI:	he has a he he doesn't he lost his leg.
+*MOT:	he lost his leg?
+*CHI:	yeah.
+*MOT:	mm-hm [= filler].
+*CHI:	and there's a treasure chest.
+*MOT:	&=gasps what's in the treasure chest?
+*CHI:	treasures.
+*MOT:	like what?
+*CHI:	money.
+*MOT:	money?
+*MOT:	like dollar bills?
+*CHI:	mm-hm [= yes].
+*CHI:	and necklaces.
+*MOT:	necklaces?
+*CHI:	mm-hm [= filler].
+*CHI:	and he has and this one will bury this treasure up again.
+*MOT:	mm-hm, where does he bury it?
+*CHI:	under the ground.
+*MOT:	under the ground?
+*CHI:	and then it goes it falls in a cave.
+*CHI:	and then me and Firstname and you and Papa and Firstname and Firstname go and and dig where the pirate dug the treasure.
+*CHI:	and then we find, and then we land where the where it landed.
+*CHI:	and then and there is a ladder.
+*CHI:	and then we walk down the ladder.
+*CHI:	and then we found the treasure.
+*CHI:	and then we walked back up with the treasure.
+*MOT:	wow that sounds very exciting.
+*CHI:	mm-hm that's how we, that's how we found the treasure.
+*MOT:	okay what's this?
+*CHI:	a girl painting.
+*MOT:	what's she painting?
+*CHI:	a tree.
+*CHI:	a tree with leaves.
+*MOT:	oh.
+@G:	Cookie
+*CHI:	&=peeks:ahead ah!
+*CHI:	I saw what that was.
+@G:	Painter
+*MOT:	what's this p- do you think she's painting the same tree that's in
+	this picture here?
+*CHI:	mm-hm.
+*MOT:	and what happened to her clothes?
+*CHI:	they got all dirty.
+*CHI:	xxx.
+@G:	Pig
+*CHI:	piggy.
+*CHI:	piggy.
+*MOT:	&=whispers piggy.
+*CHI:	papa piggy.
+*MOT:	papa piggy?
+*CHI:	uh huh [= yes] Papa.
+*MOT:	why do you think it's a Papa piggy?
+*CHI:	because he's brown and he has and he has spots on it.
+*MOT:	mm-hm.
+*CHI:	that's why.
+*CHI:	I think.
+*MOT:	it's not a it's not a papa piggy.
+*MOT:	that's a mama piggy.
+*CHI:	how?
+*MOT:	because that's where the babies nurse.
+*CHI:	oh.
+*MOT:	and get milk from the Mama.
+*CHI:	ah.
+*MOT:	there.
+*CHI:	well how come it has spots?
+*MOT:	mama piggies can have spots too.
+*CHI:	oh.
+@G:	Duck
+*CHI:	duckie!
+@G:	Cookie
+*CHI:	I want to move to the cookie.
+*MOT:	turkey?
+*CHI:	cookie.
+*CHI:	see &=shows:MOT_picture?
+*MOT:	oh the cookie.
+*MOT:	okay.
+*MOT:	firstname I'm a little bit concerned about something
+	[= CHI not facing camera].
+*CHI:	what?
+*MOT:	um let's change seats okay?
+*MOT:	here we'll move the blue chair over there &=moves:chairs
+	[= CHI facing camera].
+*MOT:	or do you want to have the green chair?
+*MOT:	I want to have the blue.
+*MOT:	okay put the blue one right there.
+*MOT:	there we go.
+*CHI:	then I can't see all +...
+*CHI:	I'm gonna turn the pages, alright?
+*MOT:	mm I don't know about that.
+*CHI:	I want +...
+@G:	Duck
+*MOT:	well where do you see these kind of duckies at?
+*CHI:	at the farm.
+*CHI:	and Mom remember when we went to a farm and we saw a duck like this?
+*MOT:	which farm was it?
+*CHI:	I I I forget.
+*MOT:	was it xxx Farm?
+*CHI:	mm, yeah it was.
+*CHI:	it it was xxx Farm.
+*MOT:	is it when we were feeding the ducks?
+*MOT:	were we getting to throw food ⌈ for them⌉?
+*CHI:	                              ⌊corn⌋.
+*MOT:	mm-hm corn.
+*MOT:	yeah we threw corn.
+*MOT:	and we got it out of the little machine.
+*CHI:	mm-hm that was where, that was it.
+*MOT:	okay.
+*CHI:	that that was where we saw the duck like this.
+*MOT:	do you know what this kind of duck is called?
+*CHI:	nope.
+*MOT:	it's called a mallard duck.
+*CHI:	mallard.
+*MOT:	yeah it's a ma- this is a boy duck.
+*CHI:	boy.
+*MOT:	they have the green heads.
+*CHI:	that's a daddy.
+*CHI:	that's a daddy.
+*MOT:	a daddy yep.
+@G:	Cookie
+*CHI:	cookie.
+*MOT:	mm what kind do you think that is?
+*CHI:	raisin.
+*CHI:	and that's my favorite.
+*CHI:	and so is chocolate chip and oatmeal.
+*MOT:	mm what happened to this cookie?
+*CHI:	it got broken in half for two people.
+*MOT:	oh they're gonna share?
+*CHI:	mm-hm [= yes].
+*MOT:	oh.
+*CHI:	this this boy on this side decided to share this his cookie with the other guy on this side.
+*MOT:	oh wow.
+*CHI:	so they broke it in half.
+*MOT:	that was very generous.
+*MOT:	they were getting along very nicely together ⌈weren't they⌉?
+*CHI:	uh                                           ⌊huh⌋.
+*CHI:	that means friends.
+*MOT:	friends.
+*MOT:	they were being friends.
+*CHI:	mm-hm.
+*MOT:	mm-hm.
+*MOT:	that's very nice when people can get ⌈along⌉.
+@G:	Cheese
+*CHI:	                                     ⌊cheese⌋.
+*CHI:	cheese.
+*MOT:	mm-hm.
+*CHI:	cheese.
+*MOT:	cheese.
+*CHI:	cheese.
+*MOT:	what kind of cheese is that?
+*CHI:	hole-mouse cheese.
+*MOT:	mouse cheese?
+*CHI:	uh huh [= yes].
+*MOT:	what are those?
+*CHI:	holes.
+*MOT:	holes.
+*CHI:	mm-hm.
+*MOT:	do you know what this kind of cheese is called?
+*CHI:	no.
+*MOT:	do you think you would like to eat this kind?
+*CHI:	no yuck.
+*MOT:	have you ever tasted that kind before?
+*CHI:	mm-mm [= no].
+*MOT:	I think you might have.
+*MOT:	this is called Swiss cheese.
+*CHI:	swish.
+*MOT:	I think it's yummy.
+*CHI:	swish.
+*MOT:	swiss.
+*CHI:	       ⌈have you have you tasted it before⌉?
+*MOT:	I like ⌊it⌋.
+*MOT:	yeah.
+*CHI:	oh.
+*MOT:	I like it.
+*CHI:	well then how do you know it's good?
+*MOT:	because I tasted it.
+*CHI:	oh yeah yeah yeah.
+@G:	Baseball Player
+*CHI:	a baseball player.
+*MOT:	mm-hm [= yes].
+*MOT:	what do you know about baseball?
+*CHI:	uh you have to try to hit the ball with your bat.
+*MOT:	uh huh.
+*MOT:	and then what do you do?
+*CHI:	and [?] then you pass it to another person besides you.
+*MOT:	you pass the ball to another person?
+*CHI:	mm-hm besides you.
+*MOT:	mm-hm.
+*CHI:	     ⌈besides yourself⌉.
+*MOT:	what ⌊else⌋ +...
+*MOT:	what else do baseball players do?
+*MOT:	after they hit the after they hit the ball what do they do?
+*CHI:	they they try to hit it to someone.
+*MOT:	do they then do they um walk somewhere or go anywhere?
+*CHI:	no.
+*MOT:	what about those do you remember those square things ⌈that they step
+	on on the ground⌉?
+*CHI:	uh huh they they run around and try to get to one that's not- that
+	nobody's                                           ⌊on⌋.
+*MOT:	mm-hm.
+*MOT:	do they have to go in order?
+*CHI:	uh huh [= yes].
+*MOT:	they go to first base.
+*MOT:	then second base.
+*MOT:	third base.
+*MOT:	fourth base.
+*MOT:	and that's called a home run.
+@G:	Ladybug
+*CHI:	                      ⌈ladybug⌉.
+@G:	Baseball Player
+*MOT:	and then they win a a ⌊point⌋ [= baseball].
+@G:	Ladybug
+*MOT:	ladybug.
+*CHI:	lady.
+*MOT:	have you ever seen a real live ladybug before?
+*CHI:	oh xxx +...
+*CHI:	of course.
+*MOT:	where did you see one?
+*CHI:	oh um I saw one on a dead one on on our downstairs basement couch.
+*MOT:	really?
+*CHI:	mm-hm [= yes].
+*MOT:	and then what did we do with it?
+*MOT:	what happened with it?
+*CHI:	dad, I call I called Dad and then he came down.
+*CHI:	and he and I slided it off onto the floor.
+*MOT:	mm-hm.
+*CHI:	and then Dad came and got it and put it in the garbage.
+*MOT:	okay.
+*CHI:	(be)cause it wasn't alive.
+*CHI:	it was dead.
+*MOT:	do you like ladybugs?
+*CHI:	&=shakes:head_no.
+*MOT:	no?
+*MOT:	why not?
+*CHI:	(be)cause I hate them.
+*CHI:	I hate them.
+*MOT:	goodness.
+*CHI:	I hate them.
+*MOT:	um, have they ever bothered you before?
+*CHI:	oh yes.
+*CHI:	and Mom.
+*MOT:	                                           ⌈what⌉?
+*CHI:	the one on our couch was leaving its wings ⌊open⌋.
+*MOT:	really?
+*CHI:	uh huh [= yes].
+*MOT:	have you ever seen any outside?
+*CHI:	&=shakes:head_no.
+*MOT:	no?
+*MOT:	I have.
+*CHI:	xxx.
+*MOT:	alright let's see what's next.
+@G:	Puppy
+*CHI:	a puppy.
+*MOT:	do you like puppies?
+*CHI:	mm-hm [= yes].
+*CHI:	and we get to take this home with us.
+*MOT:	what?
+*MOT:	take what home?
+*CHI:	uh this.
+*MOT:	this book?
+*CHI:	yeah.
+*MOT:	really?
+*CHI:	right?
+*MOT:	I didn't know about that.
+*MOT:	no I don't think so.
+*CHI:	what did he what did they say?
+*MOT:	I don't think we're gonna take this book home.
+*CHI:	oh.
+*MOT:	do you think +...
+*CHI:	did they say so?
+*MOT:	what kind of puppy do you think that is?
+*CHI:	a little brown puppy.
+*MOT:	a little brown puppy?
+*CHI:	that lost his Mama and Papa.
+*MOT:	oh, is he sad?
+*CHI:	mm-hm [= yes].
+*CHI:	he looks a little, sad.
+*MOT:	would you like to have a puppy like that?
+*CHI:	mm-hm [= yes].
+*MOT:	yeah?
+*MOT:	what would you do if you had a puppy like that?
+*CHI:	I would feed him everyday.
+*CHI:	and give him water everyday.
+*MOT:	mm-hm.
+*MOT:	do you think he'd like to go outside and go on walks and stuff?
+*CHI:	uh huh I would take him for walks and get his exercise.
+*CHI:	but I wouldn't take him on walks on winter.
+*MOT:	                          ⌈not in winter⌉?
+*CHI:	he would he wouldn't like ⌊that⌋ &=laughs.
+*CHI:	right?
+*MOT:	he wouldn't like going out in the cold?
+*CHI:	mm-mm [= no].
+*MOT:	oh.
+*CHI:	that's why I don't take cats or dogs in the snow on winter days.
+*MOT:	hm, okay.
+*CHI:	the end.
+*MOT:	I guess we're done.
+*CHI:	I guess we're ready to stop.
+*MOT:	we're gonna tap on the window.
+@End

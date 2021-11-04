@@ -1,0 +1,169 @@
+@UTF8
+@PID:	11312/a-00032025-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|5;00.07|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Muffin
+@Types:	cross, narrative, TD
+*CHI:	&=wiping:nose.
+*INV:	do you want me to hold Zorg while you do that?
+*CHI:	&=nods:yes.
+*INV:	yeah &=laughs?
+*INV:	&=gives:Zorg_to_child.
+*CHI:	I used, the bottom of his mouth right here to point.
+*INV:	&=laughs.
+*CHI:	&=laughs.
+*INV:	⌈so⌉ +...
+*CHI:	⌊now⌋ +...
+*INV:	what is this?
+*CHI:	this muffin.
+*INV:	uh-huh [= yes].
+*CHI:	has um, a wrapper on the bottom, so it won't get crumbs all over.
+*INV:	hm.
+*CHI:	and, it is a blueberry muffin.
+*INV:	hm, what more can you tell me?
+*CHI:	um, it, has um, eh, I can't think of anything else &=giggles.
+*INV:	alright.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	this is a picture of someone that um can't walk without a walking stick.
+*CHI:	and um she wears glasses.
+*CHI:	and um, she has um grey hair.
+*INV:	hm what more can you tell me?
+*CHI:	um, she has blue pants.
+*CHI:	and blue and a blue belt and blue shoes with um a pink, um shirt I mean pink jacket.
+*INV:	okay.
+@G:	Pumpkin
+*CHI:	this is a pumpkin.
+*CHI:	and it is um, uh, um, tall.
+*INV:	uh-huh [= yes].
+*CHI:	and it has a stem.
+*CHI:	and it is orange.
+*INV:	what more can you tell me?
+*CHI:	um, I can't think of anything else.
+*INV:	okay.
+@G:	Ballerina
+*CHI:	this is a ballerina.
+*CHI:	and, it, has yellow hair.
+*CHI:	and a pony tail.
+*CHI:	and it has pink a pink skirt.
+*CHI:	and pink ballet shoes.
+*INV:	mm-hm [= yes], what more can you tell me?
+*CHI:	it has pink um, suit.
+*CHI:	it has a pink suit on too.
+*INV:	okay.
+@G:	Parrot
+*CHI:	this is a bird.
+*CHI:	and it is sitting on a branch.
+*CHI:	I can't tell what kind of bird it is.
+*INV:	okay.
+*CHI:	um +...
+*INV:	what more can you tell me?
+*CHI:	it has feathers and a beak.
+*INV:	uh-huh [= yes].
+@G:	Dolphin
+*CHI:	this is a dolphin.
+*INV:	hm hm.
+*CHI:	and it is black on the back.
+*CHI:	and it is white on the front.
+*CHI:	and it is swimming in the water.
+*INV:	what more can you tell me?
+*CHI:	um, it has a beak too and, the water's blue.
+*INV:	hm.
+*CHI:	I need to get another Kleenex &=giggles.
+*INV:	&=giggles.
+*CHI:	okay.
+@G:	Firefighter
+*CHI:	this is a firefighter.
+*CHI:	and it is climbing up a ladder.
+*CHI:	and it has a hat and a suit.
+*CHI:	and boots.
+*INV:	what more can you tell me?
+*CHI:	um, and the ladder is white and this is fire.
+*INV:	mm-hm [= yes].
+@G:	Cracker
+*CHI:	this is a cracker.
+*CHI:	and it, has holes in it.
+*CHI:	and it is a square and it is a and it is white.
+*INV:	hm mm what more can you tell me?
+*CHI:	um, won't be able to eat it.
+*CHI:	(be)cause it's on the page.
+*INV:	oh.
+*CHI:	I'm gonna eat this whole cracker [= talking for Zorg]
+	&=pretends:Zorg_eats_cracker.
+*INV:	&=laughs.
+*CHI:	&=laughs.
+@G:	Skunk
+*CHI:	this is a skunk.
+*CHI:	and um, when it's scared its uh it waves it's tail.
+*INV:	hm.
+*CHI:	and it is black and white and it has four feet and claws.
+*INV:	what more can you tell me?
+*CHI:	um, it is furry.
+*INV:	hm mm.
+*CHI:	can't think of anything else.
+*INV:	okay, you're doing real well.
+@G:	Butterfly
+*CHI:	this is a butterfly and it is black orange and red.
+*CHI:	and it has, um, uh, hm, uh, hm, uh can't think of anything.
+*INV:	<oh okay> [?].
+@G:	Race Car Driver
+*CHI:	this, um is a picture of a car race.
+*INV:	hm mm.
+*CHI:	and and um this is number sixteen.
+*CHI:	and he is wearing a blue a purple shirt.
+*INV:	(o)kay what more can you tell me?
+*CHI:	um he is wearing glasses and a hat.
+*CHI:	and he has um, his hands on the car.
+*INV:	okay.
+@G:	Cat
+*CHI:	this is a cat.
+*CHI:	and it has green eyes and whiskers.
+*CHI:	and it has four legs.
+*CHI:	and um, a tail.
+*INV:	uh-huh [= yes], what more can you tell me?
+*CHI:	hm, what else?
+*CHI:	it has fur.
+*INV:	uh-huh [= yes].
+*CHI:	um, huh.
+*INV:	hm.
+@G:	Judge
+*CHI:	this is what is this?
+*CHI:	I can't tell what it is &=giggles.
+*INV:	what do you think?
+*CHI:	a principal?
+*INV:	hm good.
+*CHI:	and it has a blue chair.
+*CHI:	and um [?], paper on the desk and um [?] +...
+*CHI:	it's wearing a black suit.
+*INV:	hm what more can you tell me?
+*CHI:	um it has brown skin and +...
+*CHI:	he has green white hair.
+*INV:	uh okay.
+@G:	Pineapple
+*CHI:	this, is I can't remember the name.
+*CHI:	&=whispers I can't remember the name.
+*CHI:	oh yes pineapple.
+*INV:	hm  ⌈good⌉.
+*CHI:	and it, is, a, it is orange, and ⌊green⌋.
+*INV:	what more can you tell me?
+*CHI:	&=giggles um, I can't think of anything else.
+*INV:	okay.
+@G:	Ice Cream
+*CHI:	that this is the last page.
+*CHI:	this is ice cream.
+*CHI:	and it's on a cone and it is um strawberry.
+*INV:	hm what more can you tell me?
+*CHI:	and there's only one scoop and um, I can't think of anything else
+	&=giggles.
+*INV:	&=laughs okay.
+*CHI:	done.
+*INV:	all done?
+*INV:	do you want to look again?
+*CHI:	um &=nods:head_no.
+*INV:	no?
+*INV:	okay.
+@End

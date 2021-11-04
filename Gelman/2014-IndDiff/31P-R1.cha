@@ -1,0 +1,275 @@
+@UTF8
+@PID:	11312/a-00032152-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|MOT|||||Mother|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Teacher
+@Types:	cross, narrative, TD
+*MOT:	teacher.
+*MOT:	you want it that quickly?
+*INV:	um um just say ⌈whatever comes to mind⌉.
+*MOT:	whatever I     ⌊want⌋?
+*INV:	⌈what is this⌉?
+*MOT:	⌊teacher⌋.
+*MOT:	she's a math teacher.
+*INV:	what more can you tell me?
+*MOT:	um, geometry maybe?
+*INV:	okay.
+*MOT:	it's been a long time for that.
+*MOT:	&=shrugs.
+*INV:	can you say a little bit more?
+*MOT:	&=laughs um, she's, probably thirty five years old.
+*INV:	okay.
+*INV:	anything else?
+*MOT:	um, possibly college teacher.
+*INV:	okay.
+*MOT:	&=looks:at_RA.
+*INV:	alright &=nods:yes.
+@G:	Elephant
+*INV:	what is this?
+*MOT:	an elephant.
+*INV:	what more can you tell me?
+*MOT:	&=clears:throat now I know how Firstname feels.
+*MOT:	I don't know, turn the page &=imitates:child.
+*MOT:	um it has tusks.
+*MOT:	it uh probably is from Africa.
+*INV:	okay, can you tell me a little more?
+*MOT:	um its skin is leathery.
+*INV:	okay.
+*MOT:	and it, has uh, toenails.
+*INV:	sure.
+*INV:	okay.
+*MOT:	big toenails.
+@G:	Broccoli
+*INV:	what is this?
+*MOT:	broccoli.
+*INV:	mm-hm [= yes].
+*MOT:	it's good for you.
+*MOT:	oh, lots of Vitamin_A.
+*INV:	what more can you tell me?
+*MOT:	and it grows.
+*MOT:	it is, &=laughs that's it.
+*MOT:	that's all I can tell you about broccoli.
+*INV:	just a little bit more?
+*MOT:	um.
+*INV:	anything that comes to mind.
+*MOT:	it's a vegetable.
+*INV:	okay.
+*MOT:	&=begins:flip_page [= still looking at broccoli picture, but RA talking about next page].
+*MOT:	        ⌈xxx⌉.
+@G:	Cake
+*INV:	what is ⌊this⌋?
+*INV:	what is, &=points:to_cake what is this?
+*MOT:	&=flips:to_cake.
+*MOT:	cake.
+*MOT:	not so good for you.
+*INV:	okay.
+*MOT:	tastes good.
+*INV:	tell me more.
+*MOT:	vanilla cake.
+*MOT:	chocolate frosting.
+*MOT:	two layers.
+*MOT:	mm.
+*INV:	can you tell me anything else?
+*MOT:	mm could be a birthday cake.
+*INV:	mm-hm [= yes].
+*MOT:	&=laughs.
+@G:	Witch
+*INV:	what is this?
+*MOT:	this is a witch.
+*INV:	mm-hm [= yes].
+*MOT:	uh she is looks like a she could be a decoration for Halloween.
+*INV:	sure.
+*MOT:	she's flying on a broom.
+*MOT:	there's a bat with her.
+*MOT:	she's green.
+*INV:	tell me more.
+*MOT:	she looks happy.
+*INV:	&=nods:yes mm-hm [= yes].
+*INV:	anything else you want to say?
+*MOT:	mm-mm [= no].
+*INV:	okay.
+@G:	Horse
+*INV:	what is this?
+*MOT:	&=clears:throat this is a, uh baby horse.
+*MOT:	it is brown.
+*MOT:	it has a, a dark brown mane and tail.
+*INV:	go ahead and say it [?] a little bit more.
+*MOT:	go ahead and what?
+*INV:	say a little bit more.
+*MOT:	say it a little bit more?
+*INV:	just go ahead and say a little bit more.
+*MOT:	oh say a &=laughs.
+*MOT:	um, it's a very uh a coat its coat looks very shiny.
+*MOT:	and it looks like it might not be quite that old like maybe only two months old.
+*MOT:	like the, little hooves.
+*INV:	mm-hm [= yes], anything else?
+*MOT:	mm, &=shakes:head_no ⌈<might be a> [?] xxx⌉.
+*INV:	                     ⌊okay⌋.
+@G:	Popcorn
+*INV:	what is this?
+*MOT:	a bowl of popcorn.
+*INV:	mm-hm [= yes].
+*MOT:	uh, it's a glass bowl.
+*MOT:	the popcorn is, crunchy.
+*MOT:	let's hope.
+*MOT:	unless it was left out all night.
+*INV:	&=laughs:with_MOT.
+*INV:	what else can you tell me?
+*MOT:	uh it looks like it might have butter on it cause it's pretty yellow.
+*INV:	mm-hm [= yes].
+*MOT:	uh, maybe uh xxx eat it before they watch a movie.
+*INV:	okay.
+@G:	Football Player
+*INV:	what is this?
+*MOT:	uh football player.
+*MOT:	looks like a female, which is kind of odd in our society.
+*MOT:	she has a number three on her shirt.
+*INV:	mm-hm [= yes].
+*MOT:	and <she> [?] has a helmet on with a facemask.
+*INV:	tell me more.
+*MOT:	she might be the quarterback since she's gonna throw the ball.
+*INV:	okay.
+*INV:	anything else?
+*MOT:	she doesn't look big enough to be a football player.
+*INV:	mkay [= okay].
+*MOT:	she needs more muscles.
+*INV:	sure.
+@G:	Lobster
+*INV:	what is this?
+*MOT:	<it's> [?] a lobster?
+*MOT:	it's red.
+*MOT:	it has two claws.
+*MOT:	it has little feely things in the front.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*MOT:	mm, lobsters hold their babies under their tail all their eggs under
+	their tail which is kinda cool.
+*INV:	hm.
+*MOT:	people like to eat them.
+*INV:	mm-hm [= yes].
+*MOT:	not me.
+*MOT:	uh we also have to stop and look at them when we're [?] at Meijers.
+*INV:	anything else?
+*MOT:	um, uh the screaming thing comes to mind when people boil them.
+*INV:	ah.
+*MOT:	ah isn't that awful.
+*MOT:	that's probably why I don't eat (th)em.
+@G:	Alligator
+*INV:	what is this?
+*MOT:	this looks like, a crocodile.
+*MOT:	maybe an alligator.
+*MOT:	I think it's an alligator.
+*MOT:	it's very bumpy.
+*INV:	mm-hm [= yes].
+*MOT:	has big sharp teeth.
+*MOT:	um, ⌈lives in Florida if it's an alligator⌉.
+*INV:	what more can you tell ⌊me⌋?
+*INV:	mm-hm [= yes].
+*MOT:	um, they're they have very strong tails.
+*INV:	mm-hm [= yes].
+*MOT:	they like to eat lots of things.
+*MOT:	little small animals.
+*INV:	sure.
+*MOT:	and they are very good swimmers.
+*INV:	okay.
+@G:	Clown
+*INV:	what is this?
+*MOT:	this is a clown.
+*MOT:	he has his fingers in his ears.
+*MOT:	he has very large shoes.
+*INV:	hm.
+*INV:	what more can you tell me?
+*MOT:	um, he probably works for the circus.
+*INV:	okay.
+*MOT:	but he could just be a guy that does birthday parties for kids.
+*INV:	sure.
+*MOT:	he's probably a pedophile.
+*MOT:	isn't that awful that came to my head.
+*MOT:	that's like a mom thing to think although ⌈you shouldn't say it out
+	loud⌉.
+*INV:	                                          ⌊aw⌋.
+*INV:	oh no.
+*MOT:	I don't know there's something about clowns that always really grossed me out.
+*MOT:	isn't that bad.
+*MOT:	must have had a bad clown experience.
+*MOT:	right.
+@G:	Cereal
+*INV:	what is this?
+*MOT:	cornflakes.
+*INV:	mm-⌈hm⌉ [= yes].
+*MOT:	some type of, ⌊flake⌋.
+*MOT:	could be cornflakes.
+*INV:	okay.
+*MOT:	in a yellow bowl.
+*MOT:	probably sitting at the table ready for breakfast.
+*MOT:	no milk on it yet.
+*INV:	tell me more.
+*MOT:	mm not such a great breakfast.
+*MOT:	we need more maybe some fruit in there.
+*INV:	sure.
+*MOT:	some type of better protein.
+*INV:	anything else?
+*MOT:	that's it.
+*INV:	okay.
+@G:	Penguin
+*INV:	what is this?
+*MOT:	penguin.
+*INV:	mm-hm [= yes].
+*MOT:	um, he's black and white.
+*MOT:	he has orange feet.
+*MOT:	uh they like the cold.
+*MOT:	they're very good swimmers.
+*MOT:	they eat fish.
+*INV:	tell me a little bit more.
+*MOT:	um they're very fluffy.
+*INV:	mm-hm [= yes].
+*MOT:	xxx the white part of them is very fluffy.
+*INV:	anything else?
+*MOT:	they walk funny.
+*INV:	okay.
+@G:	Pilot
+*INV:	what is this?
+*MOT:	um, what is he?
+*MOT:	oh he's in an airplane I guess (be)cause there's clouds out here.
+*MOT:	he's a pilot.
+*INV:	mm-hm [= yes].
+*MOT:	doesn't look like he's flying the plane.
+*MOT:	he's looking at something else.
+*MOT:	um, his hat doesn't match his uniform.
+*INV:	oh yeah.
+*MOT:	<needs to be> [?] the same color.
+*MOT:	um, doesn't look like there's a, copilot with him.
+*MOT:	he has red hair.
+*INV:	what more can you tell me?
+*MOT:	I have no idea what these things are supposed to be.
+*MOT:	oh the back of the seats?
+*MOT:	is that what they're supposed to be?
+*INV:	maybe?
+*MOT:	it's a bad picture.
+*INV:	anything else?
+*MOT:	that's it.
+*MOT:	he's up high.
+*MOT:	he's flyin(g) high.
+*INV:	sure.
+*INV:	okay.
+@G:	Orange
+*INV:	what is this?
+*MOT:	this is an orange.
+*MOT:	uh navel orange.
+*MOT:	it's orange in color.
+*MOT:	citrus fruit.
+*MOT:	lots of Vitamin_C.
+*INV:	what else can you tell me?
+*MOT:	mm you can make orange juice out of it.
+*INV:	mm-hm [= yes].
+*MOT:	and it has seeds inside of it.
+*INV:	anything else?
+*MOT:	&=shakes:head_no.
+*INV:	okay.
+*INV:	alright.
+*INV:	thanks a lot.
+@End

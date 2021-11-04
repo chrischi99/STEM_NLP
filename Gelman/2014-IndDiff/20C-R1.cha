@@ -1,0 +1,266 @@
+@UTF8
+@PID:	11312/a-00032084-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.03|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pineapple
+@Types:	cross, narrative, TD
+*CHI:	oh okay.
+*CHI:	I don't know what's that.
+*INV:	do you have any guesses?
+*CHI:	no.
+*INV:	any ideas?
+*CHI:	no.
+*INV:	well what can you tell me?
+*CHI:	I don't know.
+*INV:	do you think maybe it's um, a pineapple?
+*CHI:	yeah.
+*INV:	mm.
+*CHI:	&=starts:turn_page.
+*INV:	hold on hold on lets slow down a little.
+*INV:	so what more can you tell me?
+*CHI:	um it's good to for you to eat and it's healthy.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	yes.
+*CHI:	you could eat (th)em.
+*CHI:	I wonder where you put the box and you weren't lookin(g)
+	&=looks:around-room.
+@G:	Parrot
+*CHI:	I don't know what's that.
+*INV:	what do you think?
+*CHI:	I don't know.
+*INV:	any guesses?
+*CHI:	no.
+*INV:	any ideas?
+*CHI:	no.
+*INV:	can you take a guess?
+*CHI:	no.
+*INV:	hm.
+*CHI:	but his feathers are so green.
+*CHI:	and he's so blue right there.
+*CHI:	and he's black right here.
+*CHI:	green right there.
+*CHI:	and, and, yellow right there and yellow on the to green on the top.
+*INV:	mm what more can you tell me?
+*CHI:	don't know.
+*INV:	because you know Zorg doesn't know much about this one can you help him out?
+*CHI:	no.
+*CHI:	I can't help him out by this one.
+@G:	Dolphin
+*CHI:	but I could help him out with this one.
+*INV:	oh so what it this?
+*CHI:	a whale.
+*INV:	mm what more can you tell me?
+*CHI:	um it jumps in the sea like this &=hops.
+*CHI:	wow ah I xxx.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	yes.
+*CHI:	don't bite me [= to Zorg].
+*CHI:	is he gonna?
+*INV:	no biting [= to Zorg].
+*CHI:	&=puts:finger_near_Zorg &=laughs.
+*CHI:	hey, is that mommy [= voices in the hall] &=puts:hand_to_ear.
+*INV:	mm yep probably.
+*CHI:	xxx.
+*INV:	can you help him out with this one?
+*CHI:	this one?
+*INV:	mm-hm [= yes].
+*CHI:	um too don't get to close, because they might squirt you water.
+*INV:	hm.
+*CHI:	hey they don't have no squirt.
+*INV:	hm.
+*CHI:	a dolphin?
+*INV:	mm.
+*CHI:	it's a dolphin [= to Zorg].
+@G:	Cat
+*CHI:	ee a kitty cat &=skips:page!
+*INV:	&=turns:page_back.
+*CHI:	hey.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	um you could put that out for Halloween.
+*CHI:	me and my mommy carve pumpkins.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	yes.
+*CHI:	can I say somethin in his ear?
+*CHI:	you could eat (th)em up [= talking to Zorg].
+*CHI:	you could just carve (th)em out.
+@G:	Cat
+*CHI:	want me to help him out with this one?
+*INV:	what is this?
+*CHI:	a kitty cat.
+*INV:	what more can you tell me?
+*CHI:	um her likes to smell your hand.
+*CHI:	and her likes, you if you be nice to her and her might like you if, if you be nice to her.
+*INV:	hm.
+*CHI:	&=begins:turn_page.
+*INV:	&=turns:page_back.
+*INV:	zorg doesn't know much about this one can you ⌈help him out⌉?
+*CHI:	                                              ⌊ah⌋.
+*CHI:	yes.
+*CHI:	they, could smell your hand and they could and they could hm maybe when I I wanna play with some more games.
+*INV:	in a little bit.
+*CHI:	when we get done with this picture book?
+*INV:	mm-hm [= yes].
+*CHI:	and they eat kitty feed.
+*CHI:	can I change the page?
+*INV:	sure.
+@G:	Muffin
+*CHI:	this is a cupcake.
+*INV:	what more can you tell me?
+*CHI:	um it has, hm what is that?
+*CHI:	I can't know where it is.
+*INV:	well you know Zorg doesn't know much about this one can you help him out?
+*CHI:	&=shakes:head.
+*INV:	anything else you can tell me?
+*CHI:	&=flips:page.
+@G:	Judge
+*INV:	what is this?
+*CHI:	um it's a judger.
+*INV:	mm what more can you tell me?
+*CHI:	um judgers have things and they go like this &=mimes:hammering_table.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	mm mm-hm [= yes].
+*CHI:	and he has glasses.
+*INV:	hm.
+*CHI:	and he is the judger and, xxx &=yawns.
+*CHI:	I'm getting tired.
+*INV:	mm.
+*CHI:	I'm goin(g) ⌈can I scoot my chair⌉?
+*INV:	le let's oh yeah ⌊sure⌋.
+*CHI:	I'm going to scoot my chair in &=pushes:chair_in.
+*CHI:	that's enough.
+*CHI:	okay.
+*INV:	are you close enough?
+*CHI:	yes.
+*CHI:	can I turn the page?
+*INV:	okay.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	a racecar and a race man.
+*INV:	hm what more can you tell me?
+*CHI:	um I can't see him like this.
+*CHI:	because his body looks his clothes look purple.
+*INV:	mm.
+*CHI:	can I turn the page?
+*INV:	well Zorg doesn't know much about this one can you help him out?
+*CHI:	yes.
+*CHI:	um they race in a race car.
+*CHI:	and he has, one two three four five six seven eight oh.
+*CHI:	can I um we are we almost finished with this page?
+*CHI:	can I turn it?
+*INV:	anything else you want to tell me?
+*CHI:	yes.
+@G:	Butterfly
+*CHI:	I want to tell you about this butterfly.
+*INV:	&=laughs okay, what more can you tell me?
+*CHI:	um he flies.
+*CHI:	and I saw a butterfly before.
+*INV:	mm.
+*CHI:	oh look at these long ones [= not clear what she's pointing to].
+*INV:	mm.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	yes.
+*CHI:	I'm going to help him like he flies.
+*CHI:	that's all I could tell him.
+*CHI:	I can tell him nothing else.
+*INV:	okay.
+@G:	Skunk
+*INV:	      ⌈what is this⌉?
+*CHI:	oh, a ⌊skunk⌋!
+*CHI:	a stinky skunk!
+*INV:	&=laughs what more can you tell me?
+*CHI:	I don't know.
+*CHI:	I can't tell you all I know.
+*CHI:	all I can tell you is it's a skunk.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	no.
+*INV:	hm.
+*CHI:	&=shrugs.
+*INV:	what can you tell him?
+*CHI:	um they stink.
+*CHI:	they stink.
+*CHI:	oh pee ew they stink!
+*CHI:	I'm can I change it?
+*INV:	anything else you want to tell me?
+@G:	Old Woman
+*CHI:	this is a grandma.
+*INV:	what more can you tell me?
+*CHI:	um, her has a bracelet in her hair and her pants look this looks
+	brown and.
+*CHI:	are they in that room [= referring to her mom and other RA]?
+*INV:	I'm not sure.
+*CHI:	maybe they're upstairs.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	no.
+*INV:	&=gasps ⌈come on what can you tell him⌉?
+*CHI:	        ⌊&=laughs⌋.
+*CHI:	I'm almost finished with this picture book.
+*CHI:	I have a cat on my I have.
+@G:	Firefighter
+*CHI:	a firefighter.
+*INV:	what more can you tell me?
+*CHI:	um he saves people from the fire.
+*CHI:	and oh, and he and, he squirts out the water.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	mm mm-hm [= yes].
+*CHI:	they climb on ladders &=yawns.
+*CHI:	and they free people.
+*CHI:	I don't know.
+*INV:	you're doing really good.
+*CHI:	can I change it?
+*INV:	sure.
+@G:	Ice Cream
+*CHI:	this is an ice cream cone.
+*INV:	what more can you tell me?
+*CHI:	&=shrugs.
+*CHI:	can I change it?
+*INV:	mm-mm [= no].
+*CHI:	wh.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	no.
+*INV:	please?
+*CHI:	no.
+*INV:	well what else can you tell me?
+@G:	Ballerina
+*CHI:	this is a ballerina.
+*CHI:	this is a ballerina.
+*CHI:	I'm a start to be a ballerina.
+*INV:	what more can you tell me?
+*CHI:	um her, &=shrugs I don't know.
+*INV:	you know Zorg doesn't know much about this one can you help him out?
+*CHI:	no.
+*INV:	oh.
+@G:	Cracker
+*CHI:	but I can help you out on this one.
+*INV:	okay what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	um it's a soup cracker.
+*CHI:	and you could eat it and it's very crunchy.
+*CHI:	what's his name?
+*INV:	zorg.
+*CHI:	oh &=laughs I thought you call him Little Piggy.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	yes.
+*CHI:	um you could chew on it.
+*CHI:	and you could make a big mess.
+*CHI:	and that's all I know.
+*CHI:	can I turn it?
+*INV:	okay.
+*CHI:	this is now can we I'm gonna turn the page.
+*CHI:	oh here.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay.
+@End

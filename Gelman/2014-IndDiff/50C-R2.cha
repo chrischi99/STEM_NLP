@@ -1,0 +1,351 @@
+@UTF8
+@PID:	11312/a-00032265-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.08|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pig
+@Types:	cross, narrative, TD
+*INV:	here you go.
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	pigs roll in the mud and look.
+*CHI:	mud on (th)em.
+*INV:	hm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	he went “hey”.
+*CHI:	stop [= to Zorg].
+*CHI:	did you know kangaroos have these kind of ears [= Zorg's ears]?
+*INV:	hm.
+*CHI:	he might be a kangaroo [= about Zorg].
+*INV:	hm.
+*CHI:	watch.
+*CHI:	why is it so hard in there?
+*INV:	I'm not sure.
+*CHI:	did you buy him?
+*INV:	mm-hm [= yes].
+*CHI:	well how hard is he?
+*INV:	I don't know.
+*CHI:	doesn't hatch [= about Zorg].
+@G:	Banana
+*INV:	what is this?
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	get off there banana [= for Zorg].
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	blah &=makes:Zorg_spit_out_banana.
+*CHI:	he's funny isn't he?
+*INV:	mm-hm [= filler].
+*CHI:	he does everything funny.
+*CHI:	he's going to eat the peel.
+*CHI:	&=zorg:spits he doesn't like the peel.
+*CHI:	xxx.
+*CHI:	don't eat the peel [= to Zorg].
+*CHI:	no xxx <fruit> [?].
+*CHI:	it's +...
+*CHI:	stop telling us stuff [= for Zorg].
+*CHI:	xxx.
+*CHI:	look watch.
+*CHI:	got his hand yeow.
+*CHI:	mm maybe he's xxx.
+*INV:	can we keep talking about the picture book?
+*CHI:	xxx [= for Zorg].
+@G:	Baseball Player
+*CHI:	oh it's a baseball player.
+*INV:	it's okay if we keep talking about the picture book?
+*CHI:	&=nods:yes.
+*INV:	okay.
+*INV:	what is this?
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	I don't want to look at this book anymore [= for Zorg] .
+*CHI:	it makes me sick [= for Zorg] .
+*INV:	oh.
+*INV:	well how about if you and I look at the picture book.
+*CHI:	yeah.
+*INV:	okay.
+*CHI:	it looks like he would like to talk while he's in his bed.
+*INV:	okay.
+*CHI:	to himself.
+*CHI:	but I know how to keep it shut so it doesn't bother him.
+*CHI:	haven't you heard of this?
+*INV:	oh, okay.
+*INV:	thank you.
+*INV:	so it's okay if we look at the picture book?
+*CHI:	yeah.
+*INV:	okay.
+*INV:	so what is this?
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	well sometimes, well I got a baseball player toy and I got toy a bridge toy from the jungle book and a girl from the jungle book.
+*CHI:	why do you are your rules that if your done you go like
+	&=knocks:window?
+*INV:	oh we we can do that when we're all done.
+*CHI:	why?
+*INV:	well that way we know that we're done.
+*CHI:	but you'll break it.
+*INV:	mm.
+*CHI:	mommy doesn't want me to bang on it.
+*INV:	what else can you tell me?
+*CHI:	hey, did you know sometimes if we look back there very closely
+	&=presses:head_window +...
+*CHI:	hey mo-hey-do you see my mom's eye &=whispering?
+*INV:	do you want to sit on the couch?
+*CHI:	do you see my mom's eye?
+*INV:	mm-mm [= no].
+*INV:	I think ⌈she might be in the other room⌉.
+*CHI:	        ⌊look⌋.
+*CHI:	but look.
+*INV:	can we look at the picture book again?
+*CHI:	look.
+*CHI:	it's an eye.
+*INV:	&=gasps ooh.
+*CHI:	it's just mine kidding [= about eye].
+*INV:	huh?
+*CHI:	it's just mine kidding [= about eye].
+*INV:	ah.
+*CHI:	what's at the bottom?
+*INV:	hm?
+*CHI:	I wanna see what's on next.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	a cookie.
+*CHI:	with Mickey mouse on it [= ring].
+*CHI:	the end.
+*INV:	what more can you tell me?
+*CHI:	shh.
+*INV:	it's okay he's listening to us.
+*CHI:	no he's sleeping [?].
+*INV:	so what more can you tell me sweetie?
+*CHI:	well cookies are what we eat for treats sometimes.
+*CHI:	hey isn't that cute.
+*INV:	what is this?
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	carrots are crunchy but we don't want to eat the top.
+*CHI:	you, I used to have guinea pigs.
+*CHI:	and me and firstname used to feed them.
+*CHI:	I liked xxx [= pet] so much that I only wanted to xxx [= pet].
+@G:	Baby
+*CHI:	isn't that cute?
+*INV:	mm.
+*INV:	what is this?
+*CHI:	you.
+*INV:	what more can you tell me?
+*CHI:	well when you were a baby you looked like that.
+*INV:	mm.
+*CHI:	xxx.
+*INV:	it's just a bump.
+*CHI:	but I see yellow on it.
+*INV:	mm.
+*CHI:	what's that +...
+*INV:	it's okay.
+*INV:	what else can you tell me?
+*CHI:	that baby has cute eyes.
+*INV:	mm.
+*CHI:	see?
+*CHI:	kind of like yours.
+*INV:	oh.
+*CHI:	did you have toys like that?
+*INV:	mm, I'm not sure.
+*CHI:	a puppy and rabbit and a baby.
+*INV:	hm.
+*CHI:	let's see what's next.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a girl painting.
+*INV:	what more can you tell me?
+*CHI:	she's trying to paint the same as that.
+*INV:	what else can you tell me?
+@G:	Cheese
+*CHI:	well how about this?
+*CHI:	that's what chee-mouses eat.
+*INV:	hm what more can you tell me?
+*CHI:	it's cheese.
+*INV:	can we slow down a little bit?
+*CHI:	        ⌈yeah⌉.
+*INV:	is that ⌊okay⌋?
+*INV:	okay.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a doctor.
+*INV:	what more can you tell me?
+*CHI:	why is she checking up on her?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	(be)cause she's sick.
+*INV:	mm, what else can you tell me?
+*CHI:	ahh Mickey mouse wants to get off.
+*CHI:	+" hey [?] you get me off [= for Mickey Mouse]
+	[= about bandaid].
+*INV:	what else can you tell me?
+*CHI:	ow, hey look.
+*CHI:	it's Mickey mouse with hair &=puts:bandaid_on_picture.
+*CHI:	human hair.
+*CHI:	just kidding.
+*CHI:	hey look.
+*CHI:	xxx.
+*CHI:	nah just kidding.
+*CHI:	did you know that mouses have these kind of ears?
+*INV:	hm.
+*CHI:	well some people don't know that parrots can talk.
+*CHI:	guess what?
+*INV:	hm.
+*CHI:	once when I was at the clown station at the fair &=whispers there
+	was a clown with a talking parrot.
+*INV:	oh.
+*CHI:	hey let's see.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*CHI:	it's what we all eat.
+*INV:	wha- hold on, what more, oh can we can we talk about this page a
+	little bit more?
+*CHI:	yeah.
+*INV:	what more can you tell me?
+*CHI:	it has crumbs.
+*CHI:	just shut up [= about two fingers pretending to be worms].
+*CHI:	it's just two worms.
+*CHI:	please don't call me a worm [= talking as fingers].
+@G:	Duck
+*INV:	what is this?
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	I always <knew> [?] [= talking as fingers].
+*CHI:	just don't call me a duck either
+	[= talking as fingers].
+*INV:	what else can you tell me?
+*CHI:	ducks have webbed feet.
+*CHI:	don't call me ducks have webbed feet either
+	[= talking as fingers].
+*CHI:	guess what I'm trying to do.
+*INV:	I don't know.
+*CHI:	it's silly.
+*CHI:	xxx.
+*CHI:	don't call me hm [= talking as fingers].
+*CHI:	hey, don't call us hm [= talking as fingers].
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a doggie.
+*INV:	what more can you tell me?
+*CHI:	I just don't like you with you just bothering me
+	[= talking as fingers].
+*INV:	what else can you tell me?
+*CHI:	well doggies are scary to cats.
+*CHI:	don't call me doggies are scary to cats
+	either [= talking as fingers].
+*CHI:	guess what that is.
+*INV:	hm?
+*CHI:	it's my finger see.
+*INV:	oh.
+*CHI:	I just stuck it under there.
+*CHI:	hm let's turn the page.
+*CHI:	hey why won't you turn?
+@G:	Pirate
+*CHI:	is that what's next?
+*INV:	mm-hm [= yes].
+*INV:	what is this?
+*CHI:	a pirate.
+*INV:	what more can you tell me?
+*CHI:	gold.
+*CHI:	guess how pirates talk.
+*INV:	hm?
+*CHI:	ahoy maties [= in pirate voice].
+*CHI:	xxx.
+*CHI:	I have a joke.
+*INV:	well what else can you tell me?
+*CHI:	I have a joke.
+*INV:	hm?
+*CHI:	why did, what do you give a sick horse?
+*INV:	hm?
+*CHI:	cough syrup, stirrup.
+*CHI:	instead of cough stirrup, syrup.
+*CHI:	not stirrup syrup.
+*CHI:	hey why are those light switches on?
+*INV:	uh because they're the light switches for here.
+*INV:	eh let's keep (th)em on, please.
+*INV:	you know what we just have a few more pictures to look at.
+*CHI:	and then what?
+*INV:	and then I I've got another thing for us to do.
+*INV:	so what else can you tell me?
+*CHI:	pirates just sail on ships with their-his amigos.
+*INV:	hm.
+*CHI:	do you know what amigo means?
+*INV:	hm?
+*CHI:	friends.
+*INV:	                                           ⌈ oh⌉.
+*CHI:	that's how um Dora and boots and Diego say ⌊friends⌋.
+*INV:	oh.
+*CHI:	in spanish.
+*INV:	ah.
+*CHI:	uno dos tres-uno dos tres cuatro.
+*INV:	ahh.
+*CHI:	cinco.
+*INV:	mm.
+*CHI:	seis.
+*CHI:	did you know how to count in spanish?
+*INV:	hm?
+*CHI:	uno dos tres cuatro cinco seis.
+*INV:	&=gasps you ready for the next page?
+*CHI:	yep.
+@G:	Ladybug
+*CHI:	I like ladybugs.
+*INV:	what more can you tell me?
+*CHI:	well once there was a ladybug on my rocky pajamas.
+*INV:	mm.
+*CHI:	and I would just, and I would xxx.
+*INV:	mm.
+*CHI:	well what's [= on INV face] +...
+*CHI:	I think it's a bad thing.
+*INV:	I'm okay.
+*CHI:	but.
+*INV:	I'm okay sweetie.
+*INV:	I am.
+*CHI:	well let's look at the next page.
+*INV:	oh well what else can you tell me?
+*CHI:	well sometimes people think this is their face.
+*CHI:	right, right?
+*CHI:	but this really is their face.
+*INV:	mm.
+*CHI:	but if you, move it'll go like &=pinches:air.
+*INV:	mm.
+*CHI:	it'll bite you.
+*INV:	mm.
+*CHI:	xxx.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	a tortoise.
+*CHI:	don't tell me anymore.
+*INV:	can we go back to this page?
+*CHI:	mm-hm [= yes].
+*CHI:	tortoises carry their homes like this.
+*CHI:	let me get on my Mickey mouse ring &=crawls:on_floor.
+*INV:	oh.
+*CHI:	they're kinda like doggies only they're very slow.
+*INV:	mm, what else can you tell me?
+*CHI:	sloths are kind of like tortoises only they're really slow like tortoises.
+*CHI:	like &=walks:slowly.
+*CHI:	but, they live on trees not like tortoises.
+*INV:	mm.
+*CHI:	tortoises don't live in trees.
+*INV:	oh.
+*CHI:	only tortoises go like, live in their shell.
+*INV:	mm.
+*CHI:	it kind of looks like &=peaks:behind_couch.
+*INV:	ah.
+*CHI:	but only it have a super long strong shell.
+*INV:	mm.
+*CHI:	okay.
+*INV:	okay &=gasps.
+*CHI:	the end.
+*INV:	end.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay well thank you very much for doing that with me that was a lot
+	of fun.
+@End

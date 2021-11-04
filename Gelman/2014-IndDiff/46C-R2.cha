@@ -1,0 +1,245 @@
+@UTF8
+@PID:	11312/a-00032241-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.05|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Football Player
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	football player.
+*INV:	what more, ⌈ oh⌉ +...
+*CHI:	           ⌊my⌋ +...
+*CHI:	my dad loves to watch football.
+*INV:	mm, what more can you tell me?
+*CHI:	it's throwing a football.
+*CHI:	and it has a helmet on.
+*CHI:	and a shirt.
+*CHI:	and some pants and shoes.
+*CHI:	and, it has a football in its hand.
+*CHI:	and it has numbers on its shirt.
+*CHI:	and it has black right there xxx.
+*INV:	mm.
+*CHI:	and the pants are white.
+*CHI:	xxx.
+*CHI:	and its skin is, um, like it's peach skin.
+*INV:	mm.
+*CHI:	and it has black on its sleeves.
+*CHI:	and you can snatch it.
+*INV:	mm.
+*CHI:	and it has pockets right there.
+*CHI:	and shoes xxx.
+*INV:	mm okay.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	a alligator.
+*INV:	what more can you tell me?
+*CHI:	it has a tongue.
+*CHI:	and it has a snout and sharp teeth all around it.
+*CHI:	and, it has spots all around it.
+*CHI:	and stripes on its tail.
+*CHI:	and it have eyes orange eyes.
+*CHI:	and webbed feet.
+*INV:	anything else you wanna tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has a belly xxx.
+*CHI:	and it has claws.
+*CHI:	and it has, there.
+*INV:	        ⌈mm⌉.
+*CHI:	that on ⌊it⌋.
+*CHI:	and a mouth.
+*CHI:	and a tummy.
+*INV:	okay.
+@G:	Witch
+*INV:	what is this?
+*CHI:	a wizard.
+*CHI:	no a witch.
+*INV:	mm.
+*CHI:	xxx.
+*CHI:	it's flying a broom.
+*CHI:	and it have a belt around her.
+*INV:	what else can you tell me?
+*CHI:	it has a hat.
+*CHI:	and a suit xxx bats.
+*CHI:	and the broom has this on it.
+*CHI:	and it has <peach> [?] skin.
+*CHI:	has a black coat with shoes on.
+*CHI:	and a red, on it.
+*INV:	mm.
+*CHI:	it has a stick.
+*INV:	mm, anything else you wanna say?
+*CHI:	mm, I don't know.
+*CHI:	it has hair.
+*INV:	okay.
+@G:	Penguin
+*CHI:	and this is a penguin.
+*CHI:	and it has beak and black skin.
+*CHI:	and claws.
+*CHI:	and orange feet.
+*CHI:	and it's white xxx.
+*CHI:	and it has, eyes.
+*INV:	what more can you tell me?
+*CHI:	and they eat, fish.
+*CHI:	and they walk.
+*INV:	mm.
+*CHI:	they have a neck right there.
+*CHI:	hm, I don't know anymore.
+*INV:	okay.
+*INV:	well you're doing really well.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	it's wearing a shirt and a belt.
+*CHI:	and some of those shoes.
+*CHI:	and some pants.
+*CHI:	and a leg.
+*CHI:	he has a leg right there and a [?] coat with pockets.
+*CHI:	and a xxx coat with a hat and that stuff.
+*CHI:	his skin is white.
+*CHI:	and he's funny.
+*INV:	anything else you wanna say?
+*CHI:	mm, I don't know.
+*INV:	okay.
+@G:	Teacher
+*CHI:	this is a teacher.
+*INV:	what more can you tell me?
+*CHI:	it has peach skin and white hair.
+*CHI:	I mean, brown hair and gray hair.
+*CHI:	it has gray hair.
+*INV:	mm.
+*CHI:	and xxx and xxx.
+*CHI:	and it has high heel shoes and a skirt on.
+*CHI:	and a jacket with a white shirt and it's +...
+*CHI:	she's drawing and reading a book that has +...
+*CHI:	she has glasses on.
+*INV:	mm.
+*CHI:	she has pockets right here.
+*CHI:	and she's teaching.
+*CHI:	I don't know.
+*INV:	okay.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	a lobster.
+*INV:	what more can you tell me?
+*CHI:	it has claws.
+*CHI:	it can pinch you.
+*CHI:	and it has this and some eyes.
+*CHI:	and that.
+*CHI:	and it's orange.
+*CHI:	and, it has legs.
+*CHI:	and, and it can crawl.
+*CHI:	and it's orange.
+*CHI:	it has little streaks.
+*INV:	mm.
+*CHI:	I don't know anything else.
+*INV:	okay.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	some broccoli.
+*INV:	what more can you tell me?
+*CHI:	um it's green with uh +...
+*CHI:	it looks like a tree.
+*CHI:	and it has that stem thing.
+*CHI:	and it has all that stuff right there.
+*INV:	mm.
+*CHI:	no lines.
+*CHI:	and I don't know anything else.
+*INV:	okay.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	a elephant.
+*CHI:	it has a snout.
+*CHI:	and some of tusks [?] and stuff.
+*CHI:	and it has white claws.
+*CHI:	and big ears and, horns.
+*CHI:	and it's brown.
+*CHI:	and it has a tail.
+*CHI:	and it has legs.
+*INV:	what else can you tell me?
+*CHI:	it has eyes.
+*CHI:	and bumps right there.
+*CHI:	and it has a back and a belly.
+*INV:	mm.
+*CHI:	I don't know anything else.
+*INV:	okay.
+@G:	Orange
+*INV:	what is this?
+*CHI:	a peach.
+*INV:	what more can you tell me?
+*CHI:	um, it's orange with a stem.
+*CHI:	and it has dots and you can eat it.
+*INV:	anything else you wanna say?
+*CHI:	mm, mm, no.
+*INV:	okay.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	some popcorn.
+*INV:	mm, what more can you tell me?
+*CHI:	it's yellow and it's in a bowl.
+*CHI:	and, it um it the bowl is, kinda bluish.
+*CHI:	and, and we can eat it.
+*CHI:	and it's red right there a bit.
+*CHI:	I don't really know, anymore.
+*INV:	okay.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	a pilot.
+*INV:	what more can you tell me?
+*CHI:	it drives a plane.
+*CHI:	and it it can press all those xxx on the plane.
+*CHI:	and it and can sit in the chairs.
+*CHI:	and he's wearing a blue coat with yellow stuff.
+*CHI:	and he has hair on him.
+*CHI:	he has a hat on.
+*CHI:	and there's windows.
+*INV:	anything else you wanna tell zorg?
+*CHI:	mm, I don't know.
+*INV:	okay.
+@G:	Horse
+*CHI:	that's a horse.
+*INV:	what more can you tell me?
+*CHI:	it has hooves.
+*CHI:	and it's soft.
+*CHI:	and it has mane and a tail and +...
+*CHI:	and it's brown.
+*CHI:	and it has that.
+*CHI:	and some eyes and ears.
+*CHI:	and a back and a belly.
+*CHI:	and it can xxx.
+*CHI:	I don't know anything else.
+*INV:	alright.
+@G:	Cake
+*INV:	what is this?
+*CHI:	a cake.
+*INV:	what more can you tell me?
+*CHI:	you can eat it.
+*CHI:	it has, brown frosting.
+*CHI:	that's chocolate.
+*CHI:	and it sometime, cake sometimes has nuts in it.
+*CHI:	and it's kinda blondish the cake.
+*INV:	mm.
+*CHI:	and I don't really know anything else.
+*INV:	okay.
+@G:	Cereal
+*CHI:	and this is cereal.
+*CHI:	and we can eat it.
+*INV:	what else can you tell me?
+*CHI:	it it it's in an orange bowl.
+*CHI:	and we can eat it.
+*CHI:	with a spoon and milk.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, um, it, um it has milk in it.
+*CHI:	and, I don't know what else more.
+*INV:	okay.
+*INV:	well you did great.
+*INV:	do you wanna look again?
+*CHI:	no I'm kinda tired, ⌈of talking⌉.
+*INV:	                    ⌊oh⌋.
+*INV:	oh okay.
+*INV:	cool then, well thank you for doing that with me.
+*INV:	that was a lot of fun.
+@End

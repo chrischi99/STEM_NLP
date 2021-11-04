@@ -1,0 +1,484 @@
+@UTF8
+@PID:	11312/a-00031986-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.20|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Strawberry
+@Types:	cross, narrative, TD
+*CHI:	strawberry.
+*MOT:	strawberry.
+*MOT:	do you like strawberries?
+*CHI:	mm-hm [= yes].
+*MOT:	yeah?
+*CHI:	&=hits:book.
+*MOT:	what are you doing?
+*MOT:	what color is that strawberry?
+*CHI:	red.
+*MOT:	red yeah and what else?
+*CHI:	&=turns:page green.
+*MOT:	green.
+@G:	Lion
+*MOT:	what's this?
+*CHI:	&=laughs lion.
+*MOT:	what does a lion say?
+*CHI:	cock a doodle do.
+*MOT:	do you know what this is called on the lion?
+*MOT:	do you remember?
+*CHI:	&=shakes:head_no.
+*MOT:	what's his hair called around his neck?
+*CHI:	&=shrugs.
+*MOT:	his mane?
+*MOT:	(re)member?
+*MOT:	the lion's mane, Is this a boy lion or a girl lion?
+*CHI:	um doo tee doot &=laughs.
+*MOT:	can we talk about the book please?
+*CHI:	um boy.
+*MOT:	a boy lion yes why?
+*CHI:	because um he's big.
+*MOT:	yeah and because he has, Boy lions have the hair around their necks
+	don't w- ⌈ don't they⌉?
+*CHI:	         ⌊uh-huh [= yes]⌋?
+*MOT:	(re)member?
+*MOT:	do you remember what the boy lion in Lion_King's name is?
+*MOT:	what was his name?
+*CHI:	roar.
+*MOT:	okay if you don't wanna tell ⌈ me that's okay⌉.
+*CHI:	                             ⌊um⌋.
+*CHI:	&=shrugs.
+*MOT:	is it Mufasa and Simba?
+*CHI:	&=nods.
+*MOT:	&=nods (re)member?
+*MOT:	yeah okay.
+*MOT:	you wanna look at another picture?
+@G:	Pie
+*MOT:	&=gasps what's that?
+*CHI:	bee hive.
+*MOT:	a bee hive?
+*MOT:	do you think so?
+*MOT:	you better look at it closer.
+*MOT:	I don't think it's ⌈ a bee hive⌉.
+*CHI:	                   ⌊pie⌉.
+*MOT:	a pie yes.
+*MOT:	what kind of pie is it?
+*MOT:	what kind of pie do you think that is?
+*MOT:	I think we've made this kind of pie together before &=taps:picture.
+*CHI:	banana?
+*MOT:	no I- Do you see bananas in there?
+*MOT:	I don't think so.
+*MOT:	what do you think it is?
+*MOT:	apple pie maybe?
+*CHI:	apple pie.
+*MOT:	yeah.
+@G:	Milk
+*MOT:	&=gasps what's that?
+*CHI:	glass of milk.
+*MOT:	oh ho ho.
+*MOT:	you had two of those didn't you today, hey look &=turns:page_back.
+@G:	Pie
+*MOT:	&=gasps apple pie.
+*MOT:	&=turns:page.
+@G:	Milk
+*MOT:	glass of milk &=turns:pages.
+*MOT:	&=points that looks like a bigger glass of milk than you had.
+*MOT:	what do you think?
+*CHI:	mm-hm [= yes].
+*MOT:	yeah.
+@G:	Farmer
+*MOT:	what's this?
+*CHI:	&=gasps a picture.
+*MOT:	a what?
+*CHI:	a picture.
+*MOT:	a picture of what though?
+*CHI:	&=laughs.
+*MOT:	tell me.
+*CHI:	a girl, in a barn.
+*MOT:	what do you think she's doing?
+*CHI:	getting some food.
+*MOT:	what kind of food is that?
+*CHI:	um pumpkins.
+*MOT:	what else?
+*CHI:	not pumpkins &=shakes:head.
+*MOT:	could be pumpkins.
+*MOT:	what do you think it is?
+*CHI:	pumpkins.
+*CHI:	grapes.
+*CHI:	hay.
+*MOT:	do you think she's a farmer?
+*CHI:	yeah.
+*MOT:	she looks like she's wearing overalls doesn't she?
+*MOT:	why do you think she's wearing a hat?
+*CHI:	because she's a cowboy.
+*MOT:	you think she's a cowboy?
+*CHI:	yeah because look at cowboys have that &=points:picture.
+*MOT:	oh yea cowboys do have that.
+*MOT:	you're right.
+*MOT:	why else, Why do you think she might wear the hat?
+*MOT:	why do you think cowboys wear hats too?
+*CHI:	um, &=turns:page because they like to.
+*MOT:	(be)cause they like to.
+@G:	Rabbit
+*MOT:	what's this?
+*CHI:	bunny.
+*MOT:	&=gasps bunny.
+*MOT:	what's coming up that we like bunnies?
+*MOT:	that we use bunnies with?
+*CHI:	&=hops.
+*MOT:	yup.
+*CHI:	easter.
+*MOT:	easter.
+*MOT:	easter bunny.
+*MOT:	come on bunny.
+*MOT:	come do our quick picture book sweet pea.
+*CHI:	&=hops.
+*MOT:	come on.
+*MOT:	(o)kay firstname.
+*MOT:	come on.
+*MOT:	come sit down for me.
+*MOT:	that is what a bunny does.
+*MOT:	a bunny hop hop hops.
+@G:	Pretzel
+*MOT:	&=gasps what's that?
+*CHI:	pretzel &=pretends:eat.
+*MOT:	&=laughs what's on the pretzel?
+*MOT:	what is that do you think?
+*CHI:	salt?
+*MOT:	salt.
+*MOT:	I think you're right.
+*MOT:	we've made pretzels haven't we?
+@G:	Snake
+*MOT:	oh what's that?
+*CHI:	xxx cobra.
+*MOT:	a cobra.
+*MOT:	&=laughs oh ho.
+*MOT:	&=hisses sss ⌈ sss⌉.
+*CHI:	&=hisses     ⌊sss⌋  ⌈sss⌉.
+*MOT:	yes I know you're a ⌊cobra⌋.
+*MOT:	(o)kay come here.
+*CHI:	sss sss sss.
+*MOT:	sss.
+*CHI:	&=laughs.
+*MOT:	look at him he's got his sss &=hisses.
+@G:	Surfer
+*MOT:	what's that?
+*CHI:	person.
+*MOT:	what's he doing?
+*CHI:	surfin(g).
+*MOT:	surfing yeah.
+*MOT:	look at his, Look at his, spotted bathing suit.
+*MOT:	do you think he, Do you think it's warm or cold where he is?
+*CHI:	warm.
+*MOT:	I bet it's warmer than here.
+*MOT:	do you think we could surf here?
+*CHI:	no &=laughs.
+*MOT:	I think we'd be freezing.
+*MOT:	what do you think?
+*MOT:	yeah?
+*MOT:	what do you think, Where do you think he's surfing?
+*MOT:	where is that?
+*CHI:	oh I know.
+*MOT:	where?
+*CHI:	in the water.
+*MOT:	what water do you think it is?
+*CHI:	&=shakes:head_no.
+*MOT:	do you think he's surfing in a pool?
+*CHI:	&=laughs no.
+*MOT:	&=laughs well where's he surfing?
+*CHI:	um in the sea.
+*MOT:	in the sea?
+*MOT:	I think you're +...
+*CHI:	no where grandma and grand +...
+*CHI:	at the beach.
+*MOT:	at the beach where grandma and grandpa live?
+*MOT:	maybe.
+*MOT:	alright cool.
+*MOT:	he looks like he's having fun.
+*MOT:	I wish I was doing that.
+*CHI:	&=turns:page me too.
+@G:	King
+*MOT:	who's that?
+*MOT:	who do you think that is?
+*CHI:	um L, Luther King.
+*MOT:	it's a king?
+*MOT:	yeah.
+*CHI:	Luther King.
+*MOT:	Luther King?
+*CHI:	&=sits:table.
+*MOT:	firstname can you please get off the table?
+*MOT:	thank you.
+*MOT:	sit, we don't sit on tables at home.
+*MOT:	thank you.
+*MOT:	tell me what he's thinking.
+*MOT:	what is he thinking about do you think?
+*MOT:	what do you think he's thinking about?
+*CHI:	&=sits:table um.
+*MOT:	can you sit on your bottom on the chair please?
+*CHI:	he has a plan.
+*MOT:	he has a plan?
+*CHI:	that, um, I don't know &=turns:page.
+*MOT:	do you think he's a nice king?
+*CHI:	yup.
+@G:	Frog
+*MOT:	what's that?
+*CHI:	&=hops a toad.
+*MOT:	a toad.
+*CHI:	&=hops.
+*MOT:	okay come here.
+*MOT:	come here sweet pea let's look at this.
+*MOT:	firstname.
+*MOT:	firstname.
+*MOT:	can you come sit down please?
+*MOT:	thank you.
+*MOT:	(o)kay a toad.
+*CHI:	&=turns:page.
+*MOT:	what does, What do toads say &=turns:page_back?
+*CHI:	ribbit.
+*MOT:	ribbit &=laughs.
+@G:	Police Officer
+*MOT:	oh who's this?
+*CHI:	a police officer.
+*MOT:	you're right it is a police officer.
+*MOT:	what do you think she's doing?
+*CHI:	helping a car.
+*MOT:	yeah it looks like it doesn't it?
+*CHI:	or directing- or directing, traffic.
+*MOT:	directing traffic?
+*MOT:	could be.
+*MOT:	does she look like- look what do you think she's doing there?
+*MOT:	we've played that game.
+*MOT:	what is she doing?
+*CHI:	oh.
+*CHI:	directing, directing traffic.
+*MOT:	&=nods:yes yeah.
+*MOT:	do you think she could be calling for back up?
+*MOT:	remember how we play that game and she calls, you have to call for
+	back up?
+*MOT:	what do you say?
+*CHI:	um my name is Firstname and I live at xxx [= address] and xxx [= phone number].
+*MOT:	&=nods that's what you tell if you, That's what you tell a police
+	officer isn't it?
+*CHI:	&=nods:yes.
+*MOT:	&=nods yeah?
+*MOT:	good job.
+*CHI:	my name is Firstname I live at ⌈ Address and xxx
+	[= phone number]⌉.
+*MOT:	&=nods:yes xxx .
+*CHI:	&=walks:couch.
+*MOT:	stay here please.
+*MOT:	firstname Firstname.
+*CHI:	just just fixing this couch.
+*MOT:	okay come here please and let's look at some more pictures.
+*CHI:	<to me do Mom you want to sit down> [?] ?
+*MOT:	yes are you going to sit down?
+*CHI:	yup.
+*MOT:	this is like Nana's couch actually.
+*MOT:	did you notice that?
+*CHI:	mm-hm [= yes].
+*MOT:	(o)kay come sit with me and we'll re- we'll look at the rest of
+	these books.
+@G:	Corn
+*MOT:	oh what's this?
+*CHI:	&=gasps corn.
+*CHI:	different color corn.
+*MOT:	different color corn?
+*MOT:	what colors do you see there?
+*CHI:	red.
+*CHI:	orange.
+*CHI:	black.
+*MOT:	that's pretty neat.
+*CHI:	&=stands:up.
+*MOT:	firstname.
+*CHI:	I'm pretending to be a corn &=stands:up.
+*MOT:	you're a cornstalk?
+*MOT:	&=turns:page.
+*MOT:	(o)kay come here.
+*MOT:	let's see what's next.
+*MOT:	here you turn the pages.
+*MOT:	you wanna, Why don't you sit down nice.
+*MOT:	and I'll put the book on your lap.
+*MOT:	and you can hold it.
+*CHI:	and- and you guess what they are.
+*MOT:	well no you guess.
+*CHI:	&=turns:page.
+@G:	Owl
+*MOT:	&=gasps.
+*CHI:	&=turns:page_back.
+*CHI:	no you.
+*MOT:	(o)kay.
+*CHI:	&=turns:page go.
+*MOT:	        ⌈ it's a turtle⌉.
+*CHI:	what is ⌊this⌋?
+*CHI:	no.
+*MOT:	uh it's, What is it?
+*MOT:	I can't remember.
+*CHI:	owl.
+*MOT:	an owl.
+*CHI:	&=laughs.
+*MOT:	what movie did we see an owl in &=points:picture?
+*MOT:	what's your brother's favorite movie that has an owl in it?
+*CHI:	&=shrugs.
+*MOT:	harry Potter?
+*CHI:	&=nods:yes mm-hm [= yes].
+*MOT:	&=nods:yes yeah.
+*MOT:	yeah.
+*CHI:	&=turns:page.
+*MOT:	&=turns:page_back what do owls eat?
+*MOT:	hey do you remember, remember what owls eat for dinner?
+*CHI:	big persons.
+*MOT:	what do they eat?
+*CHI:	&=laughs persons.
+*MOT:	no they don't eat people.
+*MOT:	silly you're being silly.
+*CHI:	what do they eat?
+*MOT:	they eat mice.
+*CHI:	no- ⌈ Yeah⌉.
+*MOT:	&=nods they ⌊do⌋.
+*MOT:	yeah they eat mice.
+@G:	Weightlifter
+*MOT:	&=gasps what's this guy doing?
+*CHI:	now what is that guy?
+*CHI:	what's that?
+*MOT:	what do you think he is?
+*MOT:	do you think he's doing ballet?
+*CHI:	what is it?
+*MOT:	is he doing ballet?
+*MOT:	l +...
+*CHI:	yes.
+*MOT:	what are these [= weights]?
+*MOT:	I can't remember what that is.
+*CHI:	um, things that you lift up &=pretends:lift_weights.
+*MOT:	&=nods oh like lifting weights?
+*MOT:	you think ⌈ he's a weight lifter⌉?
+*CHI:	          ⌊yeah⌋.
+*CHI:	yeah.
+*MOT:	I think you're right.
+*MOT:	look at his muscles.
+*CHI:	he is- He has little muscles.
+*MOT:	&=nods:yes yeah?
+*MOT:	you're being silly.
+*CHI:	&=turns:page.
+@Comment:	end of book
+*MOT:	okay.
+*MOT:	do you want to look at any more of these &=turns:back_first_page?
+*CHI:	do you wanna +...
+*MOT:	do you want to see if you can name everything real quick?
+@G:	Strawberry
+*CHI:	strawberry.
+*MOT:	okay.
+*MOT:	gentle.
+@G:	Lion
+*CHI:	a lion.
+@G:	Pie
+*CHI:	pie.
+@G:	Milk
+*CHI:	glass of milk.
+@G:	Farmer
+*CHI:	a farmer.
+@G:	Rabbit
+*CHI:	a bunny rabbit.
+@G:	Snake
+*CHI:	a ⌈cobra⌉.
+@G:	Pretzel
+*MOT:	&=turns:back_skipped_page oops you missed ⌊one⌋.
+*MOT:	oh you missed one.
+*CHI:	&=laughs a pretzel.
+@G:	King
+*CHI:	a king.
+@G:	Frog
+*CHI:	a f- A toad.
+@G:	Police Officer
+*CHI:	and a lion &=laughs.
+*MOT:	&=shakes:head.
+*CHI:	a police officer.
+@G:	Corn
+*CHI:	and a king &=laughs.
+*CHI:	corn.
+*MOT:	you're being so silly.
+@G:	Owl
+*MOT:	okay.
+*MOT:	and?
+*CHI:	&=laughs a bunny rabbit.
+*MOT:	&=laughs.
+@G:	Weightlifter
+*CHI:	and, a rectangle.
+*MOT:	a rectangle?
+*MOT:	you're silly.
+*MOT:	what shapes are these?
+*MOT:	that makes me think what shapes are those?
+*CHI:	um circ- Um, squares &=laughs.
+*MOT:	don't make it up.
+*MOT:	you're right they're squares.
+*MOT:	okay let's turn the page.
+*CHI:	circles.
+*MOT:	&=laughs.
+*CHI:	&=closes:book.
+*MOT:	you know what this says [= book cover]?
+*MOT:	what letter is this &=points:book_T?
+*CHI:	s@l.
+*CHI:	r@l &=laughs.
+*MOT:	you're silly.
+*CHI:	and +...
+*MOT:	do you know what this word is [= word]?
+*CHI:	brrs.
+*CHI:	br &=laughs.
+*MOT:	no I think you're being too silly.
+*CHI:	um rectangle.
+*MOT:	alright.
+*MOT:	(o)kay are we done?
+*CHI:	I can't, I can't remember.
+*MOT:	should we try to sound it out?
+*CHI:	mmm ba ⌈ba ba⌉.
+*MOT:	       ⌊ba⌋.
+*MOT:	boo.
+*CHI:	oowah oowah.
+*MOT:	what does a K sound like?
+*CHI:	kk ⌈kk⌉.
+*MOT:	that's ⌊right⌋.
+*MOT:	⌈book⌉.
+*CHI:	⌊book⌋.
+*MOT:	⌈book⌉.
+*CHI:	⌊book⌋.
+*CHI:	book.
+*MOT:	&=nods:yes book?
+*MOT:	what, Book A.
+*CHI:	book A.
+*MOT:	you know what this says [= word]?
+*CHI:	no.
+*MOT:	things.
+*MOT:	you want to try to sound this one out [= word]?
+*CHI:	I +...
+*MOT:	ih.
+*CHI:	ih.
+*MOT:	what does an N say?
+*CHI:	nn.
+*MOT:	in.
+*CHI:	in.
+*MOT:	things in our.
+*MOT:	what letter is this [= letter W]?
+*CHI:	da w@l.
+*MOT:	w@l wa.
+*MOT:	orld.
+*CHI:	orld.
+*MOT:	world.
+*CHI:	world.
+*MOT:	things in our world.
+*MOT:	so these are all things that are in our world.
+*MOT:	I think that's what that's telling us.
+*CHI:	oh.
+*MOT:	what do you think?
+*CHI:	I think we're done.
+*MOT:	you think we're done?
+*MOT:	okay do you want to go knock on the door?
+*CHI:	&=nods:yes.
+*MOT:	(o)kay go knock on the door.
+*MOT:	don't open it.
+*MOT:	just knock on it.
+*CHI:	you you go and- I want you to.
+*MOT:	you want me to?
+*MOT:	you don't want to?
+*CHI:	&=nods:yes.
+*MOT:	okay.
+*CHI:	xxx.
+@End

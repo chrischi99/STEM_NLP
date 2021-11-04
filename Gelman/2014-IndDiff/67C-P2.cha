@@ -1,0 +1,312 @@
+@UTF8
+@PID:	11312/a-00032365-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.26|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Football Player
+@Types:	cross, narrative, TD
+*MOT:	wow.
+*MOT:	can you tell me about that picture?
+*CHI:	mm.
+*MOT:	what's this guy doing?
+*CHI:	I don't know.
+*MOT:	oh it's a girl.
+*MOT:	look, how long her hair is.
+*MOT:	you think it's a girl?
+*MOT:	playing football.
+*CHI:	hm, what number is it?
+*MOT:	what number is it?
+*CHI:	⌈no⌉.
+*MOT:	⌊zero⌋, three.
+*MOT:	number three.
+*MOT:	can you show me three?
+*MOT:	hm?
+*CHI:	we had a dif num +...
+@G:	Pilot
+*MOT:	what is that?
+*MOT:	can you tell me what that is?
+*CHI:	no.
+*MOT:	what's on your shirt?
+*MOT:	he's got a hat.
+*MOT:	do you think maybe he drives-?
+*CHI:	plane.
+*MOT:	a plane good job.
+*MOT:	do you like planes?
+*CHI:	mm-hm [= yes].
+*MOT:	mm-hm [= filler].
+*MOT:	where do you go on the airplane?
+@G:	Broccoli
+*MOT:	what is that?
+*CHI:	a carrot.
+*MOT:	no.
+*MOT:	what is it?
+*MOT:	it's not a ⌈carrot⌉.
+*CHI:	           ⌊broccoli⌋.
+*MOT:	broccoli.
+*MOT:	do you like broccoli?
+*CHI:	yeah.
+*MOT:	  ⌈yeah⌉.
+@G:	Horse
+*CHI:	a ⌊horsie⌋.
+*MOT:	oh tell me about the horsie.
+*MOT:	do you like that horsie?
+*CHI:	yeah.
+*MOT:	what do you think that horsie's name is?
+*CHI:	maybe Popcorn.
+*MOT:	popcorn?
+@G:	Clown
+*MOT:	hey what's that?
+*CHI:	a bad clown.
+*MOT:	a bad clown?
+*MOT:	why is he a bad clown?
+*MOT:	he looks pretty funny to me.
+*CHI:	know Air Bud?
+*MOT:	yeah.
+*CHI:	with the bad clown?
+*MOT:	oh Air Bud with the ba-bad clown.
+*MOT:	yeah.
+*CHI:	um.
+*MOT:	he had a dog didn't he?
+*MOT:	are all clowns bad?
+*CHI:	no.
+*MOT:	no most of (th)em are funny, aren't they?
+*CHI:	this one is bad though.
+*MOT:	yeah.
+@G:	Popcorn
+*MOT:	woop skipped a page.
+*CHI:	uh oh.
+@G:	Clown
+*MOT:	what else can you tell me about the clown?
+*CHI:	um he has Air Bud is a dog.
+*MOT:	yeah.
+*CHI:	all I can tell about [?].
+@G:	Penguin
+*MOT:	what's that?
+*CHI:	a penguin.
+*MOT:	a penguin.
+*MOT:	where do penguins live?
+*CHI:	the snow.
+*MOT:	in the snow yeah.
+*MOT:	do they ⌈fly⌉?
+@G:	Popcorn
+*CHI:	        ⌊popcorn⌋.
+*MOT:	popcorn.
+*MOT:	who likes popcorn?
+*CHI:	me.
+*MOT:	who makes popcorn really good?
+*CHI:	mommy.
+*MOT:	daddy.
+*MOT:	⌈daddy makes the best popcorn⌉.
+*CHI:	⌊o⌋ +...
+@G:	Teacher
+*MOT:	oop you skipped one.
+*MOT:	who's that?
+*CHI:	a teacher.
+*MOT:	a teacher.
+*MOT:	what is she teaching?
+*CHI:	a sailboat.
+*MOT:	it looks like a sailboat doesn't it?
+*MOT:	good job.
+*MOT:	that's math.
+*MOT:	or maybe geometry even or somethin(g).
+@G:	Orange
+*CHI:	a melon.
+*MOT:	a melon?
+*MOT:	what is that?
+*MOT:	we had (th)em in Florida.
+*CHI:	apple.
+*MOT:	guess again.
+*MOT:	what color is it?
+*CHI:	orange.
+*MOT:	orange.
+@G:	Alligator
+*CHI:	crocodile.
+*MOT:	crocodile.
+*MOT:	look at those big teeth.
+*MOT:	do you like crocodiles?
+*CHI:	no.
+*MOT:	no.
+@G:	Cake
+*CHI:	<who> [?] likes that.
+*MOT:	who does?
+*MOT:	you or the crocodile?
+*CHI:	me.
+*MOT:	what is it?
+*CHI:	cake.
+*MOT:	what kind of cake?
+*MOT:	what kind of frosting is that?
+*MOT:	is it cherry?
+*CHI:	yeah.
+*MOT:	no.
+*MOT:	what color is it?
+*CHI:	black.
+*MOT:	brown.
+*CHI:	⌈yeah⌉.
+*MOT:	⌊chocolate⌋.
+*CHI:	yummy like that.
+*MOT:	mm-hm [= filler].
+@G:	Elephant
+*MOT:	what's that a picture of?
+*CHI:	uh a elephant.
+*MOT:	yeah we didn't get to see any elephants at the zoo did we?
+*CHI:	mm-mm [= no].
+*MOT:	what did we see at the zoo?
+*MOT:	do you remember, what we saw at the zoo in Florida?
+*CHI:	lions.
+*MOT:	lions.
+@G:	Witch
+*MOT:	what's this?
+*CHI:	a witch.
+*MOT:	a witch.
+*MOT:	when do witches come out?
+*CHI:	at dark.
+*MOT:	in Halloween?
+*CHI:	       ⌈mm-hm⌉.
+*MOT:	during ⌊Halloween⌋?
+*CHI:	yeah.
+*MOT:	yeah.
+*MOT:	when you go, what do you do during Halloween?
+*CHI:	trick or treat.
+*MOT:	trick or treat.
+*MOT:	what's your favorite thing to get trick or treating?
+*CHI:	candy.
+*MOT:	mm what kind of candy?
+*CHI:	frosting.
+*MOT:	frosting?
+@G:	Lobster
+*MOT:	what's this guy?
+*CHI:	a crab.
+*MOT:	it's a lobster.
+*CHI:	lobster.
+*MOT:	do you like lobster?
+*CHI:	yeah.
+*MOT:	mm with butter mm.
+*CHI:	yeah.
+*MOT:	yummy yummy yummy.
+*CHI:	xxx.
+*MOT:	yummy yummy yummy.
+@G:	Cereal
+*MOT:	what's that?
+*CHI:	cereal.
+*MOT:	what's your favorite cereal?
+*CHI:	chips.
+*MOT:	chips?
+*MOT:	&=laughs you are a nut what's your favorite cereal?
+*CHI:	chips.
+*MOT:	what's your favorite cereal?
+*CHI:	chips.
+*CHI:	I want chips.
+*MOT:	mm.
+@Comment:	book closed
+*CHI:	all over again.
+*MOT:	all over again?
+*MOT:	you want to do it all over again?
+*CHI:	all over.
+*CHI:	why they're not coming?
+*MOT:	hm?
+*CHI:	why they're not coming?
+*MOT:	&=laughs you're in a hurry to get to the blocks aren't ya?
+*CHI:	why they're not coming?
+*MOT:	what's your favorite picture in the picture book?
+*CHI:	firstname [?].
+*MOT:	there's no picture of Firstname in here, I don't think.
+@G:	Football Player
+*CHI:	yeah right there.
+*MOT:	did you see this &=closes:book?
+*MOT:	&=reads things in Our World.
+*CHI:	why it says things are in my world?
+*MOT:	because all the things in this book are part of the world we live in.
+*MOT:	right?
+*MOT:	football players.
+*MOT:	what color is her shirt?
+*MOT:	purple?
+*CHI:	blue.
+*MOT:	blue good job.
+@G:	Pilot
+*MOT:	do you remember what this guy's called?
+*CHI:	huh [?].
+*MOT:	what did Mommy tell you?
+*MOT:	when we were in the airplane and I said “Don't forget to tell the”
+	+...
+*MOT:	you remember his name?
+*CHI:	passenger.
+*MOT:	captain.
+*MOT:	passen-we were the passengers.
+*MOT:	he's the captain.
+*CHI:	we need say to him?
+*MOT:	we need to say “thank you for the safe flight home”, right?
+*CHI:	but he was in the end.
+*MOT:	he's in the front.
+*MOT:	in the very front of the plane.
+*MOT:	(be)cause he drives the plane.
+*CHI:	why?
+*MOT:	you remember when the captain came and let you sit in his seat in the front of the plane?
+*MOT:	do you remember that?
+*CHI:	mm-mm [= no].
+*MOT:	you don't remember that?
+*MOT:	and there's all those lights and switches.
+*MOT:	that was a couple years ago I think.
+*CHI:	yeah.
+*CHI:	I do that again?
+*MOT:	maybe.
+*MOT:	maybe when we go to see Firstname maybe the captain will let you
+	ride in the front- er sit +...
+*MOT:	he won't let you ride in the front of the plane but maybe he'll let
+	you sit in the front when we're getting on or off.
+@G:	Broccoli
+*MOT:	you want some broccoli for dinner?
+*CHI:	no chips.
+*CHI:	and Fritos.
+*MOT:	which one's healthy?
+*CHI:	Fritos.
+*MOT:	which one's healthy?
+*CHI:	chips.
+*MOT:	which one's healthy?
+*CHI:	Fritos.
+*MOT:	no those aren't healthy.
+*CHI:	table food.
+*MOT:	table food?
+*MOT:	what's table food?
+*MOT:	what's table food?
+*CHI:	xxx you.
+*MOT:	I'm table food?
+*CHI:	yeah.
+*MOT:	mm.
+*MOT:	you want broccoli for dinner?
+*CHI:	yeah.
+*MOT:	yeah?
+@G:	Horse
+*MOT:	oh look who I found again.
+*MOT:	look who I found again.
+*MOT:	where are you going?
+*CHI:	&=laughs &=hids.
+*MOT:	the horse is gonna find you.
+*MOT:	she's gonna find you.
+*MOT:	oh you're too heavy &=picks:up_CHI &=carries:CHI.
+*MOT:	you're getting too heavy.
+*MOT:	ow ow ow ow ow don't hit Mommy.
+*MOT:	don't hit Mommy.
+*MOT:	what's that horsie's name again?
+*CHI:	popcorn Baby.
+*MOT:	popcorn Baby.
+*MOT:	who has a horse named Popcorn?
+*MOT:	who had a horse named Popcorn?
+*CHI:	aunt Firstname.
+*MOT:	aunt Firstname.
+*MOT:	we gotta go see Popcorn one day.
+*MOT:	are you all done?
+*MOT:	are you all done reading the book?
+*CHI:	yep.
+*MOT:	yeah?
+*MOT:	come here I gotta tell you a secret.
+*MOT:	&=whispers I gotta tell you a secret.
+*MOT:	&=whispers come here.
+*CHI:	&=whispers xxx.
+*MOT:	&=whispers come here.
+*MOT:	stand up.
+*MOT:	&=whispers if you go knock on the window very gently on the mirror
+	you might be able to go.
+@End

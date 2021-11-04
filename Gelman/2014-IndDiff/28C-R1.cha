@@ -1,0 +1,242 @@
+@UTF8
+@PID:	11312/a-00032132-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.08|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Owl
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a owl.
+*INV:	what more can you tell me?
+*CHI:	um it can fly and you see it's nails and you gotta stay away from it (be)cause it scratches you.
+*INV:	oh.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you got to stay away from him (be)cause he, can scratch you and he and and he can fly and he's all feathery.
+*INV:	mm.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	um a man skiing on the um a shore.
+*INV:	mm, what more can you tell me?
+*CHI:	um it it's it's it's swimming around the water and when when he stops at the stand he can get off of that.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um you got to wait for your dad to come off of that one when he goes on the sand and he gets off.
+*INV:	&=nods:yes.
+*INV:	you're doing real good.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a police offer.
+*INV:	what more can you tell me?
+*CHI:	um he gets to ride his police car and they took bad people when they hurt you and they pray to God to make people feel better.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*INV:	hm.
+*CHI:	they they ride police car and they take bad people and they pray for God getting them better and then they're all better.
+*INV:	mm.
+*INV:	mkay [= okay].
+*CHI:	his nose is big [= Zorg's nose].
+*INV:	do you wanna sit in the chair?
+*INV:	yeah.
+*CHI:	green's my favorite color [= color of chair CHI is moving to].
+*CHI:	that's why I'm sitting here.
+@G:	Lion
+*INV:	(o)kay you let me know if you wanna go back on my lap.
+*INV:	but you can sit there too or you can sit there.
+*INV:	you can sit wherever you want.
+*CHI:	no I found the box next to the couch.
+*INV:	oh what is this?
+*CHI:	um a lion.
+*INV:	what more can you tell me?
+*CHI:	um it gots big paws and you, gotta stay away from lions.
+*CHI:	and sometimes they scratch you and eat you.
+*INV:	oh.
+*CHI:	that's why they're danger.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you gotta stay away from them and be safe.
+*CHI:	and you and they got big paws and they can scratch you or eat (th)em.
+*INV:	mm.
+*CHI:	he's shaking [= Zorg].
+*INV:	oh.
+*CHI:	why is he shaking?
+*INV:	I don't know.
+*CHI:	maybe he's scared.
+*INV:	oh.
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn.
+*INV:	what more can you tell me?
+*CHI:	it's all colored different colors.
+*CHI:	and it's gots weeds on it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it's it has different colors on it and some weeds on it.
+*CHI:	that's two questions.
+@G:	Pie
+*INV:	what is this?
+*CHI:	a cookie.
+*INV:	what more can you tell me?
+*CHI:	um you can eat it and you can have syrup on it.
+*CHI:	and different kinds and you can eat it all if you want and you can um pretend that you're eating one.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um do you think he's gonna pretend to eat this cookie?
+*INV:	I don't know.
+*INV:	what do you think?
+*CHI:	maybe he is.
+*CHI:	maybe he smells.
+*CHI:	maybe he's pretend smelling it.
+*CHI:	but there's no, bake in here.
+*CHI:	you can't bake it in here.
+*INV:	mm.
+*CHI:	he doesn't know how to bake maybe he doesn't know how to bake anything.
+*INV:	mm.
+*CHI:	do you think he doesn't know how to bake anything.
+*INV:	I'm not sure.
+*CHI:	can you tell him?
+*INV:	why don't you?
+*CHI:	do you know how to bake cookies?
+*INV:	I don't know if he does.
+*INV:	what do you think?
+*CHI:	yeah may why is he shaking again?
+*CHI:	why was he shaking again?
+@G:	Rabbit
+*INV:	I don't know.
+*INV:	                               ⌈what is this⌉?
+@G:	Pie
+*CHI:	may maybe he was afraid of the ⌊burning⌋.
+*INV:	oh.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	a rabbit.
+*INV:	what more can you tell me?
+*CHI:	it can hop like this and like this &=hops:around_room.
+*CHI:	(be)cause it gots long ears and big feet on the back and little feet on here.
+*CHI:	and it can eat carrots or flowers and it's all furry.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and he he and this rabbit is all furry and it eats um flowers or carrots and it can hop.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	everybody gots to bow down to kings and Jesus and G and God.
+*CHI:	and so they and only girls so they can become a queen or a princess.
+*CHI:	and boys can become a king or a prince.
+*INV:	zorg doesn't know much about this one.
+*INV:	what more can you tell him?
+*CHI:	um um this everybody gots to bow down to a king and Jesus and God.
+*CHI:	and and and you and you can come a king or a princess or and queen or a prince.
+*INV:	mm.
+*CHI:	you think he wants to be a prince?
+*CHI:	I don't know.
+*CHI:	there's no crowns here.
+*INV:	mm.
+*CHI:	maybe he doesn't.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	a pretzel.
+*INV:	what more can you tell me?
+*CHI:	um well you guys I you can eat it (be)cause it's all yummy.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you can eat it (be)cause it's so yummy.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a farmer.
+*INV:	what more can you tell me?
+*CHI:	      ⌈it &=sneezes⌉.
+*INV:	bless ⌊you⌋.
+*CHI:	it can it can it can have food.
+*CHI:	and and it can and they [?] can get some for um for their um animals.
+*INV:	mm.
+*CHI:	and they can get hay for their horsies.
+*CHI:	and they can ride horsies.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=nods:yes.
+*CHI:	that's um a farmer and it has um some food.
+*CHI:	and they get to feed their animals and feed their horsies with hay.
+*CHI:	and they can ride horsies.
+*INV:	mm.
+*CHI:	what kind of Zorg is a animal.
+*INV:	I don't know.
+*INV:	what do you think?
+*CHI:	I don't know.
+*INV:	hm.
+*CHI:	he's like a warthog.
+@G:	Frog
+*INV:	&=gasps what is this?
+*CHI:	a froggie.
+*CHI:	my friend Firstname loves froggies.
+*INV:	mm.
+*CHI:	froggies are scared of us and they can eat some bugs with their long tongue.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	um it can hop like this &=hops:around_room.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	frogs are scared of you and they can [?] eat bugs with their long
+	tongues and they can hop like this &=hops:around_room.
+@G:	Milk
+*INV:	&=gasps what is this?
+*CHI:	a glass of milk.
+*INV:	what more can you tell me?
+*CHI:	I'm a little thirsty.
+*INV:	oh.
+*CHI:	I get thirsty.
+*CHI:	I'm getting hot too.
+*INV:	okay we'll get you something to drink once we're all done.
+*CHI:	this is a glass of milk.
+*CHI:	and you can drink some milk.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this is a glass of milk and you can drink some milk.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	a wrestler.
+*INV:	what more can you tell me?
+*CHI:	it can pick up this &=points:to_barbell and it can show everybody
+	their muscles.
+*CHI:	and it can exercise.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it can pick up this and it can show everybody it's muscles.
+*CHI:	and it can exercise.
+@G:	Snake
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	what more can you tell me?
+*CHI:	um it's all slimy and and it has a fat [?].
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's all slimy and it's <slides into> [?] to the ground and it has a xxx.
+*INV:	mm.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	um strawberries are very good for you because they're a fruit.
+*CHI:	and they're very yummy.
+*INV:	mm what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um this is a strawberry.
+*CHI:	and it's a fruit.
+*CHI:	and it's very good for you.
+*CHI:	and it's red.
+*INV:	mm [= no pictures visible].
+*INV:	&=gasps all done.
+*INV:	do you wanna look again?
+*CHI:	&=shakes:head_no.
+*CHI:	I'm thirsty about this.
+@End

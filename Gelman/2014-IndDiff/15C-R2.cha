@@ -1,0 +1,297 @@
+@UTF8
+@PID:	11312/a-00032055-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;03.23|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Race Car Driver
+@Types:	cross, narrative, TD
+*INV:	&=gasps what is ⌈this⌉?
+*CHI:	it's, it's a racing ⌊car⌋.
+*INV:	what else can you tell me?
+*CHI:	it's a racing car [= whispering].
+*INV:	mm-hm [= yes].
+*CHI:	that go fast too.
+*INV:	mm.
+*CHI:	he win.
+*INV:	mm.
+*CHI:	he wins.
+*CHI:	can I turn page?
+*INV:	mm-hm [= yes], very good.
+@G:	Butterfly
+*CHI:	butterfly.
+*INV:	what more can you tell me?
+*CHI:	it's a butterfly [= whispers].
+*CHI:	I like butterflies.
+*INV:	mm.
+*CHI:	<um can I> [?] turn page?
+*INV:	okay.
+@G:	Cat
+*INV:	what is this?
+*CHI:	it's a kitty cat.
+*INV:	what more can you tell me?
+*INV:	do you want the chair?
+*CHI:	yeah.
+*INV:	&=helps:CHI_sit_on_chair.
+*INV:	what more can you tell me?
+*CHI:	what's the color of this kitty, kitty cat?
+*INV:	I don't know, what do you think?
+*INV:	it's ok you can tell me whatever you'd like to.
+*CHI:	what's the color?
+*INV:	I'm not real sure what do you think?
+*CHI:	I like green.
+*INV:	hm.
+*CHI:	I like purple too.
+*INV:	mm.
+*CHI:	what that buzzing sound?
+*INV:	it's the air.
+*CHI:	oh.
+*CHI:	can I turn the page?
+*INV:	well what more can you tell me?
+*CHI:	that black on it.
+*INV:	mm.
+*CHI:	the black's on top, the xxx head [?].
+*INV:	mm.
+*INV:	you are doing so good.
+*CHI:	thank you.
+*INV:	mm-hm [= yes].
+*INV:	you wanna turn the page?
+*CHI:	yeah.
+*INV:	yeah.
+@G:	Ice Cream
+*CHI:	a ice cream.
+*INV:	oops I think we're missing one.
+*CHI:	okay.
+@G:	Judge
+*INV:	what is this?
+*CHI:	xxx office.
+*INV:	mm what else can you tell me?
+*CHI:	what's that color?
+*INV:	hm, you know, I'm not real sure, what do you think?
+*CHI:	hm, can't remember all the colors.
+*INV:	hm.
+*INV:	you are doing so so good with me.
+*CHI:	<thank you> [?].
+*INV:	what else can you tell me?
+*CHI:	can we turn the page?
+*INV:	okay.
+@G:	Skunk
+*CHI:	skunk.
+*CHI:	pew &=waves:hand_in_front_of_nose!
+*INV:	&=laughs.
+*CHI:	&=laughs.
+*INV:	what more can you tell me?
+*CHI:	it's got black on it.
+*INV:	mm.
+*CHI:	got black feet too and xxx.
+*INV:	mm.
+*CHI:	&=points:to_wall what's that?
+*INV:	I don't know.
+*INV:	what do you think?
+*CHI:	what's the what's the what's what's the name
+	[= talking about plate on wall]?
+*INV:	I I I have no idea.
+*CHI:	what's the cover for?
+*INV:	I don't really know.
+*INV:	it could be like those, where they're covered.
+@G:	Ice Cream
+*INV:	&=gasps.
+*CHI:	ice cream.
+*INV:	what more can you tell me?
+*CHI:	that purple uh pink.
+*INV:	mm.
+*CHI:	I like pink ice cream.
+*INV:	mm.
+*CHI:	I like white and chocolate.
+*CHI:	in it.
+*CHI:	with napkins.
+*INV:	mm.
+*CHI:	xxx.
+*INV:	hm?
+*CHI:	down bottom.
+*CHI:	what's that?
+*INV:	&=picks:something_off_page_and_drops_it_on_ground.
+*CHI:	what's that?
+*INV:	you can turn the page when you're ready to.
+*CHI:	okay.
+@G:	Muffin
+*INV:	&=gasps what is this?
+*CHI:	um, it's a cake [= whispering].
+*INV:	mm, very good what more can you tell me?
+*CHI:	it's got raisins in it.
+*CHI:	I don't like raisins.
+*INV:	hm.
+*CHI:	I like frosting on (th)em.
+*INV:	ah.
+*CHI:	and sparklies.
+*INV:	mm.
+*CHI:	I like sparklies too.
+*INV:	mm.
+*CHI:	we're almost xxx down there down bottom.
+*INV:	mm.
+*CHI:	can I turn page?
+*INV:	mm-hm [= yes].
+*CHI:	okay.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	oh it's a ballerina.
+*INV:	what more can you tell me?
+*CHI:	it got purple right there.
+*CHI:	got black right there.
+*INV:	uh-huh [= yes].
+*CHI:	can I turn page?
+*INV:	mm-hm [= yes].
+*CHI:	okay.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	uh, stuff.
+*INV:	mm.
+*CHI:	got black.
+*INV:	uh-huh [= yes].
+*CHI:	and white on it.
+*CHI:	xxx.
+*INV:	mm?
+*CHI:	on its tail.
+*INV:	oh.
+*CHI:	tail.
+*INV:	mm-hm [= yes].
+*CHI:	that what's that?
+*INV:	I'm not sure, what do you think?
+*CHI:	maybe it's a quarter.
+*INV:	ah.
+*CHI:	can I turn page?
+*INV:	mm-hm [= yes].
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	orange.
+*INV:	what more can you tell me?
+*CHI:	it's orange, orange.
+*INV:	mm-hm [= yes].
+*CHI:	orange.
+*INV:	mm-hm [= yes].
+*CHI:	<what's that> [?] right there &=points:to_picture?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	I like, I like, blue.
+*INV:	mm.
+*CHI:	&=points:to_wall I like that color right there.
+*INV:	mm.
+@G:	Parrot
+*INV:	&=gasps what is this?
+*CHI:	it's a parrot.
+*INV:	what more can you tell me?
+*CHI:	that blue on it.
+*CHI:	that's green.
+*INV:	mm-hm [= yes].
+*CHI:	<what's that> [?] [= whispers]?
+*CHI:	that's green, that's green that's yellow.
+*INV:	mm.
+*CHI:	turn page?
+*INV:	mm-hm [= yes].
+@G:	Pineapple
+*INV:	oops &=stops:CHI:from:turning:two:pages.
+*INV:	&=gasps what's this?
+*CHI:	<what's in it> [?] ?
+*INV:	mm I'm not sure what do you think?
+*CHI:	<what's in it> [?] ?
+*INV:	I'm not sure.
+*CHI:	what's <in it> [?] ?
+*INV:	I don't know can you tell me?
+*CHI:	yes got raisins.
+*INV:	mm.
+*INV:	you're doing really good.
+*INV:	thank you very much.
+*CHI:	welcome.
+*CHI:	can I turn the page?
+*INV:	well is there anything else you can tell me?
+*CHI:	uh xxx purple.
+*INV:	hm.
+*CHI:	xxx can I turn page?
+*INV:	mm-hm [= yes].
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	it's a grandma.
+*INV:	&=gasps what more can you tell me?
+*CHI:	it the [?] blue pants.
+*CHI:	what's that colors hair?
+*INV:	I'm not sure what do you think?
+*CHI:	uh, black.
+*INV:	mm.
+*CHI:	what's that color?
+*INV:	I'm not sure what do you think?
+*CHI:	uh, not black.
+*INV:	mm.
+*CHI:	that's, that's black over there.
+*INV:	mm.
+*CHI:	xxx this color.
+*INV:	mm.
+*CHI:	I can't remember all the colors.
+*INV:	mm.
+*CHI:	can't remember that color and that color.
+*INV:	mm you can tell me anything you want.
+*INV:	are you ready to turn the page?
+*CHI:	yeah.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	it's a fireman.
+*INV:	&=gasps what more can you tell me?
+*CHI:	it's a what's this color?
+*INV:	I don't know, what do you think?
+*INV:	firstname you're doing so good with me.
+*CHI:	thank you.
+*INV:	mm-hm [= yes].
+*INV:	so what more can you tell me?
+*CHI:	that's fire.
+*INV:	mm.
+*CHI:	that's water.
+*INV:	mm-hm [= yes].
+*CHI:	&=makes:water_noise.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	I can't remember all the colors.
+*INV:	mm that's ok.
+*CHI:	can I turn page?
+*INV:	⌈okay⌉.
+@G:	Cracker
+*CHI:	⌊cracker⌋!
+*INV:	hm?
+*CHI:	it's a cracker.
+*INV:	oh.
+*INV:	what more can you tell me?
+*CHI:	um well it's it's got white.
+*INV:	mm.
+*CHI:	this is this is red &=points:to_table this is blue &=points:to_chair.
+*INV:	mm.
+*CHI:	that's blue too &=points:to_RA's_chair.
+*INV:	mm-hm [= yes].
+*CHI:	that's green &=points:to_other_chair.
+*INV:	mm-hm [= yes].
+*CHI:	I like green too &=laughs.
+*INV:	&=laughs.
+*CHI:	green.
+*INV:	&=laughs what else can you tell me?
+*CHI:	it's got [?] white.
+*INV:	mm.
+*CHI:	it's a triangle.
+*INV:	mm-hm [= yes].
+*CHI:	got little holes in it.
+*INV:	mm-hm [= yes].
+*CHI:	you eat it too.
+*INV:	mm.
+*CHI:	&=looking:at_Zorg got little big bugging eyes.
+*INV:	&=laughs.
+*INV:	anything else you wanna tell me?
+*CHI:	I'm gonna turn the page now.
+*INV:	okay.
+*CHI:	&=turns:to_last_page.
+@G:	no pictures visible
+*CHI:	gone!
+*INV:	gone.
+*CHI:	okay.
+*INV:	do you wanna look again?
+*CHI:	no.
+*INV:	alright well thank you very much.
+*INV:	do you wanna put Zorg back to bed?
+@End

@@ -1,0 +1,273 @@
+@UTF8
+@PID:	11312/a-00032097-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.12|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Old Woman
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	um a lady.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*INV:	you can tell me whatever you think of.
+*CHI:	okay that's all I think of.
+@G:	Ice Cream
+*CHI:	an ice cream cone.
+*CHI:	filled with strawberry ice cream.
+*INV:	mm- hm [= yes] what more can you tell me?
+*CHI:	you can eat the cone.
+*INV:	mm-hm [= yes].
+*CHI:	and you can eat off the ice cream &=laughs.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this is ice cream [= speaking to Zorg].
+@G:	Skunk
+*CHI:	a skunk.
+*CHI:	not me.
+*CHI:	not doing this picture.
+*CHI:	not me.
+*CHI:	skunks spray &=laughs.
+*INV:	what more can you tell me?
+*CHI:	skunks I hate because they spray spray spray.
+*INV:	mm-hm [= yes].
+*CHI:	I'm turned away from this picture and never smell that spray
+	&=laughs.
+*INV:	what more can what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	that's all I think of.
+*CHI:	okay.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a muffin.
+*INV:	what more can you tell me?
+*CHI:	with chips on it.
+*INV:	mm-hm [= yes].
+*CHI:	that's all &=starts:turn_page.
+*INV:	hold on let's slow down a little bit.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is a muffin.
+@G:	Ballerina
+*CHI:	this is a ballet dancer.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*CHI:	zorg this is a ballet dancer.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	I don't know.
+@G:	Dolphin
+*CHI:	a dolphin.
+*INV:	what more can you tell me?
+*CHI:	know what my brother does to say ducky?
+*CHI:	&=makes:noises.
+*CHI:	that's what he says ⌈to make ducky because duckies sound like⌉, the
+	air ⌈going out of them⌉.
+*INV:	                    ⌊mm⌋.
+*INV:	    ⌊mm-hm [= yes]⌋.
+*CHI:	that's why he &=starts:turn_page.
+*INV:	firstname I'm going to turn the page okay?
+*CHI:	okay you turn the page.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*INV:	you can tell me whatever you think of.
+*CHI:	well I think of nothing else.
+*INV:	firstname?
+*CHI:	what and what?
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much ⌈about this one⌉?
+*CHI:	zorg this is a       ⌊dolphin⌋.
+*INV:	what else can you tell him?
+*CHI:	he jumps &=motions:with_hand.
+*CHI:	back into the water.
+@G:	Cracker
+*CHI:	a saltine.
+*INV:	what more can you tell me?
+*CHI:	they're crackers go crunch crunch crunch scrunch.
+*INV:	mm-hm [= yes].
+*CHI:	zorg this is a cracker it goes crunch crunch crunch.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much ⌈about this one⌉?
+*CHI:	it makes lots of     ⌊crumbs⌋.
+*CHI:	and they're all on the floor.
+*CHI:	doesn't it look like there are um saltine crumbs all over this floor?
+*CHI:	doesn't it look like on the carpet see ⌈the light bits of carpet⌉?
+*INV:	                                       ⌊mm⌋.
+*CHI:	doesn't it look like saltine crumbs?
+*INV:	mm.
+*CHI:	and they have holes in (th)em.
+*INV:	mm.
+*CHI:	and they go crack crumble bash.
+*INV:	mm.
+*CHI:	crack crumble bash.
+@G:	Judge
+*CHI:	I don't know what this one is.
+*INV:	can you take a guess?
+*CHI:	I guess its, a principal.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	um, if someone did something wrong they they go to the principal's office.
+*INV:	mm-hm [= yes].
+*CHI:	I don't know anything else.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about ⌈this one⌉?
+*CHI:	zorg this is a principal if anybody does something wrong the
+	principal they can go to the [?] principal's ⌊office⌋.
+*CHI:	and did you see on the bottom of my sandals I have butterflies.
+*INV:	mm.
+*INV:	what else can you tell Zorg?
+*CHI:	and did you notice this know [?] this?
+*CHI:	know how this happened?
+*CHI:	I scraped my knee.
+*INV:	mm.
+*CHI:	right here.
+*INV:	mm-hm [= yes].
+*CHI:	you can see by this scab.
+*CHI:	it's starting to scab.
+*INV:	what else can you tell Zorg?
+*CHI:	zorg this is a principal.
+*INV:	you already told him.
+*CHI:	I already told him.
+*INV:	hm.
+@G:	Butterfly
+*CHI:	this is a butterfly.
+*INV:	what more can you tell me?
+*CHI:	how come they have sticky wings?
+*INV:	hm I'm not sure.
+*CHI:	stick.
+*CHI:	and why do they have colors on them?
+*CHI:	to blend in or something?
+*INV:	hm.
+*CHI:	like if a butterfly was black it would blend in with your shirt.
+*INV:	oh.
+*CHI:	and you'd never even see it there.
+*INV:	oh.
+*CHI:	it'd be flying around this room.
+*CHI:	go fly fly fly ⌈fly fly fly⌉.
+*INV:	               ⌊mm-hm [= yes]⌋.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much.
+*CHI:	zorg this is a butterfly.
+*INV:	what more can you tell Zorg?
+*CHI:	zorg this is a butterfly.
+*INV:	you already said.
+*CHI:	&=laughs.
+@G:	Cat
+*INV:	what is this?
+*CHI:	this is a cat.
+*INV:	what more can you tell me?
+*CHI:	cats have sharp claws and are family to a lion.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*CHI:	zorg this is a cat.
+*CHI:	it has sharp claws.
+*CHI:	what is Zorg anyway?
+*INV:	an alien.
+*CHI:	an alien?
+*INV:	mm-hm [= yes].
+*CHI:	try a better guess next time like an elephant.
+*INV:	&=laughs:with_child.
+@G:	Pumpkin
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	we um we xxx we um made pumpkin faces last Halloween.
+*INV:	mm.
+*CHI:	and mine was the scariest spookiest face.
+*CHI:	it was like this &=makes:face.
+*INV:	ah.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this?
+*CHI:	you [?] know the goopiest and most ickiest thing to do with a pumpkin?
+*INV:	hm?
+*CHI:	scooping out the seeds.
+*INV:	mm.
+*CHI:	I did not do that.
+*INV:	mm.
+*CHI:	it was not me.
+*CHI:	not me ⌈who was the one scoopin out the seeds⌉.
+*INV:	       ⌊mm-hm [= yes]⌋.
+*INV:	mm-hm [= yes].
+*CHI:	I like your necklace.
+*INV:	thank you.
+*CHI:	where'd you get it?
+*INV:	um, I'm not really sure.
+@G:	Pineapple
+*CHI:	a pineapple.
+*CHI:	my brother likes these.
+*CHI:	they're pineapples.
+*CHI:	he likes pineapples.
+*INV:	mm.
+*CHI:	he goes pineapple pineapple.
+*CHI:	and the thing he likes better than pineapple?
+*INV:	hm?
+*CHI:	guess.
+*INV:	I don't know.
+*CHI:	it's red and its made from tomatoes.
+*INV:	I don't know.
+*CHI:	ketchup.
+*INV:	oh.
+*CHI:	he likes ketchup better than anything else in the world.
+*INV:	mm-hm [= yes].
+*CHI:	he wants ketchup for breakfast lunch any meal that he has he wants ketchup.
+*INV:	hm.
+*INV:	well what more can you tell me?
+*CHI:	how come it has the spikes on it?
+*INV:	hm, I'm not sure.
+*CHI:	I don't know either.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much ⌈about this one⌉?
+*CHI:	zorg this is a pineapple ⌊spikes⌋.
+@G:	Firefighter
+*CHI:	a fireman.
+*INV:	what more can you tell me?
+*CHI:	I'm gonna be a fireman when I grow up.
+*INV:	mm-hm [= yes].
+*CHI:	can you guess how old you have to be?
+*INV:	⌈hm⌉?
+*CHI:	⌊guess⌋.
+*CHI:	guess how old you have to be.
+*INV:	hm?
+*CHI:	eighteen.
+*INV:	oh.
+*CHI:	how old are you?
+*INV:	older than that?
+*CHI:	how old?
+*INV:	I'll tell you after we're all done.
+*CHI:	okay.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	the fireman puts out fires.
+*INV:	mm.
+*CHI:	zorg this is a fireman.
+@G:	Race Car Driver
+*CHI:	&=gasps a racecar driver.
+*INV:	what more can you tell me?
+*CHI:	um he races fast.
+*CHI:	he can go up to twenty miles eighty five per hour, ⌈when he races⌉.
+*INV:	                                                   ⌊oh⌋.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much?
+*CHI:	zorg this is a racecar driver.
+@G:	Parrot
+*CHI:	&=gasps a parrot.
+*INV:	what more can you tell me?
+*CHI:	parrots are different colors, so he can blend into things.
+*INV:	mm-hm [= yes].
+*CHI:	like here they can blend into say, this blue here &=points:to_chair.
+*INV:	oh.
+*CHI:	if they had dark blue they could blend in here.
+*CHI:	say they had green they could blend in with, this green here on the chair.
+*CHI:	with the yellow they could blend in with, here &=points:to_wall.
+*INV:	mm-hm [= yes].
+*CHI:	and, I don't know.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much?
+*CHI:	zorg this is a parrot.
+*CHI:	it can blend in with things.
+*CHI:	that's the end.
+*INV:	all done do you want to look again?
+*CHI:	no thanks.
+*INV:	do you want to put Zorg back into his home?
+@End

@@ -1,0 +1,274 @@
+@UTF8
+@PID:	11312/a-00032262-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.10|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Pie
+@Types:	cross, narrative, TD
+*MOT:	what is that?
+*CHI:	a waffle.
+*MOT:	a waffle?
+*MOT:	it looks kinda like a waffle.
+*MOT:	look inside though.
+*MOT:	and what's around the outside
+	&=runs:finger_around_perimeter_of_object?
+*CHI:	I don't know what is.
+*MOT:	you don't know?
+*MOT:	I think it's looking down at the top of something.
+*MOT:	I think this is like a plate underneath.
+*MOT:	like a pie plate.
+*CHI:	a pie.
+*MOT:	what kind do you think it is?
+*MOT:	can you tell?
+*MOT:	or do you want to come back later?
+*MOT:	⌈do you have a guess⌉?
+*CHI:	⌊mm⌋.
+*CHI:	peach.
+*MOT:	it could be a peach.
+*CHI:	yeah.
+@G:	King
+*CHI:	a king.
+*MOT:	yeah.
+@G:	Snake
+*CHI:	a snake.
+*MOT:	yep.
+@G:	Police Officer
+*CHI:	a police.
+*MOT:	police officer, <yeah> [?].
+@G:	Owl
+*CHI:	a owl.
+*MOT:	an owl.
+@G:	Strawberry
+*CHI:	a strawberry.
+*MOT:	mm-hm [= filler].
+@G:	Farmer
+*CHI:	a farmer.
+*MOT:	mm-hm [= filler].
+*MOT:	after we go through them all should we go back and look at (th)em some more?
+@G:	Rabbit
+*CHI:	a rabbit.
+*MOT:	does that sound like a good idea?
+@G:	Corn
+*CHI:	corn.
+*MOT:	you listening [?]?
+*MOT:	okay.
+@G:	Milk
+*CHI:	a glass of milk.
+@G:	Frog
+*CHI:	a frog.
+*CHI:	I'm good at this aren't I?
+*MOT:	yep.
+@G:	Lion
+*CHI:	a lion.
+@G:	Pretzel
+*CHI:	a pretzel.
+*CHI:	&=laughs a pretzel.
+@G:	Surfer
+*CHI:	a guy.
+*MOT:	what's he doing?
+*CHI:	surfing.
+*MOT:	yep.
+@G:	Weightlifter
+*CHI:	a strong man.
+*MOT:	a strong man.
+*MOT:	should we look at all of (th)em again and talk about (th)em?
+*MOT:	(be)cause th-that's the whole thing.
+*MOT:	should we go back and look at it?
+*CHI:	no let's look at a different one.
+*MOT:	this is the only one they have for us to look at.
+*MOT:	okay?
+*CHI:	oh look a couch.
+*MOT:	na [= no], you know what?
+*CHI:	what?
+*MOT:	let's look at the book one more time.
+@G:	King
+*MOT:	let's see if we can ⌈see what's in the pictures⌉.
+*CHI:	                    ⌊king⌋.
+*MOT:	what do you notice about the king?
+*MOT:	what's he holding?
+*CHI:	&=pretends:smoke.
+*MOT:	what is it?
+*MOT:	do you know what that is?
+*CHI:	a smoke.
+*MOT:	yeah it's a pipe.
+*MOT:	do you know about a king that had a pipe?
+*CHI:	&=shakes:head_no.
+*MOT:	you don't?
+*MOT:	have you ever heard of old_king_cole?
+*CHI:	&=nods:yes.
+*MOT:	how does that go?
+*CHI:	old_king_cole.
+*MOT:	was a +...
+*CHI:	old king sole.
+*MOT:	merry old soul.
+*MOT:	and a merry old soul was he.
+*MOT:	he called for his +...
+*CHI:	pipe.
+*MOT:	and he called for his, bowl.
+*CHI:	bowl.
+*MOT:	and he called for his fiddlers three.
+*MOT:	you don't remember that one?
+*CHI:	uh uh [= no].
+*MOT:	see that might be old_king_cole maybe because he has a pipe.
+@G:	Snake
+*MOT:	what do you notice about the snake?
+*CHI:	it's slithering.
+*MOT:	it's slithering?
+*MOT:	do you think it's a nice snake or a mean snake?
+*CHI:	a mean snake.
+*MOT:	how can you tell?
+*CHI:	because &=points:picture.
+*MOT:	what about it tells you that?
+*CHI:	see that big [?] thing?
+*MOT:	yeah.
+*CHI:	what is that?
+*MOT:	what does it do?
+*CHI:	it has a white thing on it.
+*CHI:	what does that mean?
+*MOT:	that's the markings to say what kind of snake it is.
+*MOT:	I think that snake is called a cobra.
+*MOT:	and you're right that's a very mean snake.
+@G:	Police Officer
+*MOT:	is this a man police officer or a woman police officer?
+*CHI:	lips &=points:picture.
+*MOT:	lips?
+*MOT:	I think both men and women have lips.
+*CHI:	uh a woman.
+*MOT:	how can you tell?
+*CHI:	because she has pink lips.
+*MOT:	pink lips.
+@G:	Owl
+*CHI:	a owl.
+*CHI:	he has a blue beak.
+*MOT:	yeah he does have a blue beak.
+@G:	Strawberry
+*CHI:	strawberry.
+*CHI:	he has, it has a green stem.
+*MOT:	ooh you're turnin(g) the pages too fast.
+@G:	Farmer
+*CHI:	a farmer has a hat.
+*MOT:	mm-hm [= filler].
+*CHI:	to shade them.
+*MOT:	to shade them, yeah.
+*MOT:	what do you think is in her basket?
+*CHI:	food.
+*MOT:	what kind?
+*MOT:	what does it look like?
+*CHI:	pumpkin.
+*CHI:	apple.
+*CHI:	asparagus.
+*CHI:	lettuce.
+*CHI:	carrots.
+*CHI:	and that's all.
+*MOT:	and that's all okay.
+@G:	Rabbit
+*CHI:	rabbits eat carrots.
+*MOT:	they do.
+*CHI:	&=nods:yes.
+*MOT:	are you a rabbit?
+*CHI:	no.
+*MOT:	do you eat carrots?
+*CHI:	yeah.
+*MOT:	yeah?
+*MOT:	then how come you're not a rabbit?
+*CHI:	uh, every people eats.
+*MOT:	even people do?
+*CHI:	uh huh [= yes].
+*CHI:	we have carrots at home.
+*MOT:	mm-hm [= filler].
+@G:	Corn
+*CHI:	corn.
+*CHI:	why are those black things on those corn?
+*MOT:	this is a special kind of corn.
+*CHI:	                      ⌈what kind⌉ [?]?
+*MOT:	do you know what it's ⌊called⌋?
+*CHI:	&=shakes:head_no.
+*MOT:	it's called indian corn.
+*MOT:	and indian corn has lots of different colors in it.
+*MOT:	we might see some this fall because you can find it in the fall.
+*CHI:	and we might, use it as a ⌈decoration⌉.
+*MOT:	as a decoration that's    ⌊right⌋.
+@G:	Milk
+*CHI:	a glass of milk.
+*MOT:	how can you tell it's milk?
+*CHI:	because all that white stuff.
+@G:	Frog
+*CHI:	that's a frog.
+*MOT:	that is a frog.
+*CHI:	it hops hops hop hop hop hop hop.
+*CHI:	we'll need to set this [= tissue] on the table.
+*MOT:	why?
+*CHI:	because if we sneeze we'll need it.
+*MOT:	if you sneeze, okay that's enough.
+*MOT:	I don't need one thank you.
+*MOT:	what do you think happens with the frog's cheeks?
+*MOT:	that's a big circle.
+*MOT:	what happens to the frog?
+*CHI:	&=puffs:out_cheeks.
+*MOT:	can you tell me with words?
+*CHI:	the &=puffs:out_cheeks that goes like
+	&=puffs:out_cheeks.
+*MOT:	his cheeks puff out.
+*MOT:	have you ever seen that before?
+*CHI:	&=shakes:head_no.
+*MOT:	no?
+*MOT:	I think I have on tv or in a book.
+@G:	Lion
+*CHI:	roar.
+*MOT:	do you think it's a boy or a girl lion?
+*CHI:	a boy.
+*MOT:	how can you tell?
+*CHI:	because look hair.
+*MOT:	the girls don't have hair like that do they?
+*CHI:	                ⌈no⌉.
+*MOT:	they don't have ⌊manes⌋.
+@G:	Pretzel
+*MOT:	what's on the outside of the pretzel?
+*MOT:	what's all that white stuff?
+*CHI:	seeds.
+*MOT:	it looks like sesame seeds but it's not.
+*CHI:	&=pretends:eat_picture.
+*MOT:	do you know what's on the outside of a pretzel?
+*CHI:	what?
+*MOT:	salt.
+*MOT:	does that look very salty?
+*CHI:	mm-hm [= yes].
+*MOT:	does that look so-like something you would want to eat?
+*CHI:	mm-hm [= yes].
+*CHI:	I was starting to eat it.
+@G:	Surfer
+*CHI:	a man is surfing, and uh +...
+@G:	Weightlifter
+*CHI:	strong man.
+*MOT:	how much do you think this weighs?
+*CHI:	forty pounds.
+*MOT:	forty pounds?
+*MOT:	what else is forty pounds?
+*CHI:	&=points:to_self.
+*MOT:	you.
+*MOT:	so do you think he could lift you up?
+*CHI:	&=nods:yes.
+*MOT:	how can you tell he's a strong man?
+*CHI:	(be)cause look bumps-bump.
+*MOT:	what are the bumps called?
+*CHI:	muscles.
+*MOT:	muscles.
+*MOT:	do you have muscles like that?
+*CHI:	no.
+*MOT:	how do you get muscles like that?
+*CHI:	exercise.
+*MOT:	exercise?
+*CHI:	you go like &=jumps.
+*MOT:	like that?
+*MOT:	are we all done with the book?
+*MOT:	are you ready to go talk to the people by yourself?
+*CHI:	what?
+*MOT:	are you ready to go talk to the other people by yourself and look at another picture book?
+*MOT:	(be)cause if you're ready then you need to knock on the mirror.
+*MOT:	do you want to look at this again or do you want to knock on the mirror?
+*CHI:	knock on the mirror.
+*MOT:	okay you go knock on the mirror.
+@End

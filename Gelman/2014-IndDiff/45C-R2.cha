@@ -1,0 +1,275 @@
+@UTF8
+@PID:	11312/a-00032235-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.23|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Orange
+@Types:	cross, narrative, TD
+*INV:	what ⌈is this⌉?
+*CHI:	a    ⌊orange⌋.
+*CHI:	you know what?
+*CHI:	oranges make oran- have orange pop in them.
+*INV:	mm, what else can you tell me?
+*CHI:	they have orange juice in it I bet too.
+*INV:	mm.
+*CHI:	hm.
+@G:	Teacher
+*CHI:	&=looks:next_picture don't tell me what's under there.
+*CHI:	I know.
+*INV:	okay.
+*CHI:	the teacher.
+*INV:	oh.
+*CHI:	teaching fifth grade.
+@G:	Orange
+*CHI:	and, uh, it's orange.
+*CHI:	that's why it's called an orange.
+*CHI:	now [?] &=turns:page.
+@G:	Teacher
+*CHI:	see?
+*INV:	mm.
+*CHI:	I told you.
+*INV:	what more can you tell me?
+*CHI:	um, she teaches people how to do stuff and, and how to write.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	people give her apples.
+*INV:	mm.
+*CHI:	and and she draws what, what the what the, first graders need to learn about.
+*INV:	mm.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	base- football player.
+*INV:	what more can you tell me?
+*CHI:	he has a number on his shirt.
+*INV:	mm.
+*CHI:	and it's, thirteen.
+*INV:	mm, what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it eats so he can play [= muffled becaue Zorg in face].
+*INV:	I can't understand.
+*CHI:	eat so he can play that.
+*CHI:	my hand's getting hot.
+*INV:	oh, do you wanna take zorg off?
+*CHI:	yeah.
+*INV:	okay.
+@G:	Penguin
+*CHI:	what kinda noise does this make?
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	whoa look at its big claws.
+*INV:	mm.
+*CHI:	those are like the kind of claws all owls have.
+*INV:	mm, what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's tall.
+*INV:	mm.
+*CHI:	like when I stand like this &=stands:up &=walks:away.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	a lobster.
+*INV:	what more can you tell me?
+*CHI:	it has these things &=points:picture like crabs.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it look +...
+@G:	Pilot
+*CHI:	&=looks:next_picture hm, don't tell me what's under there.
+*INV:	mm.
+*CHI:	it's a police driver.
+*INV:	mm.
+*CHI:	&=turns:page and the car.
+*CHI:	look he's lookin(g) for something I bet.
+*INV:	hm, what more can you tell me?
+*CHI:	the little [?] green, what are those green things?
+*CHI:	to measure (th)em?
+*INV:	mm.
+*CHI:	since he was this small.
+*INV:	mm.
+*CHI:	xxx this small.
+*CHI:	and now he grew up to here.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has police clothes on it.
+*CHI:	xxx is all scrunched up.
+@G:	Horse
+*CHI:	neigh.
+*INV:	what is this?
+*CHI:	a goat.
+*INV:	mm.
+*CHI:	&=laughs I'm just jokin(g).
+*INV:	ah.
+*CHI:	it's a, a little pony, running.
+*CHI:	&=hops like that.
+*INV:	mm.
+*CHI:	I can jump really far.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	he has a he has his big nose.
+*INV:	mm.
+*CHI:	almost as big as my mouth and my nose.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I smelled him and he stinks.
+*INV:	mm.
+@G:	Alligator
+*CHI:	&=looks:next_picture there's a crocodile under there.
+*INV:	mm.
+*CHI:	or it can be a alligator.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	it has very very very very very sharp teeth.
+*INV:	mm.
+*CHI:	watch &=turns:pages.
+*CHI:	and yet and they're [?] really tiny.
+*INV:	mm.
+@G:	Broccoli
+*CHI:	broccoli &=tries:lean_arm &=slips.
+*INV:	ooh, you okay?
+*CHI:	broccoli can't be in books.
+*INV:	you alright?
+*CHI:	yeah.
+*INV:	what more can you tell me?
+*CHI:	um, it has the thing like a tree.
+*INV:	mm-hm [= filler].
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	hm.
+*CHI:	it's planted like a tree.
+*CHI:	and it has those things like a tree.
+*CHI:	and it has green leaves.
+*INV:	mm.
+@G:	Cake
+*INV:	what is this?
+*CHI:	chocolate ice cream.
+*CHI:	chocolate cake!
+*INV:	mm, what more can you tell me?
+*CHI:	it has chocolate in the middle, with a line.
+*CHI:	there's a chocolate line in the middle of in the middle of here.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+@G:	Clown
+@G:	Cake
+*CHI:	you'll, you'll love this one.
+*CHI:	love, you'll love this one.
+*CHI:	you'll love, the this this, the other page.
+*CHI:	um has chocolate frosting.
+*INV:	mm.
+*CHI:	that's what makes it chocolate.
+*INV:	mm-hm [= filler].
+@G:	Clown
+*CHI:	isn't this a silly face?
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	mm, what more can you tell me?
+@G:	Popcorn
+*CHI:	you'll love, you'll like this one.
+*CHI:	(be)cause I know, you'll like (th)em &=turns:page.
+@G:	Clown
+*INV:	oh what more could, what more can you tell me?
+*CHI:	it's making a silly face.
+*INV:	oh.
+*CHI:	like that &=makes:face.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	the clown, has clown clothes on.
+*INV:	mm.
+@G:	Popcorn
+*CHI:	now I think one, the one under under the xxx.
+@G:	Cereal
+*CHI:	is that what's in your brain?
+*CHI:	or the chips?
+*INV:	mm, I think we missed a page.
+@G:	Popcorn
+*INV:	&=turns:page_back well, yeah.
+*INV:	what is this?
+*CHI:	a big fat hamburger.
+*CHI:	hm.
+*INV:	firstname what more can you tell me?
+*CHI:	um, it's a, salad.
+*INV:	hm.
+*CHI:	(be)cause it looks like it.
+*CHI:	all the, dre, all the white dressing.
+*CHI:	and all the, lettuce.
+*INV:	anything else you can tell me?
+*CHI:	I don't know.
+*CHI:	it has red stuff on, in it.
+*INV:	mm.
+@G:	Truck
+*CHI:	now let's see.
+*CHI:	oh it's the jeep again.
+@G:	Elephant
+*CHI:	now let's see.
+*CHI:	um, xxx.
+*CHI:	wanna see (th)em?
+*INV:	mm.
+*CHI:	should we see what's under the elephant?
+@G:	Witch
+*CHI:	it's the witch's ghost.
+*INV:	mm.
+*CHI:	no it's not the witch's ghost.
+*CHI:	(be)cause the witch's ghost is isn't green like this.
+*CHI:	and it doesn't have black clothes or fingerna- black fingernails
+	like this.
+*INV:	I think we missed a few pages &=turns:pages_back.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	chips.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	I think we missed a page under this witch.
+*INV:	mm-mm [= no].
+*INV:	can I see the book for a second?
+*CHI:	yeah.
+*INV:	okay.
+*CHI:	&=leans:under_table.
+*INV:	&=laughs where'd you go?
+*INV:	so what is this?
+*CHI:	chips.
+*INV:	what more can you tell me?
+*CHI:	you can eat them.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he doesn't eat.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	um, it's in a bowl.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	elephant.
+*INV:	         ⌈what⌉ +...
+*CHI:	it has a ⌊trunk⌋.
+*CHI:	and big old ears.
+*CHI:	almost as big as me.
+*INV:	what else can you tell me?
+*CHI:	it has claws right here &=makes:motion_like_tusks.
+*CHI:	and they go down to here.
+@G:	Witch
+*INV:	and.
+*CHI:	it's the witch's ghost.
+*INV:	mm.
+*CHI:	it's the witch.
+*CHI:	but it's not the witch's ghost.
+*INV:	mm, what more can you tell me?
+*CHI:	&=whispers it's the witch's ghost.
+*CHI:	um, it does spooky stuff.
+*INV:	mm.
+*CHI:	and I like spooky stuff.
+*INV:	anything else you wanna say?
+*INV:	last page.
+*CHI:	are you sure?
+*INV:	mm-hm [= yes].
+*CHI:	alright, she flies on a broomstick.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	alrighty.
+*INV:	let's put zorg back into his box.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a whole lot of fun.
+@End

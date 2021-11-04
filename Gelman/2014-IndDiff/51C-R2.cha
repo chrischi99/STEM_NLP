@@ -1,0 +1,164 @@
+@UTF8
+@PID:	11312/a-00032271-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.01|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Doctor
+@Types:	cross, narrative, TD
+*CHI:	a doctor.
+*INV:	what more can you tell me?
+*CHI:	um a doctor, when you're not feeling good they put you in a bed.
+*CHI:	and then um they make you feel better.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has a telescope so it can make people better.
+@G:	Painter
+*CHI:	a painter.
+*INV:	what more can you tell me?
+*CHI:	um it's painting a tree and the sky.
+*CHI:	and and the tree is on the rocks.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it it has the picture so it know so she knows what she's going to paint.
+@G:	Pig
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	um it has eyes.
+*CHI:	and it's pink.
+*CHI:	and it goes oink oink.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has a curly tail.
+*CHI:	and it has a um some ears.
+@G:	Turtle
+*CHI:	a turtle.
+*INV:	what more can you tell me?
+*CHI:	um, and then when me and Mommy were looking in the book our book we saw a witch.
+*INV:	mm.
+*CHI:	um he has sharp claws.
+*CHI:	and it has a hard shell.
+*CHI:	and it has little [?] eyes.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has a colorful shell.
+*INV:	mm.
+@G:	Baseball Player
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	um it has a bat and then it swings it and hits the ball.
+*CHI:	then he runs for first base.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it it wears hats and some boots-shoes.
+@G:	Carrot
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	um it is skinny.
+*CHI:	and then it um has little green things there.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has a pointed, thing right there.
+*CHI:	the carrot.
+@G:	Cookie
+*CHI:	a cookie.
+*INV:	what more can you tell me?
+*CHI:	um when you bake (th)em some cookies break.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's a chocolate chip cookie.
+*CHI:	and it has chocolate chips in there.
+@G:	Duck
+*INV:	a duck.
+*CHI:	what more can you tell me?
+*CHI:	it it goes quack quack.
+*CHI:	and it swims and walks and flies.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	this is a boy duck.
+*INV:	mm.
+@G:	Bread
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	bread has this spot then it's yummy to eat.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has um it it it has xxx then you cut these things.
+*CHI:	and then you eat it.
+@G:	Banana
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	um bananas um are soft.
+*CHI:	and eat (th)em after you peel (th)em.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it is um it's soft on this one skinny on this one.
+*INV:	mm.
+@G:	Ladybug
+*CHI:	a ladybug.
+*INV:	what more can you tell me?
+*CHI:	um it has spots.
+*CHI:	black spots and red wings.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has white spots and a black spot.
+*INV:	mm.
+@G:	Pirate
+*CHI:	a pirate.
+*INV:	what more can you tell me?
+*CHI:	pirates have um telescopes and then they find treasure.
+*CHI:	and steal the treasure.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um um it has treasures inside.
+*INV:	mm.
+*CHI:	um um Mommy told me um the bad guy in Peter Pan is Captain Hook.
+*INV:	mm.
+*CHI:	and and my green pirate with a green um <shirt> [?] it has a hook
+	and he's kinda look like Captain Hook.
+*CHI:	but he's not Captain Hook.
+*INV:	mm.
+*INV:	oh &=turns:page_back
+	[= skipped page but CHI sees picture on page first].
+@G:	Baby
+*CHI:	a baby.
+@G:	Lion
+*INV:	what is ⌈what is this⌉?
+*CHI:	a       ⌊bear⌋.
+*CHI:	a bear.
+*INV:	what more can you tell me?
+*CHI:	um it has fur.
+*CHI:	it has a round head.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um it has claws so it climb.
+*INV:	mm.
+@G:	Baby
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	he has stars on his bed.
+*CHI:	and it's xxx.
+*CHI:	the baby's smiling on its bed.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it as black hair.
+*CHI:	and it has some eyes.
+*CHI:	and then it has some legs.
+*CHI:	and some arms.
+@G:	Cheese
+*CHI:	a cheese.
+*INV:	what more can you tell me?
+*CHI:	um it's cheesey and you eat the cheese.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	this is cheese and it has holes in it.
+*INV:	mm.
+*CHI:	all done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

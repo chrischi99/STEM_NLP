@@ -1,0 +1,197 @@
+@UTF8
+@PID:	11312/a-00032366-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.22|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Milk
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a garbage can.
+*CHI:	I don't think about garbage cans.
+*INV:	what more can you tell me?
+*CHI:	&=sighs I know about trains.
+*CHI:	xxx trains.
+*CHI:	(be)cause I only know about trains.
+*INV:	but you were doing really really well.
+*INV:	what more can you tell me?
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	bunny rabbits go by trains.
+*INV:	tell me more.
+*CHI:	I'll tell but the rest is about trains.
+*INV:	hold on let's slow down.
+@G:	Pretzel
+*CHI:	&=turns:page.
+*INV:	&=gasps zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	xxx.
+*CHI:	know about pretzels.
+*CHI:	you have to try (th)em.
+*CHI:	(be)cause pretzels are for eating.
+*INV:	mm.
+*CHI:	so I can't tell him now.
+*INV:	what is this?
+*CHI:	a pretzel.
+*INV:	what more can you tell me?
+*CHI:	pretzels are for eating.
+*INV:	tell me more.
+*CHI:	plates, on plates.
+@G:	Strawberry
+*INV:	⌈what i⌉ +...
+*CHI:	⌊this⌋ +...
+*CHI:	that a strawberry.
+*INV:	what more can you tell me?
+*CHI:	um strawberries are for eating.
+*CHI:	and eating not trash cans.
+*CHI:	(be)cause trash cans are stinky.
+*INV:	mm.
+*CHI:	you can eat (th)em on a plate.
+*CHI:	but not on the toilet.
+*INV:	mm.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a hot rod.
+*CHI:	they drive to car shows.
+*INV:	tell me a little bit more.
+*CHI:	you drive (th)em on the road.
+*CHI:	I don't know more.
+*INV:	okay, do you want to turn the page?
+*CHI:	don't want to tell about that [?].
+@G:	Surfer
+*INV:	what is this?
+*CHI:	I don't know about skateboarding.
+*INV:	well what, tell me a little bit more.
+*CHI:	skateboarding is for older kids.
+*INV:	mm.
+@G:	Pie
+*INV:	what is this?
+*CHI:	I don't really know it.
+*INV:	oh honey let's slow down a little bit.
+*INV:	what is this?
+*CHI:	I don't really know.
+*INV:	go ahead and take a guess.
+*INV:	what do you think
+*CHI:	+" no that's garbage cans [= as Zorg].
+*CHI:	he said that.
+*INV:	mm.
+*CHI:	+" I wanna go back home and sleep [= as Zorg].
+*CHI:	that's what him said.
+*INV:	can I see Zorg?
+*INV:	what is this [= as Zorg]?
+*CHI:	<come here> [?] Zorg.
+*CHI:	+" hi I eat this [= as Zorg].
+*INV:	tell me more.
+*CHI:	he put his nose on it [?].
+*INV:	mm.
+*CHI:	he almost threw that.
+*CHI:	he wants to go back to sleep.
+*INV:	oh okay.
+*CHI:	I want to go back to bed.
+*INV:	okay.
+*CHI:	he's sleepin(g).
+*CHI:	I'm gonna shut the door too &=puts:Zorg_in_box
+	&=puts:box_under_table.
+*INV:	what is this?
+*CHI:	I don't really know it.
+*INV:	can you take a guess?
+*CHI:	pizza.
+*INV:	ah.
+*INV:	what more can you tell me?
+*CHI:	pizza for eating.
+*INV:	can you tell me a little bit more?
+*CHI:	I have to put my feet up.
+*INV:	okay.
+*INV:	tell me a little bit more.
+*CHI:	pizza.
+*CHI:	I'm telling the rest about trains.
+*CHI:	trains go on tracks.
+@G:	Owl
+*INV:	ooh &=gasps What is this?
+*CHI:	owl.
+*INV:	what more can you tell me?
+*CHI:	owls are for sitting on trees.
+*INV:	tell me a little bit more.
+*CHI:	they fly.
+@G:	Frog
+*INV:	oh.
+*INV:	&=gasps you ready?
+*INV:	what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	frogs jump [?].
+*INV:	what else can you tell me?
+*CHI:	that's all.
+@G:	Farmer
+*INV:	hm ahh.
+*INV:	do you want a Kleenex?
+*CHI:	no.
+*INV:	there's one right over there.
+*CHI:	no.
+*INV:	okay.
+*INV:	&=gasps.
+*CHI:	xxx.
+*INV:	what is this?
+*CHI:	a farmer.
+*INV:	what more can you tell me?
+*CHI:	they haul food.
+*INV:	tell me a little bit more.
+*CHI:	they they put hay in barns too.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	a wrestle guy.
+*INV:	what more can you tell me?
+*CHI:	they wrestle.
+*INV:	tell me a little bit more.
+*CHI:	um that only they do.
+*INV:	tell me a little bit more.
+*CHI:	but that all they the wrestlers do.
+*CHI:	but they smas-hit guys.
+*CHI:	they fight.
+*INV:	mm.
+*CHI:	they're [?] kinda scary.
+*INV:	mm.
+@G:	Lion
+*INV:	&=gaspsWhat is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	they walk in dirt.
+*INV:	tell me more.
+*CHI:	and they drink water.
+@G:	Corn
+*INV:	&=gasps what is this?
+*CHI:	a corn.
+*INV:	what more can you tell me?
+*CHI:	corn is for eating.
+*INV:	tell me a little bit ⌈more⌉.
+*CHI:	                     ⌊but⌋ +...
+*CHI:	but actually that corn is not for eating.
+*INV:	mm.
+*CHI:	I can't, and they live in hay.
+*CHI:	I can't tell anymore.
+*CHI:	that only it do's.
+@G:	King
+*INV:	&=gasps what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	kings have, live in castles.
+*CHI:	and kings have hats on.
+*INV:	tell me a little bit more.
+*CHI:	I tell you already.
+*INV:	oh &=laughs.
+@G:	Snake
+*CHI:	another pretzel?
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	what more can you tell me?
+*CHI:	snakes go on floors and stuff [?].
+*INV:	tell me a little bit more.
+*CHI:	um they go right down.
+*CHI:	they go everywhere.
+*CHI:	the end.
+*INV:	do you want to look again?
+*CHI:	um no.
+*INV:	okay well +...
+@End

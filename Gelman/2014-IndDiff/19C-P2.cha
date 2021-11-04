@@ -1,0 +1,358 @@
+@UTF8
+@PID:	11312/a-00032077-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	 CA
+@ID:	eng|Gelman|CHI|4;11.31|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Cookie
+@Types:	cross, narrative, TD
+*MOT:	oh boy does that look tasty.
+*CHI:	yeah.
+*MOT:	what is that?
+*CHI:	a cookie.
+*MOT:	mm.
+*MOT:	do you like cookies?
+*CHI:	&=nods:head_yes.
+*MOT:	yeah?
+@G:	Puppy
+*MOT:	oh, what's that?
+*CHI:	a puppy.
+*MOT:	what's a puppy do?
+*CHI:	he likes to jump.
+*MOT:	he likes to jump and play?
+*CHI:	yeah.
+*MOT:	just like you?
+*CHI:	yeah.
+*MOT:	you gonna flip the page?
+@G:	Banana
+*MOT:	mm what is that?
+*CHI:	a banana.
+*MOT:	do you like bananas?
+*CHI:	&=nods:head_yes.
+*MOT:	do you like eatin(g) (th)em out of the peel or cut up in the bowl?
+*CHI:	<I like> [?] &=points:to_picture.
+*MOT:	out of the peel?
+*CHI:	&=nods:head_yes.
+*MOT:	yeah?
+*MOT:	do you want to tell me a story about a banana?
+*CHI:	&=shakes:head_no.
+*MOT:	no?
+@G:	Pirate
+*MOT:	what's that?
+*MOT:	that sounds like Firstname doesn't it?
+*CHI:	he's a pirate.
+*MOT:	mm-hm [= yes].
+*MOT:	what else do you see in the picture?
+*MOT:	can you tell me what all you see in the picture?
+*CHI:	treasure chest.
+*CHI:	pirate.
+*MOT:	mm-hm [= yes] what's on his shoulder though?
+*CHI:	a parakeet.
+*MOT:	a parrot.
+*MOT:	a parakeet's smaller than that.
+*MOT:	real little.
+*MOT:	a parrot's real big.
+*MOT:	oh what's that?
+*CHI:	a patch.
+*MOT:	well a patch on his eye but what about his he missing part of his leg?
+*CHI:	&=nods:head_yes.
+*MOT:	wonder how that happened.
+*MOT:	how do you think that happened?
+*MOT:	do you think a big ole whale came up when he was trying to, trying to get a whale and it munched his leg off?
+*MOT:	&=laughs is that too scary for you?
+*CHI:	&=shakes:head_no.
+*MOT:	I wonder how that happened.
+*MOT:	that was a bad accident wasn't it?
+*MOT:	what's he got in his hand there?
+*CHI:	uh a saw?
+*MOT:	a saw?
+*CHI:	no that looks like a bottle doesn't it?
+*CHI:	what for?
+*MOT:	a bottle of wine or somethin(g).
+*CHI:	alright.
+*MOT:	alright.
+@G:	Carrot
+*MOT:	tell me what this is.
+*CHI:	a carrot.
+*MOT:	and what what is this stuff?
+*CHI:	uh green.
+*MOT:	yep cause this part all grows under the ground doesn't it?
+*CHI:	yeah.
+*MOT:	and then when you're walking through the garden and you see the green stuff sticking up, grab it and pull it out and you got a carrot.
+*MOT:	who likes carrots?
+*MOT:	tell me a cartoon character.
+*MOT:	look it &=points:to_shirt.
+*MOT:	who likes carrots?
+*MOT:	hint hint.
+*CHI:	&=points:to_shirt.
+*MOT:	who's that?
+*CHI:	             ⌈bugs⌉.
+*MOT:	does he like ⌊carrots⌋?
+*CHI:	yeah.
+*MOT:	what's his name?
+*CHI:	bugs Bunny.
+@G:	Pig
+*MOT:	oh what's the noise this animal makes?
+*CHI:	&=snorts, &=laughs:with_mother.
+*MOT:	what is it?
+*CHI:	a pig.
+*MOT:	do you like pigs?
+*CHI:	&=nods:yes.
+*MOT:	what color is it?
+*CHI:	pink.
+*MOT:	how many legs does it have?
+*CHI:	one two three four.
+*MOT:	okay.
+@G:	Baseball Player
+*MOT:	oh what's this guy doin(g)?
+*CHI:	playing baseball.
+*MOT:	is he a baseball player?
+*CHI:	yeah.
+*MOT:	what's he hit the ball with?
+*CHI:	a bat.
+*MOT:	yeah?
+*MOT:	and then does he run from, what are they called?
+*CHI:	&=goes:to_turn_lights.
+*CHI:	I'm turning the lights ⌈off⌉.
+*MOT:	no don't turn the lights ⌊off⌋.
+*MOT:	no turn.
+*CHI:	just one.
+*MOT:	no I think they need (th)em on.
+*CHI:	just ⌈this many⌉.
+*MOT:	     ⌊no⌋ no no ⌈no no⌉.
+*CHI:	                ⌊no⌋.
+*CHI:	stop it stop it.
+*MOT:	I think they need the lights on.
+*CHI:	please.
+*MOT:	why is there a glare?
+*MOT:	well, let's see if it's okay.
+*MOT:	hopefully it's alright.
+*CHI:	&=opens:door.
+*MOT:	no shut the door buddy.
+*CHI:	is it okay if I [= yelling down the hall].
+*MOT:	I'm sure she'll come in and tell us if we can't have the lights on.
+*MOT:	come on.
+*MOT:	is there a [?] glare on the page?
+*CHI:	yeah.
+*MOT:	alright what is it when when he hits the ball way out of the field what's that called?
+*CHI:	a home run.
+*MOT:	that's' right &=laughs.
+@G:	Duck
+*MOT:	what is this?
+*CHI:	a duck.
+*MOT:	do you know what kind of duck this is?
+*CHI:	a eagle duck.
+*MOT:	a mallard duck.
+*CHI:	oh.
+*MOT:	and it's a male a boy duck because he's he's got these pretty colors on him.
+*MOT:	the female ones don't don't look quite as pretty, as the male ones.
+*MOT:	the male ones look prettier.
+*MOT:	with all these green and the stripe around his neck, and all these fancy colors.
+*MOT:	what does a duck say?
+*CHI:	quack quack.
+*MOT:	and what does does the duck like to, run or swim?
+*CHI:	swim.
+*MOT:	yeah?
+*CHI:	                             ⌈yeah⌉.
+*MOT:	why do you think he likes to ⌊swim⌋?
+*CHI:	because he likes drinking water.
+*MOT:	&=laughs he likes to drink water too?
+*CHI:	yeah.
+*MOT:	probably but look at those feet.
+*MOT:	they're all webbed like and they cause him to, paddle easy.
+@G:	Turtle
+*MOT:	what's this?
+*CHI:	a turtle.
+*MOT:	mm-hm [= yes].
+*MOT:	does the turtle carry his house on his back?
+*CHI:	&=nods:head_yes.
+*MOT:	what's that house called?
+*CHI:	a shell.
+*MOT:	yeah?
+*MOT:	can he put his head and feet and legs and arms in there?
+*CHI:	yeah.
+*MOT:	all you have is the shell but inside's the turtle isn't it?
+*CHI:	&=nods:head_yes.
+*MOT:	yeah?
+*CHI:	&=nods:head_yes.
+*MOT:	you like turtles?
+*CHI:	&=nods:head_yes.
+*MOT:	hey yeah we got you a turtle last year at the the flower place remember?
+*MOT:	we gotta put that out in the yard.
+@G:	Cheese
+*MOT:	what's that?
+*CHI:	cheese.
+*MOT:	what kinda cheese?
+*MOT:	it's got holes in it.
+*MOT:	swiss cheese?
+*CHI:	&=nods:head_yes.
+*MOT:	you can't eat this though can you?
+*CHI:	&=shakes:head_no.
+*MOT:	got milk in it.
+*CHI:	&=pretends:eat_picture.
+*MOT:	you gonna pretend you can eat it?
+*CHI:	&=nods:head_yes.
+*MOT:	but you know not to eat cheese right?
+*CHI:	&=nods:head_yes.
+*MOT:	until we get you tested, make sure see if you can grow out your allergies.
+@G:	Doctor
+*MOT:	okay now what's up with this little girl?
+*CHI:	she's sick.
+*MOT:	where's she at?
+*CHI:	right there &=points:to_picture.
+*MOT:	what kind of building is she in do you think?
+*CHI:	the hospital.
+*MOT:	mm-hm [= yes].
+*MOT:	and who's this person?
+*CHI:	uh, a doctor?
+*MOT:	mm-hm [= yes].
+*MOT:	checking her out makin(g) sure she's okay?
+*CHI:	yeah.
+*MOT:	yeah?
+*CHI:	yeah.
+*MOT:	does she look happy or sad or scared?
+*MOT:	how does she look?
+*CHI:	sad.
+*MOT:	yeah sad bummed that oh she has a cast on her arm.
+*MOT:	looks like she got in an accident and broke her arm doesn't it?
+*CHI:	yeah.
+*MOT:	yeah.
+*MOT:	oh.
+*MOT:	looks like the doctor's checking her all out doesn't it?
+@G:	Baby
+*MOT:	oh who's this?
+*CHI:	a baby.
+*MOT:	does that baby look happy or sad?
+*CHI:	happy.
+*MOT:	how can you tell?
+*CHI:	because I see the face.
+*MOT:	the big ole smile?
+*MOT:	the big ole toothless smile?
+*CHI:	yeah.
+*MOT:	what kind of toys does the baby have with with her?
+*CHI:	bandit.
+*CHI:	teddy bear.
+*CHI:	bunny.
+*MOT:	&=laughs this looks like Bandit.
+*MOT:	snoopy kind of looks like Bandit doesn't it?
+*MOT:	that's funny.
+*MOT:	she must like stars and flowers.
+*MOT:	you want to page turn again?
+@G:	Ladybug
+*MOT:	what is this?
+*CHI:	a ladybug.
+*MOT:	what does a ladybug like to do?
+*CHI:	fly.
+*MOT:	yep fly around?
+*CHI:	yeah.
+*MOT:	isn't there a ladybug on on one of the movies that you watch?
+*CHI:	&=nods:yes.
+*MOT:	it's a character.
+*MOT:	oh isn't it A_Bug's_Life?
+*CHI:	it's Bug's_Life.
+*MOT:	yeah.
+*MOT:	that that character is a funny character isn't it?
+*MOT:	I I think that's a funny ladybug.
+*MOT:	but it's actually a man, but it's a ladybug.
+*MOT:	it's kind of funny.
+@G:	Painter
+*MOT:	alright, what is this lady doing?
+*CHI:	painting.
+*MOT:	what is she painting?
+*CHI:	the world.
+*MOT:	yeah?
+*CHI:	yeah.
+*MOT:	what is this that she's painting right here on the picture?
+*CHI:	a a tree.
+*MOT:	mm-hm [= yes].
+*MOT:	she's using a drawing and she's using that drawing and taking and and making a picture from it isn't she?
+*CHI:	yeah.
+*MOT:	yeah.
+*MOT:	there's other ways you can paint too you can actually be out.
+*MOT:	remember the Smoky Mountains?
+*MOT:	that kind of reminds me of maybe the Smoky Mountains that picture doesn't it you?
+*CHI:	mm-hm [= yes].
+*MOT:	maybe a tree we would've seen when we were up in the mountains?
+*MOT:	(re)member wasn't that fun?
+*CHI:	&=nods:head_yes.
+*MOT:	yeah.
+*MOT:	does she look like she's havin(g) a good time?
+*CHI:	&=nods:head_yes.
+*MOT:	enjoying her painting?
+*CHI:	&=nods:head_yes.
+*MOT:	yeah.
+@G:	Bread
+*MOT:	oh what's this?
+*CHI:	bread.
+*MOT:	do you like bread?
+*CHI:	&=nods:head_yes.
+*MOT:	you woke up last night you wanted a lot of bread products to eat for a late midnight snack didn't you?
+*CHI:	&=nods:head_yes.
+*MOT:	you're like I want some oatmeal.
+*MOT:	what else did you want?
+*MOT:	I want some bagel.
+*MOT:	I want some crackers.
+*MOT:	you wanted all kinds of bread products last night.
+*CHI:	                                         ⌈<wait let's> [?]⌉.
+*MOT:	that looks like its wheat (be)cause it's ⌊brown⌋.
+*MOT:	wheat bread is brown.
+*MOT:	white bread is white.
+*MOT:	looks like it's wheat bread to me.
+*MOT:	wanna look at anymore of the pictures?
+*CHI:	no.
+*MOT:	did you have fun looking at the pictures?
+*CHI:	yeah.
+*MOT:	you want to count the pages?
+*CHI:	                                       ⌈no⌉.
+*MOT:	you want to count how many pages there ⌊are⌋?
+@G:	Cookie
+*CHI:	one.
+@G:	Puppy
+*CHI:	two.
+@G:	Banana
+*CHI:	three.
+@G:	Pirate
+*CHI:	four.
+@G:	Carrot
+*CHI:	five.
+@G:	Pig
+*CHI:	six.
+@G:	Baseball Player
+*CHI:	seven.
+@G:	Duck
+*CHI:	eight.
+@G:	Turtle
+*CHI:	nine.
+@G:	Cheese
+*CHI:	ten.
+@G:	Doctor
+*CHI:	eleven.
+@G:	Baby
+*CHI:	twelve.
+@G:	Ladybug
+*CHI:	fourteen.
+*MOT:	no that's thirteen.
+*CHI:	thirteen.
+@G:	Painter
+*CHI:	fifteen?
+*MOT:	that's fourteen.
+*CHI:	fourteen.
+@G:	Bread
+*MOT:	now, fifteen.
+*CHI:	fifteen.
+*MOT:	looks like there's fifteen pages [= book closed].
+*CHI:	and eighteen.
+*MOT:	no that would actually be sixteen.
+*CHI:	sixteen.
+*MOT:	if we shut that.
+*MOT:	very good.
+*MOT:	all done?
+*CHI:	&=nods:head_yes.
+*MOT:	okay.
+*MOT:	we can go tell them we're all done.
+*MOT:	do you want to put your socks and shoes back on?
+*CHI:	eh not really.
+*MOT:	let's put (th)em back on.
+@End

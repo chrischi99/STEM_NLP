@@ -1,0 +1,179 @@
+@UTF8
+@PID:	11312/a-00032295-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.11|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Dolphin
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	dolphin.
+*INV:	what can you tell me +...
+*INV:	what more can you tell me?
+*CHI:	uh it swims.
+*CHI:	it has fins.
+*CHI:	and, it has a beak thing.
+*CHI:	and it has a back fin.
+*CHI:	and it swims.
+*CHI:	and it swims underwater.
+*CHI:	and sometimes, and goes to the surface eventually.
+*INV:	mm, anything else you want to say?
+@G:	Muffin
+*INV:	what is this?
+*CHI:	muffin.
+*INV:	what more can you tell me?
+*CHI:	uh you eat it.
+*CHI:	I think I'm ready for the next one.
+*INV:	what else can you tell me?
+*CHI:	I don't think I have anything else.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	ice cream.
+*INV:	what more can you tell me?
+*CHI:	it's it's pink and, sometimes it's white and sometimes it's chocolate ice cream.
+*CHI:	and it has a cone.
+*INV:	mm.
+*CHI:	and and and it's cold.
+*INV:	mm.
+*INV:	        ⌈any⌉ +...
+*CHI:	it gets ⌊refrigerated⌋.
+*INV:	mm.
+*INV:	anything else you want to tell me?
+*CHI:	mm.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	raccoon.
+*INV:	what more can you tell me?
+*CHI:	it has a tail.
+*CHI:	it has claws.
+*CHI:	it walks.
+*INV:	mm.
+*CHI:	and, has a tail.
+*CHI:	and head.
+*CHI:	and sh sh stripes and fur.
+*INV:	mm, what else can you tell me?
+@G:	Cracker
+*INV:	what is this?
+*CHI:	cracker.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	it has little holes.
+*INV:	mm, what else can you tell me?
+*CHI:	I don't know if there's anything else.
+@G:	Judge
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	mm, can you take a guess?
+*CHI:	I don't know &=opens:binder_rings &=closes:binder_rings.
+*INV:	be careful.
+*CHI:	yeah.
+*CHI:	I don't know.
+*INV:	well what do you think?
+*CHI:	I don't, I don't know.
+*INV:	mm.
+*INV:	do you want to sit on the coach?
+*CHI:	uh not yet.
+*INV:	okay.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a cane.
+*INV:	mm what more can you tell me?
+*CHI:	that is you walk with it.
+*INV:	anything else?
+*CHI:	no.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	bird.
+*INV:	what more can you tell me?
+*CHI:	it flies.
+*CHI:	and it has a cage.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	uh pineapple.
+*INV:	mm what more can you tell me?
+*CHI:	it gr grows.
+*CHI:	you buy it.
+*CHI:	and, you, and it has points.
+*CHI:	and you eat it.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	pumpkin.
+*INV:	what more can you tell me?
+*CHI:	you carve them for Halloween.
+*INV:	what else can you tell me?
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	firefighter.
+*INV:	what more can you tell me?
+*CHI:	they shoot out fires.
+*INV:	mm-hm [= filler].
+*INV:	I'd like to hear more.
+*INV:	what else can you tell me?
+*CHI:	they have a t, truck.
+*CHI:	and they have lights.
+*CHI:	and they have helmets.
+*CHI:	and, hoses.
+*INV:	mm.
+*CHI:	and the ladder to climb up.
+*INV:	mm.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	baseball player.
+*INV:	what more can you tell me?
+*CHI:	uh, I don't know ⌈really⌉.
+*INV:	                 ⌊mm⌋.
+*INV:	you can tell me whatever you think of.
+*INV:	what can you tell me?
+*INV:	you're doing really great.
+@G:	Cat
+*INV:	what is this?
+*CHI:	kitten.
+*INV:	what more can you tell me?
+*CHI:	uh, it, it has fur.
+*CHI:	and whiskers.
+*CHI:	and a tail.
+*CHI:	and fuzzy ears.
+*INV:	mm.
+*CHI:	and, fur.
+*CHI:	and a tail.
+*INV:	mm.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	butterfly.
+*INV:	what more can you tell me?
+*CHI:	it, it ha has wings.
+*CHI:	and it can fly.
+*INV:	tell me a little bit more.
+*CHI:	okay.
+*CHI:	uh and it flies.
+*CHI:	it has whiskers.
+*CHI:	and wi- and velvety wings.
+*INV:	mm.
+*CHI:	just peeking at the next one.
+*INV:	okay.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	ballerina.
+*INV:	what more can you tell me?
+*CHI:	uh I don't think I have anything.
+*INV:	oh.
+*INV:	can you please tell me a little?
+*CHI:	no.
+*INV:	you were doing so well.
+*INV:	so what more can you tell me?
+*CHI:	I don't know.
+*INV:	okay.
+*INV:	alrighty.
+*INV:	can we go back to a few that we that we didn't talk much about?
+*CHI:	I don't know if I'll be able to do it.
+*INV:	can we try?
+*CHI:	I don't think.
+*INV:	hm?
+*CHI:	I don't think.
+*INV:	okay.
+*INV:	alrighty.
+*INV:	well thank you very much.
+*CHI:	you're welcome.
+@End

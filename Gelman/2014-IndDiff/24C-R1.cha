@@ -1,0 +1,178 @@
+@UTF8
+@PID:	11312/a-00032108-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.27|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Doctor
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a doctor.
+*INV:	what more can you tell me?
+*CHI:	they help people who are sick or hurt.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	zorg you don't, I don't know.
+*INV:	you can say whatever you'd like to.
+*CHI:	xxx help you.
+*CHI:	a doctor helps people.
+*CHI:	I'm sick.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	it's orange.
+*CHI:	and you pick the stem off.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	eat it &=makes:Zorg_eat_carrot.
+*CHI:	it's gonna eat it.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	some have bats and some have gloves.
+*INV:	mm, Zorg doesn't &=clears:throat Zorg doesn't know much about this
+	one.
+*INV:	can you help him out?
+*CHI:	when the ball comes to you ya hit it.
+@G:	Puppy
+*CHI:	it's much of a puppy.
+*INV:	what more can you tell me?
+*CHI:	first there's a mama puppy and then she has her babies.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, Zorg it's a puppy.
+*CHI:	you pet him.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	a turtle.
+*INV:	what more can you tell me?
+*CHI:	he's really slow.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he has a shell and no animal can eat its shell.
+*INV:	mm.
+*INV:	you're doing real good.
+@G:	Cookie
+*INV:	what is ⌈this⌉?
+*CHI:	        ⌊cookie⌋.
+*INV:	what more can you tell me?
+*CHI:	you eat it for dessert.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	you eat it Zorg.
+*INV:	mm.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a painter.
+*INV:	what more can you tell me?
+*CHI:	you paint it.
+*INV:	mm-hm [= yes].
+*CHI:	a piece of paper.
+*CHI:	and then you get some paint and then you paint it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yep.
+*CHI:	first they get a paintbrush put it in paint and then paint pictures that you want to paint.
+*INV:	mm.
+@G:	Banana
+*CHI:	banana.
+*INV:	what more can you tell me?
+*CHI:	you eat it and, you, hold the peel.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes.
+*CHI:	you don't eat the peel.
+@G:	Ladybug
+*CHI:	look there's a ladybug right here.
+*INV:	what is this?
+*CHI:	a ladybug.
+*CHI:	it's a bug.
+*INV:	what more can you tell me?
+*CHI:	she's red and has black polka dots.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	you don't eat bugs.
+*CHI:	xxx.
+@G:	Duck
+*INV:	what is this?
+*CHI:	a duck.
+*CHI:	he swims in water and, that's it.
+*INV:	well what more can you tell me?
+*CHI:	he has she has baby ducklings.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	it's a duck.
+*CHI:	it's a duck.
+@G:	Pirate
+*CHI:	&=turns:page_back.
+*CHI:	oh a pirate.
+@G:	Baby
+*CHI:	baby.
+*INV:	what more can you tell me?
+*CHI:	he cannot do anything but lay there and cry &=burps.
+*CHI:	excuse me.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it's a baby.
+*CHI:	you don't eat it.
+*CHI:	it's a person.
+*CHI:	yuck people stinks.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*CHI:	he likes to roll in the mud.
+*CHI:	and it's pink.
+*INV:	what more can you tell me?
+*CHI:	um, I don't know.
+*INV:	mm.
+*CHI:	and he snorts &=makes:snorting_noise.
+*CHI:	oink oink.
+*CHI:	piggy.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it's an animal.
+*CHI:	you don't eat it.
+*CHI:	he likes to eat hay.
+@G:	Pirate
+*CHI:	oh the pirate.
+*INV:	what more can you tell me?
+*CHI:	he rides on a ship.
+*CHI:	he needs gold.
+*CHI:	and has a parrot.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes.
+*CHI:	zorg that's a treasure chest and those are pirates.
+@G:	Cheese
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	mice eat it, for a treat.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes.
+*CHI:	you eat it.
+@G:	Bread
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	eat it you can put toast on it.
+*CHI:	it's French toast.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you eat it and you use it for your eggs [= book closed].
+*INV:	all done, do you want to look again?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*INV:	do you want to put Zorg back in his box?
+*INV:	very good.
+*INV:	thank you very much for doing that with me.
+*INV:	that was so much fun.
+@End

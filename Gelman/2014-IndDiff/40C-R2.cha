@@ -1,0 +1,129 @@
+@UTF8
+@PID:	11312/a-00032205-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.20|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Teacher
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	they teach things.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	(s)he spells numbers and letters.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	a bus driver.
+*INV:	what more can you tell me?
+*CHI:	he brings mail.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	mm, he gives, boxes and like magazines and newspapers.
+*INV:	mm.
+@G:	Cake
+*INV:	what is this?
+*CHI:	piece of cake.
+*INV:	what more can you tell me?
+*CHI:	you eat it with frosting.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you cook it in the oven.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	an elephant.
+*INV:	what more can you tell me?
+*CHI:	it it squirts out water.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it likes to be, play in the mud.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	broccoli.
+*INV:	what more can you tell me?
+*CHI:	we eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much +...
+*CHI:	we eat it with pork and rice.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	an alligator.
+*INV:	what more can you tell me?
+*CHI:	they eat fish.
+*INV:	what more can you tell Zorg?
+*CHI:	they have really sharp teeth.
+*CHI:	and they can bite people.
+@G:	Witch
+*INV:	what is this?
+*CHI:	a witch.
+*INV:	what more can you tell me?
+*CHI:	mm, they play tricks on people.
+*INV:	what more can you tell Zorg?
+*CHI:	they make people turn into frogs.
+*CHI:	they can turn anything into anything.
+*CHI:	like a house.
+*INV:	oh.
+@G:	Orange
+*INV:	what is this?
+*CHI:	an orange.
+*INV:	what more can you tell me?
+*CHI:	we eat it.
+*INV:	what more can you tell Zorg?
+*CHI:	they're juicy.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	pumpkin seeds.
+*INV:	what more can you tell me?
+*CHI:	they come in pumpkins.
+*INV:	what more can you tell Zorg?
+*CHI:	they come out of the pumpkin.
+@G:	Crab
+*INV:	what is this?
+*CHI:	a crab.
+*INV:	what more can you tell me?
+*CHI:	they bite people.
+*INV:	what more can you tell Zorg?
+*CHI:	they pinch people.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	popcorn.
+*INV:	what more can you tell me?
+*CHI:	it pops.
+*INV:	what more can you tell Zorg?
+*CHI:	we eat it with pretzels.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	they like to eat fish.
+*INV:	what more can you tell Zorg?
+*CHI:	they like to play in the water.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	they like to play funny things on people.
+*INV:	what more can you tell Zorg?
+*CHI:	they fall down a lot.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	a football player.
+*INV:	what more can you tell me?
+*CHI:	they fall a lot.
+*INV:	mm, what more can you tell Zorg?
+*CHI:	they catch balls.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horse.
+*INV:	what more can you tell me?
+*CHI:	people ride them.
+*INV:	what more can you tell Zorg?
+*CHI:	we sit on (th)em in a saddle.
+*INV:	do you wanna look again?
+*CHI:	no thank you.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

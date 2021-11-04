@@ -1,0 +1,436 @@
+@UTF8
+@PID:	11312/a-00032106-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.27|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Penguin
+@Types:	cross, narrative, TD
+*CHI:	penguin.
+*MOT:	no no no no.
+@G:	Cat
+*CHI:	cat.
+*MOT:	not yet not yet.
+*MOT:	you know what this says [= no pictures visible]?
+*CHI:	what?
+*MOT:	things_in_our_world.
+*MOT:	book.
+*CHI:	book.
+*MOT:	book B.
+*CHI:	book B.
+*CHI:	book B.
+@G:	Penguin
+*MOT:	alright let's see.
+*CHI:	penguin.
+*MOT:	yeah penguin.
+@G:	Lobster
+*CHI:	lobster.
+*MOT:	yeah.
+@G:	Clown
+*CHI:	clown.
+*MOT:	mm-hm [= yes].
+@G:	Cake
+*CHI:	chocolate cake.
+*MOT:	yep.
+*CHI:	&=turns:book_sideways.
+*MOT:	what are you doing?
+*MOT:	let's keep it like that I think.
+*MOT:	I'll prop it up.
+@G:	Popcorn
+*CHI:	popcorn.
+*MOT:	oh yeah.
+@G:	Alligator
+*CHI:	alligator.
+*MOT:	mm-hm [= yes].
+@G:	Horse
+*CHI:	horsie.
+*MOT:	mm-hm [= yes].
+@G:	Broccoli
+*CHI:	broccoli.
+*CHI:	good health.
+*MOT:	mm-hm [= yes].
+@G:	Witch
+*CHI:	witch.
+@G:	Pilot
+*CHI:	plane driver.
+*CHI:	pilot.
+*MOT:	yeah pilot that's right.
+*MOT:	very good.
+*MOT:	you got it before I did.
+@G:	Cereal
+*CHI:	potato chips.
+*MOT:	um, do you think those are potato chips?
+*MOT:	I think it looks like cereal.
+*MOT:	could probably be either but though couldn't it?
+@G:	Elephant
+*CHI:	okay elephant.
+*MOT:	mm-hm [= yes].
+@G:	Teacher
+*CHI:	teacher.
+*MOT:	mm-hm [= yes] very good.
+@G:	Football Player
+*CHI:	football player.
+*MOT:	right.
+@G:	Orange
+*CHI:	and orange.
+*MOT:	right.
+*MOT:	you got (th)em all.
+*CHI:	by myself.
+*MOT:	very good.
+*MOT:	let's look at it again for a sec.
+*MOT:	okay let's let's um let's.
+*CHI:	this time let's, tell the color what they are.
+*MOT:	tell the color?
+*CHI:	yeah.
+*MOT:	you know you can take them out of here.
+*MOT:	you can sort (th)em.
+*MOT:	like you can make.
+*CHI:	yeah.
+*MOT:	you can put (th)em in piles.
+*MOT:	you wanna try that?
+*CHI:	yeah.
+*MOT:	you can put em in piles like, put (th)em in categories.
+*MOT:	you know what categories are?
+*CHI:	what?
+*CHI:	oh I know.
+@G:	Lobster
+*CHI:	we can put animals in a ⌈one⌉, pile.
+*MOT:	                        ⌊yeah⌋.
+@G:	Orange
+*CHI:	and a food in another pile.
+*MOT:	right.
+@G:	Clown
+*CHI:	and people in another pile.
+*MOT:	I think that's a great idea okay?
+@G:	Lobster
+*MOT:	so we got, lobster cake.
+@G:	Popcorn
+*MOT:	popcorn goes in there.
+@G:	Alligator
+*CHI:	animal.
+*MOT:	animal good.
+@G:	Horse
+*MOT:	animal.
+@G:	Broccoli
+*CHI:	food.
+*MOT:	mm-hm [= yes].
+@G:	Witch
+*CHI:	person.
+*MOT:	is she a person is she a real person?
+*CHI:	no.
+*MOT:	maybe we should make another pile for like ⌈like fantasy person⌉.
+*CHI:	a witch and                                ⌊stuff⌋.
+*CHI:	<here's something to that pile> [?].
+@G:	Pilot
+*CHI:	pilots.
+*MOT:	mm-hm [= yes].
+*CHI:	that's a person.
+@G:	Cereal
+*CHI:	cereal.
+*MOT:	food mm-hm [= yes].
+@G:	Elephant
+*CHI:	animal.
+*MOT:	good.
+*MOT:	right.
+*CHI:	&=puts:teacher_picture.
+@G:	Football Player
+*MOT:	yep.
+*CHI:	&=puts:football_picture.
+*MOT:	well but, football players are real people.
+*MOT:	I wonder.
+*CHI:	they are?
+*MOT:	well yeah there's real football players.
+@G:	Witch
+*MOT:	there's not real green witches riding around on brooms in the air.
+*CHI:	   ⌈wha⌉.
+*MOT:	is ⌊there⌋?
+*MOT:	have you ever seen one?
+*CHI:	yeah.
+@G:	Penguin
+*CHI:	and last thing.
+*MOT:	penguin.
+*MOT:	very good.
+*CHI:	xxx.
+*CHI:	yay.
+*MOT:	very good.
+*MOT:	okay now let's how about if we do ⌈what letter they start with⌉?
+*CHI:	how about, no Mom um how about we do um a matching ⌊game⌋.
+*MOT:	okay.
+*CHI:	in the book, so.
+*MOT:	a matching game.
+*CHI:	don't look.
+*MOT:	alright.
+*CHI:	I'll be the sorter.
+*MOT:	okay.
+*CHI:	and you have to try to guess which one.
+*MOT:	okay.
+*MOT:	you're going to have to tell me your, your game because I'm not
+	                         ⌈sure I'll get it⌉.
+*CHI:	I'm gonna Mom, see these ⌊pictures⌋?
+*CHI:	see this see these yellow parts of the pictures?
+*MOT:	I'm closing my eyes.
+*MOT:	can I open them?
+*CHI:	yeah.
+*CHI:	see these yellow parts of the pictures?
+*MOT:	yes.
+*CHI:	I'm gonna flip them over and you have to tell me which one they are okay?
+*CHI:	okay close your eyes.
+*MOT:	okay.
+*CHI:	I'll tell you when to open them.
+*MOT:	okay.
+*CHI:	&=puts:picture_in_book.
+*MOT:	can I open my eyes yet?
+*CHI:	no.
+*MOT:	not quite yet?
+*CHI:	no.
+*MOT:	give me some idea of when you're done okay?
+*CHI:	okay.
+*MOT:	or getting close to being done.
+*MOT:	can you explain the game to me ⌈while you're doing whatever you're
+	doing⌉?
+*CHI:	                               ⌊no⌋.
+*CHI:	no.
+*CHI:	no.
+*MOT:	no?
+*MOT:	is it going to be a guessing game?
+*CHI:	yeah.
+*MOT:	okay.
+*CHI:	okay I'm ready.
+*MOT:	open up.
+*MOT:	okay are you going to give me clues?
+*CHI:	okay.
+*CHI:	no I'm not.
+*MOT:	no clues?
+*CHI:	no.
+*MOT:	no clues.
+*CHI:	okay no clues.
+*MOT:	okay.
+@G:	Clown
+*CHI:	okay what is this?
+*MOT:	can I ask you questions about it like?
+*CHI:	oh no you can't.
+*MOT:	is it is it food?
+*CHI:	no.
+*MOT:	is it?
+*CHI:	he's funny.
+*CHI:	you ⌈see him at⌉.
+*MOT:	    ⌊clown⌋!
+*CHI:	yes.
+*CHI:	you see him there.
+*MOT:	okay.
+@G:	Pilot
+*MOT:	alright next one.
+*CHI:	okay let me I just need to peek first.
+*MOT:	okay.
+*CHI:	okay he flies in any sort, he um.
+*MOT:	pilot.
+*CHI:	oh yeah.
+*CHI:	you got it ⌈again⌉.
+*MOT:	I got      ⌊it⌋.
+@G:	Teacher
+*MOT:	okay.
+*MOT:	I'm not lookin(g).
+*CHI:	mom you can you can look.
+*MOT:	okay.
+*CHI:	okay.
+*CHI:	she teaches ⌈students⌉.
+*MOT:	            ⌊teacher⌋.
+*CHI:	oh you always get it right.
+@G:	Football Player
+*CHI:	um, he has a helmet on.
+*CHI:	he has a foot he has a ball.
+*CHI:	it kind of looks like a, a two um headed big round thing.
+*CHI:	a two pointed big round thing.
+*MOT:	oh right.
+*CHI:	and.
+*MOT:	football player.
+*CHI:	xxx you're right.
+*MOT:	am I right?
+*MOT:	yeah I'm gonna get them all right.
+@G:	Horse
+*CHI:	okay.
+*MOT:	okay.
+*CHI:	it's any kind of color.
+*CHI:	it has let me count its legs.
+*CHI:	&=whispers one two three four.
+*CHI:	and it has four legs.
+*MOT:	any kind of color?
+*MOT:	like purple green?
+*CHI:	no it's not any kind of color.
+*CHI:	it's just like it could be brown it could be black it could be, white.
+*CHI:	any kind of color.
+*MOT:	do people ride them?
+*CHI:	yes.
+*MOT:	is it a horse?
+*MOT:	&=gasps it's a horse.
+*MOT:	what are do you like horses?
+*CHI:	yeah.
+*MOT:	they're strong animals.
+@G:	Elephant
+*CHI:	okay.
+*CHI:	it sucks up water with it's with its nose.
+*MOT:	does it have big ears?
+*CHI:	yes.
+*MOT:	is it sissy's favorite animal?
+*CHI:	yes.
+*MOT:	is it an elephant?
+*MOT:	yay I got it right!
+@G:	Alligator
+*CHI:	okay now this is a little tricky one.
+*MOT:	tricky one?
+*CHI:	okay it has, sharp teeth.
+*CHI:	you think it's an alligator but it's not.
+*CHI:	it is.
+*MOT:	a crocodile.
+*MOT:	now how do you know this is a crocodile and not an alligator?
+*CHI:	because.
+*CHI:	it's not green.
+*CHI:	oh oh it um um.
+*CHI:	it's my turn.
+*MOT:	it's something with their snout.
+*MOT:	I think their snouts are different.
+@G:	Penguin
+*CHI:	no Mom ⌈here I go⌉.
+*MOT:	       ⌊okay⌋.
+*MOT:	okay go ahead.
+*CHI:	it, lives in the snow.
+*CHI:	it.
+*MOT:	there were some in Madagascar.
+*MOT:	they were.
+*CHI:	I'm doin(g) it.
+*CHI:	and, and Ang caught one.
+*MOT:	who caught one?
+*CHI:	ang from, what is that movie again?
+*MOT:	something like Windchasers or.
+*CHI:	oh no it I, it is.
+*MOT:	avatar.
+*CHI:	yeah Avatar.
+*CHI:	ang caught one and he slid in the snow with it.
+*CHI:	what is it?
+*MOT:	a penguin?
+*CHI:	penguin.
+*MOT:	alright.
+*CHI:	I gotta put my shoe on.
+*MOT:	okay.
+@G:	Lobster
+*CHI:	okay.
+*MOT:	okay.
+*CHI:	it is, we ate it at Firstname's house once.
+*CHI:	and we had little napkin.
+*CHI:	we pulled it open.
+*CHI:	we had crowns and stuff.
+*CHI:	and what is it?
+*MOT:	and.
+*CHI:	it's red.
+*MOT:	we put it in the animal pile but it can also go in the food pile can't it?
+*CHI:	I know.
+*MOT:	lobster.
+*MOT:	yeah.
+*CHI:	right.
+*MOT:	yep.
+@G:	Witch
+*CHI:	okay.
+*CHI:	ready this is a really tricky one.
+*MOT:	okay.
+*CHI:	it flies in the air.
+*CHI:	on a broom.
+*CHI:	she lives in a creepy old castle.
+*CHI:	and she is in Wizard_of_Oz.
+*MOT:	&=laughs:like_witch witch?
+*CHI:	right.
+*MOT:	sweet.
+*MOT:	you're good at these descriptions.
+*CHI:	okay.
+*MOT:	I'm getting them all right.
+@G:	Cereal
+*CHI:	okay they go in a bowl.
+*CHI:	it's in a box in a bag.
+*CHI:	and, you eat it with a spoon.
+*MOT:	can I guess now?
+*CHI:	yes.
+*MOT:	cereal.
+*MOT:	yes!
+@G:	Broccoli
+*CHI:	okay it is &=shows:picture sorry I'm sorry.
+*CHI:	can I start over again?
+*MOT:	yeah.
+*MOT:	wait mix that one up.
+*MOT:	just take these out and sort go like this so I won't know which one it is.
+*CHI:	okay.
+*MOT:	okay?
+*CHI:	okay.
+*MOT:	I'm not lookin(g).
+*CHI:	okay.
+*CHI:	mom where are we I forget.
+*MOT:	where are we?
+*CHI:	yeah.
+*MOT:	we're in college.
+*CHI:	college?
+*MOT:	yeah.
+*MOT:	we're at U of M.
+*CHI:	is is U of M U of M a college?
+*MOT:	it's a university.
+*CHI:	a university college?
+*MOT:	mm-hm [= yes] it's a university.
+*CHI:	okay now what is it?
+*MOT:	well I don't know you gotta give me some clues.
+*CHI:	mom I'm not giving you ⌈any clues⌉.
+*MOT:	you're not giving me any ⌊clues⌋?
+*CHI:	oh Mom it's the same one.
+*MOT:	sweet.
+*MOT:	broccoli.
+*CHI:	I know.
+*MOT:	you can it can be the same one.
+*MOT:	it's alright.
+@G:	Orange
+*MOT:	okay next one.
+*MOT:	there's only three left.
+*CHI:	it's orange.
+*CHI:	you eat it.
+*CHI:	you peel it first.
+*MOT:	is the name of it the same as the color of it?
+*CHI:	&=whispers yes.
+*MOT:	an orange?
+*CHI:	you're right.
+*MOT:	I'm right I'm right I'm right I'm right ⌈I'm right⌉.
+*CHI:	mom                                     ⌊stop⌋.
+*MOT:	I'm sorry.
+*CHI:	if you dance you're going to get no.
+*MOT:	no points?
+*CHI:	no.
+*MOT:	&=laughs alright no points for dancing.
+@G:	Popcorn
+*MOT:	alright what?
+*CHI:	you.
+*MOT:	I'm gonna be serious about it.
+*CHI:	it's real you um pour some seeds in a bowl.
+*CHI:	you put them in a machine.
+*CHI:	then you put some salt and butter on when you're done with it.
+*CHI:	and then you eat it.
+*CHI:	and it crunches.
+*CHI:	what is it?
+*MOT:	crunchy seeds?
+*MOT:	popcorn.
+*MOT:	very good.
+*MOT:	that looks <like it> [?] xxx.
+@G:	Cake
+*CHI:	okay last one.
+*MOT:	okay.
+*CHI:	you bake it.
+*CHI:	you put frosting on it.
+*CHI:	and you eat it for your birthday.
+*MOT:	chocolate cake.
+*CHI:	right.
+*MOT:	yoo hoo!
+*CHI:	mom now can we?
+*MOT:	you know what speaking of that I have to tell you I bought some pudding when I was at the store yesterday.
+*CHI:	can we go?
+*MOT:	we can we can make some pudding today tonight.
+*MOT:	I bought chocolate pudding and, pistachio pudding.
+*CHI:	can we go?
+*CHI:	can we get out of this room now?
+*MOT:	I think so.
+*MOT:	open the door.
+@End

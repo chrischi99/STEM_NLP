@@ -1,0 +1,189 @@
+@UTF8
+@PID:	11312/a-00032276-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.24|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pumpkin
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	we can talk about the next page.
+*INV:	I think we should talk about each page though.
+*INV:	can we do that?
+*INV:	and then you know what?
+*INV:	we can play that game again.
+*CHI:	okay.
+*INV:	okay.
+*INV:	so what more can you tell me?
+*CHI:	it grows [?].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm.
+*INV:	firstname you can say whatever you think of.
+*CHI:	I don't I don't know what else of pumpkins.
+*INV:	okay.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	a sunkt [= skunk].
+*INV:	what more can you tell me?
+*CHI:	it stinks &=laughs.
+*CHI:	like the baby boys' diapers.
+*INV:	hm.
+*INV:	what else can you tell me?
+*INV:	feel free to say whatever you want.
+*CHI:	oh I don't know what else of this one either.
+*INV:	mm.
+*INV:	can you tell me a little bit more?
+*CHI:	I know that skunks shoot out something.
+*CHI:	but I don't know what el- what it is called.
+*INV:	mm, great.
+@G:	Judge
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	hm, can you take a guess?
+*INV:	well what can you tell me?
+*CHI:	I don't know about this one.
+*INV:	mm, do you think maybe this could be a judge?
+*CHI:	&=shrugs &=nods:head_yes.
+*INV:	yeah?
+*INV:	well what more can you tell me?
+*INV:	go ahead and tell me whatever you'd like to.
+*CHI:	I just don't know about this one either.
+*INV:	mm.
+@G:	Dolphin
+*INV:	hm, &=peeks:picture &=gasps hm.
+*INV:	what is this?
+*CHI:	a dolphin.
+*INV:	what more can you tell me?
+*CHI:	it jumps over the water.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	it swims too.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a cupcake.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	mm.
+*CHI:	not give it to your cats.
+*CHI:	or your dogs.
+*INV:	mm, what else can you tell me?
+*CHI:	don't touch it if you don't want it.
+*INV:	mm.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	I don't know what it's called.
+*INV:	mm, well what can you tell me?
+*CHI:	you know that you can, you can have it for your picnic.
+*INV:	mm, what else can you tell me?
+*CHI:	even you [?] can eat this stuff that is in it.
+*INV:	mm.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a butterfly.
+*INV:	what more can you tell me?
+*CHI:	it flies.
+*INV:	what else can you tell me?
+*CHI:	hey I can catch butterflies.
+*INV:	mm.
+*CHI:	because one time I was at my grandma's house and I catched one.
+*INV:	mm.
+*CHI:	but we can't keep them forever.
+*INV:	mm.
+*CHI:	we have to let them go.
+*INV:	mm.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	what else can you tell me?
+*CHI:	you don't just bite it <and>
+	[?] give it to to your baby boys or twins.
+*INV:	mm.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a lady.
+*INV:	what more can you tell me?
+*CHI:	I don't know about this one either.
+*INV:	mm, why don't you go ahead and take a guess.
+*INV:	you can tell me whatever you'd like to.
+*CHI:	how many more of this we got?
+*INV:	just a few &=counts:pages.
+*INV:	seven.
+*INV:	so what more can you tell me?
+*CHI:	I just don't know about this one.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	a racecar.
+*INV:	mm, what more can you tell me?
+*CHI:	it goes fast.
+*INV:	what else can you tell me?
+*CHI:	and it crash, ⌈ sometimes⌉.
+*INV:	              ⌊mm⌋.
+*INV:	mm.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	ice cream.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	what else can you tell me?
+*CHI:	you don't give it, give it to to dogs or cats.
+@G:	Firefighter
+*INV:	&=gasps what is this?
+*CHI:	fireman.
+*INV:	what more can you tell me?
+*CHI:	it gets out fire.
+*CHI:	in in houses.
+*CHI:	and buildings.
+*INV:	what else can you tell me?
+*CHI:	that's all that I know about that.
+@G:	Cat
+*INV:	hm &=looks:next_page.
+*INV:	you wanna turn the page?
+*CHI:	yes.
+*INV:	what is this?
+*CHI:	a cat.
+*INV:	what more can you tell me?
+*CHI:	you don't get dogs' food and give it to cats.
+*INV:	what else can you tell me?
+*CHI:	you give give the the cat's cat food to the cat.
+*CHI:	can we just turn the page now?
+*INV:	okay.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	what more can you tell me?
+*CHI:	hey one time we goed at somewhere and it said &=makes:bird_noise.
+*INV:	what else can you tell me?
+*CHI:	and I kept saying that to them.
+*CHI:	I keep saying the same thing.
+*INV:	mm.
+*CHI:	they fly.
+*INV:	mm.
+*CHI:	they stand up on things.
+*CHI:	can we turn the page now?
+*INV:	okay.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina dancer.
+*INV:	what more can you tell me?
+*CHI:	she does ballet.
+*INV:	what else can you tell me?
+*CHI:	I don't know.
+*CHI:	what?
+*INV:	can you tell me a little bit more?
+*CHI:	I just don't know, this, either.
+*CHI:	can we just turn the page?
+*INV:	okay.
+*INV:	well very good we're all done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	no?
+*INV:	okay well thank you very much for doing that with me.
+*INV:	that was a whole lot of fun.
+@End

@@ -1,0 +1,184 @@
+@UTF8
+@PID:	11312/a-00032316-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.06|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Lobster
+@Types:	cross, narrative, TD
+*MOT:	what is that?
+*CHI:	a crab.
+*MOT:	looks, a lobster.
+*MOT:	you know how it's a lobster?
+*CHI:	huh?
+*MOT:	I don't know either &=laughs.
+@G:	Elephant
+*MOT:	what's that?
+*CHI:	eleph-elephant.
+*MOT:	uh huh.
+*MOT:	how many toes does an elephant have?
+*CHI:	one two three four five ⌈ six seven, eight⌉.
+*MOT:	on one                  ⌊foot⌋?
+*CHI:	I mean one two three four.
+*MOT:	right.
+@G:	Broccoli
+*MOT:	mm is that your favorite food?
+*CHI:	&=nods:head_yes.
+*MOT:	&=laughs what is it?
+*CHI:	I mean broccoli &=gasps.
+@G:	Witch
+*MOT:	who's that look like &=gasps?
+*CHI:	a witch.
+@G:	Teacher
+*MOT:	hm, who's that &=laughs?
+*CHI:	teacher.
+*MOT:	uh huh.
+@G:	Cake
+*CHI:	um cake.
+*MOT:	sure looks like a piece of birthday cake to me.
+@G:	Horse
+*MOT:	ah.
+*CHI:	a horse.
+*MOT:	it's a baby horse.
+*MOT:	a baby horse is a foal.
+@G:	Alligator
+*MOT:	oh wow.
+*CHI:	cool.
+*MOT:	what is it?
+*CHI:	crocodile.
+*MOT:	how do we know it's a crocodile.
+*CHI:	um because it's brown.
+*MOT:	what about the snout?
+*MOT:	actually this looks like an alligator to me.
+*CHI:	oh.
+*MOT:	isn't, or no.
+*MOT:	you know what you're probably right.
+*MOT:	because the crocodile's nose is longer, and skinner.
+*MOT:	and an alligators's is shorter and fatter.
+@G:	Clown
+*MOT:	ah what's that?
+*CHI:	clown.
+@G:	Penguin
+*CHI:	penguin.
+*MOT:	do you remember the movie we saw?
+*CHI:	uh huh.
+@G:	Pilot
+*CHI:	airplane.
+*MOT:	up you knew that was a pilot?
+*CHI:	uh huh.
+*MOT:	hm.
+@G:	Orange
+*CHI:	orange.
+*MOT:	sure it's not a apple?
+*CHI:	no!
+@G:	Football Player
+*CHI:	football team.
+*MOT:	team?
+*CHI:	football team.
+*MOT:	if there's a team would there be more than one or +...
+*CHI:	mean football.
+*MOT:	player?
+*CHI:	player.
+*MOT:	uh huh.
+@G:	Popcorn
+*MOT:	⌈hm⌉.
+*CHI:	⌊popcorn⌋.
+@G:	Cereal
+*CHI:	uh, Cheez-its.
+*MOT:	cheez-its &=laughs?
+*MOT:	no.
+*CHI:	darn.
+*MOT:	what do you think?
+*MOT:	what do we eat ⌈in the morning⌉?
+*CHI:	               ⌊chips⌋.
+*MOT:	nope.
+*MOT:	what do you eat in the morning?
+*MOT:	you pour milk into it.
+*CHI:	cereal.
+*MOT:	yes.
+*MOT:	okay let's just look at this again.
+@G:	Lobster
+*MOT:	because, now that we've gone through it once what do you know about lobsters?
+*CHI:	they snap at you.
+*MOT:	uh huh, have you ever tried it, did you ever eat a lobster before?
+*CHI:	mm no.
+*MOT:	you didn't try it?
+*CHI:	hm no yeah ⌈ I don't know⌉.
+*MOT:	maybe you  ⌊did⌋.
+@G:	Elephant
+*MOT:	what do you know about elephant's?
+*CHI:	uh that they pull trees down with their nose.
+*MOT:	uh huh, do they have a good memory?
+*CHI:	&=shakes:head_no.
+*MOT:	oh yeah memor- elephant ⌈yeah⌉.
+*CHI:	mean                    ⌊yes⌋.
+@G:	Broccoli
+*MOT:	what do you know about broccoli?
+*CHI:	that makes you strong, and healthy.
+*MOT:	uh huh.
+@G:	Witch
+*MOT:	what do you know about witches?
+*CHI:	they're scary spooky and ahh [= witch cackle].
+*MOT:	&=laughs is there a good witch?
+*MOT:	yes?
+*CHI:	yes.
+@G:	Teacher
+*MOT:	this teacher looks like she's teaching, uh maybe math.
+*CHI:	hey her hair blends in.
+*MOT:	her hair blends in with the chalkboard?
+*CHI:	uh huh.
+*MOT:	what do you know about teachers?
+*CHI:	they te-teach you something.
+@G:	Cake
+*MOT:	what do you know about cake?
+*CHI:	it make eh you eat it.
+*MOT:	that's it?
+*CHI:	uh huh.
+@G:	Horse
+*MOT:	what do you know about, foals?
+*MOT:	baby horses?
+*CHI:	um they run and they <go> [?] nay nay nay [= horse sound].
+@G:	Alligator
+*MOT:	now what do you know about alligator's or crocodile's?
+*CHI:	they go under water or they bite, people.
+*MOT:	you know a lot about those.
+@G:	Clown
+*MOT:	what do you know about clowns?
+*CHI:	I know they're funny.
+*CHI:	let me see it &=looks:closer.
+*CHI:	let me see it.
+*MOT:	what's he doing?
+*CHI:	he put his ear like aw!
+@G:	Penguin
+*MOT:	what do you know about penguins?
+*CHI:	they walk in snow.
+*CHI:	and they go in the water.
+*MOT:	uh huh.
+@G:	Pilot
+*MOT:	what do you know about airplane pilots?
+*CHI:	they fly an- I mean the airplane flies.
+*CHI:	and they say “good morning”.
+@G:	Orange
+*MOT:	what do you know about oranges?
+*CHI:	they make you strong.
+@G:	Football Player
+*MOT:	what do you know about football players?
+*CHI:	uh they catch and when, they don't aim at their hand they aim at
+	their eye and they xxx &=hits:head_with_hand.
+@G:	Popcorn
+*MOT:	what do you know about popcorn?
+*CHI:	makes you weak.
+*MOT:	popcorn makes you weak?
+*CHI:	&=nods:head_yes.
+*MOT:	not, in moderation it's okay for you.
+*MOT:	it's a healthy snack.
+@G:	Cereal
+*MOT:	what do you know about cereal?
+*MOT:	looks like Kellogg's corn flakes to me.
+*CHI:	makes you healthy.
+*MOT:	the end.
+*MOT:	here you go.
+*MOT:	take a look at it.
+@End

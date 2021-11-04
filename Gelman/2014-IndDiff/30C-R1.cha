@@ -1,0 +1,226 @@
+@UTF8
+@PID:	11312/a-00032144-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.03|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Cake
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a cake.
+*INV:	what more can you tell me?
+*CHI:	what?
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	and it's a chocolate cake.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it's a chocolate one.
+*CHI:	it's a chocolate one.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	broccoli.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	mm-hm [= yes].
+*CHI:	I'm ready for the next page.
+*INV:	oh.
+*INV:	well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't, know anything else about it.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horse.
+*INV:	what more can you tell me?
+*CHI:	it has a tail.
+*INV:	mm-hm [= yes].
+*CHI:	you ride it.
+*INV:	mm-hm [= yes].
+*CHI:	it has legs.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know about it.
+*INV:	is there anything else you want to tell me?
+*CHI:	I need somebody to tie a bow [= drawstring untied].
+*INV:	oh, here I can help you.
+*INV:	do you want to stand up for a second &=ties:drawstring.
+*INV:	all done.
+*CHI:	firstname has the same outfit I do.
+*INV:	mm.
+*CHI:	I'm ready for the next page.
+*INV:	okay, do you want to turn the page?
+@G:	Football Player
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	can you take a guess?
+*CHI:	a hockey player.
+*INV:	good, what more can you tell me?
+*CHI:	I don't know anything else about it.
+*INV:	you can tell me whatever comes to mind.
+*INV:	whatever you think of.
+*CHI:	it has legs.
+*INV:	mm-hm [= yes].
+*CHI:	it has arms.
+*INV:	mm-hm [= yes].
+*CHI:	I'm ready for the next page.
+*INV:	okay.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	it doesn't have any legs.
+*INV:	mm.
+*CHI:	it has arms.
+*INV:	mm-hm [= yes].
+*CHI:	it has a nose.
+*INV:	mm-hm [= yes].
+*CHI:	it has eyes.
+*INV:	mm-hm [= yes].
+*CHI:	it has a head.
+*INV:	mm-hm [= yes].
+*CHI:	I'm ready for the next page.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has a belly.
+*CHI:	I'm ready for the next page.
+*INV:	okay.
+@G:	Orange
+*INV:	what is this?
+*CHI:	a orange.
+*INV:	what more can you tell me?
+*CHI:	it's orange.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has a stem.
+*CHI:	that's all it has.
+*CHI:	you can you, it's for you to eat.
+*INV:	mm.
+*CHI:	that's all I know.
+*INV:	okay you're doing very good.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	a airplane in the front.
+*INV:	what more can you tell me?
+*CHI:	just it goes up in the sky.
+*INV:	mm-hm [= yes].
+*CHI:	it has seats.
+*CHI:	I'm done with this page.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know anything else about it.
+*INV:	alright.
+*CHI:	why just fly one people at a time?
+*INV:	mm, it's the way the book's created.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	a elephant.
+*INV:	what more can you tell me?
+*CHI:	it has legs.
+*INV:	what more oh.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know anything else it has.
+*INV:	you can say whatever you think of.
+*CHI:	I'm done with this page, now.
+*INV:	okay.
+@G:	Crab
+*INV:	what is this?
+*CHI:	a crab.
+*INV:	what more can you tell me?
+*CHI:	it it will pinch your fingers.
+*INV:	mm-hm [= yes].
+*CHI:	I have a book about, it.
+*CHI:	but it has those in it.
+*INV:	mm.
+*CHI:	<it's stand up> [?].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I don't know anything else, of it.
+*CHI:	I'm ready for the next page.
+*INV:	okay.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	it helps kids teach.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know anything else.
+*INV:	well you can tell me whatever you think of.
+*CHI:	we bringed food here.
+*INV:	mm.
+*CHI:	I don't know all of it.
+*INV:	okay.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	egg salad.
+*INV:	mmm what more can you tell me?
+*CHI:	I don't know anything else.
+*INV:	mm.
+*INV:	well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I'm ready for the next page.
+*INV:	well you can tell me whatever comes to mind.
+*INV:	can you tell me anything?
+*CHI:	I don't know anything else about egg salad.
+*INV:	alright.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	cereal.
+*INV:	what more can you tell me?
+*CHI:	it's Total.
+*INV:	mm-hm [= yes].
+*CHI:	my dad eats Total.
+*INV:	what else can you tell me?
+*CHI:	it needs milk.
+*INV:	mm.
+*CHI:	I don't know anything else.
+*INV:	okay.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	a alligator.
+*INV:	what more can you tell me?
+*CHI:	it eats you.
+*INV:	mm.
+*INV:	anything else you want to tell me?
+*CHI:	I don't know anything else.
+*INV:	mm.
+*CHI:	I'm ready for the next page.
+*INV:	okay.
+@G:	Witch
+*INV:	what is this?
+*CHI:	a witch.
+*INV:	what more can you tell me?
+*CHI:	it's for Halloween.
+*INV:	mm-hm [= yes].
+*CHI:	that's all I know.
+*INV:	well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I'm ready for the next page.
+*INV:	what else can you tell us?
+*CHI:	I'm ready for the next page.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	it's dressed up of a people.
+*INV:	mm-hm [= yes].
+*CHI:	I don't know anything else.
+*INV:	can you tell me a little bit more?
+*CHI:	okay.
+*CHI:	it's pointing at his ears.
+*INV:	mm.
+*CHI:	I and there's no more pages.
+*CHI:	I'm done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	alright.
+*CHI:	I did it with my mommy.
+*INV:	oh okay.
+*INV:	well thank you very much for doing it with me.
+*INV:	that was a lot a lot of fun.
+*INV:	do you want to put Zorg back into his box?
+*CHI:	yeah.
+@End

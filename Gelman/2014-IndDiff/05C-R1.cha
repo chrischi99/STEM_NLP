@@ -1,0 +1,245 @@
+@UTF8
+@PID:	11312/a-00031994-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;03.09|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Race Car Driver
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	race.
+*INV:	what more can you tell me?
+*CHI:	xxx feet xxx stand up by himselfs [= referring to Zorg].
+*INV:	you know what?
+*INV:	he doesn't.
+*INV:	so I'll just hold him.
+*INV:	so what more can you tell me?
+*CHI:	um that's a race.
+*INV:	(o)kay.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um people xxx trying to race fast.
+*CHI:	swhoo.
+*INV:	&=nods:yes okay.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	I don't know anything about this one.
+*INV:	okay.
+*INV:	well is there anything you can tell me?
+*CHI:	xxx.
+*CHI:	<what that thing at right there> [?].
+*INV:	what'd you say?
+*CHI:	<what that thing at right there> [?].
+*INV:	you know I don't know.
+*INV:	hm.
+*CHI:	and why you need these [= referring to note cards]?
+*INV:	&=laughs I don't really.
+*INV:	but we're just going to leave those there.
+*CHI:	let's do a different one.
+@G:	Butterfly
+*CHI:	ladybug.
+*INV:	&=gasps what more can you tell me?
+*CHI:	and they fly.
+*CHI:	fly fast.
+*INV:	mm-hm [= yes].
+*CHI:	maybe that's not a ladybug.
+*INV:	⌈okay⌉.
+*CHI:	⌊butterfly⌋.
+*INV:	mkay [= okay].
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	they fly.
+*INV:	okay.
+*CHI:	and what are those things for &=points:page?
+*INV:	you know I don't really know.
+*INV:	what do you think?
+*CHI:	&=shrugs:shoulders.
+*INV:	mkay [= okay].
+*CHI:	&=takes:deep_breaths.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	a dolphin.
+*INV:	what more can you tell me?
+*CHI:	they swim in the [?] oceans.
+*INV:	okay.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, um, do you think that's a elephant &=points:Zorg?
+*INV:	you know I don't really know.
+*INV:	it, it could be.
+*INV:	do you want to turn it [= referring to page]?
+*CHI:	yeah.
+@G:	Old Woman
+*CHI:	old lady <who's this old> [?] !
+*INV:	what more can you tell me?
+*CHI:	you know, I don't know about old ladies, like that.
+*INV:	mm.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well I don't know much about that, either.
+*INV:	okay.
+*INV:	do you wanna?
+*CHI:	um xxx?
+*INV:	do you wanna turn the page?
+*CHI:	yeah.
+@G:	Firefighter
+*INV:	&=gasps what is this?
+*CHI:	a fireman!
+*INV:	what more can you tell me?
+*CHI:	um they take out fire.
+*INV:	mm-hm.
+*CHI:	and firemans <take out hot lava> [?].
+*INV:	mm.
+*CHI:	xxx.
+@Comment:	Noises outside room
+*CHI:	        ⌈ I can hear Firstname and Dadda⌉.
+*INV:	oh hold ⌊on⌋.
+*INV:	but let's keep going.
+*CHI:	yeah.
+@G:	Pineapple
+*INV:	⌈wh⌉ +...
+*CHI:	⌊pineapple⌋!
+*CHI:	Spongebob liveses in a pineapple.
+*INV:	oh, okay.
+*INV:	well what more can you tell me?
+*CHI:	I don't like to eat pineapples.
+*CHI:	they, hurt me.
+*INV:	oh.
+@G:	Muffin
+*INV:	&=gasps.
+*CHI:	what is that?
+*INV:	I don't know.
+*INV:	what is it?
+*CHI:	I don't know.
+*INV:	well, it's, can, do you want to take a guess?
+*CHI:	no.
+*INV:	okay.
+*INV:	well what can you tell me?
+*CHI:	well people like those things but I like um, eggs with frosting.
+*CHI:	what are these &=points:sound_panel?
+*INV:	&=laughs do you wanna turn the page?
+*CHI:	yeah.
+@G:	Judge
+*INV:	&=gasps what is this?
+*CHI:	I I think that's a news guy.
+*INV:	okay well what what more can you tell me?
+*CHI:	um I think he's from the news.
+*CHI:	&=rocks:chair.
+*INV:	well ah can you keep your two feet on the ground?
+*CHI:	okay.
+*INV:	okay.
+*INV:	I'm just afraid that something might, that you might hurt yourself.
+*INV:	okay well what more can you tell me?
+*CHI:	you know I don't know much more about this guy.
+*INV:	okay.
+@G:	Ice Cream
+*CHI:	ice cream.
+*CHI:	I love ice cream!
+*INV:	what more can you tell me?
+*CHI:	well ice cream is sweet and it has sugar.
+*CHI:	so that's why I like ice cream.
+*CHI:	and ice cream isn't healthy.
+*INV:	mm.
+*INV:	okay.
+@G:	Skunk
+*CHI:	yuck!
+*CHI:	that's a, those, those things stink &=pinches:nose.
+*INV:	those things stink?
+*CHI:	yeah (be)cause they're skunks.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	well they really stink bad.
+*INV:	I can't understand you.
+*INV:	what'd you just say?
+*CHI:	well they stink bad.
+*INV:	oh.
+*CHI:	ew.
+*CHI:	yuck.
+*INV:	&=laughs well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	xxx <fuzzy tails> [?].
+*CHI:	do these ones hunt for food?
+*CHI:	what food?
+*INV:	&=shakes:head you know I don't really know.
+*INV:	do you?
+*CHI:	um no.
+*INV:	mm.
+*INV:	okay.
+*CHI:	xxx.
+@G:	Pumpkin
+*CHI:	pumpkin.
+*CHI:	I like pumpkins!
+*CHI:	hey do people eat pumpkins?
+*INV:	I don't know.
+*INV:	what do you think?
+*CHI:	I think no.
+*CHI:	(be)cause pumpkins are a way lot sugary.
+*INV:	mm.
+*INV:	well what more can you tell me?
+*CHI:	um you can't eat that that part &=points:picture.
+*CHI:	that part's um um uh, it makes you hurt.
+*INV:	can you say that again?
+*CHI:	it makes you hurt.
+*INV:	oh okay.
+*INV:	okay.
+@G:	Cat
+*CHI:	kitty.
+*CHI:	I love kitties you know.
+*INV:	can you say that again?
+*CHI:	kitties.
+*CHI:	I love kitties you know.
+*INV:	mm.
+*INV:	well what can you tell me?
+*CHI:	kitties are soft and furry.
+*CHI:	&=slurps.
+*INV:	okay.
+*CHI:	they like cat food.
+*INV:	okay.
+@G:	Parrot
+*CHI:	a parrot.
+*CHI:	I love parrot parrots the most.
+*INV:	mm-hm [= yes].
+*CHI:	                       ⌈yeah⌉.
+*INV:	what more can you tell ⌊me⌋?
+*CHI:	parrots need to be on sticks.
+*INV:	okay.
+*CHI:	when they're hungry they come off of the sticks and eat.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and they got beaks.
+*CHI:	you see &=points:picture?
+*INV:	mm.
+*INV:	okay.
+*CHI:	and what's that on top it's head?
+*INV:	oh I don't know.
+*INV:	what do you think?
+*CHI:	I think hair.
+*INV:	oh okay.
+*INV:	okay.
+@G:	Cracker
+*INV:	&=gasps ⌈what is this⌉?
+*CHI:	a       ⌊cracker⌋.
+*INV:	what more can you tell me?
+*CHI:	nothin(g).
+*CHI:	well crackers are crunchy and they're squares.
+*INV:	mm-hm [= yes].
+*CHI:	and they got little holes.
+*INV:	okay.
+*CHI:	and people love them the most.
+*INV:	okay.
+*INV:	now you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um do you think that's an elephant or a mean polar bear
+	[= referring to Zorg]?
+*INV:	could you say that again?
+*CHI:	do you think Org is a elephant or a mean polar bear?
+*INV:	you know I'm not really sure.
+*CHI:	and crackers are just ah just just sugary.
+*INV:	okay.
+@Comment:	No pictures visible
+*CHI:	all done.
+*INV:	do you wanna look again?
+*CHI:	no.
+@End

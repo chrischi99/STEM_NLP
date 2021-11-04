@@ -1,0 +1,399 @@
+@UTF8
+@PID:	11312/a-00032263-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.08|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Ice Cream
+@Types:	cross, narrative, TD
+*CHI:	that looks like a tasty treat to me.
+*MOT:	a tasty treat?
+*MOT:	what kind do you think it is?
+*CHI:	&=pretends:lick_icecream_cone.
+*MOT:	yeah.
+*MOT:	but what is it called?
+*CHI:	ice cream.
+*MOT:	yep.
+*MOT:	what flavor do you think it is?
+*CHI:	strawberry.
+*MOT:	strawberry.
+*MOT:	what kind of cone is it?
+*CHI:	my favorite.
+*MOT:	your favorite kind?
+*MOT:	do you know what it's called?
+*MOT:	it's called a sugar cone.
+*CHI:	because it's a cookie.
+*MOT:	(be)cause it tastes like a cookie?
+*CHI:	no it's a cookie.
+*CHI:	they make it out of cookies.
+*MOT:	do they make it out of cookies?
+*CHI:	yeah.
+@G:	Pumpkin
+*CHI:	a pumpkin.
+*MOT:	hm, do you have one of those?
+*CHI:	yeah &=starts:turn_page.
+*MOT:	&=stops:page_turning hey with this pumpkin though, how is it like
+	yours?
+*CHI:	it's orange and it [?] got stem.
+*MOT:	d- is yours different too?
+*MOT:	how's yours different?
+*CHI:	well mine doesn't have no stem.
+*MOT:	it doesn't have a stem?
+*CHI:	no.
+*MOT:	how about, is yours tall like this?
+*MOT:	or is yours ⌈ wide⌉.
+*CHI:	            ⌊it's⌋ +...
+*MOT:	is it fat?
+*CHI:	yeah.
+*MOT:	fat.
+*MOT:	what are you gonna do with yours?
+*CHI:	carve it ⌈ a big big big face⌉.
+*MOT:	carve    ⌊it⌋.
+*MOT:	mm.
+*CHI:	with teeth.
+*MOT:	with teeth?
+*CHI:	yeah.
+*MOT:	wow how are you going to do that?
+*CHI:	you just go like &=traces:teeth_outline_in_air.
+*MOT:	okay.
+*CHI:	that's how.
+@G:	Dolphin
+*CHI:	hey firstname used to swim with one of these.
+*MOT:	mm-hm, what is it?
+*CHI:	a dolphin.
+*MOT:	a dolphin, ⌈yeah⌉.
+*CHI:	dolphins are pretty ⌊nice⌋.
+*MOT:	how come?
+*CHI:	because they don't bite anything.
+*CHI:	they only bite what they want to eat.
+*CHI:	but they don't bite people.
+*MOT:	what would you do if you saw a dolphin?
+*CHI:	just, talk to it like &=makes:clicking_noises.
+*MOT:	is that how you would talk to it?
+*CHI:	yeah.
+@G:	Pineapple
+*MOT:	do[?] you know what that is?
+*CHI:	a pineapple.
+*MOT:	yeah.
+*MOT:	do we eat the outside part?
+*CHI:	&=shakes:head_no.
+*MOT:	how come?
+*CHI:	because it's prickly.
+*MOT:	it's prickly.
+*CHI:	                  ⌈yeah⌉.
+*MOT:	what's the inside ⌊like⌋?
+*CHI:	juicy.
+*MOT:	juicy?
+*MOT:	what color is the inside?
+*CHI:	orange.
+*MOT:	you think a pineapple is orange?
+*MOT:	or yellow?
+*CHI:	yellow.
+@G:	Muffin
+*CHI:	hey that's a a [?] blueberry muffin.
+*CHI:	          ⌈I⌉ +...
+*MOT:	what's on ⌊top⌋?
+*CHI:	&=shrugs.
+*MOT:	you don't know?
+*MOT:	how do you know it's blueberry?
+*CHI:	because look.
+*CHI:	blue.
+*MOT:	yeah.
+*MOT:	what if those were chocolate chips?
+*MOT:	they might be chocolate chip.
+*CHI:	yeah.
+@G:	Butterfly
+*CHI:	I used to catch one of those.
+*CHI:	I would just catch its wing &=demonstrates.
+*MOT:	really?
+*CHI:	yeah.
+*MOT:	with your net?
+*MOT:	or did you catch it with your &=traps:butterfly_in_hand?
+*MOT:	you caught it on the bush didn't ya?
+*CHI:	yeah I +...
+*MOT:	the butterfly bush?
+*CHI:	yeah like this &=pinches.
+*MOT:	went like that?
+*CHI:	yeah.
+*MOT:	do you know what kind of butterfly this is?
+*CHI:	the same kind I caught.
+*MOT:	&=laughs but do you know what it's called?
+*CHI:	what?
+*MOT:	a monarch.
+*CHI:	so I caught a monarch ⌈butterfly⌉.
+*MOT:	a monarch butterfly   ⌊yep⌋.
+*CHI:	that's what kind I caught.
+*MOT:	I used to see these when I was in school.
+*CHI:	but guess what.
+*MOT:	I even s-we saw it (be)cause we caught it when it was still in a cocoon.
+*MOT:	do you know what a cocoon is?
+*CHI:	yeah it's where they keep safe, ⌈and⌉.
+*MOT:	                                ⌊yeah⌋.
+*MOT:	do you know what a butterfly is before it's a butterfly?
+*CHI:	a caterpillar.
+*MOT:	yeah and the caterpillar wraps the cocoon around ⌈itself⌉.
+*CHI:	                                                 ⌊mom⌋, um the kind of butterfly I caught had orange and white so this
+	is the same kind of butterfly.
+*MOT:	so you caught a monarch butterfly.
+*MOT:	pretty cool.
+*CHI:	yeah.
+@G:	Parrot
+*CHI:	that's a parrot.
+*MOT:	how do you know it's a parrot?
+*CHI:	(be)cause it's all kind of colors.
+*CHI:	                ⌈ow⌉ [?].
+*MOT:	what do parrots ⌊do⌋?
+*CHI:	&=makes:bird_noises.
+*MOT:	did you know some of (th)em can talk?
+*CHI:	like at the clown.
+*MOT:	yeah like the clown had a parrot that could talk.
+*CHI:	yeah.
+*MOT:	what did the clown's parrot say?
+*CHI:	“hello”.
+*CHI:	wasn't that funny?
+*MOT:	yep.
+*MOT:	did the clown teach it to talk?
+*CHI:	mm-hm [= yes].
+*CHI:	and I used to feed the parrot.
+*MOT:	you have fed a parrot?
+*CHI:	yeah.
+*MOT:	where?
+*CHI:	remember at the zoo?
+*CHI:	I I had some ⌈bird feed⌉.
+*MOT:	oh with the  ⌊stick⌋.
+*CHI:	yeah.
+*MOT:	yeah with the feeder stick.
+*CHI:	yeah.
+*MOT:	when you were a baby.
+*MOT:	you don't remember that do you?
+*CHI:	I do remember.
+*MOT:	you ⌈do⌉?
+*CHI:	it's when it's when grandpa took ⌊me⌋, grandpa firstname took me to
+	the zoo.
+*MOT:	oh he did take you again.
+*MOT:	did you get to go in there again?
+*MOT:	what-i didn't see you in there.
+*CHI:	I I goed in there it's only one time.
+*MOT:	oh.
+*CHI:	I only +...
+*MOT:	what would you name a parrot if you had a parrot?
+*CHI:	Ella.
+*MOT:	Ella?
+*MOT:	everything's Ella.
+@G:	Old Woman
+*MOT:	what's that?
+*CHI:	&=raises:hands [= I don't know].
+*MOT:	you don't know?
+*CHI:	a woman.
+*MOT:	a woman.
+*MOT:	how do you know it's a woman?
+*CHI:	well, woman's shoes.
+*MOT:	she has woman shoes.
+*CHI:	and, woman's skirt and +...
+*MOT:	do [?] you think it's a skirt or do you think it's pants?
+*CHI:	skirt.
+*MOT:	how come?
+*CHI:	(be)cause look &=points:picture.
+*MOT:	what if that's the pants?
+*MOT:	the pant line?
+*MOT:	or her legs.
+*CHI:	I don't know.
+*CHI:	this is her stilt to help her walk.
+*MOT:	mm-hm, her cane.
+*CHI:	mm-hm [= filler].
+*MOT:	I thought it was a woman too (be)cause see the necklaces?
+*CHI:	yeah.
+*CHI:	only womans wear necklaces.
+*MOT:	not all the time.
+*MOT:	most of the time.
+@G:	Ballerina
+*CHI:	a ballerina.
+*CHI:	soon I'll go to a [?] ballerina class.
+*MOT:	will you?
+*CHI:	yeah I think so.
+*MOT:	what will you learn?
+*CHI:	how to dance like a ballerina.
+*MOT:	how do they dance?
+*CHI:	well, I kind of, know a little bit.
+*CHI:	they do splits like this &=demonstrates.
+*MOT:	like that?
+*CHI:	and they twirl like, it's kind of like this but they go like &=spins.
+*MOT:	yeah?
+*MOT:	you did something that I think of with ballerinas.
+*MOT:	they stand on one toe.
+*CHI:	yep.
+*MOT:	one foot with their toes.
+*CHI:	yeah.
+*MOT:	would that be hard?
+*CHI:	no ⌈watch⌉.
+*MOT:	you don't think ⌊so⌋?
+*CHI:	watch.
+*MOT:	<could> [?] you stand on your toes xxx?
+*MOT:	oh but you fell over.
+*CHI:	no I didn't.
+*MOT:	you didn't?
+*CHI:	watch &=tries:stand_on_toe.
+*MOT:	what, kind of outfits do ballerinas wear?
+*CHI:	tutus.
+*MOT:	how did you know that?
+*CHI:	and tights.
+*MOT:	how did you know that?
+*MOT:	how did you know what a tutu is?
+*CHI:	well, they're kind of, pink.
+*CHI:	and their tights and their +...
+*MOT:	but where did you learn that word?
+*MOT:	I don't think I've ever said tutu.
+*CHI:	tutu?
+*MOT:	yeah where did you hear that?
+*CHI:	tutus are what ballerinas wear.
+*MOT:	did you see that on tv?
+*CHI:	well that's a tutu.
+*MOT:	did you see that on jojo's_circus?
+*CHI:	yeah.
+*CHI:	did you know, firstname is a ballerina wearing a tutu?
+*MOT:	is she?
+*CHI:	yeah.
+*MOT:	a lot of times they're pink aren't they?
+@G:	Skunk
+*MOT:	oh what is that?
+*CHI:	a skunk.
+*MOT:	why are you pluggin(g) your nose?
+*CHI:	I think because I was warning you if you go by a real skunk you should plug your nose.
+*MOT:	yeah how come?
+*CHI:	because they're stinky.
+*MOT:	&=laughs they're stinky.
+*CHI:	just like the cows when we were going to the, hotel.
+*MOT:	yeah the cows were stinky.
+*MOT:	but skunks are very stinky.
+*CHI:	remember +...
+*MOT:	do you know when they get stinky?
+*MOT:	they're not stinky all the time.
+*CHI:	when do they get stinky?
+*MOT:	if they get scared, <ya know what they do> [?]?
+*CHI:	they spray us.
+*MOT:	yeah they lift up their tail and they spray you.
+*CHI:	well [?] +...
+*MOT:	you skipped one.
+*CHI:	mom, mom?
+*MOT:	what?
+*CHI:	did you know if, a skunk meets a cat it'll just run away?
+*MOT:	do you think so?
+*CHI:	yeah because they're larger than skunks.
+@G:	Judge
+*CHI:	what's that?
+*MOT:	well let's look and see what you think.
+*CHI:	a teacher.
+*MOT:	a teacher?
+*CHI:	yeah.
+*MOT:	I think it might be somthing else.
+*CHI:	can you tell me?
+*MOT:	well look and see there are some clues.
+*CHI:	he has glasses.
+*MOT:	yeah.
+*CHI:	and a pen.
+*CHI:	and a piece of paper.
+*MOT:	what's he wearing?
+*CHI:	oh it's a missionary.
+*MOT:	a missionary?
+*MOT:	it looks like that.
+*MOT:	maybe it is.
+*MOT:	I think, it could be, like a church person.
+*MOT:	or I think it could be a judge.
+*CHI:	judges don't live when people are on the earth.
+*MOT:	you don't think so?
+*CHI:	nope.
+*CHI:	I don't see any judges.
+*MOT:	hm, there are some judges.
+*MOT:	and they look like that.
+*MOT:	they wear black robes.
+@G:	Cat
+*CHI:	ooh remember xxx [= pet]?
+*MOT:	xxx the kitty?
+*CHI:	yeah.
+*MOT:	at grandma's house?
+*CHI:	yeah.
+*MOT:	does xxx [= pet] look like that?
+*CHI:	mm-mm [= no].
+*MOT:	how is she different?
+*CHI:	brown white black.
+*MOT:	and what color is this cat?
+*CHI:	brown and white.
+*MOT:	what would you name this cat?
+*CHI:	xxx [= pet]?
+*MOT:	hm xxx [= pet]?
+*CHI:	oh then two xxx [= pets].
+*MOT:	yeah maybe we'd get confused.
+*CHI:	maybe Shelly.
+*MOT:	Shelly?
+*MOT:	that's a good name.
+*CHI:	yeah.
+*MOT:	so do you think this is a grown up cat or a baby cat or in between?
+*CHI:	I think it's just, medium.
+*MOT:	a medium.
+*CHI:	mm-hm [= filler].
+*MOT:	so would we call it a cat or a kitten?
+*CHI:	cat.
+*MOT:	a cat.
+@G:	Race Car Driver
+*CHI:	hm, what's that?
+*CHI:	oh I know what it is.
+*MOT:	what?
+*CHI:	it's the charger.
+*MOT:	a charger?
+*CHI:	yeah.
+*MOT:	what does a charger mean?
+*CHI:	um, chargers are in games.
+*CHI:	they're like, they have those whistles to blow.
+*MOT:	like a referee?
+*CHI:	well, they're called chargers ⌈because⌉ +...
+*MOT:	what do they                  ⌊do⌋?
+*CHI:	they charge the games.
+*MOT:	you mean they start the game?
+*CHI:	yeah.
+*MOT:	             ⌈ah⌉.
+*CHI:	and they say ⌊charge⌋.
+*MOT:	charge?
+*CHI:	yeah.
+*MOT:	well I think maybe it's something different.
+*CHI:	well +...
+*MOT:	I think the clue is what's behind him.
+*CHI:	he's a racer.
+*MOT:	yeah a racecar driver.
+*MOT:	see all the people back here that are coming to watch the race?
+*CHI:	uh huh [= yes].
+@G:	Firefighter
+*CHI:	ooh that's easy it's a firefighter.
+*MOT:	yeah.
+*MOT:	what's he doing?
+*CHI:	putting out a fire.
+*MOT:	where's the fire?
+*MOT:	I wonder what's on fire.
+*CHI:	a house maybe.
+*MOT:	maybe.
+*CHI:	maybe the baby's trapped inside.
+*MOT:	do you think he will rescue whoever's trapped?
+*CHI:	uh huh [= yes].
+*MOT:	yup.
+@G:	Cracker
+*CHI:	oh that's my favorite thing.
+*MOT:	what is it?
+*CHI:	a graham cracker.
+*MOT:	you know what?
+*MOT:	it's actually called something different.
+*CHI:	a cracker?
+*MOT:	it's [?] a cracker.
+*MOT:	it's a soda cracker.
+*MOT:	you like soda huh?
+*MOT:	but it doesn't taste like soda pop.
+*MOT:	what does it taste like?
+*CHI:	soda.
+*MOT:	mm, there's salt on top.
+*CHI:	that's why it's called soda.
+*MOT:	I don't know why it's called soda cracker.
+*CHI:	and I guess that's all.
+*MOT:	are you done?
+*CHI:	yep.
+*MOT:	okay you can knock on the window then.
+@End

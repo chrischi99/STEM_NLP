@@ -1,0 +1,165 @@
+@UTF8
+@PID:	11312/a-00032360-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.18|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pirate
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	it's a pirate.
+*INV:	what more can you tell me?
+*CHI:	um I know (be)cause it has jewelry.
+*INV:	mm.
+*CHI:	and quarters.
+*INV:	mm.
+*CHI:	and that's a parrot.
+*INV:	oh.
+@G:	Turtle
+*CHI:	and that, what is that?
+*INV:	what is this?
+*CHI:	it looks like a turtle.
+*INV:	mm, what more can you tell me?
+*CHI:	mm, I don't know.
+*INV:	it's okay you can tell me whatever you'd like to.
+@G:	Cheese
+*CHI:	I know that's cheese.
+*INV:	what more can you tell me?
+*CHI:	&=turns:page.
+*INV:	oh, honey can we slow down a little bit?
+*CHI:	&=turns:page_back that's cheese.
+*CHI:	I know one two three four five.
+*INV:	what more can you tell me?
+*CHI:	well it's sliced almost like a cake.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=shows:picture_Zorg I don't know if he knows it.
+*INV:	oh.
+*INV:	well you can tell him whatever you'd like to.
+@G:	Painter
+*INV:	what is this?
+*CHI:	painter.
+*INV:	what more can you tell me?
+*CHI:	um, he [= Zorg] knows about that &=shows:picture_Zorg.
+*INV:	okay well what more can you tell me?
+@G:	Bread
+*INV:	⌈what is this⌉?
+*CHI:	⌊bread⌋.
+*CHI:	bread bread.
+*INV:	what more can you tell me?
+*CHI:	&=starts:turn_page.
+*INV:	oh honey can we slow down and talk a little bit more?
+*CHI:	yeah.
+*INV:	okay.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it's sliced.
+*INV:	mm, anything else you wanna tell me?
+@G:	Puppy
+*CHI:	that looks like a pretty [?] puppy.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it, has eyes.
+*CHI:	and it has little ears.
+*CHI:	and it [?] has a body.
+*INV:	mm.
+*CHI:	it's pretty long [?].
+*INV:	mm.
+@G:	Ladybug
+*CHI:	a ladybug.
+*INV:	what more can you tell me?
+*CHI:	how many pages, have we been looking at?
+*INV:	I'm not sure.
+*CHI:	I'll count &=counts:pages.
+*CHI:	one, two three four, four, five six seven eight.
+*INV:	mm.
+*CHI:	we looked at eight.
+*INV:	mm.
+@G:	Doctor
+*CHI:	why is he, why is she in there?
+*INV:	I'm not sure.
+*INV:	what is this?
+*CHI:	she's a doctor.
+*CHI:	&=counts:pages one two three, four five six seven eight nine.
+*INV:	well what more can you tell me?
+*CHI:	&=starts:turn_page.
+*INV:	oh honey can we slow down a little bit and talk?
+*INV:	is that okay?
+*CHI:	yes.
+*INV:	okay.
+*INV:	what more can you tell me?
+*CHI:	(be)cause she's in, there.
+*INV:	mm.
+@G:	Baby
+*CHI:	it's a baby.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*INV:	it's okay.
+*INV:	you can tell me whatever you'd like to.
+*INV:	whatever you think of.
+*CHI:	(be)cause it looks like a baby.
+@G:	Cookie
+*CHI:	one cookie.
+*INV:	what more can you tell me?
+@G:	Carrot
+*CHI:	&=counts:pages a, one two, three four ⌈five six , oh what is that⌉?
+*CHI:	six seven eight nine ten eleven.
+*INV:	                                      ⌊&=laughs⌋ what is this?
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it looks like it's orange.
+*CHI:	and it has grass on it.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	go ahead and take a guess.
+*CHI:	he has a thing in his hand.
+*CHI:	and he xxx.
+*INV:	mm, what else can you tell me?
+*CHI:	I don't know about that.
+@G:	Pig
+*INV:	well what is this?
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	&=counts:pages uh one two +...
+*INV:	oh honey we're almost done.
+*CHI:	it's pretty long.
+*INV:	yeah.
+*INV:	but we're almost done.
+*INV:	so what more can you tell me?
+@G:	Duck
+*CHI:	that's a duck.
+*INV:	oh honey can we can we slow down just a little bit?
+*CHI:	yes.
+*INV:	okay.
+*INV:	can we go back?
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	I don't know about that xxx pig.
+*INV:	mm, you can tell me whatever you'd like to.
+*CHI:	it looks like a, teeny pink cow.
+*INV:	oh.
+@G:	Duck
+*INV:	what is this?
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*INV:	honey can we can we talk a little bit.
+*CHI:	sure.
+*INV:	what more can you tell me?
+*INV:	we're almost done.
+*CHI:	that's because that and all of that &=points:picture.
+*CHI:	it has orange feet.
+*INV:	mm.
+@G:	Banana
+*INV:	         ⌈what is this⌉?
+*CHI:	that's a ⌊banana⌋.
+*INV:	what more can you tell me?
+*CHI:	(be)cause it looks a little yellow.
+*INV:	mm, anything else you can tell me?
+*CHI:	no that's the end.
+*INV:	oh do you wanna look again?
+*CHI:	no.
+*INV:	okay well thank you very much for looking with me.
+@End

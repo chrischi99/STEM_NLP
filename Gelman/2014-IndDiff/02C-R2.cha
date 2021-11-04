@@ -1,0 +1,236 @@
+@UTF8
+@PID:	11312/a-00031977-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.11|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Turtle
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a turtle.
+*CHI:	it has a shell.
+*CHI:	and a head.
+*CHI:	and when it it has danger, when it sees danger, it just hides.
+*CHI:	even with its feet its tail and its head.
+*INV:	&=nods.
+*CHI:	and his shell stays out.
+*CHI:	so the danger thinks it's a rock.
+*INV:	hm what more can you tell me?
+*CHI:	&=turns:page that's all I know about it.
+@G:	Cheese
+*INV:	okay what is this?
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	it it's Swiss cheese.
+*CHI:	and it and Swiss cheese has holes.
+*INV:	&=nods:yes.
+*CHI:	and, that's all I know about it &=turns:page.
+*INV:	what is this?
+*CHI:	a broken cookie.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	&=exhales you eat cookies.
+*CHI:	and when you're finished a grown-up, takes your plate.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	and, and there's still crumbs on it.
+*INV:	mm-hm [= yes].
+@G:	Pirate
+*INV:	what is this?
+*CHI:	a pirate, and some treasure.
+*CHI:	found some treasure.
+*INV:	what more can you tell me?
+*CHI:	a treasure in is in a treasure chest.
+*INV:	mm-hm [= yes].
+*CHI:	and and the pirate, has a bottle so when it's thirsty it it, drinks out of the bottle.
+*CHI:	and it has a pet parrot.
+*CHI:	and pirates used to be living.
+*CHI:	but now they're not.
+*INV:	mm okay.
+*CHI:	so let's turn turn the page.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	it lives on farms.
+*CHI:	and it and it, and when it talks it says &=snorts:twice.
+*INV:	&=laughs.
+*CHI:	&=snorts:twice.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=turning:page I was telling him in his ear too.
+*INV:	&=turns:back well can you tell him more?
+*CHI:	they have fur.
+*CHI:	and when they're babies they're small.
+*INV:	&=nods:yes ⌈mm-hm⌉ [= yes].
+*CHI:	           ⌊and⌋ when they're grown ups they're huge &=spreads:arms_wide.
+*INV:	&=chuckles.
+*CHI:	even smaller than an elephant.
+*INV:	mm.
+*CHI:	and, a rhinoceros is as big as a pig.
+*INV:	&=nods hm okay.
+@G:	Bread
+*INV:	&=gasps.
+*CHI:	⌈pea⌉ +...
+*INV:	⌊what⌋ is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	and, it's the same thing as cookies.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well &=turns:page I told him in his ear.
+*INV:	&=turns:back well just go ahead and tell him more.
+*CHI:	&=exhales.
+*CHI:	&=talks:Zorg I think we should be done now.
+*INV:	okay.
+*CHI:	&=talks:Zorg &=pretends:bite_page I ate [?] this
+	page.
+*INV:	okay.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a doctor.
+*INV:	what more can you tell me?
+*CHI:	it it makes people better when they're sick or or they break their leg.
+*INV:	&=nods:yes mm-hm [= yes].
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=turns:page well he was listening.
+*INV:	you can tell him more.
+*CHI:	okay.
+*INV:	okay &=turns:back.
+*CHI:	and he'll have his mouth on this.
+*INV:	okay.
+*CHI:	and, doc, and some doctors are boys and some doctors are girls.
+*INV:	⌈okay⌉.
+*CHI:	⌊zorg⌋.
+*CHI:	&=turns:page and he heard.
+*INV:	okay.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	a ladybug.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	it has black spots.
+*INV:	mm-hm [= yes].
+*CHI:	and it it's a harmless one because, red ones are harmless.
+*INV:	&=nods mm okay.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	it has a bat.
+*CHI:	and it has a baseball suit on &=tries:turn_page.
+*INV:	&=stops:CHI well you know what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well he was listening.
+*INV:	you can tell him more.
+*CHI:	zorg.
+*CHI:	&=talks:Zorg I think we should be done with this page too.
+*INV:	okay.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a puppy.
+*INV:	what more can you tell me?
+*CHI:	they're born from um mama dogs.
+*CHI:	and they, and some are brown some are red.
+*CHI:	and some are white and some are black.
+*INV:	mm-hm [= yes].
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he was listening.
+*INV:	you can tell him more.
+*CHI:	they have fur like pigs.
+*CHI:	only they have sharp claws.
+*INV:	&=nods:yes mm okay.
+*CHI:	and they have paws.
+*CHI:	some have brown eyes.
+*CHI:	some have yellow eyes.
+*CHI:	some have brown eyes and.
+*CHI:	and they could also have, red eyes.
+*INV:	mm okay.
+*INV:	you're doing really really well.
+@G:	Painter
+*INV:	what is ⌈this⌉?
+*CHI:	        ⌊artist⌋.
+*INV:	what more can you tell me?
+*CHI:	the artist is painting <in a> [?] tree.
+*INV:	&=nods mm-hm [= yes].
+*CHI:	which has some grass and the sky and some clouds.
+*CHI:	which she left some little white.
+*INV:	hm okay.
+*CHI:	through the cracks.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I'll tell him more because as he was listening.
+*CHI:	and it's a pine tree points:picture.
+*INV:	mm-hm [= yes].
+*CHI:	and it has lots of roots that go under the ground.
+*INV:	okay.
+*CHI:	and if we got all of the root out then it would break the whole earth.
+*INV:	mm alright.
+@G:	Duck
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	&=exhales it has feathers &=points:picture.
+*CHI:	and it had webbed feet.
+*CHI:	so it can swim in water.
+*INV:	mm-hm [= yes].
+*CHI:	and it has blue on it.
+*CHI:	and it and it is a father because it has more color than the mama.
+*INV:	mm.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby with some stuffed animals.
+*INV:	what more can you tell me?
+*CHI:	that's all I know.
+*INV:	okay.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	a carrot with leaves.
+*INV:	what more can you tell me?
+*CHI:	it's like cookies and bread.
+*CHI:	and it's closer like.
+*CHI:	<and he loves eating ants> [?].
+*CHI:	&=tries:turn_page.
+*INV:	&=stops:turn_page well you know what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well there were more and he was also listening.
+*INV:	you can tell him more.
+*CHI:	you can't eat the leaves because nobody washes them.
+*CHI:	and if they're peeled and cut up, then you'll see baby carrots.
+*INV:	mm.
+*CHI:	he thinks we we should be, he thinks we should be done with this
+	page &=uses:Zorg_turn_page.
+*INV:	okay.
+*INV:	what is this?
+@G:	Banana
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	it's it's like everything else that you eat.
+*CHI:	only it's squishy.
+*INV:	mm-hm [= yes].
+*CHI:	and it's fruit.
+*CHI:	and you need to peel it.
+*INV:	mkay [= okay].
+*INV:	&=gasps all ⌈done⌉.
+*CHI:	            ⌊that's⌋ the end.
+*INV:	do we want to look again?
+*CHI:	no.
+*INV:	no?
+*INV:	alright.
+*INV:	well, you did such a great job.
+*INV:	do you want to put him back to sleep?
+*CHI:	mm-hm [= yes].
+*INV:	okay.
+*CHI:	go to sleep.
+*INV:	goodnight Zorg.
+*INV:	alright.
+*CHI:	I think we should play another game.
+*INV:	you think so?
+*CHI:	yeah.
+@End

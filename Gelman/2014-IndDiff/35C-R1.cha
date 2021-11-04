@@ -1,0 +1,211 @@
+@UTF8
+@PID:	11312/a-00032174-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.25|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Baseball Player
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	um a baseball player.
+*INV:	what more can you tell me?
+*CHI:	um he plays baseball.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	this one plays baseball.
+@G:	Pirate
+*CHI:	hey look at the pirate [= CHI sees this picture while turning page].
+@G:	Turtle
+*INV:	what is this?
+*CHI:	um a turtle.
+*INV:	what more can you tell me?
+*CHI:	uh, my dad used to catch, turtles.
+*CHI:	and he told me how.
+*CHI:	you just see (th)em stick their heads out of the water and then you grab (th)em.
+*INV:	mm.
+*CHI:	I saw frogs before.
+*INV:	oh.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, I don't know.
+*INV:	you can say whatever you whatever comes to mind.
+*CHI:	um when they're scared they they stick their heads in their shell.
+*INV:	mm.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	um a ladybug.
+*INV:	what more can you tell me?
+*CHI:	uh, they have they're they're red and they have black spots on (th)em.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, they're red and they have spots on (th)em.
+*INV:	anything else?
+*CHI:	no.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	um a carrot.
+*INV:	what more can you tell me?
+*CHI:	um, they're orange.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um they're orange.
+*CHI:	and they have green on (th)em too.
+*CHI:	some do.
+@G:	Pirate
+*CHI:	pirate.
+*INV:	what more can you tell me?
+*CHI:	um, the Dreyfer pirates have have have have parrots on their shoulders.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, some pirates some pirates have eye patches.
+*INV:	mm.
+*INV:	you're doing really good.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	um a dentist.
+*INV:	what more can you tell me?
+*CHI:	uh, dentists clean out your teeth.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, they help you clean your teeth.
+@G:	Cookie
+*CHI:	cookie.
+*INV:	what more can you tell me?
+*CHI:	um, I like chocolate chip cookies.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much abut this one.
+*CHI:	I like cookies.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	um cheese.
+*INV:	what more can you tell me?
+*CHI:	uh, I don't know.
+*INV:	it's okay.
+*INV:	you can say whatever comes to mind.
+*CHI:	but I don't want to say anything.
+*INV:	well what can you tell me?
+*CHI:	um, that some of (th)em have holes in them.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	some of (th)em have holes in them.
+*INV:	what else?
+*INV:	what else?
+*CHI:	um.
+@G:	Painter
+*INV:	what is this?
+*CHI:	it's, woman drawing on a board.
+*INV:	mm, what more can you tell me?
+*CHI:	mm, I like the tree.
+*INV:	mm.
+*INV:	what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I like the tree.
+*INV:	zorg already heard you.
+*INV:	wha-what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+@G:	Bread
+*CHI:	this one &=start:turning_page?
+*CHI:	the next one?
+@G:	Painter
+*INV:	this page.
+*CHI:	um, actually she painted it.
+*INV:	mm.
+*CHI:	and, I don't know why that why that tree is on top of that stone thing.
+*INV:	mm.
+@G:	Bread
+*INV:	what is this?
+*CHI:	um bread.
+*INV:	what more can you tell me?
+*CHI:	uh, you you you couldn't [?] make toast with them.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um you can make toast with them.
+*INV:	what else can you tell Zorg?
+*CHI:	um, uh, um, I know how to make toast.
+*INV:	mm.
+*CHI:	you um I always like to make (th)em a little dark.
+*CHI:	um um you you just put (th)em in and then you push the thing down.
+*CHI:	and then you wait and then you wait for it to pop.
+*INV:	mm.
+@G:	Duck
+*INV:	what is this?
+*CHI:	um a duck.
+*INV:	what more can you tell me?
+*CHI:	uh, boy ducks have green heads.
+*CHI:	and, girl ducks have pink heads.
+*INV:	oh.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, um, geese are are are different than ducks.
+*INV:	mm, mm-hm [= yes].
+@G:	Puppy
+*INV:	what is this?
+*CHI:	um a dog.
+*INV:	what more can you tell me?
+*CHI:	um, dog dogs sniff you to get to know you.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um do, uh dogs sniff you to get to know you.
+*INV:	what else can you tell Zorg?
+*CHI:	uh, they have fur on (th)em.
+*INV:	mm [?].
+@G:	Banana
+*INV:	what is this?
+*CHI:	um, a banana.
+*INV:	what more can you tell me?
+*CHI:	um, the the peel of the banana is yellow.
+*CHI:	and the inside is white.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um the the peel is yellow.
+*CHI:	and the inside is white.
+*INV:	zorg heard you say.
+*INV:	what else can you tell Zorg?
+*CHI:	um, I don't know.
+*INV:	it's okay.
+*INV:	just say whatever comes to mind.
+*CHI:	um, they're good for you.
+*INV:	you're doing really good.
+@G:	Baby
+*INV:	what is this?
+*CHI:	if Firstname was seeing this then she would say baby.
+*INV:	mm.
+*CHI:	because she because she likes babies.
+*INV:	mm-hm [= yes].
+*CHI:	um it's a baby.
+*INV:	what more can you tell me?
+*CHI:	um babies are are small.
+*CHI:	and if and and when they're first born they're a little bit fragile.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um when they're cute.
+*CHI:	and and when babies are first born they're a little fragile.
+@G:	Pig
+*INV:	what is this?
+*CHI:	um pig.
+*INV:	what more can you tell me?
+*CHI:	um pigs like like like to roll around in mud.
+*CHI:	and and and they live in farms.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, they live in farms and they like to roll around in mud.
+*CHI:	but they'll get dirty.
+*INV:	anything else you want to tell Zorg?
+*CHI:	no.
+*INV:	alright.
+*INV:	well thank you very much.
+*INV:	do you want to look again?
+*CHI:	no.
+@End

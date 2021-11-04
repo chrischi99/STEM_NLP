@@ -1,0 +1,190 @@
+@UTF8
+@PID:	11312/a-00032031-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.29|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Popcorn
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	popcorn.
+*INV:	what more can you tell me?
+*CHI:	mm, you can eat popcorn.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm, it's in a bowl and its and you um pop it and um, um thing.
+*INV:	hm.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	elephant.
+*INV:	what more can you tell me?
+*CHI:	mm, uh tr-  elephant's um throwing water out of his trunk.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm, he he has big ears and, two horns &=points.
+*CHI:	and a mouth under the trunk.
+*CHI:	and he has, four legs.
+*CHI:	and a tail.
+*INV:	mm.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horse.
+*INV:	what more can you tell me?
+*CHI:	mm, you can ride on a horse and he has four legs and he has a tail.
+*CHI:	also he has um, two ears and, they're small.
+*CHI:	and he has hair down his neck.
+*CHI:	and also he has mouth and two eyes.
+*INV:	zorg doesn't know much ⌈about⌉ +...
+*CHI:	and a                  ⌊head⌋.
+*CHI:	I said the whole thing about him.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	mm, a police.
+*INV:	what more can you tell me?
+*CHI:	mm, &=points these are traffic lights and he's uh inside this house.
+*CHI:	also it's a cloudy day and it's not raining.
+*CHI:	and also the car stopped at these lights.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	um chips.
+*INV:	what more can you tell me?
+*CHI:	um, the chips are in a bowl.
+*CHI:	and also you can eat chips.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm, and also um, um also chips are round.
+*CHI:	and also someth-  um some sometimes they're they're oval.
+*INV:	mm.
+@G:	Cake
+*INV:	what is this?
+*CHI:	a piece a cake.
+*INV:	what more can you tell me?
+*CHI:	let me <passed two> [?] I skipped one.
+*CHI:	&=turns:pages_back.
+*INV:	ohhh.
+*CHI:	&=flips:cake_picture.
+*CHI:	oh, I did not skip one.
+*CHI:	um you can eat cake with a fork.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um also cake has fr- frosting on it.
+*CHI:	and also you, and also, you can put it on a plate.
+*CHI:	you can cut it a- part with, um also with um, a, knife.
+*INV:	you're doing real good.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	um she teach xxx at school.
+*INV:	mm-hm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm.
+*CHI:	and also um, she does xxx.
+*CHI:	xxx go each xxx.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	um, he can walk on his heels.
+*CHI:	and also he has a beak.
+*INV:	mm-hm.
+*CHI:	and wings but he can't fly.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and also he has feet.
+@G:	Orange
+*INV:	what is this?
+*CHI:	orange.
+*INV:	what more can you tell me?
+*CHI:	you can eat oranges.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=turns:page.
+*INV:	&=turns:page_back.
+*CHI:	mm, also it's round.
+*CHI:	and also it has a stem &=points.
+*INV:	mm.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	mm, he can make, he's silly.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	also, um, he can do silly tricks.
+*INV:	oh.
+*CHI:	<know> [?] what what is this?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	I think it's a carpet.
+*INV:	oh.
+@G:	Witch
+*INV:	what is this?
+*CHI:	a witch.
+*INV:	what more can you tell me?
+*CHI:	um witches ride uh on magic magic brooms.
+*CHI:	and at Halloween.
+*CHI:	halloween.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	also a bat.
+*CHI:	there's bats at Halloween but that's pa- that's pretend.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	a crab.
+*INV:	what more can you tell me?
+*CHI:	um he has big things he can snip you.
+*INV:	mm.
+*INV:	                                     ⌈zorg⌉ +...
+*CHI:	and he, and also he has um these um, ⌊antennaes⌋.
+*CHI:	xxx.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	alligator.
+*INV:	what more can you tell me?
+*CHI:	mm he can bite you.
+*CHI:	zorg doesn't know much about this one.
+*CHI:	can you help him out?
+*CHI:	he has a tail &=points and feet and he has eyes and he has bumps on him all over.
+*INV:	mm.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	um broccoli.
+*INV:	what more ⌈can you⌉ +...
+*CHI:	you can eat broccoli and these are leaves on ⌊it⌋.
+*CHI:	you call it a tree.
+*CHI:	I know.
+*CHI:	these are the stems &=points.
+*INV:	oh.
+*INV:	anything else you can tell me?
+*CHI:	mm, I know.
+@G:	Football Player
+*CHI:	this is the one that I was gonna turn it.
+*CHI:	this is a football player.
+*CHI:	he ca- he can play football.
+*INV:	what more can you tell me?
+*CHI:	mm, he needs a helmet if if if the um football hits her.
+*INV:	                                                     ⌈zorg⌉ +...
+*CHI:	and also you she wears um um this um eh- her sh- her ⌊shirt⌋.
+*INV:	mm.
+*CHI:	and pants.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	also, he needs to throw the football and she's has these kinda shoes.
+*CHI:	also she has these kinda sh- socks also.
+@Comment:	no pictures visible
+*INV:	all done.
+*INV:	do you wanna look again?
+*CHI:	no.
+*INV:	no?
+*INV:	you did great.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a lotta lotta fun.
+*INV:	do you wanna put Zorg back to sleep?
+*INV:	back in his home.
+*INV:	goodnight Zorg.
+@End

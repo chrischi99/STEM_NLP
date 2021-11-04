@@ -1,0 +1,204 @@
+@UTF8
+@PID:	11312/a-00031971-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.12|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Doctor
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a doctor.
+*INV:	what more can you tell me?
+*CHI:	um they um check you out and see if you're okay.
+*CHI:	and they um and and hospitals help um um our moms get babies out of you.
+*INV:	oh &=nods:yes okay.
+*CHI:	I don't know anything else.
+*INV:	okay.
+*CHI:	&=tries:turn_page.
+*INV:	⌈&=gasps oops I think we're missing one⌉ &=turns:page.
+*CHI:	⌊<oh che> [?]⌋ +...
+*INV:	we're missing a few.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	mm.
+*CHI:	like my mama's hav- my mom is having.
+*INV:	oh okay.
+*INV:	what more can you tell me?
+*CHI:	um babies squ- cry squirm and um, and um move and move around a lot.
+*CHI:	and eat a lot.
+*INV:	&=nods:yes mm okay.
+*CHI:	I don't know anything else because I don't +...
+*CHI:	I haven't seen one in a while.
+*INV:	okay.
+@G:	Bread
+*INV:	but what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	um.
+*CHI:	you can make sandwiches with bread.
+*CHI:	eat toast with bread.
+*CHI:	and make um, buns with bread.
+*INV:	okay.
+*CHI:	I don't know anything else.
+*INV:	that's okay.
+@G:	Pig
+*INV:	  ⌈what⌉ +...
+*CHI:	a ⌊pig⌋.
+*INV:	what more can you tell me?
+*CHI:	they make a noise that is like &=snorts.
+*INV:	&=laughs.
+*CHI:	and um and they um and they um have a long nose &=points:nose.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	and they roll in mud to get cool &=rolls:hands.
+*INV:	&=nods:yes okay.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this one um and um and he has a piggy tail.
+*INV:	&=nods:yes okay.
+*CHI:	&=turns:page I don't know anything about else about piggy.
+*CHI:	(be)cause I haven't gone to a farm <in a> [?] in a long time.
+*INV:	&=nods:yes okay.
+*CHI:	&=tries:turn_page.
+@G:	Duck
+*INV:	well what is this?
+*CHI:	a, a duck.
+*INV:	&=laughs.
+*CHI:	they fly and swim and poop.
+*CHI:	⌈and eat⌉.
+*INV:	⌊wh⌋ +...
+*INV:	okay.
+*INV:	what more can you tell me?
+*CHI:	I don't know an- anything else about it.
+*INV:	&=nods:yes okay.
+*INV:	you're doing really well.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	a pirate.
+*INV:	what more can you tell me?
+*CHI:	um.
+*CHI:	pirates um are mean and they go on a boat and ⌈they um, and they um
+	have treasure chests⌉.
+*INV:	                                              ⌊mm-hm [= yes] ⌋.
+*CHI:	and they and they have um special clothes.
+*CHI:	and they have patches over their eyes.
+*CHI:	and they have hats like um towels over their heads
+	&=pretends:tie_hat.
+*INV:	mm okay.
+@G:	Cheese
+*INV:	what is ⌈this⌉?
+*CHI:	        ⌊cheese⌋.
+*CHI:	my brother's favorite food is cheese.
+*INV:	hm okay &=nods:yes.
+*CHI:	I remember he was watching us from the tv.
+*CHI:	is he still watching?
+*INV:	you know I don't know &=shrugs.
+*INV:	I don't know if, he's still there.
+*CHI:	it would be nice if if we um had a tv that could we be watching him.
+*INV:	yeah yeah.
+*INV:	well what more can you tell me &=points:picture?
+*CHI:	um, we can +...
+*CHI:	um.
+*CHI:	I hear him talking [= refers to sibling outside room].
+*INV:	&=laughs.
+*CHI:	and and um there's +...
+*CHI:	and you eat cheese.
+*CHI:	and um, mouse like cheese.
+*CHI:	and and you um shred cheese &=pretends:shred_cheese.
+*INV:	&=nods:yes great.
+*CHI:	I don't know anything about cheese &=turns:page.
+*INV:	you knew a whole lot.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a person painting.
+*INV:	what more can you tell me?
+*CHI:	um.
+*CHI:	paint- painting is um when you um paint like um like you um um paint
+	paint as as like draw but it's a little bit wider
+	&=shows:width_with_hands.
+*INV:	&=nods:yes mkay [= okay].
+*CHI:	I don't know anything ab- anything else about it &=turns:page.
+@G:	Banana
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	we're getting into a food section &=turns:pages.
+*INV:	&=laughs.
+*INV:	okay well &=turns:page_back.
+*CHI:	banana.
+@G:	Cookie
+*CHI:	cookie.
+@G:	Banana
+*CHI:	banana um bananas um grow from a banana tree.
+*INV:	&=nods:yes okay.
+*CHI:	I don't like them and you eat them.
+*CHI:	that's all I know about (th)em.
+*INV:	&=nods okay.
+*INV:	you're doing really good.
+@G:	Ladybug
+*CHI:	a ladybug.
+*INV:	what more can you tell me?
+*CHI:	ladybugs um are much much smaller than us.
+*INV:	&=nods:yes mm okay.
+*CHI:	and they have dots like we don't.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	and ladybugs have shells.
+*INV:	&=nods:yes mkay [= okay].
+*CHI:	and I +...
+*CHI:	I don't know anything about- anything else about (th)em.
+*INV:	&=nods:yes okay.
+*CHI:	um.
+@G:	Turtle
+*CHI:	a turtle.
+*CHI:	turtles are really slow and they carry their home, with them.
+*INV:	okay what more can you tell me?
+*CHI:	um that um I don't know of anything- and they swim.
+*INV:	&=nods mm okay.
+*CHI:	and they have really short tails.
+*INV:	okay.
+@G:	Carrot
+*CHI:	carrot.
+*CHI:	bunnies.
+*CHI:	carrot's bunny's favorite.
+*INV:	what more can you tell me?
+*CHI:	carrots um have- are orange and green.
+*INV:	&=nods mkay [= okay].
+*CHI:	I don't know anything else about (th)em +...
+*CHI:	and they grow, and they grow under ground.
+*INV:	&=nods mkay [= okay].
+*CHI:	I don't know anything else about (th)em.
+@G:	Cookie
+*CHI:	um a cookie.
+*CHI:	cookies are sweet.
+*CHI:	you bake them in the oven.
+*CHI:	and they and you um you um eat (th)em.
+*INV:	&=nods:yes okay.
+*CHI:	I don't know of anything else about (th)em.
+@G:	Baseball Player
+*INV:	okay what is this?
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	they wear a haut- a hat a tee shirt jeans and, shoes.
+*INV:	&=nods:yes okay.
+*CHI:	and they and they um and they um play baseball.
+*CHI:	and I don't know anything else about (th)em.
+*INV:	&=nods:yes mkay [= okay].
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a puppy.
+*INV:	what more can you tell me?
+*CHI:	um, dogs dogs are things that have tails and things that have really
+	big ears &=stretches:ears.
+*INV:	&=nods:yes mm-hm [= okay].
+*CHI:	and they have um small mouths.
+*INV:	&=nods:yes okay.
+@Comment:	end of book
+*INV:	do you want to look again?
+*CHI:	no thank you.
+*INV:	okay.
+*INV:	well do you want to put Zorg to bed?
+*CHI:	yeah &=closes:book.
+*INV:	back to sleep.
+*INV:	yeah?
+@End

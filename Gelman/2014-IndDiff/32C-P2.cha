@@ -1,0 +1,144 @@
+@UTF8
+@PID:	11312/a-00032155-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.04|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Turtle
+@Types:	cross, narrative, TD
+*MOT:	do you know what that is Firstname?
+*CHI:	a turtle.
+*MOT:	it's a pretty turtle.
+*MOT:	is it a boy or a girl turtle?
+*MOT:	do you know?
+*CHI:	it's a boy turtle.
+*MOT:	hm?
+*CHI:	it's a boy turtle.
+*MOT:	okay.
+@G:	Carrot
+*MOT:	and what it this?
+*CHI:	a carrot.
+*MOT:	and what color is that carrot?
+*CHI:	orange and green.
+*MOT:	very good.
+*MOT:	do you eat carrots?
+*CHI:	&=nods:head_yes.
+*MOT:	do you like carrots Firstname?
+*CHI:	&=nods:head_yes.
+*MOT:	I didn't know that.
+@G:	Baby
+*MOT:	now &=gasps Firstname, what is that?
+*CHI:	a baby.
+*MOT:	do you know if it's a boy baby or a girl baby?
+*CHI:	a boy baby.
+*MOT:	oh he's cute.
+*MOT:	⌈and he has who does he have⌉?
+*CHI:	⌊xxx⌋.
+*MOT:	what kind of animals?
+*CHI:	doggies.
+*MOT:	xxx.
+*MOT:	yeah.
+@G:	Baseball Player
+*MOT:	and what's this?
+*CHI:	a baseball player.
+*MOT:	mm-hm [= yes].
+@G:	Cheese
+*MOT:	and what's this?
+*CHI:	cheese.
+*CHI:	xxx cheese.
+*MOT:	do you like cheese?
+*CHI:	yeah but.
+*MOT:	maybe we can buy some cheese when we go to the store when we leave here okay?
+@G:	Bread
+*MOT:	what's this?
+@G:	Cheese
+*CHI:	xxx cheese.
+*MOT:	just a little bit?
+*MOT:	how did you get xxx in your hair?
+*CHI:	I was xxx.
+@G:	Bread
+*MOT:	um what's this?
+*CHI:	uh a chocolate bar.
+*MOT:	no.
+*MOT:	look again.
+*MOT:	what does that look like?
+*CHI:	a cake.
+*MOT:	close, but.
+*MOT:	what do you make peanut butter and jelly with?
+*CHI:	oh, bread.
+*MOT:	very good.
+@G:	Pirate
+*MOT:	and who's this guy?
+*CHI:	a treasure, man.
+*MOT:	a treasure man.
+*MOT:	okay.
+@G:	Pig
+*MOT:	who's this?
+*CHI:	a pig.
+*MOT:	a big pig.
+*CHI:	yeah.
+@G:	Puppy
+*MOT:	&=gasps firstname what's that?
+*CHI:	a little puppy.
+*MOT:	we want [?] a puppy don't we?
+*CHI:	I want that one.
+*MOT:	oh he's so cute.
+*MOT:	what's his name?
+*MOT:	what would you name him?
+*CHI:	xxx [= pet name].
+*MOT:	xxx [= pet name].
+*CHI:	xxx [= pet name].
+*MOT:	xxx [= pet name]?
+*CHI:	&=nods:head_yes.
+@G:	Doctor
+*MOT:	and what's this?
+*CHI:	that's a doctor.
+*CHI:	and that's a people.
+*MOT:	and what kind of people?
+*MOT:	a girl or a boy?
+*CHI:	it's a girl.
+*MOT:	she looks sad huh?
+*MOT:	what do [?] you think is happening to her?
+*CHI:	she's getting a shot.
+*CHI:	oh, no she getting a baby out of her.
+*MOT:	you think she's having a baby?
+*CHI:	maybe.
+@G:	Ladybug
+*MOT:	what's this?
+*MOT:	who is this behind the wing?
+*CHI:	yeah a ladybug.
+*CHI:	a red lady bug with two oh no with two circles on its [?] back.
+@G:	Banana
+*MOT:	and [?] what's this?
+*CHI:	a bananas.
+*CHI:	a fruit banana.
+*MOT:	very good.
+@G:	Duck
+*MOT:	and this?
+*CHI:	uh, a duck.
+*MOT:	mm-hm [= yes].
+*MOT:	you know all this stuff Firstname.
+@G:	Cookie
+*MOT:	  ⌈<what is this> [?]⌉?
+*CHI:	a ⌊cracker⌋.
+*MOT:	mm-mm [= no].
+*CHI:	I mean a cookie.
+*MOT:	a cookie.
+*MOT:	<you know> [?] somebody broke it huh?
+*MOT:	you like cookies?
+*CHI:	yes.
+@G:	Painter
+*MOT:	what's this?
+@G:	Cookie
+*MOT:	we get cookies from the store?
+*CHI:	&=nods:head_yes.
+@G:	Painter
+*MOT:	what's this?
+*CHI:	um, a painter.
+*MOT:	very good.
+*MOT:	the end.
+*MOT:	do you want to go over it again or no?
+*CHI:	no.
+@End

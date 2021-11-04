@@ -1,0 +1,141 @@
+@UTF8
+@PID:	11312/a-00032109-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;07.10|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Strawberry
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	strawberry.
+*INV:	what more can you tell me?
+*CHI:	you pick off the leaves and then you eat it.
+*INV:	mm-hm [= yes], Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes.
+*CHI:	you eat it.
+*CHI:	yum yum yum yum yum yum yum yum yum.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	a a person surfing.
+*INV:	mm-hm [= yes], what more can you tell me?
+*CHI:	he surfs in water on a board.
+*INV:	mm-hm [= yes], Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes, swim on it on a board.
+@G:	Corn
+*INV:	⌈what is this⌉?
+*CHI:	⌊corn⌋.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	you peel the stuff off and then you eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	you eat it and you don't eat the black part.
+@G:	Milk
+*INV:	what is this?
+*CHI:	garbage can.
+*INV:	what more can you tell me?
+*CHI:	you throw trash in it and you don't eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	you eat it you and you don't eat it you throw trash.
+@G:	Weightlifter
+*CHI:	strong man.
+*INV:	what more can you tell me?
+*CHI:	he lifts up weight.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	you lift up weights if you're strong.
+@G:	Rabbit
+*CHI:	rabbit.
+*INV:	what more can you tell me?
+*CHI:	it [?] bounces really high and you can't get (th)em.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this ⌈one⌉?
+*CHI:	it's an animal and you bounce   ⌊it⌋.
+@G:	Lion
+*CHI:	lion.
+*INV:	what more can you tell me?
+*CHI:	he roars &=roars.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	zorg it's an animal.
+*CHI:	it's a it's a boy and you don't eat it.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	pretzel.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	it's salty and it's kind of in, a design &=turns:page.
+*INV:	hold on &=turns:page_back.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	you eat it.
+*CHI:	you don't, go in it.
+@G:	Owl
+*INV:	what ⌈is this⌉?
+*CHI:	     ⌊owl⌋.
+*INV:	what more can you tell me?
+*CHI:	he hoots &=hoots.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	you don't bang on the owl he goes &=makes:owl_noises.
+@G:	King
+*INV:	what is this?
+*CHI:	king and he's royalty.
+*INV:	what more can you tell me?
+*CHI:	he wears a cape.
+*CHI:	he wears a crown.
+*CHI:	and he smokes.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	he's royalty.
+*CHI:	you don't even play around with him.
+@G:	Frog
+*INV:	what is ⌈this⌉?
+*CHI:	        ⌊froggy⌋.
+*INV:	what more can you tell me?
+*CHI:	he hops really high like the rabbit.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	zorg he's a frog.
+*CHI:	he's an animal and you don't eat it.
+@G:	Snake
+*CHI:	snake &=hisses.
+*INV:	what more can you tell me?
+*CHI:	he slithers and he doesn't have a body just xxx.
+*INV:	what more can you tell Zorg?
+*CHI:	he doesn't know much about this one?
+*CHI:	you don't eat it.
+*CHI:	it's an animal just like I told you before.
+@G:	Police Officer
+*CHI:	cops.
+*INV:	what more can you tell me?
+*CHI:	he can [?] arrest people.
+*INV:	what more can you tell Zorg he doesn't know much about this one?
+*CHI:	if you're ever in danger you just call the cops.
+@G:	Farmer
+*CHI:	farmer.
+*INV:	what more can you tell me?
+*CHI:	it picks out food and it lives in a creepy old house &=turns:page.
+*INV:	hold on &=turns:page_back.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	you don't eat it.
+*CHI:	you don't eat the farmer you eat the food.
+@G:	Pie
+*INV:	what it this?
+*CHI:	pancake.
+*INV:	what more can you tell me?
+*CHI:	um, you eat it and it has nuts.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one?
+*CHI:	you eat it and first toast it.
+*INV:	all done do you want to look again?
+*CHI:	no.
+*INV:	alright well thank you very much for doing that with me.
+*INV:	that was a lot a lot of fun.
+@End

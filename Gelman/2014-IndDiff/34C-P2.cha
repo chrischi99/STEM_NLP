@@ -1,0 +1,451 @@
+@UTF8
+@PID:	11312/a-00032167-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.16|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Police Officer
+@Types:	cross, narrative, TD
+*MOT:	okay now tell me what it is.
+*CHI:	a police officer.
+*MOT:	so what is he doing?
+*CHI:	he's talking to the other police officer.
+*MOT:	with [?] what is called?
+*CHI:	the microphone.
+*MOT:	it's intercom.
+*CHI:	intercom.
+@G:	Farmer
+*MOT:	okay what is that?
+*CHI:	hm.
+*MOT:	&=turns:page_back.
+@G:	Police Officer
+*MOT:	so what color what color uniform he is wearing?
+*CHI:	       ⌈um⌉, black.
+*MOT:	do you ⌊know⌋?
+*MOT:	black?
+*MOT:	xxx I can't see there okay &=moves:seat.
+*MOT:	it's kind of black.
+*MOT:	blue might be colors it looks like.
+*MOT:	what is this the back of it?
+*CHI:	a blue car.
+*MOT:	okay what is that?
+*CHI:	um I don't know.
+*MOT:	what is this?
+*MOT:	xxx.
+*MOT:	what is that on the car?
+*CHI:	on top of the car?
+*MOT:	mm-hm [= yes].
+*CHI:	it's a light.
+*MOT:	the siren light.
+*MOT:	do you know what the siren light ⌈means⌉?
+*CHI:	                                 ⌊yeah⌋.
+*CHI:	it beeps when someone doesn't put on their seatbelt or something.
+@G:	Farmer
+*MOT:	okay what is this?
+*CHI:	um, I don't know.
+*MOT:	you can tell me what it is.
+*MOT:	you know that.
+*CHI:	a farmer.
+*MOT:	farmer.
+*MOT:	is a lady or a man?
+*CHI:	a lady.
+*MOT:	okay what is this called?
+*CHI:	farmer house.
+*CHI:	I barn's house.
+*MOT:	barn okay.
+*MOT:	and what what does she have in the basket?
+*CHI:	carrots.
+*MOT:	mm-hm [= yes].
+*CHI:	and what's those [?] other things?
+*MOT:	what does she has?
+*CHI:	carrots.
+*MOT:	yeah.
+*CHI:	and what's that a orange thing?
+*MOT:	I have no idea what is that.
+*MOT:	okay maybe some pumpkin.
+*MOT:	this [?] looks like a pumpkin.
+*CHI:	and this how (a)bout this red thing?
+*MOT:	what is this?
+*MOT:	potato.
+*CHI:	a potato.
+*CHI:	what's this green thing?
+*CHI:	     ⌈xxx⌉.
+*MOT:	some ⌊vegetables⌋.
+*MOT:	yes vegetables.
+@G:	Snake
+*MOT:	what is that?
+*CHI:	snake.
+*MOT:	and what does snake do?
+*CHI:	it ss.
+*MOT:	it ss okay.
+*MOT:	how does they go?
+*MOT:	do they do snake has legs?
+*CHI:	no.
+*MOT:	how do they go?
+*CHI:	they go like around.
+*MOT:	how do they go that thing?
+*CHI:	             ⌈ss⌉.
+*MOT:	they slither ⌊okay⌋.
+*MOT:	is snakes a a good animal or it's a what reptile?
+*MOT:	<it's called> [?] reptile.
+*MOT:	so it's it's what?
+*CHI:	it's good it's a bad animal.
+*MOT:	it's not animal it's a reptile.
+*CHI:	what's a reptile?
+*MOT:	reptiles is are what are crawls on the ground.
+*MOT:	that's called reptiles.
+*CHI:	oh.
+*MOT:	so we be careful of the snake.
+*MOT:	it's very what?
+*CHI:	dangerous.
+*MOT:	dangerous and?
+*CHI:	and not safe to play with.
+*MOT:	not safe.
+*MOT:	and another one thing it's poisonous too.
+*MOT:	xxx.
+@G:	Frog
+*CHI:	wool.
+*MOT:	what is this?
+*CHI:	a frog.
+*MOT:	mm-hm [= yes].
+*CHI:	he lives in the pond.
+*MOT:	mm-hm [= yes].
+*CHI:	and in your garden sometimes.
+*MOT:	mm-hm [= yes].
+*MOT:	                   ⌈okay⌉.
+*CHI:	and then is a frog ⌊poison⌋?
+*MOT:	no but.
+*MOT:	then what?
+*CHI:	what does it do?
+*MOT:	how does it jump?
+*CHI:	like this &=makes:hand_hop.
+*MOT:	it jumps okay.
+*MOT:	how does sound?
+*CHI:	ribbit rabbit.
+*MOT:	ribbit rabbit.
+*MOT:	okay.
+*MOT:	okay xxx.
+@G:	Pretzel
+*MOT:	okay what is this?
+*CHI:	what?
+*MOT:	what is this?
+*CHI:	xxx.
+*MOT:	what is that?
+*CHI:	it's a cookie.
+*MOT:	it's not a cookie.
+*CHI:	it's some kind of thing.
+*CHI:	I don't know.
+*MOT:	you don't like that.
+*CHI:	what is it?
+*MOT:	do you like this?
+*CHI:	no.
+*MOT:	what is that?
+*CHI:	I don't know.
+*MOT:	pretzel.
+*CHI:	yeah pretzel.
+*MOT:	it's very what?
+*CHI:	salted.
+*MOT:	yeah you don't like salt?
+*CHI:	mm-mm [= no].
+@G:	Pie
+*MOT:	what is this?
+*CHI:	what?
+*CHI:	I forgot.
+*MOT:	what is this?
+*CHI:	I know the name of it but now I forgot.
+*MOT:	what is it?
+*CHI:	it's a apple pie?
+*MOT:	yeah it's a pie but I don't know what pie is this.
+*MOT:	okay ⌈apple pie⌉.
+*CHI:	apple ⌊pie⌋.
+*MOT:	okay.
+*MOT:	⌈you like apple pie⌉?
+*CHI:	⌊mm⌋.
+*CHI:	yes but I never tasted it.
+*MOT:	<ah you've> [?]  tasted it.
+*CHI:	            ⌈oh yeah⌉.
+*MOT:	how does it ⌊taste⌋?
+*CHI:	I don't.
+*MOT:	is it very bitter?
+*CHI:	no not that bitter.
+*CHI:	just a little bitter.
+*MOT:	I don't think so.
+*MOT:	sweet.
+*CHI:	yes.
+@G:	Owl
+*MOT:	              ⌈what is this⌉?
+*CHI:	it's sweet in ⌊it⌋.
+*CHI:	        ⌈sugar too⌉.
+*MOT:	what is ⌊this⌋?
+*CHI:	a owl.
+*MOT:	mm-hm [= yes].
+*MOT:	what does it do?
+*CHI:	it makes sounds.
+*MOT:	oh does it make sounds?
+*CHI:	in the night.
+*MOT:	uh-huh [= yes].
+*CHI:	whoo.
+*MOT:	<do they really> [?].
+*CHI:	&=nods:yes.
+*MOT:	okay.
+*MOT:	can they say the daytime when we see?
+*CHI:	no.
+*MOT:	when then?
+*CHI:	only night.
+*MOT:	okay.
+*CHI:	we read in the Franklin book.
+*MOT:	mm-hm [= yes].
+*CHI:	frankin's_lost.
+*MOT:	mm-hm [= yes].
+*CHI:	xxx <a fox> [?].
+*CHI:	<and ran> [?] xxx.
+@G:	Surfer
+*CHI:	he's, he's surfboarding in the ocean.
+*MOT:	okay.
+*CHI:	and I don't know what's this.
+*MOT:	that's a safeboard a surfboard.
+*CHI:	a surfboard.
+*MOT:	mm-hm [= yes].
+*CHI:	that's it.
+*MOT:	that's it okay.
+@G:	Weightlifter
+*MOT:	what is this?
+*CHI:	I don't know.
+*CHI:	what is he doing?
+*MOT:	what is he doing?
+*CHI:	this is um some kind of like a barbell.
+*MOT:	uh-huh [= yes].
+*CHI:	it's it looks like a barbell but it's really not.
+*MOT:	mm.
+*MOT:	what is that?
+*CHI:	what is it?
+*CHI:	for strengthening.
+*MOT:	yeah.
+*CHI:	I don't know what it's called Mama.
+*MOT:	weightlifting.
+*CHI:	oh weight ⌈lifting⌉.
+*MOT:	people you have seen people lift like ⌊that⌋.
+*MOT:	he's doing gym.
+*MOT:	he's being exercised.
+*CHI:	I know.
+*MOT:	okay.
+@G:	Milk
+*CHI:	this is a tumbler [?].
+*MOT:	okay.
+*CHI:	what is in here?
+@G:	Weightlifter
+*MOT:	what is he called?
+*MOT:	he's got a special name.
+*MOT:	⌈do you know that⌉?
+*CHI:	⌊what⌋?
+*MOT:	body builder.
+*MOT:	people who build their body are called body builders.
+@G:	Milk
+*MOT:	okay.
+*MOT:	what is this?
+*CHI:	tumbler [?].
+*MOT:	what is inside?
+*MOT:	what do you think they have inside?
+*CHI:	uh, juice.
+*MOT:	is juice white color?
+*MOT:	what is white color?
+*CHI:	milk.
+*MOT:	mm-hm [= yes].
+*CHI:	that's milk inside.
+*MOT:	do you like milk?
+*CHI:	yep.
+@G:	Rabbit
+*MOT:	what is that?
+*CHI:	a rabbit.
+*MOT:	okay.
+*CHI:	it hops a lot.
+*MOT:	mm-hm [= yes].
+*MOT:	what's a what do you remember of a rabbit?
+*CHI:	what I remember?
+*MOT:	mm-hm [= yes].
+*CHI:	they only hop around.
+*MOT:	there's a special occasion for rabbit.
+*CHI:	what?
+*MOT:	people.
+*MOT:	easter.
+*MOT:	rabbits.
+*MOT:	⌈easter Rabbits⌉?
+*CHI:	⌊easter⌋.
+*CHI:	what's Easter Rabbits?
+*MOT:	easter Easter.
+*CHI:	                                    ⌈what is Easter⌉?
+*MOT:	they have Easter egg and hiding and ⌊hunting⌋.
+*CHI:	yeah.
+*MOT:	that's that's called Easter Rabbit.
+*MOT:	okay turn it over.
+*CHI:	no.
+*MOT:	okay turn it over.
+*CHI:	oh the the they.
+*MOT:	easter Bunny.
+*CHI:	they they the the the Easter Bunny's born into the egg?
+*MOT:	no.
+*CHI:	what is it?
+*MOT:	no bunny they don't come in from the egg.
+*CHI:	then what did they come out?
+*MOT:	that's Easter egg is for having fun.
+*MOT:	they go hide all the egg and you have to go and find it.
+*MOT:	easter hunt.
+*MOT:	egg hunt.
+*MOT:	you remember that?
+*CHI:	uh I have seen the tv but I never went for it.
+*MOT:	okay maybe next year we can go.
+@G:	Corn
+*MOT:	what is this?
+*MOT:	do you know what is this?
+@G:	Rabbit
+*CHI:	but who will hide the Easter eggs?
+*MOT:	usually they have that thing in our neighborhood.
+*MOT:	maybe next year they they will arrange one.
+*MOT:	we'll see this year next year.
+*CHI:	next year?
+*CHI:	I want to see this year.
+*MOT:	next year it really comes in March.
+*CHI:	oh man.
+*MOT:	aft.
+*CHI:	first March or?
+*MOT:	I don't know the date.
+*MOT:	maybe in middle of March.
+*CHI:	oh man that'll take ⌈for the whole earth <for it> [?] to come⌉.
+@G:	Corn
+*MOT:	what is             ⌊this⌋?
+*MOT:	⌈what is this⌉ .
+*CHI:	⌊corn⌋.
+*MOT:	what is this?
+*CHI:	a corn!
+*MOT:	oh corn.
+*MOT:	what is is dry corn or?
+*CHI:	it's a dry corn.
+*MOT:	have you seen this corn?
+*CHI:	no.
+*MOT:	hey you've seen this corn.
+*CHI:	where?
+*MOT:	on Meijer's they have for decoration.
+*CHI:	yeah.
+*MOT:	yeah.
+*CHI:	and I also seen the Caillou .
+*CHI:	caillou said can I eat that?
+*CHI:	and then Caillou says Caillou's mom said no Caillou that's for
+	decoration.
+*MOT:	so when do they decorate with corn?
+*MOT:	for what occasion?
+*CHI:	um, summer?
+*MOT:	no.
+*CHI:	falls?
+*MOT:	is that a special.
+*CHI:	for Easter?
+*MOT:	no.
+*MOT:	Thanksgiving.
+*CHI:	thanks.
+*MOT:	and having turkey at the time.
+*MOT:	for Thanksgiving.
+*CHI:	yeah.
+@G:	Strawberry
+*MOT:	okay what is this?
+*CHI:	strawberry.
+*MOT:	strawberry.
+*MOT:	what color's the ⌈strawberry⌉?
+*CHI:	it doesn't       ⌊hop &=laughs⌋.
+*MOT:	a strawberry's a what?
+*CHI:	a fruit.
+*MOT:	okay.
+*MOT:	what color's a strawberry?
+*CHI:	red.
+*MOT:	red.
+*MOT:	you like strawberry?
+*CHI:	mm-hm [= yes].
+@G:	King
+*MOT:	okay who's this?
+*CHI:	a king.
+*MOT:	king okay.
+*MOT:	what what he is doing?
+*CHI:	um he's <straightening his teeth> [?].
+*MOT:	what is that he.
+*MOT:	no what is that?
+*CHI:	a stick.
+*MOT:	yeah it's not a stick.
+*CHI:	what is it then?
+*MOT:	it's a he's smoking something.
+*MOT:	it's a pipe.
+*MOT:	it's called a pipe.
+*CHI:	oh I don't know.
+*MOT:	okay you don't know that okay.
+*MOT:	good.
+*CHI:	what?
+@G:	Lion
+*MOT:	okay what is this?
+*CHI:	lion.
+*CHI:	it roars &=makes:roaring-sounds.
+*MOT:	mm.
+*MOT:	do you remember a story?
+*CHI:	what?
+*MOT:	what comes?
+*MOT:	do you remember the story of the lion?
+*MOT:	can you tell the name of the story?
+*MOT:	lion story?
+*CHI:	between the Lions?
+*MOT:	huh?
+*CHI:	between the Lions?
+*MOT:	&=shakes:head_no.
+*CHI:	              ⌈I don't know⌉.
+*MOT:	your favorite ⌊movie⌋.
+*CHI:	king king lion?
+*MOT:	king lion.
+*CHI:	I can't tell the story.
+*CHI:	how can I tell story?
+*MOT:	what do you remember the animals of that story?
+*CHI:	what story?
+*MOT:	that movie.
+*MOT:	what the animal's name?
+*CHI:	Simba.
+*MOT:	Simba.
+*CHI:	his father her his father and he looks the same.
+*MOT:	mm.
+*CHI:	when his father growed up he looks the um like thing.
+*CHI:	and this looks like.
+*MOT:	what this called &=points:to_mane?
+*CHI:	            ⌈when Simba growed up he has the thing⌉.
+*MOT:	what's this ⌊called⌋?
+*MOT:	what what's this called?
+*CHI:	oh I don't know.
+*MOT:	mane.
+*CHI:	a mane?
+*CHI:	why does it?
+*MOT:	that's a a female or a what is this a male or a female?
+*MOT:	lion?
+*CHI:	a [?] male.
+*MOT:	male.
+*MOT:	a female does does they have this?
+*CHI:	no.
+*MOT:	                  ⌈no⌉.
+*CHI:	a female only has ⌊this⌋.
+*MOT:	okay.
+*CHI:	⌈just⌉.
+*MOT:	⌊okay⌋.
+*CHI:	the end.
+*MOT:	okay.
+*MOT:	want to see again or you done?
+*CHI:	no I'm done.
+*CHI:	I'm done I'm done I'm done.
+*CHI:	I want to find things around the room.
+*MOT:	okay.
+*MOT:	tell me.
+*CHI:	uh  I find.
+*MOT:	xxx.
+*CHI:	what?
+*CHI:	xxx.
+*MOT:	yeah.
+*CHI:	a blue color.
+*CHI:	your favorite burgundy.
+*CHI:	and then there's chairs.
+*CHI:	tables.
+*CHI:	the cement.
+*MOT:	⌈okay can we go⌉?
+*CHI:	⌊sofa⌋.
+@End

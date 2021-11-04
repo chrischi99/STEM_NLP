@@ -1,0 +1,187 @@
+@UTF8
+@PID:	11312/a-00032030-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.07|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Banana
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	I don't know that that banana &=points.
+*INV:	okay.
+*INV:	well tell me more.
+*CHI:	&=points I can peel this it down like my momma does.
+*INV:	mm-hm [= yes].
+*CHI:	&=turns:page.
+*INV:	let's slow down a little bit okay?
+*CHI:	yeah.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a baseball man.
+*INV:	what more can you tell me?
+*CHI:	he just hits the ball.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	no.
+*INV:	can you please tell me a little bit more?
+*CHI:	I don't want to.
+@G:	Baby
+*CHI:	there's that's a baby.
+*INV:	what more can you tell me?
+*CHI:	babies, just stay babies <a while> [?].
+*CHI:	<baby> [?].
+*INV:	mm-hm.
+*INV:	tell me more.
+*CHI:	&=turns:page.
+*INV:	&=turns:page_back.
+*INV:	hey Firstname?
+*INV:	please tell me more.
+*CHI:	I just want to play something else.
+*INV:	well we'll play something else in a little bit but we're gonna have to look at this first.
+*INV:	at this book.
+*CHI:	<just> [?] turn the page.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	you can eat bread and make a peanut butter sandwich too.
+*INV:	mm-hm.
+*INV:	what else?
+@G:	Doctor
+*CHI:	it's a doctor.
+*INV:	what more can you tell me?
+*CHI:	a doctor feels somebody, better.
+*INV:	mm-hm.
+*CHI:	&=turns:page.
+*INV:	&=turns:page_back.
+*INV:	hold on.
+*INV:	what else can you tell me?
+*CHI:	doctor.
+*CHI:	I don't know what else doctors do.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	you can eat cheese.
+*INV:	mm-hm.
+*INV:	what else?
+*CHI:	mouse can eat it.
+*INV:	mm-hm.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	a turtle.
+*INV:	what more can you tell me?
+*CHI:	um it can crawl, slow.
+*INV:	what else can you tell me?
+*CHI:	it's <broken up> [?] like, it can go in the water, so +...
+*INV:	mm-hm.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a puppy.
+*INV:	what more can you tell me?
+*CHI:	a puppy, I know can snoop.
+*CHI:	and +...
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know.
+*INV:	well tell me somethin else.
+*CHI:	there's a picture under this one [= referring to next page].
+*INV:	&=laughs, mm-hm.
+*INV:	it's okay you can tell me whatever comes to mind.
+*CHI:	&=turns:page.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a painting.
+*INV:	how (a)bout if I turn the pages?
+*INV:	what more can you tell me?
+*CHI:	mm, a painting xxx can paint.
+*INV:	mm-hm.
+*INV:	what else can you tell me?
+*CHI:	&=turns:page.
+*INV:	&=holds:page_down.
+*INV:	mm-mm.
+*CHI:	can I turn the page?
+*INV:	I'll tell you when you, can turn the page.
+*INV:	what else can you tell me?
+*CHI:	you can paint it.
+*INV:	okay go ahead and turn the page.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	a cookie.
+*INV:	mm-hm.
+*INV:	what more can you tell me?
+*CHI:	you can eat a cookie.
+*INV:	mm-hm.
+*INV:	what else can you tell me?
+*CHI:	mm.
+*CHI:	you can eat all kinds a' cookies raisin cookies like, that cookie and chocolate chip cookies.
+*INV:	mm-hm.
+*INV:	alright.
+@G:	Pirate
+*CHI:	it's a treasure xxx like xxx.
+*INV:	mm-hm.
+*INV:	what more can you tell me?
+*CHI:	I really wanna play that game again.
+*INV:	okay we'll play that but we have to go through this first.
+*CHI:	it's a pirate too.
+*INV:	mm-hm.
+*CHI:	did you know pirates collect treasures.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	um, treasures have surprises in them, and gold and stuff.
+*INV:	mm-hm.
+@G:	Duck
+*INV:	&=gasps what is this?
+*CHI:	ducky.
+*INV:	what more can you tell me?
+*CHI:	mm, a ducky can fly.
+*INV:	mm-hm.
+*CHI:	it can swim.
+*INV:	what else can you tell me?
+*CHI:	ducky can walk.
+*CHI:	and he can say quack quack.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	um, a pig can say, a pig can say whatever it says.
+*INV:	mm-hm.
+*INV:	what else can you tell me?
+*CHI:	a pig can walk, you know.
+*INV:	(o)kay.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	um, y- you can eat a carrot.
+*INV:	mm-hm.
+*CHI:	last time I had those special carrots, last time too.
+*INV:	mm-hm.
+*INV:	what else can you tell me?
+*CHI:	um, you can take these stems off &=points.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	a ladybug.
+*INV:	what more can you tell me?
+*CHI:	um, a ladybug can fly and walk.
+*INV:	what else can you tell me?
+*CHI:	um it has two wings and two wings inside it.
+*CHI:	like those &=points has wings inside it.
+*INV:	mm.
+*CHI:	&=turns:page.
+@Comment:	no pages visible
+*CHI:	see?
+*CHI:	no more pages.
+*INV:	no more pages.
+*INV:	do you wanna look again?
+*CHI:	no I already s- said I wanted to play that game again.
+*INV:	oh okay.
+*INV:	alrighty well let's put Zorg back to sleep.
+*INV:	great.
+*INV:	goodnight Zorg.
+*INV:	well thank you very much for doing that with me that was lots of fun.
+@End

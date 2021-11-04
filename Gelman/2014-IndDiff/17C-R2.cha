@@ -1,0 +1,163 @@
+@UTF8
+@PID:	11312/a-00032067-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.24|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Ladybug
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a creepy crawly.
+*INV:	what more can you tell me?
+*CHI:	a lady bug.
+*INV:	mm-hm [= yes].
+*CHI:	and spots and that's it.
+*INV:	what else can you tell me?
+*CHI:	um, it has black spots and it's red and that's it.
+*CHI:	and it has hair just like us.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	no.
+*INV:	please help him out.
+*CHI:	um, yes.
+*CHI:	it has an line and wings.
+*CHI:	the lady bug is the wing, and that's it.
+*INV:	okay.
+*INV:	you want to flip the page?
+*CHI:	no.
+@G:	Painter
+*INV:	what is this?
+*CHI:	an artist.
+*INV:	what more can you tell me?
+*CHI:	it has grass.
+*CHI:	and a tree.
+*INV:	mm-hm [= yes].
+*CHI:	and uh floor knob, and that's it.
+*INV:	what else can you tell me?
+*CHI:	uh, there has to be something that's green [?].
+*CHI:	it has dirt.
+*INV:	mm.
+*CHI:	and that's it.
+@G:	Turtle
+*INV:	what is no let's go in order.
+*INV:	what is this?
+*CHI:	a turtle.
+*INV:	what more can you tell me?
+*CHI:	it has a shell and that's it.
+*INV:	what else can you tell me?
+*CHI:	it only has a tail and four legs and that's it.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	a pirate.
+*INV:	what more can you tell me?
+*CHI:	it has a treasure chest and a xxx and that's it.
+*INV:	what else can you tell me?
+*CHI:	um, it does not have a leg.
+*INV:	tell me a little bit more.
+*CHI:	it has jewels and a treasure chest and that's it.
+@G:	Duck
+*INV:	mm what is this?
+*CHI:	a bird.
+*INV:	what more can you tell me?
+*CHI:	it's a duck.
+*CHI:	and it has xxx.
+*CHI:	and, it has a green head.
+*CHI:	and a black mouth and that's it.
+*INV:	what else can you tell me?
+*CHI:	um it has white fur and uh, mm, and uh wings and that's it.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	it has a dummy [?] and stars.
+*CHI:	and it has a face arms legs ears hair mouth, nose ears eyes everything, in the whole wide world and that's it.
+*INV:	tell me more.
+*CHI:	&=sighs it has a doggy.
+*CHI:	and a lamp and that it.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a puppy dog.
+*INV:	what more can you tell me?
+*CHI:	it has four legs and it has mostly fur and eyes ears mouth and nose and that's it.
+*CHI:	and a tail and that's it.
+*INV:	what else can you tell me?
+*CHI:	it has fur and that's all over him and it has claws and that's it.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	a cookie.
+*INV:	what more can you tell me?
+*CHI:	it, has chocolate chips and, whatever it is and that's it.
+*INV:	what else can you tell me?
+*CHI:	um it has hair on it, and that's it.
+*INV:	tell me a little bit more.
+*CHI:	it has chocolate chips on it and that's it.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	um, it's orange and it has a leafs stem and that's it.
+*INV:	what else can you tell me?
+*CHI:	uh you can cut it off, and that's it.
+*INV:	tell me a little bit more.
+*CHI:	it has a point at the end and that's it.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a guinea pig.
+*INV:	what more can you tell me?
+*CHI:	it has spots from mud and four legs and a &=snorts nose and a eyes
+	ears mouth, and that's it.
+*INV:	what else can you tell me?
+*CHI:	and a nose, and some milk and that's it.
+*INV:	tell me a little bit more.
+*CHI:	um, uh, it has a tail [?] that's it.
+@G:	Banana
+*INV:	what is this?
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	it is curved and it has, a peel and that's it.
+*INV:	what more can you tell me?
+*CHI:	it's white and that's it.
+*INV:	what else can you tell me?
+*CHI:	it has fur on it and that's it.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	it has a bat and a helmet and shoes and a uniform and that's it.
+*INV:	what else can you tell me?
+*CHI:	um, his hands are stretched out like that and then he's hitting a bat, and that's it.
+*INV:	tell me a little bit more.
+*CHI:	his hands are holding on to the bat, and that's it.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	um, a nurse.
+*INV:	what more can you tell me?
+*CHI:	um it has a stethoscope and hair and earrings and eyes ears mouth and nose.
+*INV:	what else can you tell me?
+*CHI:	um, it has a microphone, and that's it.
+*INV:	tell me a little bit more.
+*CHI:	um, it has hair and that's it.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	it's brown and xxx cut it and that's it.
+*INV:	what else can you tell me?
+*CHI:	it's shaped like a rectangle, and that's it.
+*INV:	tell me a little bit more.
+*CHI:	it has yellow on the page and that's it.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	swiss cheese.
+*INV:	what more can you tell me?
+*CHI:	it's shaped in a triangle and it has holes and that's it.
+*INV:	what more can you tell me?
+*CHI:	it's big.
+*CHI:	and it has bites and mouse like it.
+*INV:	tell me a little bit more.
+*CHI:	mm, and if mice smell it they will come and eat it and that's it.
+*INV:	do you want to look at any again?
+*CHI:	no.
+*INV:	okay well let's put Zorg back to sleep.
+@End

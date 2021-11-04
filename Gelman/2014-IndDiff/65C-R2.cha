@@ -1,0 +1,206 @@
+@UTF8
+@PID:	11312/a-00032355-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.14|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pilot
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a airplane.
+*INV:	what more can you tell me?
+*CHI:	it can fly.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah it ca- it it can also, there's also cop on it.
+*CHI:	so everyone's safe.
+*INV:	mm, alright.
+*CHI:	there there's a police helicopter and a police airplane.
+*INV:	ah.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	cereal.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	you put milk.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+@G:	Broccoli
+*CHI:	well this is broccoli.
+*CHI:	you eat and dip it.
+*INV:	go ahead and tell me a little bit more.
+*CHI:	okay.
+*CHI:	and you also eat that but I don't like it.
+*CHI:	I eat that and that.
+*INV:	mm.
+*CHI:	so.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	a teacher will teach you all about stuff.
+*INV:	mm.
+*CHI:	what does that do &=opens:clasps?
+*INV:	it opened this up.
+*INV:	can we, yeah.
+*CHI:	&=loses:clasps.
+*INV:	let's keep the, the book closed.
+*INV:	what else can you tell Zorg?
+*CHI:	&=tries:turn_page.
+*INV:	oh let's slow down a little bit.
+*INV:	what else can you tell Zorg?
+*CHI:	uh her also do's xxx experiments.
+@G:	Witch
+*CHI:	that's a witch.
+*CHI:	let's not do this witch.
+*INV:	what more can you tell me?
+*CHI:	this witch scares me.
+@G:	Alligator
+*CHI:	let, that scares me too.
+*INV:	what is this?
+*CHI:	I don't want to do +...
+@G:	Penguin
+*CHI:	this doesn't scare me.
+*INV:	what is this?
+*CHI:	penguin.
+*INV:	what more can you tell me?
+*CHI:	it lays [?] babies.
+*INV:	what more can you tell Zorg?
+*CHI:	it goes in the water swim.
+*CHI:	there's also bad shark it ate one.
+@G:	Popcorn
+*CHI:	that's popcorn.
+*CHI:	yummy yummy in my tummy.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	just popcorn kernels.
+*INV:	what more can you tell Zorg?
+*CHI:	that's it.
+*INV:	please tell Zorg a little bit more.
+*CHI:	just one more.
+*CHI:	okay.
+*CHI:	you also can rip it apart to eat it.
+*CHI:	you can also put cheese or salt, on it.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	a football player.
+*INV:	what more can you tell me?
+*CHI:	he throws footballs.
+*INV:	what more can you tell Zorg?
+*CHI:	sorry, that's it.
+*INV:	just [?] Tell Zorg a little bit more?
+*INV:	just a little bit?
+*CHI:	no.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horse.
+*INV:	what more can you tell me?
+*CHI:	you can ride on a horse.
+*INV:	what more can you tell Zorg?
+*CHI:	that's it.
+*INV:	how about if I turn the pages?
+*INV:	go ahead and tell Zorg a little bit more.
+*CHI:	no.
+*INV:	please?
+*CHI:	one more.
+*CHI:	you can also be cowboy or you need a police horse.
+*CHI:	that's it.
+*INV:	okay.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	elephant.
+*CHI:	I am scared of elephants.
+*CHI:	I am scared of elephants.
+*INV:	well what more can you tell me?
+*CHI:	I just don't want to read that ⌈(be)cause &=turns:page⌉.
+*INV:	we're                          ⌊going⌋ +...
+@G:	Cake
+*INV:	oh, hold on Firstname.
+*INV:	can we can we just slow down a little bit?
+*INV:	thank you.
+*CHI:	okay let's do the cake one.
+*CHI:	you eat the cake and put frosting.
+*INV:	okay.
+*INV:	what more can you tell me?
+*CHI:	uh, that's it.
+*INV:	well what more can you tell Zorg?
+*CHI:	there's more stuff to go.
+*INV:	let's, okay hold on.
+*INV:	hold on.
+*INV:	let's slow down a little bit okay?
+*CHI:	okay.
+*INV:	okay.
+*INV:	can you please tell Zorg a little bit more?
+*CHI:	okay.
+*CHI:	let's see.
+*CHI:	okay.
+*CHI:	let's tell, okay.
+*CHI:	now uh, I don't know about okay.
+*CHI:	I'll tell you.
+*CHI:	you can also put sprinkles on it or, some frosting.
+*INV:	       ⌈okay⌉.
+*CHI:	that's ⌊it⌋.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	nothing.
+*CHI:	nothing else.
+*INV:	oh please tell me a little bit more.
+*CHI:	he do's he do's funny stuff.
+*CHI:	and he sprays stuff like this &=pretends:spray.
+*CHI:	it was, playdough.
+*CHI:	and he also do-es xxx.
+*INV:	okay.
+*CHI:	that's it.
+*INV:	okay.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	uh oh I'm scared of that.
+*CHI:	let's not do that.
+*INV:	what is this?
+*CHI:	crab.
+*INV:	what more can you tell me?
+*CHI:	I don't want to do that no more.
+@G:	Orange
+*CHI:	I like oranges.
+*INV:	ooh let's not skip pages.
+*CHI:	we have to skip some.
+@G:	Lobster
+*CHI:	oh xxx on his hand.
+*INV:	can you just tell me a little bit more?
+*CHI:	okay.
+*CHI:	it can also bite.
+*CHI:	or it can do this.
+*CHI:	snap &=snaps.
+*INV:	mm.
+*CHI:	that's it.
+@G:	Orange
+*INV:	what is this?
+*CHI:	orange.
+*INV:	what more can you tell me?
+*CHI:	uh, that's it.
+*INV:	what more can you tell me?
+*CHI:	just say a little bit more.
+*INV:	just say a little bit more.
+*CHI:	okay.
+*CHI:	you can also eat it.
+*CHI:	and people loves them [?].
+*CHI:	and that's it.
+*INV:	anything else you can tell me?
+*CHI:	no.
+*INV:	just a little bit more?
+*CHI:	okay.
+*CHI:	you can also, you can also eat it in a bowl.
+*CHI:	that's it.
+*INV:	okay.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	no?
+*INV:	all done?
+*INV:	alrighty.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

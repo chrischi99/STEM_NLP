@@ -1,0 +1,200 @@
+@UTF8
+@PID:	11312/a-00032313-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;07.24|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Rabbit
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a cat.
+*INV:	what more can you tell me?
+*CHI:	um a bunny.
+*INV:	oh.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um bunnies have, whiskers just like cats.
+*INV:	anything else you'd like to say?
+*CHI:	sure.
+*CHI:	they have paws.
+*CHI:	and sometimes they're brown or grey or black.
+*INV:	mm-hm [= filler].
+*CHI:	or white.
+*INV:	mm.
+*CHI:	sometimes they're different colors with two.
+*INV:	mm.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a police officer.
+*INV:	what more can you tell me?
+*CHI:	they have, they jail bad people if they steal or do bad things.
+*CHI:	and they have lots of powerful things.
+*CHI:	and guns to shoot bad guys but only when they're running away.
+*INV:	mm.
+*INV:	                     ⌈zorg⌉ +...
+*CHI:	and they have police ⌊cars⌋.
+@G:	Milk
+*INV:	what is this?
+*CHI:	milk, in a glass.
+*INV:	what more can you tell me?
+*CHI:	you drink milk.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you you can put them in a glass cup or or plastic cup.
+*CHI:	and in a glass cup it might break.
+*INV:	mm.
+*CHI:	and milk will spill.
+*INV:	mm okay.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	pretzel.
+*INV:	what more can you tell me?
+*CHI:	pretzel sometimes might be soft or crunchy.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	they sometimes have salt on them and sometimes have that [?].
+*INV:	mm, okay.
+@G:	Frog
+*CHI:	xxx.
+*INV:	what is this?
+*CHI:	frog.
+*INV:	what more can you tell me?
+*CHI:	frogs have eyes that can see really well.
+*CHI:	and they have a xxx.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him ⌈out⌉?
+*CHI:	they eat         ⌊flies⌋.
+*CHI:	and they have very xxx um swimming legs.
+*INV:	mm, okay.
+*CHI:	sometimes they have spots.
+*CHI:	sometimes they don't.
+*INV:	mm.
+@G:	Owl
+*INV:	what is this?
+*CHI:	a owl.
+*INV:	what more can you tell me?
+*CHI:	owl have sharp claws.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	they have good looking eyes and and at night time.
+*CHI:	and and, and they usually need some um they usually eat xxx in the night.
+*INV:	mm.
+*CHI:	xxx and the morning they can't.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a farm, woman.
+*INV:	what more can you tell me?
+*CHI:	they have vegetables growing in the fields.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	they have different kinds of foods.
+*CHI:	and they feed it to the animals sometimes.
+*CHI:	and the sheeps come over and they eat some off somethings.
+*INV:	mm, okay.
+@G:	Pie
+*INV:	what is this?
+*CHI:	xxx muffin.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	it's actually a apple pie.
+*CHI:	xxx pie but I don't know what kind.
+*INV:	mm.
+*CHI:	it's the crust around it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, you can be you can be um it could be apple pie or orange pie or blueberry pie.
+*INV:	mm.
+*CHI:	and sometimes it can be xxx pie.
+*CHI:	and you have to bake it if you want it to cook.
+*CHI:	if you want to eat it.
+@G:	King
+*CHI:	it's a king.
+*INV:	what more can you tell me?
+*CHI:	kings have crowns.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	king have long fur coats.
+*CHI:	and they sit in the place where they usually sit.
+*CHI:	like a king does and they have shining crown.
+*CHI:	and necklace.
+*CHI:	and have lots of treasure.
+*INV:	you're doing really well.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	a person.
+*INV:	what more can you tell me?
+*CHI:	it's going in the waves and surfing.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you have to wear a swimming suit.
+*CHI:	and you have to be really careful.
+*CHI:	and you can't be too young or you might die.
+*INV:	mm, okay.
+@G:	Lion
+*INV:	what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	they have fur around the face.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help +...
+*CHI:	they have sharp claws.
+*CHI:	and four feet.
+*CHI:	and they have a brown tail.
+*CHI:	and they're all brown.
+*CHI:	and they and they scare other and they scare and they're and they're
+	and they scare something away if they want to eat it maybe.
+*INV:	mm okay.
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn cob.
+*INV:	what more can you tell me?
+*CHI:	you can eat corn and also decorate it on your house.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you can eat it eat it on a cob.
+*CHI:	or you can eat it without on a cob.
+*INV:	mm.
+*CHI:	it has to be cooked too.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	it comes on trees.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	they have leaves when they get pulled off trees.
+*CHI:	and they have seeds on them so birds eat them.
+*INV:	mm, okay.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	strong man.
+*INV:	what more can you tell me?
+*CHI:	they get strong by lifting weights.
+*INV:	mm Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	they have big muscles from doing all the work they've done.
+*CHI:	and they have to do lots of work to be really strong.
+*CHI:	and they wear exercising pants to exercise and get weights.
+*INV:	mm.
+@G:	Snake
+*INV:	what is this?
+*CHI:	a Snake.
+*INV:	what more can you tell me?
+*CHI:	they're different colors.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	they eat anything.
+*CHI:	and they come out at night time in the desert.
+*INV:	mm.
+*CHI:	and they're very big.
+*CHI:	and long.
+*INV:	all done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	no?
+*INV:	okay.
+@End

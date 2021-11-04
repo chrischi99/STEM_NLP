@@ -1,0 +1,190 @@
+@UTF8
+@PID:	11312/a-00032354-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.23|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Baseball Player
+@Types:	cross, narrative, TD
+*CHI:	now he's a baseball.
+*CHI:	yeah I love playing baseball [= as Zorg]
+	&=makes:Zorg_fly_back_and_forth.
+*CHI:	he's doing that.
+*CHI:	I can't control him.
+*INV:	what more can you tell me?
+*CHI:	he doesn't know what to tell me else, to do.
+*INV:	well can you tell me?
+*CHI:	uh he play he plays baseball.
+*INV:	zorg doesn't know much about this on.
+*INV:	can you help him out?
+*CHI:	well, we gotta turn it.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a doctor.
+*CHI:	somebody's sick.
+*INV:	what more can you tell me?
+*CHI:	her helps people.
+*INV:	what else can you tell me?
+*CHI:	her do's xxx surgery if somebody's dead or sick.
+*CHI:	or um blood.
+*CHI:	or they do clear like this.
+*CHI:	clear clear.
+*INV:	mm.
+*CHI:	in case they're not breathing.
+*INV:	mm-hm [= filler].
+@G:	Banana
+*CHI:	oh yeah.
+*INV:	what is this?
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	what else can you tell me?
+*CHI:	you you rip off the skin and then you eat it.
+*INV:	anything else you want to tell Zorg?
+*CHI:	no he knows everything now.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	a pirate.
+*INV:	what more can you tell me?
+*CHI:	he steals.
+*INV:	what else can you tell me?
+*CHI:	I don't know.
+@G:	Puppy
+*CHI:	a puppy.
+*INV:	what more can you tell me?
+*CHI:	he looks innocent.
+*CHI:	and he licks people.
+*CHI:	and he shakes.
+*INV:	what else can you tell me?
+*CHI:	the dog will tell you.
+*CHI:	ruff-ruff.
+*CHI:	he telled you say “oh I don't know”.
+*CHI:	and and I know how to spea +...
+*CHI:	I speak cats.
+*INV:	mm.
+*CHI:	I got a cat.
+*CHI:	her names xxx [= pets].
+*CHI:	her xxx outside.
+*CHI:	xxx.
+*CHI:	her's a baby cat.
+*CHI:	a tiny one.
+*CHI:	we gave her milk and sausages.
+*INV:	mm.
+*CHI:	but you but [?] people can't eat sausages.
+*CHI:	(be)cause the baby cat eats it.
+*CHI:	it's for cats only.
+*CHI:	the baby.
+@G:	Carrot
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*INV:	what else can you tell me?
+*CHI:	he- you also take off that.
+*CHI:	that's the plant to it.
+*CHI:	you can also you you also can get uh carrot tree.
+*CHI:	and take it.
+*CHI:	and then you eat the carrots.
+*INV:	mm.
+*CHI:	also you can grow a peanut tree.
+*INV:	mm.
+*CHI:	or a bread tree.
+*INV:	mm.
+*CHI:	or a apple tree.
+*INV:	mm.
+*CHI:	and that's all the trees you can do.
+@G:	Pig
+*CHI:	you can also, grow a pig tree.
+*INV:	mm.
+*CHI:	with pigs on it.
+*CHI:	and then you eat the pigs (be)cause they are food.
+*INV:	what else can you tell me?
+@G:	Ladybug
+*CHI:	a bug.
+*INV:	what more can you tell me?
+*CHI:	it's a beetle.
+*INV:	mm tell me a little bit more.
+*CHI:	it's a +...
+*CHI:	ew it's stinky [= as Zorg].
+*CHI:	he's movin(g).
+*INV:	anything more you'd like to say?
+*CHI:	um he, it's a beetle.
+*CHI:	it likes, it likes eating and flying.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	a cheese.
+*INV:	what more can you tell me?
+*CHI:	you can grow cheese.
+*CHI:	you can grow a cheese tree.
+@G:	Turtle
+*INV:	what +...
+*CHI:	or or you can also grow a turtle tree to eat.
+*INV:	what is this?
+*CHI:	a turtle.
+*CHI:	and you can you can also eat the shell.
+*CHI:	and the and the turtle xxx if you wash it off.
+*INV:	what more can you tell me?
+*CHI:	what more um +...
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*CHI:	is that you?
+*CHI:	is that you?
+*INV:	no.
+*CHI:	who is it?
+*INV:	I'm not sure.
+*CHI:	is that that's a picture you took a picture of?
+*INV:	mm I'm not sure.
+*INV:	what more can you tell me?
+@G:	Bread
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	I'll turn it.
+*INV:	oh, let's slow down a little bit.
+*INV:	what else can you tell me?
+*CHI:	uh, bread you eat.
+*CHI:	or put, peanut butter.
+*CHI:	or put, you can put some cream cheese toast.
+*CHI:	and that's it.
+*INV:	okay.
+*CHI:	let me turn it.
+@G:	Duck
+*INV:	what is this?
+*CHI:	a goose.
+*INV:	what more can you tell me?
+*CHI:	it goes in water only.
+*CHI:	and it goes, it <doves> [?] down into the water eating eating plants
+	under water.
+*INV:	what else can you tell me?
+*CHI:	gotta turn it.
+@G:	Cookie
+*CHI:	a cookie.
+*INV:	what more can you tell me?
+*CHI:	you eat it.
+*CHI:	and there's chocolate chip cookie.
+*CHI:	peanut butter one.
+*CHI:	also that's it, wait a sec.
+*CHI:	crunch crunch crunch.
+*INV:	tell me a little bit more.
+*CHI:	uh you also rip it apart so you can have two.
+*CHI:	you can eat.
+*CHI:	now tur-only got two pages.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a painted artist.
+*INV:	what more can you tell me?
+*CHI:	her paints.
+*INV:	what else can you tell me?
+*CHI:	her paints with a paintbrush.
+*INV:	tell me a little bit more.
+*CHI:	her also have instructions.
+*CHI:	and her makes the <tree> [?].
+*CHI:	the end.
+*CHI:	                  ⌈xxx⌉.
+*INV:	do you wanna look ⌊again⌋?
+*CHI:	no let's, I'll play again.
+*INV:	okay let's go play then.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

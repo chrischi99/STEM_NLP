@@ -1,0 +1,289 @@
+@UTF8
+@PID:	11312/a-00032283-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|5;00.29|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Penguin
+@Types:	cross, narrative, TD
+*CHI:	penguins.
+*INV:	what more can you tell me?
+*CHI:	of penguins?
+*CHI:	of penguins?
+*INV:	whatever you'd like to tell me.
+*CHI:	that penguins can go really slow plus they go really cold.
+*INV:	hm.
+*CHI:	(be)cause during the ice and the snow, ⌈Zorg⌉.
+*INV:	                                       ⌊zor-⌋ Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he likes doing that &=opens:Zorg_mouth &=closes:Zorg_mouth.
+*CHI:	he's hungry.
+*INV:	oh.
+*CHI:	and I'm hungry too.
+*INV:	oh.
+@G:	Football Player
+*CHI:	oh football!
+*CHI:	my brother, stay away, if you ever play football with my brother
+	don't.
+*INV:	mm.
+*CHI:	do you know why?
+*CHI:	he plays football all the time at Firstname.
+*CHI:	he just loves football.
+*CHI:	okay play, football is where you kick off to people.
+*CHI:	you can throw.
+*CHI:	steal.
+*CHI:	you can steal the football.
+*INV:	mm.
+*CHI:	did you know that?
+*INV:	mm-mm [= no].
+*CHI:	for real.
+*INV:	hm.
+*INV:	what more can you tell me?
+*CHI:	that they run, fast.
+*CHI:	so you, they run fast on grass.
+*CHI:	the grass is painted.
+*INV:	anything else?
+@G:	Lobster
+*CHI:	oh this this is a scorpion.
+*INV:	mm.
+*CHI:	is it a scorpion?
+*INV:	hm, what more can you tell me?
+*CHI:	it's not a scorpion.
+*CHI:	it's a it's a n it's a name I don't know.
+*CHI:	I don't know this name.
+*CHI:	but I know what it does.
+*CHI:	it hurts.
+*INV:	mmm.
+*CHI:	they can kill.
+*CHI:	but, you better stay away &=turns:multiple_pages.
+@G:	Witch
+*INV:	oops &=turns:pages_back.
+*CHI:	ah, oh I skipped two pages.
+*INV:	mm.
+*CHI:	guess what xxx.
+*INV:	mm.
+*CHI:	xxx.
+*INV:	what is this?
+*CHI:	oh let me see.
+*CHI:	bats.
+*INV:	what more ⌈can you tell me⌉?
+*CHI:	like      ⌊Batman⌋.
+*INV:	oh.
+*CHI:	I saw Batman Begins.
+*CHI:	it's cool.
+*CHI:	did did you did you want to go see it for real life?
+*INV:	mm.
+*CHI:	don't act like him.
+*INV:	oh &=laughs.
+*CHI:	it makes you, it make, it it makes me feel like you're a different person.
+*INV:	oh I'm sorry.
+*CHI:	just speak.
+*INV:	okay well what more can you tell me?
+*CHI:	that witches, this is a witch.
+*CHI:	it can, it can't hurt you unless if it if if if you do bad things to it right?
+*INV:	mm.
+*CHI:	you did it again.
+*INV:	&=laughs anything else you'd like to say?
+*CHI:	no.
+*INV:	okay.
+*CHI:	oh see.
+@G:	Cereal
+*CHI:	chips.
+*INV:	what more can you tell me?
+*CHI:	you get to eat chips.
+*INV:	mm.
+*CHI:	chips are yummy.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	&=laughs he wants to do this &=smushes:Zorg_face.
+*INV:	well what more can you tell Zorg?
+*CHI:	that that that they're yummy.
+*INV:	oh.
+*CHI:	let's go to the next page.
+*INV:	okay.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	police officer in a in a plane.
+*CHI:	that's a great idea.
+*CHI:	do you know why?
+*INV:	hm?
+*CHI:	they can arrest you if you do bad things or break the laws.
+*INV:	mm, what more can you tell me?
+*CHI:	that planes can go fast but you think it's slow.
+*INV:	ah.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I I I wish you named him something different.
+*CHI:	do you know why?
+*INV:	hm?
+*CHI:	(be)cause it's pretty hard to remember.
+*CHI:	                           ⌈just⌉ +...
+*INV:	how about if we change his ⌊name⌋?
+*CHI:	that's a great idea.
+*INV:	okay what should we call him?
+*CHI:	I got a good one.
+*INV:	hm?
+*CHI:	white Milk &=laughs.
+*INV:	what do we want to call him?
+*CHI:	white Milk.
+*INV:	white Milk?
+*CHI:	&=nods:head_yes.
+*INV:	okay.
+*CHI:	I like that name.
+*INV:	okay.
+*CHI:	do you know why?
+*CHI:	I drink that that thing all the time.
+*INV:	oh.
+*CHI:	and now I want to start calling people that they changed to White Milk.
+*INV:	okay well what can you tell White Milk?
+*INV:	he doesn't know much about this one.
+*CHI:	um that that it, that it's really cool in the front.
+*CHI:	let's change the page.
+@G:	Clown
+*CHI:	he's silly.
+*INV:	mm what is this?
+*CHI:	it's like it's like the goofer.
+*INV:	mm, what more can you tell me?
+*CHI:	that he's dressed up like a girl.
+*INV:	oh what more can you tell White Milk?
+*INV:	he doesn't know much about this one.
+*CHI:	um that um, that he he dresses up silly.
+*CHI:	his legs aren't this, his feet aren't this big.
+*INV:	mm.
+*CHI:	his, his legs aren't this small.
+*INV:	mm.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	some food I don't know.
+*INV:	hm.
+*INV:	well what more can you tell me?
+*CHI:	that it's yucky.
+*INV:	oh.
+*CHI:	I don't like it.
+*INV:	what more can you tell White Milk?
+*INV:	he doesn't know much about this one.
+*CHI:	that it's green and it looks like trees.
+*CHI:	let's go to the next page.
+@G:	Alligator
+*CHI:	alligator.
+*CHI:	stay away from alligators.
+*CHI:	do you know why?
+*INV:	hm?
+*CHI:	they can hurt.
+*CHI:	no it's a crocodile.
+*CHI:	crock- alligators' um tails are longer than this.
+*INV:	oh.
+*CHI:	yeah they really are.
+*INV:	mm what more can you tell me?
+*CHI:	um that their, stay away from alligators and crocodiles (be)cause they can hurt.
+*CHI:	they can stay out of the water or go in the water.
+*CHI:	they can swim faster than humans can.
+*CHI:	faster than a motorcycle.
+*INV:	mm.
+*CHI:	let's go to the next page.
+@G:	Teacher
+*CHI:	this is a teacher.
+*CHI:	that helps peop- teachers help people um, learn stuff.
+*INV:	what more can you tell me?
+*CHI:	that she's reading a bible.
+@G:	Horse
+*CHI:	here's a horse.
+*CHI:	you can ride horses.
+*INV:	mm.
+*CHI:	I I ride a real um pony before.
+*INV:	oh.
+*CHI:	I really did.
+*INV:	mm.
+*CHI:	it's scary.
+*INV:	mm.
+*CHI:	my sister's three and I'm five.
+*CHI:	and it wasn't scary for her.
+*INV:	oh.
+*CHI:	we were riding and hers was walking an- and mine was running.
+*INV:	mm-hm [= filler].
+*CHI:	and so that's why I was scared.
+*CHI:	that's a good reason to be scared right?
+*INV:	mm-hm [= yes].
+*CHI:	(be)cause you can go pretty fast.
+*CHI:	it can go fast enough that you can die.
+*INV:	oh.
+*INV:	well what else can you tell me?
+@G:	Orange
+*CHI:	oh cool.
+*CHI:	this is a orange.
+*CHI:	I don't like orange.
+*CHI:	but but they but their juice inside (th)em is yummy.
+*CHI:	I always um, put my teeth on it so I can get the drink into my teeth.
+*CHI:	and and it goes down my throat.
+*INV:	oh.
+*CHI:	come, it jumps out into my mouth and it goes in my throat.
+*INV:	oh, tell me a little bit more.
+*CHI:	of oranges?
+*INV:	whatever you'd like to tell me.
+@G:	Popcorn
+*CHI:	popcorn.
+*INV:	what more can you tell me?
+*CHI:	I'm gonna figure out what that red stuff is.
+*CHI:	that's just popcorn.
+*INV:	what else can you tell me?
+*CHI:	we're almost done aren't we?
+*INV:	mm-hm [= filler].
+*CHI:	next page is the last page.
+*CHI:	let's go to the next page.
+@G:	Elephant
+*CHI:	&=turns:page [= skips pages].
+*INV:	I think we're skipping some pages &=turns:page_back.
+*CHI:	oh yeah.
+*CHI:	you're skipping.
+*INV:	what is this?
+*CHI:	elephant.
+*INV:	what more can you tell me?
+*CHI:	I'm not gonna tell any more about elephants.
+*INV:	oh please.
+*CHI:	they can, all I'm gonna tell about them is that they have long, nose.
+*INV:	mm.
+*CHI:	so they can grab stuff.
+@G:	Cake
+*CHI:	here's some cake.
+*INV:	what more can you tell me?
+*CHI:	the cake has chocolate and it's yummy.
+*INV:	what more can you tell White Milk?
+*INV:	⌈he doesn't know much about this one⌉.
+*CHI:	⌊I,⌋ I'm really hungry right now.
+*INV:	oh we're almost done.
+*CHI:	are you hungry too?
+*INV:	yeah.
+*CHI:	I didn't eat since like nine hours ago.
+*INV:	mm.
+*CHI:	I ate at, breakfast at midnight.
+*INV:	mm.
+*CHI:	know that?
+*INV:	mm-mm [= no].
+*INV:	what more can you tell White Milk?
+*INV:	he doesn't know much about this one.
+*CHI:	I go in this morning actually I go in the afternoon but I came here after I did school.
+*CHI:	so we're pretty early (be)cause I went to school before.
+*INV:	mm.
+*CHI:	before, after I meant.
+*CHI:	let's see the next page &=turns:page.
+*CHI:	we get, we went pretty far.
+*INV:	yeah.
+*CHI:	we went pretty fast.
+*INV:	yeah.
+*INV:	do you want to look again?
+*CHI:	can we play the game again?
+*INV:	uh sure.
+*INV:	I have, I actually have another game we can play too.
+*CHI:	yeah show the other game.
+*INV:	okay.
+*CHI:	let's do the other game.
+*INV:	okay.
+*CHI:	is that it?
+*INV:	yeah.
+*INV:	unless you want to look again.
+*CHI:	I want to do the game.
+*INV:	oh okay.
+*INV:	well let's put Zorg back into his box.
+@End

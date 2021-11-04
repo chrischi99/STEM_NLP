@@ -1,0 +1,244 @@
+@UTF8
+@PID:	11312/a-00032253-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|5;00.12||||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pie
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a pie.
+*INV:	what more can you tell me?
+*CHI:	it it has crustes on here.
+*INV:	mm, zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has, peanuts under it.
+*CHI:	and it's like this.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a police.
+*INV:	what more can you tell me?
+*CHI:	um it has a little talking thing.
+*CHI:	that goes into your phone it tells you.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has lights up here that turns red and blue.
+*CHI:	and it has a blue <truck> [?].
+*CHI:	that sometimes is just um white.
+*INV:	mm.
+*CHI:	and they wear and they wear a police office badge.
+*CHI:	badge.
+*CHI:	and they wear a hat.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	bunny rabbit.
+*INV:	what more can you tell me?
+*CHI:	it has, feet.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has ears.
+*CHI:	and it has a little fluffy tail.
+*CHI:	and its nose, is like this &=wiggles:nose.
+*INV:	mm.
+*CHI:	they still have to move their mouth.
+*INV:	mm.
+*CHI:	I still have to move my mouth.
+@G:	Surfer
+*CHI:	ah ah skipped a page.
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	mm.
+*INV:	well what can you tell me?
+*CHI:	it, it's a boy.
+*CHI:	and it has hair.
+*INV:	what move can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has water and it has a +...
+*CHI:	what is this again?
+*CHI:	what is this?
+*INV:	um I'm not sure.
+*INV:	what do you think?
+*CHI:	probably a board.
+*INV:	mm.
+*CHI:	and it has polka dots on it.
+*CHI:	that's what I do at home.
+*CHI:	I put my feet in here and go way out like this &=pushes:chair_out.
+*INV:	mm-hm [= filler].
+*CHI:	and I go like this &=pulls:chair_in.
+*INV:	mm.
+*CHI:	and then I'm back like I was.
+*INV:	hm.
+*CHI:	sometimes I like to go like this &=pushes:chair_out.
+*CHI:	sometimes I usually do like this.
+*CHI:	and then I usually get and then I do this, sometimes
+	&=scoots:chair_in.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	a strong guy.
+*INV:	what more can you tell me?
+*CHI:	it has, tough things in him.
+*CHI:	drinks too much milk.
+*INV:	mm.
+*CHI:	so he gets strong.
+*CHI:	and he's thirsty.
+*INV:	oh.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has a lifter thing.
+*CHI:	and, it has strong arms that can lift it up.
+*CHI:	and down.
+*CHI:	up and down.
+*INV:	mm, okay.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	hm can you take a guess?
+*CHI:	salt.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	it is like this &=traces:with_finger.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has salt on it.
+*CHI:	and you can eat it.
+*INV:	mm.
+*CHI:	and xxx can eat it.
+*CHI:	and I ate it before but I don't know what it's called.
+@G:	Frog
+*INV:	what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	it has, bumps on it.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has pointy, toes.
+*CHI:	and he has, a tree frog would have red eyes but it has brown eyes right now.
+*INV:	oh.
+*CHI:	(be)cause it's not a tree frog &=whispers.
+*CHI:	and, it gots polka dots down there.
+@G:	Owl
+*INV:	what is this?
+*CHI:	I'm xxx.
+*CHI:	really thirsty.
+*INV:	oh.
+*INV:	we only have a few more pictures.
+*INV:	can we go through the pictures or?
+*CHI:	how many do we have left?
+*INV:	do you want to grab a drink of water first?
+*CHI:	yeah.
+*INV:	okay let's do that &=leaves:room.
+*CHI:	sometimes when I do this you can see part of my belly
+	&=lifts:arms_up.
+*INV:	oh.
+*CHI:	see?
+*CHI:	see part of my belly?
+*CHI:	(be)cause my hand's down here &=puts:Zorg_on_hand.
+*INV:	oh.
+*INV:	what is this?
+*CHI:	a owl.
+*CHI:	a owl.
+*INV:	what more can you tell me?
+*CHI:	it has point, it has ears.
+*CHI:	black ears.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has sharp claws &=moves:Zorg_away_from_picture.
+*CHI:	&=laughs I think he's scared &=makes:sound_for_Zorg.
+*CHI:	it has a shiny nose right there.
+*CHI:	it gots a tail.
+*CHI:	and it gots rings that are striped.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	it has leaves.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has a stem.
+*CHI:	and it's red.
+*CHI:	and it sure has some seeds on the outside.
+*CHI:	and some that are in there.
+*INV:	mm.
+*CHI:	(be)cause sometimes they suck in you put them in your mouth.
+*INV:	mm.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	it has uh, crown.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has a king necklace.
+*CHI:	and it has a pointer.
+*CHI:	and it gots a ring &=turns:multiple_pages.
+*INV:	mm.
+@G:	Milk
+*INV:	oops &=turns:correct_page.
+*INV:	what is this?
+*CHI:	it's a cup.
+*INV:	what more can you tell me?
+*CHI:	it's in a glass.
+*CHI:	glass cup.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has milk in it.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a farmer.
+*INV:	what more can you tell me?
+*CHI:	it has a farmer hat.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it grows food.
+*CHI:	and, it's a girl.
+*CHI:	and sometimes they're boys.
+*CHI:	and there's a barn that usually red but there's a yellow one.
+*CHI:	this sorta sticks a little [= about book on table]
+	&=moves:book_back_and_forth.
+*INV:	mm.
+@G:	Snake
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	what more can you tell me?
+*CHI:	it's a, it has a pointy right there.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's a rattle snake and it's big up here.
+*INV:	hm.
+*CHI:	got stripes.
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn.
+*INV:	what more can you tell me?
+*CHI:	it has red corn and black corn and yellow corn.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has lots and lots and of these.
+*INV:	oh.
+*CHI:	that go in.
+*INV:	oh.
+@G:	Lion
+*INV:	what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	it gots, sharp claws.
+*INV:	mm what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has a mane.
+*CHI:	and it gots a tail.
+*CHI:	and it gots long legs.
+*INV:	mm.
+*CHI:	the end.
+*INV:	do you wanna look again?
+*CHI:	no.
+*INV:	no?
+*INV:	okay.
+*INV:	well thank you very much for looking at the picture book with me.
+*INV:	that was a lot of fun.
+@End

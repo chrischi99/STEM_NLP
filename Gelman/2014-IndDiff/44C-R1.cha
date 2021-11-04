@@ -1,0 +1,202 @@
+@UTF8
+@PID:	11312/a-00032228-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.25|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Bicycle
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	bike.
+*INV:	what can you tell me about this bike?
+*CHI:	you ride on it.
+*INV:	mm.
+*INV:	zorg doesn't know anything about bikes.
+*INV:	can you tell him about bikes?
+*CHI:	I don't, know.
+*INV:	mm.
+*INV:	you wanna try the next picture?
+*CHI:	yeah.
+@G:	Chair
+*INV:	what is this?
+*CHI:	a chair.
+*INV:	what can you tell me about chairs?
+*CHI:	you sit on chairs.
+*INV:	mm.
+*INV:	zorg doesn't know anything about this chair.
+*INV:	can you tell him about this chair?
+*CHI:	you sit on it.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	clowns are silly.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	xxx.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	a alligator.
+*INV:	what more can you tell me?
+*CHI:	alligator is bad.
+*INV:	mm.
+*CHI:	what else can you tell me?
+*CHI:	alligator have sharp claw.
+*INV:	mm.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horsie.
+*INV:	what more can you tell me?
+*CHI:	horsie giddy-up.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	horsie's have tails.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	somebody.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	it xxx ball.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	it wa- that ones wearin a hat.
+@G:	Cake
+*INV:	what is this?
+*CHI:	a cake.
+*INV:	what more can you tell me?
+*CHI:	you eat cake.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	I don't know.
+*INV:	mm, can you just tell me a little bit more?
+*CHI:	yeah.
+*INV:	okay.
+*CHI:	cake has frosting on.
+@G:	Popcorn
+*INV:	you're doing really well.
+*INV:	what is this?
+*CHI:	popcorn.
+*INV:	what more can you tell me &=laughs?
+*CHI:	it's in a bowl.
+*INV:	mm, what else can you tell me?
+*CHI:	you eat popcorn.
+*INV:	mm.
+@G:	Witch
+*INV:	what is this &=looks:picture &=laughs?
+*CHI:	a witch.
+*INV:	oh what more can you tell me?
+*CHI:	it was <a bat> [?].
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	it, the witch is wearing a hat.
+*INV:	mm.
+*INV:	anything else you'd like to say?
+*CHI:	I don't know what else.
+*INV:	you're really doing great.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	somebody body, sitting in a chair.
+*INV:	mm.
+*CHI:	what more can you tell me?
+*CHI:	it was wearing a hat.
+*INV:	mm, what else can you tell me?
+*CHI:	there are [?] clouds.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	a elephant.
+*INV:	what more can you tell me?
+*CHI:	elephant has a long trunk.
+*INV:	mm, what else can you tell me?
+*CHI:	it has a neck.
+*CHI:	the elephant is big.
+*INV:	mm.
+*INV:	do you wanna turn the page?
+*CHI:	yeah.
+@G:	Orange
+*INV:	what is this?
+*CHI:	a orange.
+*INV:	what more can you tell me?
+*CHI:	you eat oranges.
+*INV:	what else can you tell me?
+*CHI:	the orange turns into orange juice.
+*INV:	mm, would you like to turn the page?
+*CHI:	yeah.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	a crab.
+*INV:	what more can you tell me?
+*CHI:	the crab has claw.
+*INV:	mm, what else can you tell me?
+*CHI:	I don't know.
+*INV:	can you please tell me a little bit more?
+*CHI:	yeah.
+*INV:	please tell me a little bit more.
+*CHI:	I don't know.
+*INV:	hm &=looks:picture &=laughs.
+*INV:	do you wanna sit on the couch?
+*CHI:	yep.
+*INV:	yeah &=sits:couch?
+*INV:	alright.
+*INV:	do you wanna hold the book?
+*CHI:	yeah.
+*INV:	okay.
+*INV:	anything else you wanna tell me?
+*CHI:	I don't know what else.
+*CHI:	the crab is a crab.
+*INV:	okay.
+*INV:	do you wanna turn the page?
+*CHI:	yeah &=turns:multiple_pages.
+@G:	Broccoli
+*INV:	oops &=turns:back.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	cereal.
+*INV:	what more can you tell me?
+*CHI:	it's in a bowl.
+*INV:	oh.
+*INV:	well, what else can you tell me?
+*CHI:	you eat it.
+*INV:	mm.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	hm, do you have any guesses?
+*CHI:	no.
+*INV:	well what can you tell me?
+*CHI:	it's green.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	bunnies eat this.
+*INV:	do you wanna turn the page?
+*CHI:	yeah.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	the penguin swims when it's cold.
+*INV:	what else can you tell me?
+*CHI:	the penguin likes swimming in the water when it's cold outside.
+*INV:	do you wanna turn the page?
+*CHI:	yeah.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	the teacher got a book in its hand.
+*INV:	what else can you tell me?
+*CHI:	the teacher's wearing glasses.
+*INV:	anything more you wanna tell me?
+*CHI:	no.
+*INV:	all done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	no?
+*INV:	alright.
+*INV:	can we put zorg back into his ⌈ho- back into his box⌉?
+*CHI:	                              ⌊yeah⌋.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a whole lot of fun.
+@End

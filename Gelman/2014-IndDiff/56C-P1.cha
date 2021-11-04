@@ -1,0 +1,105 @@
+@UTF8
+@PID:	11312/a-00032298-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.20|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Orange
+@Types:	cross, narrative, TD
+*MOT:	oh what's ⌈that⌉?
+*CHI:	          ⌊orange⌋.
+*MOT:	yeah.
+@G:	Cake
+*MOT:	let's, oh there's different pictures on each page.
+*CHI:	yummy chocolate cake.
+*MOT:	hey, hey hey.
+*MOT:	yum.
+@G:	Alligator
+*MOT:	what's that?
+*CHI:	alligator.
+@G:	Broccoli
+*CHI:	broccoli.
+@G:	Lobster
+*CHI:	lobster.
+*MOT:	yum.
+@G:	Cereal
+*CHI:	mm, what is that?
+*MOT:	mm that's breakfast cereal.
+*MOT:	like cornflakes.
+*CHI:	it's cornflakes.
+*MOT:	yeah.
+@G:	Horse
+*CHI:	horse.
+@G:	Teacher
+*CHI:	teacher.
+@G:	Elephant
+*CHI:	elephant.
+*MOT:	do you know what those are?
+*CHI:	tusks.
+*MOT:	yeah.
+*CHI:	tusks.
+*MOT:	yeah.
+@G:	Clown
+*CHI:	clown.
+@G:	Pilot
+*CHI:	what's that?
+*MOT:	that is a pilot.
+*CHI:	pilot.
+*MOT:	that's what it looks like when he looks out the front of the airplane.
+*CHI:	pilot.
+*MOT:	he sees the clouds.
+*CHI:	pilot.
+*MOT:	yeah.
+*MOT:	and these are the doors between, the pilot and the rest of the airplane.
+*CHI:	p- pilot.
+*MOT:	yeah.
+@G:	Penguin
+*CHI:	penguin.
+@G:	Witch
+*CHI:	witch.
+@G:	Popcorn
+*MOT:	ooh what's ⌈that⌉?
+*CHI:	           ⌊popcorn⌋.
+@G:	Football Player
+*CHI:	football player.
+*MOT:	yeah.
+*CHI:	the end.
+*MOT:	the end.
+*MOT:	look.
+*MOT:	wanna look at it again?
+*CHI:	no.
+*MOT:	no?
+*MOT:	do you want to find your favorite picture?
+*CHI:	no.
+*MOT:	I bet I know which is your favorite.
+*CHI:	what?
+@G:	Cake
+*MOT:	I bet you like &=turns:page_cake +...
+*CHI:	no I don't.
+*MOT:	you don't like chocolate cake?
+*CHI:	yes I do.
+*MOT:	I know you do.
+@G:	Popcorn
+*CHI:	and I also love popcorn.
+@G:	Cake
+*CHI:	and I also like chocolate po +...
+@G:	Alligator
+*MOT:	I bet you like the alligator.
+@G:	Broccoli
+*CHI:	broccoli?
+*MOT:	yeah broccoli's good.
+*CHI:	we need to call.
+*MOT:	call?
+*MOT:	do you remember what she said to do to call?
+*MOT:	we, do we tap?
+*MOT:	you wanna wave?
+*MOT:	say hi.
+*CHI:	hi.
+*CHI:	we tap?
+*MOT:	I can't remember.
+*MOT:	do you want to read again?
+*CHI:	no.
+*MOT:	no?
+@End

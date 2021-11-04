@@ -1,0 +1,226 @@
+@UTF8
+@PID:	11312/a-00032252-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.15||||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Race Car Driver
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a racecar.
+*INV:	what more can you tell me?
+*CHI:	there's people watching the racecar ⌈<go> [?]⌉.
+*INV:	                                    ⌊mm⌋.
+*CHI:	and the man is getting out.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it's a racecar.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	she's wearing dance [?] shoes.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	they dance.
+*CHI:	I used to be, in a dance class.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	dolphin.
+*INV:	what more can you tell me?
+*CHI:	it swims in the sea.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	they can swim.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	what more can you tell me?
+*CHI:	they can, fly.
+*CHI:	I never seen one.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	they can stand on tree trunks.
+*CHI:	they can stand on tree branches.
+*INV:	mm.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	mm can you take a guess?
+*CHI:	orange.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	is it pears?
+*INV:	mm.
+*CHI:	I like pears.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you can eat it but you gotta <peel> [?] off the skin first.
+*INV:	mm.
+*CHI:	but we don't buy the big ones.
+*CHI:	we buy the little ones in cans.
+*INV:	mm.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	ice cream cone.
+*INV:	what more can you tell me?
+*CHI:	this is a cone.
+*CHI:	and this is ice cream.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this is ice cream.
+*CHI:	that's a cone.
+*CHI:	and you eat the ice cream.
+*CHI:	if you like cones you can eat the cone.
+*INV:	mm.
+*CHI:	I eat the cones (be)cause, I don't eat very much cones (be)cause
+	some of them are yucky.
+*INV:	mm.
+*CHI:	but a whole bunch of them are yummy.
+*INV:	mm.
+*CHI:	I like a whole bunch of those cones.
+*INV:	mm.
+*CHI:	I like the ones that have flat on the bottom.
+*INV:	oh.
+*CHI:	but I like some that have point.
+*CHI:	not very much though.
+*INV:	mm.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a butterfly.
+*INV:	what more can you tell me?
+*CHI:	it can flap its wings in the sky.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it used to be a caterpillar.
+*CHI:	but it makes a crystal and then it goes inside it.
+*CHI:	and then it turns into a butterfly.
+*INV:	mm.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	you can eat it.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	mm it has little holes in it [?].
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	it's orange.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	this is the stem.
+*INV:	mm.
+*CHI:	and down here's the xxx this stem.
+*INV:	mm.
+*CHI:	and, you can make pumpkins into a mean pumpkin or a nice pumpkin.
+*CHI:	or you can make it into yourself.
+*CHI:	or, you could keep it plain and paint it.
+*INV:	mm.
+*CHI:	or you can cut it.
+*INV:	mm.
+*CHI:	but me and mom when we have big ones we jus- open up.
+*CHI:	we don't uh decorate it.
+*INV:	ah.
+*CHI:	we don't make a silly face.
+*INV:	mm.
+*CHI:	(be)cause we like to play with the stuff inside of it.
+*CHI:	and &=sneezes.
+*INV:	bless you.
+*CHI:	and sometimes, my mom likes to eat the inside.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a old lady.
+*INV:	what more can you tell me?
+*CHI:	she, can't walk very good so she gots a pointy stick.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it gots, silver hair.
+*CHI:	and it gots green necklaces.
+*CHI:	and one, black one.
+*INV:	mm.
+*CHI:	and it's wearing blue pants.
+*CHI:	and blue shoes.
+*CHI:	and a pink coat.
+*CHI:	and its shirt is green with blue xxx.
+*INV:	mm.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	a fireman.
+*INV:	what more can you tell me?
+*CHI:	it gots a hat.
+*INV:	mm.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it, gots a hose on top of it.
+*CHI:	puts out the fire.
+*INV:	mm.
+@G:	Cat
+*INV:	what is this?
+*CHI:	a kitty.
+*INV:	what more can you tell me?
+*CHI:	it gots green eyes.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	its brown and it gots black stripes.
+*CHI:	and its nose is pink.
+@G:	Judge
+*INV:	what is this?
+*CHI:	a author.
+*INV:	what more can you tell me?
+*CHI:	he gots a desk.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	he gots a chair.
+*CHI:	and he gots some books.
+*CHI:	and he gots a piece of paper.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	I don't remember.
+*INV:	mm, can you take a guess?
+*CHI:	a fox.
+*INV:	mm.
+*INV:	what more ⌈can⌉ +...
+*CHI:	a         ⌊skunk⌋.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	it's black and it gots a white stripe.
+*CHI:	I mean a yellow stripe.
+*CHI:	and it's it gots a black, white forehead.
+*INV:	what more can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it gots pointy toes.
+*CHI:	it got brown eyes.
+*CHI:	it got, and it can put out stinky smells.
+*INV:	mm.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a cupcake.
+*INV:	what more can you tell me?
+*CHI:	it gots nuts on it.
+*INV:	mm.
+*INV:	what more, can you tell zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it gots a wrapper.
+*INV:	mm.
+*CHI:	the end.
+*INV:	do you wanna look again?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*INV:	okay.
+*INV:	you did a great job.
+*INV:	thank you for doing that with me.
+*INV:	that was a lot a lot of fun.
+@End

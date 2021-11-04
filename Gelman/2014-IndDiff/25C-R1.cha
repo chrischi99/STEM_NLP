@@ -1,0 +1,268 @@
+@UTF8
+@PID:	11312/a-00032114-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.05|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pie
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a pie.
+*INV:	what more can you tell me?
+*CHI:	&=makes:eating_noise.
+*CHI:	it goes across and a line and another line and another line.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this has, maybe a two over here like around and around like two lines.
+*CHI:	and the shape like a triangle.
+*CHI:	hm.
+@G:	Corn
+*CHI:	xxx.
+*INV:	what is this?
+*CHI:	um a corn on a cob.
+*INV:	what more can you tell me?
+*CHI:	it has two circles a box and around and around and around.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	mm, it has two innings like a triangle.
+*CHI:	and then it has two little circles.
+*INV:	oh.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a police officer.
+*INV:	what more can you tell me?
+*CHI:	um, it has a police jacket and it has a telephone.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm, this?
+*INV:	mm-hm [= yes].
+*CHI:	puppet?
+*INV:	mm-hm [= yes].
+*CHI:	hm you want me to help the puppet out?
+*INV:	mm-hm [= yes].
+*CHI:	okay it has a walkie talkie and a hat and a dress up clothes.
+*INV:	oh.
+*CHI:	I need my hair cut.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	it is an exerciser guy.
+*INV:	what more can you tell me?
+*CHI:	he stretch his arms like this.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you and xxx.
+*CHI:	okay it has it goes like this and it stretches its muscles to get it big.
+*CHI:	&=stretches:arms.
+*INV:	mm.
+*CHI:	I'm really good at I can read every book at my house right now.
+*INV:	oh.
+*CHI:	I can read it <my own> [?].
+@G:	Frog
+*CHI:	this is a frog.
+*INV:	mm, what more can you tell me?
+*CHI:	he has legs and one eye and two flippers.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm, it has like if it were a duck it has flippers.
+*CHI:	and going squacky spooky around the room.
+*INV:	mm.
+*CHI:	that's what ducks do.
+@G:	King
+*CHI:	the king.
+*INV:	what more can you tell me?
+*CHI:	he, decides who's going to be the king next.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm, it has a crown and a jacket.
+*CHI:	and it has a pencil.
+*CHI:	and it says whoever's gonna be the bossiest one who's not going to be the king.
+*INV:	mm.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	a skateboard guy.
+*CHI:	when we went to the ocean I saw these.
+*INV:	oh.
+*CHI:	and it and it has a skateboard and a head.
+*CHI:	and an x on its body.
+*INV:	what else can you tell me?
+*CHI:	it has only, a swimsuit.
+*CHI:	and it has and arms xxx.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	it has a skateboard and it's skating on the water.
+*CHI:	and it's trying to catch a wave.
+@G:	Snake
+*CHI:	a snake.
+*CHI:	my mom's scared.
+*CHI:	because she's allergic to bees and wasps.
+*INV:	mm.
+*CHI:	that's why I kill them.
+*INV:	oh.
+*CHI:	I can kill wasps and bees you know that?
+*INV:	oh.
+*CHI:	because they don't sting me because I have a broom and I can squish (th)em with my shoe.
+*INV:	oh.
+*CHI:	ah xxx on me [= looking at shoes].
+*INV:	mm, well what more can you tell me?
+*CHI:	um a snake this was in your parking lot and I stepped on it
+	&=looks:at_shoes.
+*INV:	oh.
+*CHI:	I have to scrub my shoes.
+*CHI:	xxx.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has maybe a a short of like like a rope.
+*CHI:	swing around like this and oh like that.
+*CHI:	&=makes:swinging_motions.
+*INV:	mm.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a store guy.
+*CHI:	and it has a hat.
+*INV:	what else can you tell me?
+*CHI:	it has a wheelbarrow.
+*CHI:	and a bucket.
+*CHI:	and it's wheelbarrow.
+*INV:	hm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm.
+*CHI:	I'll show ya what it looks like.
+*CHI:	xxx have a bucket and a hat.
+*CHI:	and he's going to put it (th)em in the store.
+*CHI:	so our our other cat died because it named was Mister Kitty used to catch all the birds xxx.
+*CHI:	but he just died because he had a bad ⌈he got so sick⌉.
+*INV:	                                      ⌊mm⌋.
+*INV:	mm.
+*CHI:	xxx.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	a bunny with ears.
+*CHI:	flop flop flop flop flop &=hops:around.
+*CHI:	hm.
+*INV:	what more can you tell me?
+*CHI:	it has like one two three legs.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	sure.
+*CHI:	I am it has a big round like a little stinger in the back.
+*INV:	mm.
+*CHI:	but this is his bottom.
+*CHI:	these are his ears.
+*CHI:	these are his legs.
+*CHI:	these are his eyes.
+*CHI:	that's his mouth.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	um, hm, it has a leaf, seeds and a straight like a a key [?].
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	hm this is the last vegetable in the book.
+*CHI:	it has a shape and leaves seeds and a stem.
+*INV:	mm.
+@G:	Pretzel
+*CHI:	        ⌈pretzel⌉.
+*INV:	what is ⌊this⌋?
+*CHI:	pretzel yummy yummy yummy yummy yummy yummy yummy yummy.
+*CHI:	it has salt.
+*CHI:	and a curvy line like squirly xxx ice skating like that.
+*INV:	mm.
+*CHI:	I can jump far away from this too like this &=jumps.
+*CHI:	see?
+*INV:	mm-hm [= yes].
+*CHI:	these are <good jumping> [?].
+*INV:	what more can you tell me?
+*CHI:	it has this and this and makes an O or an A.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	okay, this is a tricky tricky one.
+*INV:	mm.
+*CHI:	and I don't know much about pretzels.
+*CHI:	so, you're going to have to see if you want this.
+*CHI:	this has a line and another line and another line like that.
+*CHI:	so what it could be?
+*CHI:	it could be an H or an O don't you think so?
+*INV:	hm.
+@G:	Lion
+*CHI:	now we gotta turn the page.
+*INV:	what is this?
+*CHI:	ah Cheetah Girls.
+*CHI:	firstname and um Firstname and um Firstname and Firstname ⌈and
+	Firstname didn't want to be my friend because Firstname only wanted
+	to be one friend Cheetah_Girls⌉.
+*INV:	                                                          ⌊mm-hm [= yes]⌋.
+*CHI:	but now they do.
+*INV:	mm.
+*CHI:	but they don't want to play with me outside because Firstname is afraid Firstname will say something to her.
+*INV:	oh.
+*CHI:	her party is only for girls.
+*CHI:	and I'm only inviting Firstname and Firstname to my party.
+*INV:	oh.
+*CHI:	and Firstname Firstname Firstname.
+*CHI:	that's it.
+*CHI:	(be)cause they always don't want to behave.
+*CHI:	they're just not gonna be my friend.
+*INV:	mm.
+*CHI:	this is the last time I've given up for them.
+*INV:	mm.
+*CHI:	I'm only getting Firstname and Firstname for my friend and Firstname.
+*CHI:	(be)cause if they don't want to do it okay uh bye.
+*CHI:	I'm not their friend.
+*INV:	what more can you tell me?
+*CHI:	he has we have these little lion costumes.
+*INV:	mm-hm [= yes].
+*CHI:	they go you'll be in my heart.
+*CHI:	well they have feathers around it and xxx.
+*CHI:	well it gives you a rash when you put the children in the car seat.
+*INV:	mm.
+*CHI:	so we're just gonna get right there <I guess> [?] because it's not gonna work, for me.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm, it has feathers like this and two legs.
+@G:	Milk
+*INV:	what is this?
+*CHI:	&=whispers <I hear a song in my brain> [?].
+*CHI:	this is a cup of, milk.
+*INV:	what more can you tell me?
+*CHI:	it has a round shape like an O.
+*INV:	mm.
+*CHI:	I can draw an O like this.
+*INV:	mm.
+*CHI:	see what me to trace it &=traces:on_wall.
+*CHI:	there.
+*CHI:	o.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm, only it has a milk and lemonade mixed together.
+*CHI:	and it has a shape like this and like this &=traces:on_picture.
+*CHI:	hm.
+@G:	Owl
+*INV:	what is this?
+*CHI:	an owl.
+*INV:	what more can you tell me?
+*CHI:	it has two legs.
+*CHI:	and it can catch other animals like mice and it goes &=pounces like
+	that.
+*INV:	mm.
+*CHI:	and it goes &=pounces gotcha.
+*CHI:	just like that.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he has wings ears mouth nose and wings and wings and stuff [?].
+*CHI:	the end.
+*CHI:	now what are we going to do next?
+*INV:	do you want to look again?
+*CHI:	uh nuh-uh [= no].
+*INV:	okay let's put Zorg back to sleep.
+*CHI:	yep.
+*INV:	do you want to put him in?
+*CHI:	mm-hm [= yes].
+*CHI:	and I'll put the book in too.
+*INV:	I don't know that that books gonna fit.
+*INV:	well thank you very much for doing that with me that was so much.
+@End

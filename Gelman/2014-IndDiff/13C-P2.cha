@@ -1,0 +1,763 @@
+@UTF8
+@PID:	11312/a-00032041-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.02|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Ice Cream
+@Types:	cross, narrative, TD
+*CHI:	&=pretends:eat_ice_cream.
+*MOT:	&=laughs.
+*CHI:	ice cream ⌈yum⌉ yum ⌈yum⌉.
+*MOT:	I'll      ⌊let⌋ +...
+*MOT:	ice                 ⌊cream⌋.
+*MOT:	you tell me what you think of this book first.
+@G:	Firefighter
+*CHI:	fireman.
+*MOT:	fireman.
+*CHI:	that was hard.
+*CHI:	because I thought it was a a sideways.
+*MOT:	oh yeah it is sideways.
+*CHI:	so.
+@G:	Muffin
+*CHI:	muffin?
+*MOT:	muffin.
+*CHI:	muffin.
+*CHI:	we ate muffins.
+*MOT:	we ate muffins yesterday didn't we?
+@G:	Dolphin
+*CHI:	dolphin.
+*MOT:	dolphin &=laughs.
+@G:	Pineapple
+*MOT:	&=laughs.
+*CHI:	pineapple.
+*MOT:	pineapple.
+@G:	Ballerina
+*MOT:	do you know what that is?
+*MOT:	what do you think she might be doing?
+*CHI:	hm, dancing?
+*MOT:	what?
+*CHI:	dancing?
+*MOT:	dancing.
+*MOT:	she is dancing.
+*MOT:	she's a ballerina.
+@G:	Parrot
+*CHI:	parrot.
+*MOT:	parrot.
+*CHI:	parrot, parrot [= in bird voice].
+*MOT:	&=laughs.
+*CHI:	what [?]?
+*CHI:	if you say it one time he says it two times.
+*MOT:	oh if you say it one time he says it two times?
+*CHI:	yeah.
+*CHI:	like, like he says hi and he like [= in bird voice] hi hi.
+*MOT:	&=laughs that's good.
+@G:	Judge
+*CHI:	what is that?
+*MOT:	I don't know.
+*CHI:	that's tricky.
+*MOT:	tricky?
+*MOT:	yeah that is kind of tricky.
+*MOT:	do you think he looks to me like he could be, doing something.
+*MOT:	do you think he ⌈could be doing something⌉?
+*CHI:	maybe he's a    ⌊president⌋.
+*MOT:	maybe he's a president.
+*MOT:	maybe he is a president.
+*MOT:	that could be it.
+*MOT:	or you know what I think maybe, he has a robe on.
+*MOT:	do you see the robe up there?
+*MOT:	I don't think you know anything about judges.
+*MOT:	I think he's probably a judge.
+*CHI:	                 ⌈he's [?]⌉ +...
+*MOT:	you think he's a ⌊judge⌋?
+*MOT:	yeah?
+@G:	Skunk
+*CHI:	&=makes:face_like_smells_something_bad.
+*MOT:	oh &=laughs.
+*CHI:	skunk.
+*MOT:	a skunk.
+@G:	Pumpkin
+*CHI:	pumpkin.
+*MOT:	pumpkin.
+*CHI:	&=makes:silly_face.
+*MOT:	&=laughs.
+*CHI:	halloween.
+@G:	Race Car Driver
+*CHI:	oh, ⌈race car⌉.
+*MOT:	what's ⌊that⌋?
+*MOT:	racecars.
+*MOT:	cool.
+*CHI:	vroom vroom vroom.
+*MOT:	vroom vroom.
+@G:	Old Woman
+*MOT:	who's that?
+*CHI:	huh [?] &=shrugs.
+*MOT:	I dunno.
+*MOT:	or what is it?
+*CHI:	a person.
+*MOT:	a person.
+*CHI:	old person.
+*MOT:	an ⌈old person yeah⌉.
+@G:	Butterfly
+*CHI:	   ⌊butterfly⌋.
+*CHI:	&=makes:flying_motions.
+*MOT:	butter &=laughs +...
+*CHI:	ah butterfly.
+*MOT:	feeling a little bit happy today ⌈huh Firstname⌉?
+@G:	Cat
+*CHI:	                                 ⌊meow⌋ ⌈meow⌉.
+*MOT:	                                        ⌊meow⌋.
+*MOT:	good.
+*CHI:	catty.
+*MOT:	catty.
+*CHI:	catty kitty catty.
+*CHI:	go go kitty.
+@G:	Cracker
+*CHI:	cracker.
+*CHI:	&=pretends:eat_cracker.
+*MOT:	mm.
+*CHI:	looks like there's peanut butter inside.
+*MOT:	you think there's peanut butter inside?
+*MOT:	there might be.
+*MOT:	there might be.
+@G:	Ice Cream
+*CHI:	&=pretends:eat_ice_cream.
+@G:	Firefighter
+*CHI:	&=pretends:spray_hose.
+*MOT:	&=laughs.
+@G:	Muffin
+*CHI:	&=pretends:eat_muffin.
+@G:	Dolphin
+*CHI:	&=pretends:be_a_dolphin.
+*MOT:	that's pretty good, Firstname.
+@G:	Pineapple
+*MOT:	what is that?
+*MOT:	you know?
+*CHI:	I said that.
+*MOT:	well ⌈yeah⌉.
+*CHI:	     ⌊pineapple⌋.
+*MOT:	pineapple.
+*MOT:	you're right.
+@G:	Ballerina
+*CHI:	&=poses:like_ballerina.
+*MOT:	&=laughs.
+@G:	Parrot
+*CHI:	&=Makes:bird_noise.
+@G:	Judge
+*CHI:	&=makes:face_like_thinking.
+*MOT:	that's good to act them all out buddy.
+@G:	Skunk
+*CHI:	&=makes:face_like_smells_something_bad.
+@G:	Pumpkin
+*CHI:	&=makes:face_like_jack-o-lantern.
+@G:	Race Car Driver
+*CHI:	&=pretends:drive.
+*CHI:	hm hm hm hm.
+@G:	Old Woman
+*CHI:	&=mimes:walking_with_cane.
+@G:	Butterfly
+*CHI:	&=pretends:fly.
+*MOT:	alright.
+@G:	Cat
+*CHI:	meow meow.
+*CHI:	there last page.
+*MOT:	what do kitties say?
+@G:	Cracker
+*CHI:	crackle.
+*CHI:	yum ⌈yum⌉ +...
+*MOT:	    ⌊cracker⌋.
+*MOT:	what are [?] you doin(g)?
+*CHI:	yum yum yum I'm eating crackers.
+*MOT:	you're eating crackers.
+*MOT:	what are you?
+*MOT:	are you a boy or are you a kitty cat on the floor?
+*CHI:	nothin(g).
+*MOT:	nothin(g).
+*CHI:	                            ⌈I'm just here⌉.
+*MOT:	you feel pretty silly today ⌊huh⌋?
+*CHI:	uh-huh [= yes].
+*MOT:	uh-huh [= yes].
+*MOT:	hey no no.
+*MOT:	you don't need to go in my purse.
+*MOT:	thank you for listening.
+*CHI:	&=runs:circles_in_room.
+*MOT:	alright come on back here and look at this book with me.
+*MOT:	did you get that little burst of energy out?
+*MOT:	feel feel good?
+*MOT:	did you eat breakfast this morning?
+*MOT:	you did didn't ya?
+*MOT:	with Daddy?
+*CHI:	yeah ⌈with one bowl⌉.
+*MOT:	     ⌊yeah⌋.
+*MOT:	with what?
+*CHI:	one bowl.
+*MOT:	one bowl.
+*MOT:	just one bowl?
+*MOT:	that's alright you know we'll probably go have some lunch later.
+*MOT:	okay?
+*MOT:	before you go to school.
+@G:	Ice Cream
+*MOT:	what, what is your favorite flavor of ice cream?
+*CHI:	chocolate chips sprinkled [?], ⌈cherry⌉.
+*MOT:	with a cherry on top or you like cherry ⌊flavor⌋?
+*CHI:	I think I just wanna, I wanna try a cherry.
+*MOT:	you wanna try a what?
+*CHI:	cherry.
+*MOT:	a cherry.
+*CHI:	cherry juice.
+*MOT:	huh.
+@G:	Firefighter
+*MOT:	what's he doin(g) up here?
+*CHI:	firing water in the fire.
+*MOT:	watering the fire?
+*MOT:	good thinking.
+@G:	Muffin
+*CHI:	<this is a> [?] xxx.
+*MOT:	what do you suppose is in this muffin?
+*CHI:	maybe blueberry.
+*MOT:	maybe blueberries.
+*CHI:	it's just black.
+*MOT:	it's ⌈black⌉.
+*CHI:	     ⌊blueberry⌋!
+*MOT:	blueberries.
+*MOT:	or you know what sometimes black is you like cinnamon what kind of toast?
+*CHI:	cinnamon.
+*MOT:	cinnamon raisin toast.
+*MOT:	maybe it's a raisin muffin.
+*CHI:	ew I don't like raisins.
+@G:	Dolphin
+*MOT:	if you were a dolphin where would you swim?
+*CHI:	in the ocean.
+*MOT:	in the ocean.
+*CHI:	there's no ocean in here.
+*MOT:	no.
+*MOT:	not unless we pretend.
+*CHI:	mm-hm [= yes].
+*MOT:	we could pretend and there would be.
+@G:	Pineapple
+*MOT:	where do you think they grow pineapples?
+*MOT:	I don't know if I know where ⌈they grow pineapples⌉.
+*CHI:	at the farm I                ⌊think⌋.
+*MOT:	at the farm.
+*MOT:	do they grow on the ground or do they grow in hey, are you smelling it?
+*MOT:	what are you doing?
+*MOT:	sniffing it.
+*MOT:	do you think they grow them in those little cans on the trees?
+*CHI:	yeah.
+*MOT:	in a can?
+*CHI:	no.
+*MOT:	no &=laughs.
+*MOT:	do you, think they grow on trees or bushes or do they come up from the ground?
+*CHI:	come up from the ground.
+*MOT:	you think?
+*MOT:	I don't know I I think they probably grow on, trees.
+@G:	Ballerina
+*CHI:	dancin.
+@G:	Parrot
+*CHI:	just sittin(g).
+*MOT:	just sitting.
+@G:	Judge
+*CHI:	just sittin(g).
+@G:	Parrot
+*MOT:	do you think he's waiting for a fun little boy to come talk to him?
+*CHI:	yeah.
+*MOT:	yeah &=laughs.
+*MOT:	yeah.
+@G:	Judge
+*CHI:	just sittin(g).
+*MOT:	what do you think he's judging?
+*MOT:	think he's judging anything?
+*MOT:	      ⌈kind of looks like he's thinking⌉.
+*CHI:	maybe ⌊that⌋.
+*MOT:	what?
+*CHI:	I think he's thinking.
+*MOT:	he's thinking.
+@G:	Skunk
+*CHI:	pee-ew.
+*MOT:	pee-ew +...
+*MOT:	yeah he kinda looks like he's sorta spraying doesn't he?
+*MOT:	he's kinda Pee-ew.
+*CHI:	I wanna see.
+*CHI:	oh that yellow stuff I think.
+*MOT:	no I just think the way he's standing he looks I dunno like he's startled or something maybe I don't know.
+@G:	Pumpkin
+*CHI:	pumpkin.
+*CHI:	just sittin(g).
+*MOT:	what do you do with pumpkins?
+*CHI:	uh for Halloween you cut them.
+*MOT:	for Halloween you cut them.
+*MOT:	you're right.
+*MOT:	where do we get pumpkins?
+*MOT:	do you remember?
+*MOT:	do you remember going to the pumpkin patch?
+*CHI:	oh yeah.
+*MOT:	oh yeah.
+@G:	Old Woman
+*MOT:	who does this remind you of?
+*CHI:	                            ⌈me [?]⌉ +...
+*MOT:	does this make you think of ⌊anybody⌋?
+*CHI:	grandma?
+*MOT:	grandma.
+*MOT:	she does kind of look like she could be a grandma.
+@G:	Butterfly
+*CHI:	butterfly.
+*MOT:	butterfly.
+*CHI:	butterfly.
+*MOT:	do you know what kind of butterfly this is?
+*CHI:	no.
+*MOT:	it's a monarch.
+*MOT:	did you have butterflies in your class?
+*CHI:	yeah.
+*MOT:	didn't you have a little cocoon or something in your class?
+*CHI:	         ⌈yeah⌉.
+*MOT:	a little ⌊chrysalis⌋?
+*CHI:	yeah but one, one had blood on it.
+*MOT:	oh it had blood on it?
+*MOT:	did it ever come out?
+*MOT:	I mean did it ever become a butterfly?
+*CHI:	it comed out though.
+*MOT:	it didn't become a butterfly or it did?
+*CHI:	it did.
+*MOT:	it did.
+*MOT:	did you set them free?
+*CHI:	maybe.
+*CHI:	no I didn't.
+*CHI:	the teacher did.
+*MOT:	oh.
+*CHI:	mommy?
+*MOT:	what?
+*CHI:	I want to play I_Spy again, ⌈xxx⌉.
+*MOT:	you want to play I_Spy      ⌊again⌋?
+*MOT:	why don't we play I_Spy in the book?
+*CHI:	I spy, somethin(g), black.
+*MOT:	you spy something black?
+*MOT:	on this page?
+*CHI:	no.
+*MOT:	no?
+*CHI:	look on every page.
+*MOT:	okay.
+@G:	Ice Cream
+*MOT:	nothin black on this page.
+@G:	Firefighter
+*MOT:	his jacket?
+*CHI:	no.
+*MOT:	his boots?
+*CHI:	no.
+*MOT:	no.
+*MOT:	this little knob up here?
+*CHI:	no no no.
+@G:	Muffin
+*MOT:	ooh the raisins?
+*CHI:	no.
+*MOT:	or blueberries?
+*CHI:	no.
+*MOT:	man I think blueberries.
+*MOT:	I don't know.
+*MOT:	oh they could be chocolate chips.
+*CHI:	yeah.
+*MOT:	yeah &=laughs.
+@G:	Dolphin
+*MOT:	the dolphin?
+*CHI:	                               ⌈no [?]⌉.
+*MOT:	oh I guess the dolphin's kinda ⌊grey⌋.
+@G:	Pineapple
+*MOT:	the little edging on the pineapple?
+*CHI:	no.
+@G:	Ballerina
+*MOT:	ballerina, ⌈outfit⌉?
+*CHI:	           ⌊no⌋.
+@G:	Parrot
+*MOT:	uh nothing's black on that page.
+*CHI:	yeah.
+*MOT:	that's sort of purple, isn't it?
+*CHI:	no.
+*CHI:	right here's ⌈black⌉.
+*MOT:	is that      ⌊it⌋?
+*CHI:	no.
+*MOT:	&=laughs you're trying to trick me.
+@G:	Judge
+*MOT:	his robe?
+*CHI:	no.
+*MOT:	his little pen?
+*CHI:	&=laughs.
+*MOT:	no?
+@G:	Skunk
+*MOT:	the skunk.
+*MOT:	⌈oh⌉.
+*CHI:	⌊no⌋.
+@G:	Pumpkin
+*MOT:	pumpkin.
+@G:	Cracker
+*MOT:	should I go to this page?
+*CHI:	mm-hm [= yes].
+*MOT:	the little holes in the crackers?
+*CHI:	no.
+*CHI:	it's this &=points:words_on_cover.
+*MOT:	oh it's +...
+*MOT:	oh you tricked me.
+*MOT:	&=laughs.
+*MOT:	it was on the front.
+@G:	Race Car Driver
+*MOT:	I thought you were psyching me out.
+*MOT:	I thought it was on this page and I was supposed to go there last.
+*MOT:	that's funny.
+*MOT:	you're a funny guy.
+*CHI:	I want to play I_Spy out here.
+*MOT:	you want to play I_Spy out here.
+*MOT:	well isn't it my turn to play I_Spy with this book.
+*CHI:	okay, then [?] xxx out here.
+*CHI:	you're gonna trick me I know.
+@G:	Firefighter
+*MOT:	I spy something, red.
+*MOT:	and you can start from there.
+@G:	Pumpkin
+*CHI:	this?
+*MOT:	nope.
+*MOT:	is that red?
+*CHI:	no.
+*MOT:	what color is that?
+*CHI:	orange.
+*MOT:	orange.
+*MOT:	of course.
+*MOT:	you know that.
+@G:	Butterfly
+*CHI:	that's not red.
+*MOT:	that's not red.
+*MOT:	actually there's not much ⌈red in this book I guess⌉.
+@G:	Old Woman
+*CHI:	                          ⌊this⌋?
+*MOT:	is that red?
+*CHI:	no.
+*MOT:	not really.
+*MOT:	what color is that?
+@G:	Race Car Driver
+*CHI:	this?
+*MOT:	nope.
+*CHI:	I know you're gonna trick me.
+*MOT:	&=laughs.
+*MOT:	there's not much other red stuff in this book.
+*CHI:	gonna try to trick me.
+*MOT:	I didn't realize that.
+*MOT:	that's funny.
+*MOT:	I made it easy for ya.
+*MOT:	&=laughs.
+*CHI:	you?
+*MOT:	no it's not me.
+*MOT:	am I red?
+*MOT:	no [?] I suppose my lips are red aren't they?
+@G:	Firefighter
+*MOT:	look carefully.
+*CHI:	this?
+*MOT:	you're right.
+*MOT:	you're right.
+*MOT:	his little red gloves.
+*MOT:	or big red gloves I guess.
+@G:	Ice Cream
+*CHI:	I spy something, red.
+*MOT:	in the book?
+*CHI:	yeah.
+*MOT:	in the book.
+*MOT:	it's not ice cream right?
+*CHI:	mm-mm [= no].
+@G:	Firefighter
+*MOT:	it's not the gloves.
+*CHI:	it's not the book [?].
+*MOT:	is it this?
+*CHI:	no.
+*MOT:	fire?
+@G:	Judge
+*MOT:	the only other red thing that I saw is it his book?
+*CHI:	&=shakes:head_no.
+*MOT:	that was a tricky one too I saw that earlier.
+@G:	Race Car Driver
+*MOT:	is it the number?
+*CHI:	no.
+*MOT:	is it the table?
+*CHI:	&=shakes:head_no.
+*MOT:	yeah.
+*CHI:	no.
+*MOT:	did I get it?
+*MOT:	no it's not?
+*MOT:	is it this?
+*CHI:	no.
+*MOT:	is it in the book?
+*CHI:	no.
+*CHI:	it's &=points:panel_on_wall.
+*MOT:	oh that's not red.
+*MOT:	that's purple.
+*CHI:	it's kind of red.
+*MOT:	&=laughs alright it's sort of like I it's kinda like red wine but you wouldn't know that.
+*MOT:	it's burgundy kinda.
+*MOT:	I don't think you know the color burgundy.
+*MOT:	so yeah I'll give I'll give you that one.
+*MOT:	you wanna sit on the couch?
+*MOT:	with me too?
+*MOT:	or do you want me to hang out here?
+*CHI:	I spy something white.
+*MOT:	you spy something white huh?
+*MOT:	that?
+*CHI:	I mean I that's not white that's kinda yellow.
+*MOT:	that's kinda yellow?
+*MOT:	the wall?
+*CHI:	what wall?
+*MOT:	that wall?
+*CHI:	no.
+*MOT:	that wall?
+*CHI:	no.
+*MOT:	that wall?
+*CHI:	no.
+*MOT:	that wall?
+*CHI:	no.
+*MOT:	that wall?
+*CHI:	no.
+*MOT:	tissue box?
+*CHI:	no.
+*MOT:	tissue?
+*CHI:	no.
+*CHI:	the box isn't white.
+*MOT:	the box isn't white but the little Kleenex writing on it is.
+*MOT:	that?
+*CHI:	no.
+*MOT:	is it in [?] the book?
+*CHI:	mm-mm [= no].
+*MOT:	is it in the book?
+*CHI:	&=shakes:head_no.
+*MOT:	is it on your shirt?
+*CHI:	no.
+*MOT:	alright I give up.
+*MOT:	what?
+*CHI:	it's kinda it's under there.
+*MOT:	under there?
+*MOT:	what are you talkin(g) about?
+*CHI:	that is white because it's just dark under there.
+*MOT:	&=laughs I don't know Firstname.
+*MOT:	I don't know about that one.
+*CHI:	secret secret.
+*MOT:	secret.
+@G:	Old Woman
+*MOT:	hey I have a question.
+*CHI:	what?
+*MOT:	what's missing in this picture?
+*CHI:	the floor.
+*MOT:	the floor's missing.
+*MOT:	you're right.
+*MOT:	what else is missing?
+*MOT:	seems to me there's something missing ⌈on the picture⌉.
+*CHI:	                                      ⌊xxx⌋.
+*MOT:	or it makes me think of those those matching games we do sometimes.
+*MOT:	you know how like one thing's missing.
+*MOT:	or one thing's different.
+*MOT:	look at her her face.
+*CHI:	oh she's closing her eyes.
+*MOT:	she's closing her eyes but yeah doesn't she look like she's missing something to you?
+*MOT:	on her face?
+*CHI:	her eyebrows?
+*MOT:	does she have a nose?
+*CHI:	no.
+*MOT:	&=laughs.
+*CHI:	yeah she does.
+*MOT:	she does?
+*CHI:	                   ⌈yes [?]⌉.
+*MOT:	I don't really see ⌊it⌋.
+*MOT:	there's <not a> [?] line or anything.
+*MOT:	kinda sorta, you know just looks like she doesn't have a nose to me.
+*CHI:	yeah.
+*MOT:	I was just curious, what you thought.
+*CHI:	she does.
+*CHI:	she does.
+*MOT:	she does?
+*CHI:	see?
+*MOT:	mm, I guess this is sort of the way they shaped her face but huh.
+*CHI:	when are they gonna come?
+*MOT:	when are they gonna come?
+*MOT:	pretty soon buddy, pretty soon.
+*MOT:	hey uh come here.
+@G:	Dolphin
+*CHI:	what is different on, this picture?
+*MOT:	this picture what's different?
+*CHI:	yeah.
+*MOT:	well he's not in the water he's in the air.
+*CHI:	yeah.
+*CHI:	this picture, different.
+*MOT:	what's different?
+*CHI:	yeah.
+*MOT:	I dunno.
+*CHI:	guess.
+*MOT:	um, looks like there's some different colors in here.
+*CHI:	yeah you're right.
+*MOT:	is that it?
+*CHI:	the green xxx.
+*MOT:	the green colors.
+*MOT:	what do you think that could be green in the water?
+*CHI:	                       ⌈huh⌉?
+*MOT:	do you think the water is just water or do you think the water
+	might have plants in ⌊it⌋?
+*CHI:	maybe it has some, oil.
+*MOT:	some oil in the water?
+*MOT:	oh.
+*MOT:	have you seen pictures of oil in ⌈water before⌉?
+*CHI:	maybe they just                  ⌊writed⌋ [?] it.
+*CHI:	they forgot.
+*MOT:	you mean maybe the people who did the picture did it wrong?
+*CHI:	yeah.
+*MOT:	&=laughs I don't think so buddy.
+*MOT:	I think maybe they were trying to put have you ever heard of seaweed?
+*CHI:	yeah.
+*MOT:	I think that might be seaweed.
+*MOT:	are you lookin at yourself over there?
+*CHI:	where?
+*MOT:	say who's that handsome guy in the mirror &=laughs?
+*MOT:	alright I'm pretty much done with this book I think are you done with it?
+*CHI:	yeah.
+@G:	Cat
+*MOT:	hey, here's a good question.
+*MOT:	what would you name this cat?
+*CHI:	xxx [= pet name] maybe?
+*MOT:	xxx [= pet name] like our cat that we used to have.
+*CHI:	yeah he died [?].
+*CHI:	he xxx [= pet name] I think did I see xxx [= pet name]?
+*MOT:	I don't remember if you were around when xxx [= pet name] +...
+*CHI:	I think I ⌈did⌉.
+*MOT:	you might not have been born ⌊yet⌋.
+*MOT:	or maybe you were a baby when we had xxx [= pet name].
+*CHI:	maybe we could see him again.
+*MOT:	maybe we could see him again I don't know.
+*CHI:	no he died I think.
+*MOT:	no we actually gave him to a really nice family.
+*MOT:	I had so many allergies after that, that we ended up giving him to a really nice family who could take good care of him.
+*CHI:	xxx.
+*MOT:	made me very sad.
+*MOT:	does it make you sad to think about it?
+*CHI:	&=nods:yes.
+*MOT:	yeah it made me very sad too.
+*MOT:	but I couldn't breathe so it was very important not to have a pet in the house.
+*MOT:	so sorry.
+*MOT:	but yeah.
+*MOT:	I just couldn't breathe ya know.
+*MOT:	gotta be able to breathe.
+*MOT:	so what else do you want to do?
+*CHI:	I wish we could cut off his all of his hair.
+*MOT:	cut off all of whose hair?
+*CHI:	xxx's [= pet name].
+*MOT:	why?
+*CHI:	then you wouldn't be allergic then.
+*MOT:	oh.
+*MOT:	boy that's good thinking.
+*MOT:	I wouldn't do that to a cat (be)cause the cat would be very sad, but
+	that's that's good thinking to try to help Mom.
+*MOT:	is that what you were thinking is to try and help Mom or?
+*CHI:	yeah.
+*MOT:	yeah.
+*MOT:	what do you think about do you think the cat would be very happy if we cut all his hair of?
+*MOT:	no prollyy not.
+*CHI:	he'd be like xxx.
+*MOT:	yeah he'd probably feel pretty unhappy.
+*MOT:	(be)cause ⌈they need⌉ +...
+*CHI:	he'd he'd say ⌊xxx⌋.
+*MOT:	he would say that?
+*CHI:	yeah.
+*MOT:	yeah I think he would probably feel pretty you know, naked wouldn't he, if he didn't have any fur?
+*MOT:	&=laughs.
+*CHI:	&=laughs.
+*MOT:	exposed ya know.
+*CHI:	he would have a bath.
+*CHI:	tomato bath.
+*MOT:	a a tomato bath?
+*CHI:	yeah.
+*MOT:	where'd that come from?
+*CHI:	dogs have that.
+*MOT:	dogs have tomato baths?
+*CHI:	yeah.
+*MOT:	what do you remember about a dog having a tomato bath?
+*CHI:	mm, give a tomato bath?
+*MOT:	why why would you give a dog a tomato bath?
+*MOT:	do you know why?
+*CHI:	to, get all the stink off.
+*MOT:	to get all the stink off &=laughs.
+*MOT:	that's good thinking.
+*MOT:	you that is that is good remembering.
+@G:	Skunk
+*MOT:	now I don't think you give a dog a tomato bath all the time.
+*MOT:	but there's a there's a certain thing that would happen that would make you give a dog a tomato bath.
+*MOT:	do you remember?
+*CHI:	mm [?] +...
+*MOT:	do you think it could have to do with anything in this book?
+*MOT:	no?
+*CHI:	the skunk.
+*MOT:	the skunk.
+*MOT:	when a do when a dog gets sprayed, with um skunk we I think we read I don't remember what book we read that in.
+*MOT:	but you remembered so that was good.
+*MOT:	when a dog gets sprayed with a skunk, he gets, a tomato bath.
+*MOT:	because you try to get all of the, stink off your dog so you can live with him in your house.
+*CHI:	why doesn't he give him a real bath?
+*MOT:	well a real bath wouldn't take away all the smell.
+*MOT:	a real bath skunks smell really bad.
+*MOT:	and really strong.
+*MOT:	skunks really really really really smell.
+*MOT:	you wanna stay away from a skunk.
+*MOT:	yeah.
+*MOT:	so uh when they spray you its really hard to get all that smell off of you.
+*CHI:	so you +...
+*MOT:	you walk around with that smell ⌈on you⌉.
+*CHI:	and if you sprayed a people you have to take a tomato ⌊bath⌋.
+*MOT:	I I would imagine you probably do.
+*MOT:	I don't know.
+*MOT:	I luckily I've never been been sprayed.
+*MOT:	if you ever see a skunk you go you go ⌈way far away⌉.
+*CHI:	you xxx poison ivy                    ⌊xxx⌋.
+*MOT:	what about poison ivy?
+*CHI:	       ⌈you⌉ +...
+*MOT:	come around here I'm having a hard time talking to you with my neck
+	over ⌊there⌋.
+*CHI:	you got it.
+*MOT:	turn around here and come over here.
+*CHI:	you got poison ivy.
+*MOT:	I did get poison ivy.
+*MOT:	do you remember me getting poison ivy?
+*CHI:	no.
+*MOT:	oh.
+*CHI:	my dad told me.
+*MOT:	your dad to oh yeah boy.
+*MOT:	it hurt, too.
+*MOT:	it itched and itched and itched.
+*MOT:	and every time I scratched it it spread.
+*MOT:	so I had a little bit here and I'd scratched it and it moved up to my here.
+*MOT:	and then it was all over my knee and my leg.
+*MOT:	it was horrible.
+*CHI:	xxx.
+*MOT:	so you always want to stay away from poison ivy.
+*MOT:	but you're pretty good.
+*MOT:	you spotted poison ivy or you thought you spotted poison ivy the
+	other day right.
+*CHI:	yeah ⌈but⌉ +...
+*MOT:	so you're pretty good at lookin out for that ⌊stuff⌋.
+*CHI:	but I sawed poison ivy.
+*MOT:	yeah.
+*MOT:	daddy showed you didn't he?
+*CHI:	no.
+*CHI:	there was it was baby poison ivy.
+*MOT:	oh.
+*MOT:	did you touch it?
+*CHI:	no.
+*MOT:	good.
+*MOT:	do you stay away from it or did you, ⌈show your brothers⌉?
+*CHI:	I                                    ⌊just⌋, got over the tree quick (be)cause the tree had it.
+*MOT:	at our house or in the +...
+*CHI:	no in the woods.
+*MOT:	in the woods in the park.
+*MOT:	okay.
+*MOT:	I'm glad you stayed away from it.
+*CHI:	I just got really close but I didn't get it.
+*MOT:	okay.
+*MOT:	sometimes you don't even want to get too close.
+*MOT:	I know Daddy's mowed the lawn before and kinda [?] I think he's
+	gotten it before from just mowin the lawn and having all the dust
+	and everything.
+*MOT:	what are you doin(g)?
+*MOT:	that's a funny face you just made at yourself.
+*MOT:	you know what if you're all done here you can go knock on the window.
+*CHI:	this thing?
+*MOT:	they said to knock on the window when we're done.
+@End

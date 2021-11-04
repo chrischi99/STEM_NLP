@@ -1,0 +1,266 @@
+@UTF8
+@PID:	11312/a-00032333-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|MOT|||||Mother|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Turtle
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*MOT:	this is a turtle.
+*INV:	mm-hm [= filler].
+*MOT:	and turtles live for a long time.
+*MOT:	and he has a hard shell.
+*MOT:	and he likes to eat vegetables.
+*INV:	and what else can you tell me?
+*MOT:	um, well they don't make very good pets because they carry salmonella.
+*MOT:	I just read that in the paper the other day.
+*INV:	uh huh, can you tell me anything else?
+*MOT:	uh they're reptiles.
+*MOT:	so they're cold blooded.
+*MOT:	so they don't like to get cold.
+*MOT:	so they don't like uh they wouldn't like today.
+*INV:	uh huh.
+*INV:	okay great.
+@G:	Pig
+*INV:	and what is this?
+*MOT:	this would be a pig.
+*INV:	mm-hm [= filler].
+*MOT:	and pigs live on farms.
+*MOT:	and I used to live by a pig farm and they stink.
+*MOT:	uh and apparently they're very they're pretty clean animals.
+*INV:	mm-hm [= filler].
+*MOT:	and we can get ham and bacon and ribs and all kinds of good products out of them.
+*INV:	tell me more.
+*MOT:	um this guy's pink.
+*MOT:	got a curly tail.
+*MOT:	and cute little snout.
+*INV:	is there anything else?
+*MOT:	mm nope.
+*INV:	okay great.
+@G:	Cookie
+*INV:	and what is this?
+*MOT:	this is a cookie.
+*INV:	mm-hm [= filler].
+*MOT:	and I just started Weight Watchers so it's probably about two points.
+*MOT:	and they're not on my list to eat anymore.
+*MOT:	um the cookie is broken.
+*MOT:	and has some crumbs.
+*MOT:	and it looks like a chocolate chip.
+*MOT:	and we really have to turn the page.
+*INV:	well tell me more.
+*MOT:	um I like to make cookies.
+*MOT:	and the particular ingredients for this particular cookie would be
+	brown sugar white sugar butter baking soda salt.
+*MOT:	chocolate chips walnuts and flour and eggs.
+*INV:	oh wow.
+*MOT:	bake at three twenty five for eight to ten minutes.
+*MOT:	and my great aunt Firstname taught me how to bake these cookies.
+*INV:	okay anything else?
+*MOT:	mm-mm [= no].
+*INV:	okay great.
+@G:	Cheese
+*INV:	what is this?
+*MOT:	cheese.
+*INV:	mm-hm [= filler].
+*MOT:	another item not on my list to eat.
+*MOT:	this is torture.
+*INV:	sorry.
+*MOT:	another two points a slice.
+*MOT:	uh this looks like Swiss cheese.
+*MOT:	a nice big chunk of it.
+*MOT:	uh my husband likes to buy big chunks of this and make uh grilled cheese sandwiches.
+*INV:	what else can you tell me?
+*MOT:	um, cheese is made out of milk.
+*MOT:	and it's aged.
+*INV:	mm-hm [= filler].
+*MOT:	and I imagine that Swiss cheese originally came from Switzerland.
+*MOT:	just a guess though.
+*INV:	anything else?
+*MOT:	&=shakes:head_no.
+*INV:	okay great.
+@G:	Duck
+*INV:	and what is this?
+*MOT:	this is a mallard duck.
+*MOT:	a male.
+*INV:	mm-hm [= filler].
+*MOT:	um all I can think of is that uh Make Way for Ducklings book.
+*MOT:	with Missus and Mister Mallard in it.
+*MOT:	which I've read about five hundred times.
+*MOT:	would you like me to recite the story for you?
+*INV:	so.
+*INV:	what else can you tell me?
+*MOT:	um ducks like to swim.
+*MOT:	and they dive down to get their food.
+*MOT:	and I suspect this one would want to fly south and not be in Michigan today.
+*INV:	good.
+@G:	Baseball Player
+*INV:	and what is this?
+*MOT:	this is a baseball player.
+*INV:	mm-hm [= filler].
+*MOT:	this person is up to bat.
+*MOT:	and waiting for the pitch.
+*INV:	mm-hm, tell me more.
+*MOT:	um he's got on a baseball uniform and cleats.
+*MOT:	and a batting helmet so if there's a wild pitch he doesn't get bonked on the head.
+*MOT:	and it must be warm out (be)cause he's got short sleeves [?].
+*INV:	good.
+@G:	Ladybug
+*INV:	and what is this?
+*MOT:	this is a ladybug.
+*MOT:	and my daughter has a little book called Ten Little Ladybugs which we read almost every night.
+*MOT:	um ladybugs are good for your garden.
+*MOT:	and there's there's some mean Japanese beetles that look a lot like ladybugs that live around here.
+*MOT:	but they're slightly orangish.
+*MOT:	and they bite.
+*INV:	mm.
+*MOT:	I don't like them.
+*INV:	and what else can you tell me?
+*MOT:	uh ladybugs are red with black spots.
+*MOT:	and they're good luck.
+*INV:	okay good.
+@G:	Pirate
+*INV:	and what is this?
+*MOT:	um this is a caricature of a pirate.
+*MOT:	and he's got a peg leg.
+*MOT:	and a pirate.
+*MOT:	and a sash.
+*MOT:	and all the clichés about pirates.
+*MOT:	a chest with jewels.
+*MOT:	a jug of wine.
+*MOT:	all that stuff.
+*MOT:	looks pretty happy.
+*MOT:	maybe because he's got a jug of wine and a chest of jewels.
+*INV:	tell me more.
+*MOT:	um got a moustache.
+*MOT:	and a red headscarf.
+*MOT:	and a white shirt.
+*MOT:	and a red sash.
+*MOT:	and blue pants.
+*MOT:	and one black boot.
+*MOT:	and a green treasure chest.
+*INV:	good.
+@G:	Bread
+*INV:	and what is this?
+*MOT:	this is bread.
+*MOT:	a loaf of bread.
+*MOT:	looks like it's homemade (be)cause it's not pre-sliced from the store.
+*INV:	mm-hm [= filler].
+*MOT:	um a slice of bread is worth two points.
+*MOT:	I've been brainwashed.
+*MOT:	I'm in the cult now.
+*MOT:	um looks like wheat bread so it's probably pretty good for you.
+*INV:	mm-hm [= filler].
+*INV:	tell me more.
+*MOT:	um bread is made with yeast and flour.
+*MOT:	and you have to let the bread rest so the yeast can make it rise so you bake it up and it tastes good.
+*INV:	good.
+@G:	Painter
+*INV:	and what is this?
+*MOT:	this is a painter.
+*INV:	mm-hm [= filler].
+*MOT:	she is painting a picture of a tree.
+*MOT:	based on what looks like a photograph.
+*INV:	mm-hm [= filler].
+*MOT:	um I don't know much about painting.
+*MOT:	but uh she's got a paintbrush.
+*MOT:	I don't see any paints anywhere so they must be out of the picture somewhere.
+*INV:	mm-hm [= filler].
+*MOT:	and she's got on a smock.
+*MOT:	and she's go paint on it.
+*INV:	what else can you tell me?
+*MOT:	um well it's an interesting picture (be)cause the tree is looks like
+	it's growing out of a stone wall so it must be a very old stone wall
+	to have a tree growing out of it.
+*INV:	mm-hm good.
+@G:	Carrot
+*INV:	and what is this?
+*MOT:	this is a carrot.
+*MOT:	looks like it was just picked (be)cause it still has the carrot top on it.
+*INV:	mm-hm [= filler].
+*MOT:	it's long and orange.
+*MOT:	and good for you.
+*MOT:	and rabbits like to eat it.
+*MOT:	and so do small children.
+*INV:	what else can you tell me?
+*MOT:	um, I buy them at the grocery store.
+*MOT:	take (th)em home.
+*MOT:	peel (th)em.
+*MOT:	wash (th)em.
+*MOT:	cut (th)em up.
+*MOT:	have (th)em for a snack.
+*INV:	mm-hm, good.
+@G:	Puppy
+*INV:	and what is this?
+*MOT:	it's a puppy.
+*MOT:	it's very cute.
+*MOT:	uh he's brown.
+*MOT:	he doesn't look to be of any particular breed so probably a a little mutt.
+*MOT:	looks very furry and looks cuddly.
+*INV:	tell me more.
+*MOT:	um he's brown.
+*MOT:	has four feet and a tail.
+*MOT:	two eyes.
+*MOT:	a nose.
+*MOT:	a mouth.
+*MOT:	two ears.
+*MOT:	doesn't have a collar on so either he's at home or he's loose.
+*MOT:	did you run away [= to picture]?
+*MOT:	bad dog.
+*INV:	good.
+@G:	Baby
+*INV:	what is this?
+*MOT:	this is a baby.
+*INV:	mm-hm [= filler].
+*MOT:	the baby is lying on a bed it looks like.
+*MOT:	with all of her toys.
+*MOT:	snoopy and a little bunny and a little dolly.
+*INV:	and what else can you tell me?
+*MOT:	she looks pretty young.
+*MOT:	probably three months old or so.
+*MOT:	and the bed sheets have blue and yellow stars on them.
+*MOT:	and she looks pretty happy.
+*INV:	good.
+@G:	Doctor
+*INV:	and what is this?
+*MOT:	this is a little girl.
+*MOT:	looks like she's in the hospital.
+*MOT:	with a cast on her arm.
+*MOT:	and the doctor is is uh visiting with her.
+*MOT:	checking her out.
+*MOT:	seeing what they need to do next to make her better.
+*INV:	mm-hm [= filler].
+*INV:	tell me more.
+*MOT:	um she's in a hospital bed and it looks like it's got the little
+	controls there so she can raise herself up or lay down or push the
+	button for the nurse to come.
+*INV:	mm-hm [= filler].
+*MOT:	I'm very familiar with this since my little girl was in the hospital last weekend for dehydration.
+*INV:	mm-hm [= filler].
+*MOT:	she loved the buttons on the bed.
+*MOT:	up Mommy.
+*MOT:	down Mommy.
+*MOT:	uh the doctor has a stethoscope.
+*MOT:	and is looking at her chart.
+*INV:	mm-hm, good.
+@G:	Banana
+*INV:	and what is this?
+*MOT:	this is a banana.
+*MOT:	this is a favorite food in our house.
+*MOT:	god forbid if we're out of bananas, we have to run to the store.
+*MOT:	uh this one is ripe.
+*MOT:	it's ready to eat.
+*MOT:	and somebody has peeled it.
+*MOT:	so it's ready to go.
+*INV:	what else can you tell me?
+*MOT:	um you can use bananas for lots of things.
+*MOT:	just eat it plain.
+*MOT:	put it on cereal.
+*MOT:	or make banana bread.
+*INV:	mm-hm, anything else?
+*MOT:	&=shakes:head_no.
+*INV:	okay good great.
+*INV:	well thank you very much for coming in and doing that with us today.
+@End

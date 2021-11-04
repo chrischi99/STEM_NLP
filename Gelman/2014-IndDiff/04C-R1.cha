@@ -1,0 +1,363 @@
+@UTF8
+@PID:	11312/a-00031988-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.20|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Cake
+@Types:	cross, narrative, TD
+*INV:	&=gasps what is this?
+*CHI:	a ca- A slice of cake.
+*INV:	hm.
+*INV:	what more can you tell me?
+*CHI:	um.
+*CHI:	&=shrugs I don't know.
+*INV:	hm.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=nods.
+*INV:	&=nods yeah?
+*CHI:	um, &=exhales um like there's, um I think there's ice cream with the
+	cake.
+*CHI:	and there and there's kind of icing on um.
+*CHI:	there's a kind of crust that is yummy.
+*CHI:	that's it for all I know.
+*INV:	&=nods okay.
+*CHI:	&=turns:page.
+@G:	Witch
+*INV:	&=gasps.
+*INV:	what is this?
+*CHI:	I don't know about this one.
+*INV:	hm.
+*INV:	well is there anything you can tell me?
+*CHI:	no about this one.
+*INV:	you, do you want to take a guess?
+*CHI:	&=shakes:head.
+*INV:	no?
+*INV:	do you have a guess?
+*CHI:	&=shakes:head.
+*INV:	&=shakes:head no.
+*INV:	okay.
+*CHI:	can I take my shoes off?
+*INV:	yeah you can take your shoes off.
+*CHI:	(o)kay.
+*CHI:	(be)cause it's too hot in my shoes.
+*INV:	&=laughs.
+@G:	Horse
+*INV:	&=gasps what is this?
+*CHI:	a horsey.
+*INV:	what more can you tell me?
+*CHI:	um they run fast.
+*CHI:	and some persons have to be careful.
+*INV:	&=nods mm.
+*CHI:	and um they have fur on their back and on their tail.
+*CHI:	and some babies ones are like this.
+*CHI:	and they have ears.
+*CHI:	they don't have xxx.
+*CHI:	they have xxx.
+*CHI:	and these things on them.
+*CHI:	when people are gonna ride them.
+*CHI:	&=exhales that's it I know.
+*INV:	okay.
+*CHI:	&=turns:page.
+@G:	Lobster
+*INV:	&=gasps what is this?
+*CHI:	a lobster.
+*INV:	what more can you tell me?
+*CHI:	um lobsters like, lobsters do this.
+*CHI:	&=puts:leg_on_table &=pinches:leg.
+*CHI:	mm mm.
+*CHI:	they do that.
+*CHI:	they're very small.
+*INV:	&=nods mm-hm [= yes].
+*CHI:	and um like their whiskers tickle us.
+*INV:	&=laughs.
+*CHI:	and their body is kind of like this is &=points:picture.
+*INV:	&=nods.
+*CHI:	like that.
+*INV:	okay.
+*CHI:	and that's it I know.
+*INV:	&=nods okay.
+*INV:	you're doing really well.
+*CHI:	mm-hm [= yes].
+*CHI:	&=turns:page.
+@G:	Orange
+*INV:	what is this?
+*CHI:	orange.
+*INV:	what more can you tell me?
+*CHI:	um well an orange is kind of like a thing you know I've had.
+*CHI:	that I have smelled before.
+*INV:	mm-hm [= yes].
+*CHI:	yeah.
+*CHI:	um do you know what um it's called again?
+*CHI:	and it's kind of like an orange.
+*INV:	&=shakes:head mm-mm [= no] what?
+*CHI:	I don't know.
+*INV:	mm.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-mm well an orange is is a kind of food.
+*INV:	&=nods.
+*CHI:	that you eat.
+*CHI:	and we had it at school.
+*CHI:	and some some people don't have it.
+*INV:	&=nods.
+*CHI:	and I think you haven't taste- tasted what I have.
+*INV:	mm.
+*CHI:	like it's kind of like an orange.
+*INV:	&=nods mm-hm [= yes].
+*CHI:	I don't know what it's called.
+*INV:	okay.
+*INV:	         ⌈let's⌉ +...
+*CHI:	what's a ⌊torpedo⌋?
+*INV:	&=laughs you know I don't really know.
+*CHI:	can you do something else?
+*INV:	well can we go on?
+*CHI:	&=nods.
+*INV:	&=nods okay.
+@G:	Teacher
+*INV:	&=gasps what is this?
+*CHI:	a teacher.
+*INV:	    ⌈what more⌉ +...
+*CHI:	can ⌊you⌋ +...
+*INV:	oh.
+*CHI:	can you please tell me about the teacher?
+*INV:	well, what more can you tell me?
+*CHI:	why can't you tell me some?
+*INV:	I want to hear what you have to say.
+*CHI:	and I want to hear what you too.
+*INV:	okay how about if we go with it- we go through with you first.
+*CHI:	I think you first.
+*INV:	&=laughs well what is this &=points:picture?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know either.
+*INV:	hm.
+*INV:	do you want to look at the next picture?
+*CHI:	&=looks:picture.
+*INV:	&=laughs.
+@G:	Clown
+*CHI:	a clown.
+*INV:	&=gasps.
+*INV:	what more can you tell me?
+*CHI:	&=shrugs I don't know.
+*CHI:	but you tell me now.
+*INV:	&=shakes:head mm-mm [= no] it's your turn.
+*INV:	my turn's later.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know what the, I don't know what to tell you.
+*INV:	you can tell me anything.
+*INV:	you've been doing so so well.
+*CHI:	um.
+*CHI:	you know my feet are hot.
+*INV:	yeah &=nods?
+*INV:	well what can you tell me?
+*CHI:	&=shrugs I don't.
+*INV:	hm there's gotta be something.
+*INV:	do you wanna see the next one?
+*CHI:	&=nods.
+*INV:	hm I don't know.
+*INV:	I don't know if you're allowed to look.
+*CHI:	&=laughs.
+*INV:	do you think?
+*CHI:	&=nods.
+*INV:	yeah?
+*INV:	&=gasps okay.
+@G:	Elephant
+*INV:	&=gasps what is this?
+*CHI:	I know about these.
+*INV:	yeah?
+*INV:	what is this?
+*CHI:	um well it's an elephant and it squirts water at you when they're,
+	when they're near you.
+*INV:	oh wow.
+*CHI:	well that's it what I know.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I did.
+*INV:	oh.
+*INV:	can you, Can you tell him again?
+*CHI:	well um that's an, This is an elephant and it s +...
+*CHI:	and when they're, When you're by them then, it squirts water at you.
+*INV:	&=nods okay.
+@G:	Cereal
+*INV:	&=gasps what is this?
+*CHI:	a pumpkin pie.
+*INV:	what more can you tell me?
+*CHI:	&=shrugs I dunno.
+*CHI:	&=picks:up_book.
+*INV:	&=shrugs well Zorg doesn't, oh let's get the book on the table.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um I don't know.
+*CHI:	I don't know.
+*INV:	&=nods okay.
+*INV:	well let's try another one.
+*INV:	do you think?
+*CHI:	&=turns:page.
+*INV:	what do you +...
+*CHI:	&=turns:book_around.
+*INV:	oh no okay.
+*CHI:	&=turns:book_upside_down.
+*INV:	what are we doing?
+*CHI:	a pie.
+*INV:	&=laughs.
+*CHI:	how about you guess now?
+*INV:	no n- Oh well let's look at the next one &=turns:book_right_way.
+@G:	Pilot
+*INV:	&=gasps what is this?
+*CHI:	policeman.
+*INV:	what is it?
+*CHI:	a policeman.
+*INV:	a policeman.
+*INV:	what more can you tell me?
+*CHI:	&=shrugs you guess.
+*INV:	I think it's your turn to.
+*CHI:	I think it's your turn now.
+*INV:	&=shakes:head mm-mm [= no].
+*CHI:	&=nods ⌈mm-hm [= yes]⌉.
+*INV:	&=gasps you know what my turn will be ⌊later⌋.
+*INV:	and then, after your turn.
+*INV:	let's just finish this book ⌈we've just got a few more⌉.
+*CHI:	well it's after my          ⌊turn⌋.
+*CHI:	well it's after my turn.
+*INV:	&=shakes:head mm-mm [= no] we only have a few more pictures to look at.
+*INV:	and then you know what we can do.
+*INV:	I've got an idea.
+*INV:	how about we look at the pictures and talk we like we have.
+*INV:	and then we'll play another game.
+*INV:	did you like that game?
+*CHI:	&=nods.
+*INV:	&=nods yeah we'll play that again.
+*CHI:	okay.
+*INV:	&=nods okay.
+@G:	Popcorn
+*CHI:	that's popcorn.
+*INV:	what more can you tell me?
+*CHI:	I think you know about popcorn.
+*INV:	&=shakes:head I don't and I know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=nods mm-hm [= yes].
+*INV:	&=nods mm-hm [= yes].
+*CHI:	well um, popcorn is what you eat.
+*CHI:	and sometimes you can have popcorn at my house you know.
+*INV:	&=nods mm okay.
+*CHI:	and um that's a glass bowl that the popcorn is supposed to be in
+	&=points:picture.
+*INV:	&=nods okay.
+@G:	Alligator
+*INV:	&=gasps what is this?
+*CHI:	a toad.
+*INV:	&=nods.
+*INV:	&=laughs.
+*CHI:	no.
+*CHI:	actually it's an alligator.
+*INV:	well what more can you tell me?
+*CHI:	um &=turns:page.
+*INV:	&=turns:page_back ⌈let's go back to this one⌉.
+*CHI:	                  ⌊xxx⌋.
+*INV:	what more can you tell me?
+*CHI:	um that, um well the alligators try and bite you.
+*INV:	&=nods mm-hm [= yes].
+*CHI:	like dog kind of do.
+*CHI:	and +...
+*INV:	&=nods okay.
+*CHI:	turn the page.
+*INV:	okay.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	broccoli what you eat on your plate.
+*INV:	what more can you tell me?
+*CHI:	&=exhales and um, I think you take water and milk with it on your plate.
+*INV:	&=nods okay.
+*CHI:	&=laughs what if you, What if um um you ated um um only broccoli for
+	dinner.
+*INV:	&=laughs.
+*INV:	I don't know.
+*INV:	what?
+*CHI:	&=shrugs.
+*INV:	&=shrugs mm.
+*CHI:	I don't know.
+@G:	Football Player
+*INV:	&=gasps what is this?
+*CHI:	baseball player.
+*INV:	what more can you tell me?
+*CHI:	um it, it, it ha- it thr- it plays baseball.
+*CHI:	and &=turns:page +...
+*INV:	&=turns:back let's talk about this one for another minute.
+*CHI:	I did.
+*INV:	okay well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=nods.
+*INV:	&=nods.
+*CHI:	why's his ears down?
+*INV:	&=plays:puppet_ears.
+*CHI:	um and, like, um it throws, it throws a football.
+*INV:	&=nods.
+*CHI:	and it ha- it's supposed to have these on [= football gear].
+*CHI:	and this.
+*CHI:	and this on.
+*CHI:	and it ha- supposed to be here.
+*CHI:	and this supposed to be +...
+*CHI:	and um tell me if it's a boy or a girl.
+*INV:	&=shakes:head you tell me.
+*CHI:	no you tell me.
+*INV:	you tell me.
+*CHI:	I want you to tell me.
+*INV:	I don't know &=shakes:head &=shrugs.
+*INV:	do you?
+*CHI:	can you please tell me?
+*INV:	I don't know.
+*INV:	can you, can you tell me?
+*CHI:	um it's a girl and I want to turn the page.
+*INV:	&=nods okay.
+@G:	Penguin
+*INV:	&=gasps what is this?
+*CHI:	&=laughs penguin.
+*INV:	what more can you tell me?
+*CHI:	um well it it lives +...
+*CHI:	where does it live?
+*INV:	&=shakes:head &=shrugs.
+*CHI:	I don't know.
+*INV:	     ⌈I don't know eith⌉ +...
+*CHI:	in a ⌊chilly⌋, In a chilly world.
+*CHI:	I haven't seen a penguin before.
+*INV:	oh okay &=nods.
+*CHI:	that's it I don't know more.
+*CHI:	that's about it.
+*INV:	okay.
+*CHI:	&=picks:up_Zorg.
+*CHI:	do you want him right here?
+*INV:	what's that?
+*CHI:	do you want him like this &=puts:on_puppet?
+*INV:	oh.
+*INV:	&=shrugs fine.
+*CHI:	I don't know about penguins [= to Zorg].
+*INV:	okay.
+*INV:	alrighty.
+*INV:	are we all done?
+*CHI:	&=uses:Zorg_turn_page.
+@Comment:	end of book
+*INV:	&=laughs.
+*CHI:	your turn.
+*INV:	my turn?
+*CHI:	&=nods.
+*INV:	how about if we just go play the game?
+*CHI:	&=nods yeah.
+*INV:	yeah?
+*INV:	okay.
+*CHI:	what about your turn?
+*INV:	um well.
+*INV:	we have the game outside.
+*CHI:	&=nods.
+*INV:	we can play the game outside.
+*CHI:	&=nods.
+*INV:	yeah?
+*CHI:	did you bring it outside?
+@End

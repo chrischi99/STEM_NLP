@@ -1,0 +1,144 @@
+@UTF8
+@PID:	11312/a-00032043-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.02|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pirate
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	pirate.
+*CHI:	gold.
+*CHI:	there's gold inside that treasure chest and he has the eye broken.
+*CHI:	what is that?
+*CHI:	coke [?] xxx or something.
+*CHI:	parrot.
+*CHI:	walkin(g) stick or something.
+*CHI:	boat.
+*INV:	what more can you tell me?
+*CHI:	he's he's white and he's blue.
+@G:	Banana
+*INV:	what is this?
+*CHI:	banana, and you can eat inside but not outside.
+*INV:	what more can you tell me?
+*CHI:	hm, there's black stem underneath.
+*CHI:	there's black under it.
+@G:	Pig
+*INV:	what is this?
+*CHI:	piggy and there's black black, orange.
+*CHI:	and uh I don't know xxx.
+*INV:	well what more can +...
+*CHI:	feet.
+*INV:	what more can you tell me?
+*CHI:	uh feet and it has ears and other +...
+*CHI:	four feet.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	ladybug.
+*CHI:	it has spots fly and can fly and its red <after it> [?].
+*INV:	what more can you tell me?
+*CHI:	mm, he has eyes and there's black xxx legs again.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a baseball player and there's a bat.
+*CHI:	and that's a bat that you hit with and +...
+*INV:	what more can you tell me?
+*CHI:	xxx he has shoes.
+*CHI:	baseball.
+@G:	Carrot
+*CHI:	carrot and it's orange.
+*CHI:	you eat it but not this part but you xxx ⌈that's green⌉.
+*INV:	what more can you tell                   ⌊me⌋?
+*CHI:	there's a stem in right here.
+@G:	Cheese
+*CHI:	cheese.
+*CHI:	there's there's holes and there's +...
+*CHI:	there's flat on the top and bottom.
+*INV:	what more can you tell me?
+*CHI:	there's holes in it.
+*CHI:	xxx.
+*INV:	you know what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, um, there's holes in the back of it too.
+*INV:	&=laughs.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	mm, doctor.
+*CHI:	and she helps her and +...
+*INV:	what more can you tell me?
+*CHI:	there's an emergency thing right here I think.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and he has a stethoscope, and a xxx.
+@G:	Bread
+*INV:	what is this?
+*CHI:	pumpkin bread I think.
+*INV:	what more can you tell me?
+*CHI:	and there's wheat and there's, lines on it and you eat it.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	uh, mm, they could put something on it.
+@G:	Baby
+*INV:	what is this?
+*CHI:	baby, with stuffed animals.
+*CHI:	head.
+*CHI:	toes.
+*CHI:	hands.
+*INV:	what more can you tell me?
+*CHI:	mm, there's stuffed animals there.
+*INV:	you're doing really good.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	doggie and he has, there's three hands.
+*CHI:	and head eyes nose, and mouth.
+*CHI:	and a tail and fur and the body.
+*INV:	what more can you tell me?
+*CHI:	he has, a tummy and a back.
+@G:	Duck
+*INV:	what is this?
+*CHI:	duck and he has green yellow black brown white blue.
+*CHI:	kinda brownish and black and white and orange and white and +...
+*INV:	what more can you tell me?
+*CHI:	mm they lay eggs.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	cookie.
+*CHI:	and it's brown and it's hm.
+*INV:	what more can you tell me?
+*CHI:	uh, it cracks easy and you eat it.
+@G:	Painter
+*INV:	we're almost done and you're doing really good.
+*CHI:	mm.
+*INV:	what is this?
+*CHI:	a tree.
+*CHI:	and, a painting.
+*CHI:	her painting it.
+*CHI:	and, grass, walls grass trees.
+*INV:	what more can you tell me?
+*CHI:	uh, she has a jacket so she doesn't need to have paint on her.
+*CHI:	and, foots.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	a turtle.
+*CHI:	and he has claws tail claws foot.
+*CHI:	and he moves really slow.
+*CHI:	and he has a shell claws arms arms claws head.
+*INV:	what more can you tell me?
+*CHI:	uh, he has a tail and he goes really slowly.
+*CHI:	really really slow.
+*INV:	zorg doesn't know much about this one can you help him out?
+*CHI:	um, he has really sharp sharp claws and +...
+*CHI:	he has a yellow dots on his face.
+*CHI:	<all done> [?].
+*INV:	all done?
+*INV:	do you want to look again?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*INV:	okay well thank you very much for doing that with me.
+*INV:	you did really really good.
+*INV:	that was a lot of fun.
+*INV:	do you want to put Zorg back to sleep?
+*INV:	goodnight Zorg.
+@End

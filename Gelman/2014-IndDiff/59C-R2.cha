@@ -1,0 +1,176 @@
+@UTF8
+@PID:	11312/a-00032319-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.21|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Frog
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg a tree frog.
+*CHI:	a tree frog [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg it hops xxx.
+*CHI:	it hops and goes ribbit ribbit [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg it's xxx tree.
+*CHI:	it sticks on the tree [= as Zorg].
+@G:	Pie
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	a pie [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg you eat it.
+*CHI:	you eat it [= as Zorg].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh.
+*CHI:	you eat it [= as Zorg].
+*CHI:	anything else?
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg pretzel.
+*CHI:	&=whispers:to_Zorg and you eat it.
+*CHI:	&=whispers:to_Zorg it has salt on it [?].
+*CHI:	a pretzel [= as Zorg].
+*CHI:	and you eat it [= as Zorg].
+*CHI:	and it has, and it has [= as Zorg] +...
+*CHI:	&=whispers:to_Zorg  salt.
+*CHI:	salt [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	nothing else.
+*INV:	well what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	sometimes you have it in a bag [= as Zorg].
+@G:	Owl
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg owl.
+*CHI:	&=whispers:to_Zorg it goes xxx.
+*CHI:	owl [= as Zorg].
+*CHI:	and it goes hoo-hoo [= owl sounds].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg and it go xxx.
+*CHI:	it go &=barks [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg hiccup.
+*CHI:	and it goes hiccup hiccup hiccup hiccup [= as Zorg].
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg kitty cat.
+*CHI:	kitty cat [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg it hops on the couches.
+*CHI:	it hops on the couches [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	go meow meow [= as Zorg].
+@G:	King
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg king.
+*CHI:	&=whispers:to_Zorg flossing [?].
+*CHI:	a king and it's flossing [?] [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	um it has a queen [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know anything else about kings.
+@G:	Lion
+*INV:	what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	it's a big cat [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know any +...
+*CHI:	&=whispers:to_Zorg they eat animals.
+*CHI:	eat animals and [= as Zorg] +...
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	that's all I know [= as Zorg].
+*INV:	do you want help scooting in?
+*CHI:	what?
+*INV:	do you want help scooting your chair closer or?
+*CHI:	no.
+*INV:	okay.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	xxx [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg xxx cross xxx.
+*CHI:	it has it has a cross on its heart [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	it doesn't fall down [= as Zorg].
+@G:	Corn
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg corn xxx.
+*CHI:	corn that eat [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	it doesn't have anything but corn [= as Zorg].
+*CHI:	okay, okay [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg sometimes xxx.
+*CHI:	sometimes it's xxx [= as Zorg].
+@G:	Farmer
+*INV:	what is this?
+*CHI:	farmer.
+*INV:	what more can you tell me?
+*CHI:	um, it has, a farm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	that's all I know.
+@G:	Snake
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	python [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	it kills you by squeezing [= as Zorg].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I don't know about that one either.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	captain.
+*INV:	what more can you tell me?
+*CHI:	um calls the police.
+*INV:	what else can you tell me?
+*INV:	um, sometimes it tells people “sit down”.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	it grows in a farm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it helps you grow.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	a strong man.
+*INV:	what more can you tell me?
+*CHI:	it's a <wrestle> [?] man.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	helps people.
+@G:	Milk
+*INV:	what is this?
+*CHI:	milk that you drink.
+*INV:	what more can you tell me?
+*CHI:	makes your bones strong.
+*INV:	what else can you tell me?
+*CHI:	uh you drink it and that's all I know.
+*INV:	alrighty.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	alright.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

@@ -1,0 +1,358 @@
+@UTF8
+@PID:	11312/a-00032257-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.08|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Cheese
+@Types:	cross, narrative, TD
+*MOT:	you tell me what this is.
+*CHI:	cheese.
+*MOT:	cheese?
+*MOT:	can you count how many holes are in that cheese?
+*CHI:	&=counting:quietly one two three xxx.
+*CHI:	seven.
+*MOT:	seven holes.
+*MOT:	what color is the cheese?
+*MOT:	what color is that?
+*CHI:	yellow.
+*MOT:	that's right.
+*MOT:	do you like cheese?
+*CHI:	yeah.
+*MOT:	did you have cheese for lunch?
+*CHI:	&=gets:up &=moves:chair.
+*MOT:	you have a chair problem?
+*CHI:	ye, yeah.
+*CHI:	um, circle cheese.
+*MOT:	you had circle cheese for lunch didn't you?
+*CHI:	⌈mm-hm⌉ [= filler].
+*MOT:	⌊yeah⌋.
+@G:	Doctor
+*MOT:	oh what's wrong there?
+*MOT:	what is going on?
+*CHI:	she's sick.
+*MOT:	who's that?
+*CHI:	the doctor.
+*MOT:	do you think she's gonna get a shot?
+*CHI:	nope.
+*MOT:	no shots?
+*CHI:	yep.
+*MOT:	what does she have around her neck?
+*MOT:	do you know what that is?
+*CHI:	nope.
+*MOT:	it's a stethoscope.
+*MOT:	they put it in their ears and they listen to your heart.
+*MOT:	remember how doctor firstname listens to your heart when we go to
+	the doctor?
+*CHI:	yep.
+*MOT:	yep.
+*CHI:	let's turn, let's turn ⌈the page⌉.
+*MOT:	turn the               ⌊page⌋?
+*MOT:	okay.
+@G:	Duck
+*MOT:	oh!
+*MOT:	  ⌈what's that⌉?
+*CHI:	a ⌊d⌋ +...
+*CHI:	a duck.
+*MOT:	what does a duck say?
+*CHI:	quack.
+*MOT:	quack.
+*MOT:	quack quack.
+*CHI:	xxx if it went quack on me and then pecked, every time mommy.
+*MOT:	you think so?
+*CHI:	yeah.
+*MOT:	you think?
+*MOT:	is it a Mamma duck or a daddy duck?
+*CHI:	daddy duck.
+*MOT:	daddy duck very good.
+*MOT:	good job.
+*MOT:	how do you know it's a daddy duck?
+*CHI:	because it has a lot of colors.
+*MOT:	that's right the daddies have a lot of color.
+*MOT:	good job.
+*MOT:	here uh oh next one.
+@G:	Carrot
+*MOT:	what's that?
+*CHI:	carrot.
+*MOT:	who do we, who eats carrots?
+*CHI:	bunnies.
+*MOT:	bunnies that's right.
+*MOT:	who else eats carrots?
+*MOT:	anybody else?
+*MOT:	you?
+*MOT:	do you eat carrots?
+*CHI:	nope.
+*MOT:	you have carrots for snack at school don't you?
+*CHI:	I don't like carrots.
+*MOT:	you don't like carrots?
+*CHI:	yeah.
+*MOT:	what does it have on the top of the carrot?
+*CHI:	I don't know.
+*MOT:	that's wha-that's where he, you pull, that's the leafs.
+*MOT:	he grows, this grows underneath the ground.
+*MOT:	and this is the top part.
+*MOT:	and then you pull (th)em out of the ground.
+*MOT:	and then you cut this part off.
+*MOT:	did you know that?
+*CHI:	nope.
+*MOT:	what color is that carrot?
+*CHI:	yellow.
+*MOT:	orange.
+*CHI:	ha ha ha.
+@G:	Puppy
+*MOT:	uh oh what's that?
+*CHI:	uh, puppy.
+*MOT:	a puppy.
+*MOT:	do we have puppies?
+*CHI:	ye-no we have a dog.
+*MOT:	but did they used to be puppies?
+*CHI:	nope.
+*MOT:	no?
+*CHI:	yeah.
+*MOT:	how many puppies do you have?
+*MOT:	how many dogs?
+*MOT:	how many do you have?
+*CHI:	four.
+*MOT:	you do not.
+*MOT:	you're being nutty.
+*CHI:	we have two.
+*MOT:	two.
+*CHI:	um I meaned there are, six &=laughs.
+*MOT:	okay let's <look at> [?] the next page.
+@G:	Bread
+*MOT:	what's that?
+*CHI:	bread xxx.
+*MOT:	you're bein(g) silly, shh shh shh shh.
+*MOT:	            ⌈xxx⌉.
+*CHI:	and they're ⌊xxx⌋.
+*MOT:	do you like bread?
+*MOT:	what do you, what do you have bread for?
+*MOT:	sandwich?
+*CHI:	yeah.
+*MOT:	yeah?
+*CHI:	xxx.
+*MOT:	french toast?
+*CHI:	no that's fre- that's toast.
+*MOT:	toast,  ⌈toast⌉.
+*CHI:	        ⌊yes⌋.
+*CHI:	yeah it is [?].
+*MOT:	okay.
+*CHI:	let's switch the chairs.
+*MOT:	no let's do this chair.
+*MOT:	let's, you gotta focus now firstname.
+*MOT:	pay attention.
+@G:	Cookie
+*MOT:	what is that?
+*CHI:	cookie.
+*MOT:	what what is wrong with that cookie?
+*CHI:	eaten.
+*MOT:	did somebody eat part of it you think?
+*CHI:	no.
+*MOT:	no?
+*MOT:	well then what are those called?
+*MOT:	⌈crumbs⌉.
+*CHI:	⌊crumbs⌋.
+*MOT:	that's right crumbs.
+*MOT:	what what kind of cookie do you think that is?
+*MOT:	do you think there's chocolate chips in there?
+*CHI:	yeah.
+*MOT:	should we, we should make cookies shouldn't we?
+*CHI:	yeah make them chocolate chip.
+*MOT:	I bought chocolate chips to make cookies with.
+*MOT:	did you know that?
+*MOT:	I bought (th)em yesterday at the store.
+@G:	Baby
+*MOT:	aw, what's that?
+*CHI:	put it like this.
+*MOT:	what is that?
+*CHI:	baby.
+*MOT:	baby.
+*MOT:	is it a little girl or a little boy you think?
+*CHI:	boy.
+*MOT:	a boy?
+*MOT:	why do you think it's a boy?
+*CHI:	because.
+*MOT:	hm?
+*CHI:	it has black hair.
+*MOT:	it has black hair so it's a boy?
+*CHI:	yeah.
+*MOT:	is it happy or sad?
+*CHI:	happy.
+*MOT:	it looks happy doesn't it?
+@G:	Painter
+*MOT:	what's what's whats goin on there?
+*CHI:	uh painting.
+*MOT:	mm-hm [= filler].
+*MOT:	what what is she painting?
+*CHI:	um, chair.
+*MOT:	a chair?
+*MOT:	what's she really painting?
+*CHI:	uh, uh, a knife.
+*MOT:	firstname pay attention now.
+*MOT:	come on.
+*MOT:	what's she painting?
+*CHI:	um, you.
+*MOT:	firstname.
+*MOT:	she's painting a tree.
+@G:	Banana
+*MOT:	what's that?
+*CHI:	uh stethoscope &=laughs.
+*MOT:	firstname come on now.
+*MOT:	what is that?
+*CHI:	banana.
+*MOT:	banana.
+*MOT:	we like bananas don't we?
+*CHI:	xxx.
+*MOT:	who eats bananas?
+*MOT:	they are in the jungle and they go ooh ooh ooh ahh ahh ahh.
+*CHI:	uh, bears.
+*MOT:	bears?
+*MOT:	or what else?
+*MOT:	monkeys.
+*CHI:	no monkeys don't eat them.
+*MOT:	yes they do.
+*MOT:	they eat fruit.
+*MOT:	monkeys eat all kinds of fruit.
+*CHI:	xxx.
+*MOT:	okay come on.
+*MOT:	let's do this.
+*MOT:	come on firstname.
+@G:	Pig
+*MOT:	what's that?
+*CHI:	pig.
+*MOT:	a pig.
+*CHI:	ready to xxx your head off.
+@G:	Turtle
+*MOT:	what's that?
+*CHI:	um, turtle.
+*CHI:	                                           ⌈ready to⌉ +...
+*MOT:	we saw those big turtles at the zoo didn't ⌊we⌋?
+*MOT:	(re)member?
+*MOT:	remember how big they were?
+*CHI:	yep.
+*MOT:	those tortoises?
+*CHI:	yeah.
+*MOT:	he doesn't look like he's a very big one thought does he?
+*CHI:	yeah.
+*MOT:	he looks kinda little.
+*CHI:	when when are we going to play the game?
+*MOT:	well we're gonna have, we have to do this first.
+*MOT:	but you have to you have to focus on this okay?
+*MOT:	can you focus?
+*CHI:	turtle.
+*MOT:	turtle.
+@G:	Baseball Player
+*MOT:	okay what's that?
+*CHI:	baseball player.
+*MOT:	who who plays baseball?
+*CHI:	I forgot.
+*MOT:	do you play baseball with daddy?
+*CHI:	yeah.
+*MOT:	and does firstname play baseball in the summer?
+*CHI:	no.
+*MOT:	maybe you'll play baseball when you get to be big like firstname.
+*MOT:	do you think?
+*MOT:	what is he doing in baseball?
+*MOT:	what's this?
+*MOT:	what's he do what's he doing?
+*MOT:	is he catching?
+*CHI:	no hitting.
+*MOT:	there you go.
+@G:	Pirate
+*MOT:	oh gosh.
+*MOT:	who's that?
+*CHI:	a pirate.
+*MOT:	what does he have?
+*CHI:	a treasure ⌈chest⌉.
+*MOT:	a treasure ⌊chest⌋.
+*MOT:	did you see the treasure chest when we went to greenfield village?
+*MOT:	do you remember seeing that?
+*CHI:	yeah.
+*MOT:	and they were burying, going to bury their treasure.
+*MOT:	those pirates.
+*MOT:	did they, what did the pirate ask you?
+*MOT:	did he ask you to help bury his treasure?
+*CHI:	yeah.
+*MOT:	uh huh [= yes].
+*MOT:	did you wanna help him?
+*CHI:	no.
+*MOT:	no?
+*MOT:	how come?
+*CHI:	because.
+*CHI:	I don't want to +...
+*MOT:	yeah did he see +...
+*CHI:	xxx bury me.
+*MOT:	is that what he told you?
+*MOT:	he'd bury you?
+*CHI:	yeah.
+@G:	Ladybug
+*MOT:	oh last one.
+*MOT:	what's that?
+*CHI:	a, bug.
+*MOT:	a bug.
+*MOT:	does it look like a good bug?
+*CHI:	uh no.
+*MOT:	wh-how many spots does that bug have?
+*CHI:	four.
+*MOT:	very good.
+*MOT:	how many legs does he have?
+*CHI:	four.
+*MOT:	four legs?
+*CHI:	yeah.
+*MOT:	okay.
+*MOT:	how many heads does he have?
+*CHI:	one.
+*MOT:	one.
+*MOT:	one two three legs.
+*MOT:	where's his fourth leg?
+*MOT:	do you see another leg somewhere?
+*CHI:	yeah right there.
+*MOT:	point to (th)em as you count (th)em.
+*MOT:	one.
+*MOT:	   ⌈two⌉.
+*CHI:	no ⌊mom⌋.
+*MOT:	what color is he?
+*CHI:	mm purple.
+*MOT:	purple?
+*MOT:	now when you, when this lady, lady's gonna come be with you.
+*MOT:	and you need to pay attention when she comes to talk to you and play a game with you okay?
+*CHI:	uh maybe it's the same game.
+*MOT:	did you like the last game?
+*CHI:	I liked the, one from last time.
+*MOT:	you liked that game?
+*CHI:	yeah.
+*MOT:	okay.
+*MOT:	okay we're all done.
+*MOT:	she's gonna come in and talk to you for a little bit okay?
+*MOT:	did you wanna look at the book again or are you good?
+*CHI:	no.
+*MOT:	no you don't want to look at it again or do you?
+*CHI:	I don't wanna look at it.
+*MOT:	you don't want to look at it again?
+*CHI:	yeah &=closes:book.
+@G:	Cheese
+*MOT:	the cheese.
+*MOT:	okay.
+@G:	Carrot
+*CHI:	the carrot.
+*MOT:	the carrot.
+*MOT:	that's right.
+*MOT:	what else was in there?
+@G:	Doctor
+*CHI:	a, doctor.
+*MOT:	the doctor.
+*MOT:	can you remember anything else?
+*CHI:	no.
+*MOT:	no?
+@G:	Ladybug
+*MOT:	a bug.
+*CHI:	yeah.
+@G:	Pirate
+*MOT:	and a pirate.
+*CHI:	yeah.
+*MOT:	yeah.
+*MOT:	okay.
+*MOT:	let's be done.
+@End

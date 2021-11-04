@@ -1,0 +1,409 @@
+@UTF8
+@PID:	11312/a-00032073-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.23|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Puppy
+@Types:	cross, narrative, TD
+*INV:	          ⌈what is this⌉?
+*CHI:	this is a ⌊puppy⌋.
+*INV:	what more can you tell me?
+*CHI:	the puppies my doggy has so has sharp nails and sometimes he can scratch me.
+*INV:	mm.
+*CHI:	and we never cut his nails.
+*CHI:	sometimes.
+*CHI:	just one time.
+*INV:	mm-hm [= yes].
+*CHI:	just one at a time.
+*CHI:	and um and sometimes we just cut his nails and he cries.
+*INV:	mm.
+*CHI:	and he doesn't want us to cut his nails.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this is a doggie it can bark.
+*CHI:	bark bark.
+*CHI:	I can do a cock a doodle doo.
+*CHI:	cock a doodle doo.
+*CHI:	bawk bawk bawk.
+*CHI:	are you in my head?
+*INV:	are you ready for the next picture?
+*CHI:	yeah.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	that's a doctor.
+*CHI:	somebody got hurt.
+*INV:	what more can you tell me?
+*CHI:	um this this do you know about this picture [= speaking to Zorg]?
+*CHI:	somebody got hurt in this picture.
+*INV:	mm.
+*CHI:	and they have to go to the hospital.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah this little girl's head this little girl arms hurt.
+*CHI:	arm hurted.
+*CHI:	and she has to go to the hospital xxx and the doctor and the doctors looking at it.
+*INV:	mm.
+*CHI:	and my head hurts.
+*INV:	mm.
+*CHI:	I bumped my head on the floor one today.
+*INV:	mm.
+*CHI:	and it hurted.
+*INV:	mm-hm [= yes].
+*CHI:	yeah, it really hurted.
+*CHI:	do you have a rubber band?
+*INV:	mm-mm [= no].
+*CHI:	you have a rubber band in your hair though.
+*INV:	mm-hm [= yes].
+*CHI:	I would've put something in there.
+*INV:	ready for the next picture?
+*CHI:	yeah.
+@G:	Painter
+*INV:	         ⌈what is this⌉?
+*CHI:	that's a ⌊painter⌋.
+*INV:	what more can you tell me?
+*CHI:	the painters go all the way back to Kansas City.
+*CHI:	they go back to the door &=slides:chair_to_door.
+*CHI:	and they go back to the door and they go back to the country.
+*CHI:	I'm gonna come back &=comes:back_to_table.
+*CHI:	gimme my chair.
+*CHI:	chair why don't you come with me &=drags:chair_back.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this is a tree.
+*CHI:	ow &=bites:finger.
+*CHI:	ouchie.
+*CHI:	doink &=bonks:on_head.
+*CHI:	why do we have to knock on the door?
+*CHI:	why do we have to knock on ⌈the⌉.
+*INV:	we're not going            ⌊to⌋.
+*CHI:	(be)cause you know.
+*INV:	are you ready for the next one?
+@G:	Cheese
+*INV:	what is this?
+*CHI:	that's cheese.
+*INV:	what more can you tell me?
+*CHI:	it's circle cheese.
+*CHI:	and this is a face and this is a mouth.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes I can sit on the floor.
+*CHI:	I can sit on the floor for that?
+*INV:	do you want to sit on the floor?
+*CHI:	yeah.
+*CHI:	this is a cheesy.
+*CHI:	it is so cheesy.
+*CHI:	xxx.
+*CHI:	so, this cheese is very good cheese.
+*INV:	mm-hm [= yes].
+*CHI:	then I can jump on this couch.
+*CHI:	I like to jump on things.
+*INV:	would you like to just sit on the couch?
+*CHI:	I like to jump.
+*INV:	mm I'm afraid you might hurt yourself if you do that.
+*CHI:	like I did today.
+*INV:	are you ready for the next picture?
+*CHI:	yes.
+@G:	Duck
+*INV:	what is this?
+*CHI:	that's a duckie.
+*INV:	what more can you tell me?
+*CHI:	it's not a nice duckie.
+*INV:	mm.
+*CHI:	duckie duckie.
+*CHI:	bad duckie.
+*CHI:	I can spank duckies.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah this duckie is a bad duckie.
+*CHI:	(be)cause he has sharp nails.
+*CHI:	why why did those two burn out [= looking at ceiling].
+*CHI:	why did those two lamps burn out?
+*INV:	um I'm not sure.
+*CHI:	can you turn the lights off?
+*INV:	ready for the next picture?
+@G:	Pirate
+*INV:	what is this?
+*CHI:	it's a pirate.
+*INV:	what more can you tell me?
+*CHI:	it's a nice pirate.
+*CHI:	it's treasure.
+*CHI:	and his treasure.
+*CHI:	I like to jump on couches.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well, can I jump on the couch I need to jump.
+*INV:	no I'm afraid you're going to hurt yourself please sit down.
+*INV:	firstname.
+*INV:	maybe we should sit at the table again.
+*CHI:	uh no.
+*CHI:	so, there's wood here.
+*INV:	mm-hm [= yes].
+*CHI:	I might I might I might xxx.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	why didn't you even hide the box in here?
+*INV:	firstname please come have a seat in this green chair.
+*CHI:	okay.
+*CHI:	my shoes xxx.
+*CHI:	thank you [= RA has retrieved CHI's shoes].
+*INV:	mm-hm [= yes].
+*CHI:	I'm gonna open my toenails.
+*CHI:	this is a big old toenail.
+*INV:	please keep your feet on the ground.
+*CHI:	yeah.
+*CHI:	I'm just lookin(g) at it.
+*INV:	let's look at my picture book instead.
+*CHI:	okay.
+*INV:	okay.
+*INV:	so Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it's a mean pirate.
+*INV:	mm.
+*CHI:	it looks like a mean pirate.
+*INV:	mm-hm [= yes].
+*CHI:	ouch &=picks:at_foot.
+*INV:	are you ready for the next picture?
+*CHI:	yeah.
+@G:	Carrot
+*INV:	&=laughs what is this?
+*CHI:	that's a carrot.
+*INV:	what more can you tell me?
+*CHI:	why are you laughing at the carrot?
+*INV:	funny.
+*INV:	what more can you tell me?
+*CHI:	I pulled off my toenail.
+*INV:	will you throw that in the garbage please?
+*CHI:	yes.
+*CHI:	I snapped it away in into the light.
+*CHI:	why's that?
+*INV:	firstname.
+*CHI:	what?
+*INV:	what more can you tell me?
+*CHI:	um are you gonna bring out that basket that I that um that have toys in it.
+*INV:	maybe.
+*CHI:	that has the Barbies in it?
+*INV:	but we have to finish looking at my picture book.
+*CHI:	and then we can get it.
+*INV:	I've got some more fun stuff for us to do.
+*CHI:	I'll just walk out of the classroom &=laughs.
+*CHI:	I'm just gonna walk out of the classroom when we're done.
+*INV:	okay.
+*INV:	what is this?
+*CHI:	that's a carrot.
+*INV:	what more can you tell me?
+*CHI:	a carrot you can eat.
+*INV:	mm-hm [= yes].
+*CHI:	and a carrot is not so sure if it can eat you.
+*CHI:	if it can eat person.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah sure.
+*CHI:	I help out everybody.
+*INV:	mm-hm [= yes].
+*CHI:	if your nail's broken.
+*INV:	will you please stop picking at your nails?
+*CHI:	yeah.
+*INV:	and look at my picture book.
+*INV:	thank you.
+*CHI:	okay.
+*CHI:	why does he have a black tongue?
+*INV:	remember we're looking at my picture book?
+*CHI:	yeah.
+*INV:	yeah so Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	why doesn't he Zorg have any hair?
+*INV:	I'm not sure.
+*CHI:	because he's a bald headed.
+*INV:	can you help him out please?
+*CHI:	yeah he's soft.
+*CHI:	this is a carrot and this is parsley.
+*INV:	mm.
+*CHI:	&=dances.
+*INV:	are you ready for the next picture?
+*CHI:	yes.
+*CHI:	I do ballerina.
+@G:	Turtle
+*INV:	&=gasps in order to show you I need you to sit down please.
+*CHI:	ow.
+*INV:	thank you.
+*CHI:	it hurts more.
+*CHI:	it hurts.
+*INV:	are you alright?
+*CHI:	yeah.
+*INV:	okay.
+*INV:	what is this?
+*CHI:	that's a turtle.
+*INV:	what more can you tell me?
+*CHI:	that's a sea turtle.
+*CHI:	because sea turtles have um, a tail.
+*INV:	mm-hm [= yes].
+*CHI:	that's a sea turtle.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah Zorg, um this one is a sea is a sea turtle.
+*CHI:	you never heard of a sea turtle have you?
+*INV:	he can't talk.
+*INV:	he wants to hear what you have to say.
+*CHI:	why can't he talk?
+*INV:	(be)cause he just can't.
+*INV:	he wants to hear what you have to say.
+*CHI:	okay.
+*CHI:	when he's done he can talk?
+*INV:	yeah when we're all done he'll talk to you.
+*CHI:	and when we go to another country we can't even talk.
+*CHI:	and I'm leaving this classroom.
+*INV:	we only have a few more pictures to go through.
+@G:	Banana
+*INV:	what is this?
+*CHI:	it's a banana.
+*CHI:	&=pretends:eat_picture.
+*CHI:	I taked a good bite.
+*CHI:	I ate that.
+*INV:	what more can you tell me?
+*CHI:	bananas are yummy yummy &=pretends:eat_zorg's_nose.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah bananas are for eating and, you can't eat the yellow part because it's gross.
+*INV:	mm.
+@G:	Ladybug
+*INV:	         ⌈what is this⌉?
+*CHI:	that's a ⌊ladybug⌋.
+*INV:	what more can you tell me?
+*CHI:	um, I saw <these beetles> [?].
+*INV:	mm-hm [= yes].
+*CHI:	why do you change the book pictures?
+*INV:	oh let's leave that closed please.
+*CHI:	okay you have different pictures so you so you can change the book.
+*INV:	mm-hm [= yes].
+*CHI:	so I can see what what books we have.
+*CHI:	okay.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah, um, this is a ladybug and it crawls.
+*CHI:	I had a ladybug before.
+*INV:	mm.
+*CHI:	and it didn't even bite me.
+*INV:	mm-hm [= yes].
+*CHI:	and it wasn't like that one it was just a red.
+*INV:	mm-hm [= yes].
+*CHI:	I just want to see the pictures so <I won't have to> [?]
+	&=flips:through_pages.
+@G:	Baby
+*CHI:	&=laughsThere's a baby.
+*INV:	mm-hm [= yes].
+@G:	Ladybug
+*CHI:	um a ladybug.
+*CHI:	I'm ready for the other picture.
+*INV:	okay.
+@G:	Pig
+*INV:	what is this?
+*CHI:	it's a pig.
+*INV:	what more can you tell me?
+*CHI:	it's a oink oink oink and a doink oink oink.
+*CHI:	and a everywhere everywhere oink oink oin &=laughs.
+*CHI:	it's Old_MacDonald had a oink e I e I o.
+*INV:	zorg doesn't.
+@G:	Cookie
+*CHI:	and now on that cookie.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	on that farm he had a cookie.
+*INV:	mm.
+*CHI:	on that farm he had a cookie bald head &=laughs.
+*CHI:	I'm gonna xxx.
+*CHI:	        ⌈cookie⌉.
+*INV:	what is ⌊this⌋?
+*CHI:	                       ⌈cookie⌉.
+*INV:	what more can you tell ⌊me⌋?
+*CHI:	cookie.
+*INV:	what more can you tell me?
+*CHI:	cookies are yummy.
+*INV:	mm-hm [= yes].
+*CHI:	I would like it if it was a sprinkle pink cookie.
+*INV:	mm-hm [= yes].
+*CHI:	and pink xxx.
+*INV:	mm-hm [= yes].
+*CHI:	and it had pink chocolate chips.
+*CHI:	xxx.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	this table's wood.
+*CHI:	and it's painted red.
+*CHI:	xxx.
+*INV:	are you ready for the next picture?
+*CHI:	yeah.
+@G:	Baby
+*INV:	I need you to sit down though.
+*INV:	what is ⌈this⌉?
+*CHI:	that's a ⌊baby⌋.
+*INV:	what more can you tell me?
+*CHI:	that's a cute baby.
+*INV:	mm-hm [= yes].
+*CHI:	and, there's just one two there's just two pictures left.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	this baby is a boy.
+*CHI:	it's a boy baby.
+*CHI:	and they have girls clothes.
+*INV:	mm-hm [= yes].
+*CHI:	<the baby tooted> [?].
+*CHI:	what?
+*CHI:	<I tooted> [?].
+*INV:	are you ready for the next picture?
+*CHI:	yeah.
+@G:	Bread
+*INV:	what is this?
+*CHI:	um, bread.
+*INV:	what more can you tell me?
+*CHI:	bread is good.
+*CHI:	because we can we can put butter peanut butter and jelly sandwich.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well, this one is bread and you can put butter on it.
+*CHI:	and I want to move to the next picture.
+*INV:	okay.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	that's a baseball player.
+*INV:	what more can you tell me?
+*CHI:	he's a baseball softball.
+*INV:	mm-hm [= yes].
+*CHI:	my dad plays softball.
+*INV:	mm.
+*CHI:	he plays softball too.
+*CHI:	my dad's on the green team.
+*INV:	mm-hm [= yes].
+*CHI:	(be)cause I know (be)cause his shirt is green.
+*CHI:	I want to move on to the next page.
+*INV:	you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	when we're done can we move on?
+*INV:	mm-hm [= yes].
+*CHI:	there's just one more.
+*INV:	mm-hm [= yes].
+*CHI:	one more machine.
+*CHI:	and uh why do we have to see um two books?
+*INV:	well we're all done once we finish with this book.
+*CHI:	one two three four five six seven eight nine ten &=sings.
+*CHI:	so this one he's a baseball player.
+*INV:	mm-hm [= yes].
+*CHI:	and can I move on to the next picture?
+*INV:	alright.
+*INV:	all done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay.
+*INV:	let's put Zorg back into his box.
+*CHI:	he's going to go to sleep.
+*INV:	yep he's gonna go back to sleep.
+*INV:	do you want to put him in?
+*INV:	thank you for doing that with me.
+*INV:	that was a lot of fun.
+@End

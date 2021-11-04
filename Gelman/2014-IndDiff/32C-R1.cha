@@ -1,0 +1,259 @@
+@UTF8
+@PID:	11312/a-00032156-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;07.17|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Lobster
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a shrimp.
+*CHI:	it's red and it looks like cherries.
+*CHI:	and it's black.
+*INV:	mm-hm [= yes].
+*CHI:	and the black and the red looks like strawberries too.
+*INV:	ah.
+*CHI:	it looks like pink.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it's red.
+*CHI:	and it's black.
+*CHI:	and it looks like cherries.
+*CHI:	and it looks like strawberries.
+*CHI:	that's it.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	it's a it's a white teacher.
+*CHI:	her shoe her shoes is pink.
+*CHI:	her dress is blue.
+*CHI:	and her coat is green.
+*CHI:	and the book is brown.
+*CHI:	and, um, this board looks black.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	that is a teacher.
+*CHI:	and she gots the board to write.
+*CHI:	and that's it.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	popcorn.
+*CHI:	I like popcorn.
+*INV:	oh, what more can you tell me?
+*CHI:	popcorn is white.
+*CHI:	and if you put hot sauce on it it will be hot.
+*INV:	mm.
+*CHI:	if you don't it won't be hot.
+*INV:	oh.
+*CHI:	and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	popcorn, popcorn is good.
+*INV:	mm.
+*CHI:	<his ear> [?] [= referring to Zorg].
+@G:	Football Player
+*INV:	what is this?
+*CHI:	it's a football player.
+*INV:	what more can you tell me?
+*CHI:	it's blue and it's white and it's black.
+*CHI:	her hair is yellow.
+*CHI:	and her face is white.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, it's a football player.
+*CHI:	and his shoes is white.
+*CHI:	that's it.
+@G:	Orange
+*INV:	what is this?
+*CHI:	a orange.
+*INV:	what more can you tell me?
+*CHI:	uh, the orange is yellow.
+*CHI:	and the orange is juicy.
+*INV:	mm.
+*CHI:	and, when when the orange is juicy you can taste the orange.
+*CHI:	the juice inside.
+*CHI:	and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh a orange got the orange got white stuff where you cut it.
+*INV:	oh.
+*CHI:	and that's it.
+*INV:	alright.
+*INV:	you're doing great.
+@G:	Witch
+*INV:	what is this?
+*CHI:	a witch.
+*INV:	what more can you tell me?
+*CHI:	it's black and it's green.
+*CHI:	and the and the broom is orange and black.
+*INV:	mm-hm [= yes].
+*CHI:	and this bat is black too.
+*INV:	mm.
+*CHI:	and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, her her dress is black.
+*CHI:	that's it.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	he, is green and red.
+*CHI:	he's blue.
+*CHI:	he's red.
+*CHI:	and he's yellow.
+*CHI:	and he's pink.
+*CHI:	and his shoes is white.
+*CHI:	and and his face is white.
+*CHI:	and his neckties is white.
+*CHI:	and right that little thing right there is yellow
+	&=points:to_picture.
+*CHI:	and his hair is red.
+*CHI:	and the flower is blue and yellow.
+*CHI:	and his hat is brown.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and his other pocket is yellow and pink.
+*INV:	mm-hm [= yes].
+*CHI:	and that's it.
+*INV:	okay.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	a elephant.
+*INV:	what more can you tell me?
+*CHI:	uh, the elephant is brown.
+*CHI:	and he stomp his feet really loud.
+*INV:	mm-hm [= yes].
+*CHI:	and, he, and he put water on in his nose.
+*INV:	ah.
+*CHI:	and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	his toes is white.
+*CHI:	and his toes is brown too.
+*INV:	mm.
+*CHI:	that's it.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horsie.
+*INV:	what more can you tell me?
+*CHI:	he's brown and his his tail is black.
+*CHI:	and his horn is black too.
+*CHI:	and his and his toes is brown.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	his back is brown too.
+*CHI:	and that's it.
+*INV:	okay.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	broccoli.
+*INV:	what more can you tell me?
+*CHI:	it's green.
+*CHI:	and the other part is a lot of green.
+*CHI:	this part is a little green &=points:to_picture.
+*INV:	mm-hm [= yes].
+*CHI:	and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, this part right there that that thing [?] is black.
+*INV:	mm.
+*CHI:	and that's it.
+*CHI:	I got vegetables at home.
+*INV:	ah.
+@G:	Cereal
+*CHI:	this is cereal.
+*INV:	what more can you tell me?
+*CHI:	the bowl is yellow.
+*CHI:	and the cereal is brown.
+*INV:	mm-hm [= yes].
+*CHI:	and, the milk is white.
+*CHI:	I tell him the milk is white.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and, the and the cereal is brown too.
+*INV:	mm-hm [= yes].
+*CHI:	and that's it.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	a alligator.
+*INV:	what more can you tell me?
+*CHI:	the alligator has sharp teeth.
+*CHI:	and his eyes is brown.
+*CHI:	and he got xxx he got a lot of stuff everywhere on him.
+*CHI:	and his tail got stuff on him too.
+*INV:	mm.
+*CHI:	that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	his his feet is, black.
+*CHI:	that's it.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	a airplane and and a airplane man.
+*INV:	what more can you tell me?
+*CHI:	the airplane man that button is red and purple and yellow and red.
+*CHI:	and the sky is blue.
+*CHI:	and the and the clouds is white.
+*CHI:	and his hand is white.
+*INV:	mm-hm [= yes].
+*CHI:	and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	his hair is red.
+*CHI:	his hat is blue.
+*CHI:	and that little thing right there is yellow.
+*CHI:	and his clothes is green.
+*CHI:	and his clothes are yellow too.
+*CHI:	that's it.
+@G:	Cake
+*INV:	what is this?
+*CHI:	a cake.
+*CHI:	my mommy make cakes at home.
+*CHI:	but she make pink.
+*INV:	ah.
+*CHI:	the the cake is black.
+*CHI:	and that's it.
+*INV:	what more can you tell me?
+*CHI:	and there's white cake.
+*INV:	mm-hm [= yes].
+*CHI:	<that's it> [?].
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	that stuff right there is black.
+*INV:	mm.
+*CHI:	and that's it.
+*INV:	okay.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	penguin.
+*INV:	what more can you tell me?
+*CHI:	it's black.
+*CHI:	and his bottom is his his bottom his stomach is white.
+*CHI:	and his eyes is white.
+*CHI:	and his nose is orange.
+*INV:	mm.
+*CHI:	and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	his feet is black and orange.
+*CHI:	and that's it.
+*INV:	all done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	no [?].
+*INV:	okay.
+*INV:	well let's put Zorg back into his house.
+*CHI:	here lay down and go to sleep.
+*INV:	there you go.
+*INV:	thank you.
+*INV:	thank you very much.
+*INV:	that was so much fun.
+@End

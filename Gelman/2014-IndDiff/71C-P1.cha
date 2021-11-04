@@ -1,0 +1,344 @@
+@UTF8
+@PID:	11312/a-00032388-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.11|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Pirate
+@Types:	cross, narrative, TD
+*CHI:	&=gasps.
+*MOT:	what is it?
+*CHI:	a pirate.
+*MOT:	what's the pirate got?
+*CHI:	gold.
+*CHI:	and a parrot.
+*MOT:	and a parrot.
+*MOT:	ooh, but that's wrong with his leg?
+*CHI:	peg leg.
+*MOT:	peg leg.
+*MOT:	ooh what else?
+*CHI:	and look.
+*CHI:	a bottle with, a secret message.
+*MOT:	what do you think it is?
+*CHI:	the map that he used to find the gold.
+*MOT:	to find the gold.
+*CHI:	or maybe it's the key, to there.
+*CHI:	see that lock &=laughs?
+@G:	Pig
+*CHI:	pig.
+*MOT:	that is a kinda funky looking pig.
+*CHI:	why?
+*MOT:	(be)cause he has spots.
+*MOT:	have you ever seen a pig with spots?
+*CHI:	no.
+*MOT:	did we see a pig with spots at um, at the fairgrounds?
+*CHI:	mm-hm [= yes].
+*MOT:	we did?
+*CHI:	mm-hm [= yes].
+@G:	Cheese
+*CHI:	some cheese.
+*CHI:	xxx.
+*MOT:	what?
+*CHI:	some cheese.
+*MOT:	what?
+*MOT:	what did you.
+*CHI:	some cheese.
+*MOT:	some cheese.
+@G:	Bread
+*CHI:	and some bread to go with the cheese.
+*MOT:	bread well what are we gonna do with the bread and the cheese?
+*CHI:	make a sandwich.
+*MOT:	what kind?
+*CHI:	just a regular sandwich.
+*MOT:	do you want a grilled sandwich?
+*CHI:	no.
+*MOT:	just a cold cheese and bread sandwich?
+*MOT:	or would you like to put something on it?
+*MOT:	do you want some mustard on it?
+*CHI:	no.
+*MOT:	or some ham?
+*CHI:	no.
+@G:	Painter
+*MOT:	what's that lady doing?
+*CHI:	painting and.
+*MOT:	what what's she painting?
+*MOT:	hold on.
+*MOT:	are you skipping around?
+*CHI:	no I don't, I wanna do this one first.
+@G:	Doctor
+*MOT:	you wanna do that one first?
+*MOT:	okay.
+*MOT:	what's that?
+*CHI:	lady.
+*MOT:	a lady doing what?
+*CHI:	lady.
+*MOT:	what kind of lady?
+*CHI:	a doctor.
+*MOT:	how do you know it's a doctor?
+*CHI:	(be)cause she's in bed and she's out of bed.
+*MOT:	is she wearing something that makes you think she's a doctor?
+*CHI:	mm-hm [= yes].
+*MOT:	what's that called?
+*CHI:	stethoscope.
+*MOT:	excellent.
+@G:	Duck
+*MOT:	now let's go back so we don't miss any.
+*CHI:	⌈duck⌉.
+*MOT:	⌊oh⌋.
+*MOT:	is that a boy duck or a girl duck?
+*MOT:	do you remember?
+*CHI:	boy.
+*MOT:	do you remember what that boy duck is called?
+*MOT:	daddy ⌈maybe told you⌉.
+*CHI:	      ⌊what⌋?
+*CHI:	goose.
+*MOT:	no no no.
+*MOT:	ducks and geese are different.
+*MOT:	they're different kinds of birds.
+*MOT:	but boy ducks they have lots of really fancy feathers so they look pretty for the girl ducks.
+*MOT:	the boy duck is called a, mm mm mallard.
+*MOT:	can you say ⌈that⌉?
+*CHI:	            ⌊mallard⌋.
+*MOT:	and the girl ducks are called, we'll have to ask Dad.
+*MOT:	but I think the girl ducks are called drakes.
+*MOT:	that might be xxx though.
+*MOT:	that could be wrong.
+*MOT:	but that's definitely a mallard.
+*MOT:	look at his pretty feathers.
+*MOT:	did you see any of those as at xxx?
+*CHI:	mm I've never seen a bird like that.
+*MOT:	you haven't?
+@G:	Baby
+*MOT:	&=gasps oh.
+*MOT:	what do you think that is?
+*CHI:	baby.
+*MOT:	do you think that's a girl baby or a boy baby?
+*CHI:	boy.
+*MOT:	why do you think it's a boy baby?
+*CHI:	(be)cause it isn't wearing girl clothes.
+*MOT:	(be)cause it's wearing, it's not wearing girl clothes?
+*CHI:	uh-huh [= yes].
+*MOT:	baby has some nice toys huh?
+*CHI:	mm-hm [= yes].
+*CHI:	                            ⌈xxx⌉.
+*MOT:	does the baby look happy or ⌊sad⌋?
+*CHI:	happy.
+*MOT:	happy?
+*MOT:	why?
+*CHI:	(be)cause he's smiling.
+*MOT:	he's smiling.
+*MOT:	what do you think his name is?
+*CHI:	Benjamin.
+*MOT:	Benjamin?
+*MOT:	is that a name we should think about for our baby?
+*CHI:	&=nods:yes.
+@G:	Banana
+*CHI:	banana &=picks:nose.
+*MOT:	no picking please.
+*MOT:	banana.
+*MOT:	does that banana look good enough to eat?
+*CHI:	&=pretends:eat_banana.
+*MOT:	oh yummy.
+*MOT:	our bananas at home are ripe now so I think we can probably eat those.
+@G:	Cookie
+*MOT:	oh that looks good though too.
+*CHI:	&=pretends:eat.
+*MOT:	are you gonna eat it?
+*MOT:	would it be cool if this picture was like the scratch and sniff one,
+	and then we could &=sniffs smell if it was like, what kind of cookie
+	it was.
+*MOT:	what kind of cookie was that?
+*CHI:	chocolate chip.
+*CHI:	we've already done that one.
+@G:	Ladybug
+*MOT:	what's that?
+*CHI:	&=sings ladybug ladybug lady lady bug.
+*MOT:	should she fly away home?
+*MOT:	do you know that song?
+*CHI:	no.
+*MOT:	sometimes when you have a ladybug on your hand you &=blows go and
+	you blow it off and you say ladybug ladybug fly away home your house
+	is on fire and your children are alone.
+*MOT:	you never heard that?
+*CHI:	no.
+*CHI:	why is your house on fire?
+*MOT:	it's just a little silly song.
+*MOT:	I don't know why they say that.
+*MOT:	that's a big ladybug.
+*CHI:	mm-hm [= yes].
+*MOT:	are real ladybugs that big?
+*CHI:	that big &=shows:size_with_fingers.
+*MOT:	you know those weird little beetles that we've been getting?
+*MOT:	that look like the ladybugs?
+*CHI:	uh-huh [= yes].
+*MOT:	remember those?
+*CHI:	uh-huh [= yes] Japanese beetles.
+*MOT:	that's right.
+@G:	Baseball Player
+*CHI:	baseball player.
+*CHI:	baseball player.
+*MOT:	does he look like he's getting ready to hit or he just hit?
+*CHI:	he just hit.
+*MOT:	yeah?
+*CHI:	uh-huh [= yes].
+*MOT:	&=hiccups excuse me.
+*MOT:	do you think he got on base?
+*CHI:	yeah.
+*MOT:	how far?
+*CHI:	he's standing on base.
+*MOT:	you oh you think, oh he's standing on the home plate.
+*MOT:	did he hit the ball and get to run?
+*CHI:	&=nods:yes.
+*MOT:	how far?
+*MOT:	did he get to go to first second or third base?
+*CHI:	he went, he got to go to all of (th)em.
+*MOT:	so, do you know what it's called when you get to go around all the bases on one hit?
+*CHI:	what?
+*MOT:	a home run.
+*MOT:	you heard that?
+*CHI:	&=shakes:head_no.
+*MOT:	you have to hit the ball super super far so that you have enough time to run all the way around before someone gets the ball and throws it to where you're at.
+*MOT:	did you practice that in tee ball?
+*CHI:	yeah.
+*MOT:	yeah?
+*MOT:	                     ⌈are you gonna play⌉.
+*CHI:	to go all around the ⌊bases⌋?
+*MOT:	yeah.
+*MOT:	are you gonna play tee ball again this summer?
+*CHI:	yeah.
+*MOT:	you think Dad will take you?
+*CHI:	no you.
+*MOT:	me?
+*CHI:	uh-huh [= yes] I want you to take me.
+*MOT:	I thought you wanted Dad to take you last summer.
+*CHI:	okay fine.
+*MOT:	I'll take you.
+*MOT:	I'll take you.
+*MOT:	you wanna flip the page?
+@G:	Turtle
+*CHI:	toad.
+*MOT:	a what?
+*CHI:	a toad.
+*MOT:	try again.
+*CHI:	turtle.
+*MOT:	yeah.
+*MOT:	they both start with t, t, t.
+*MOT:	what does a toad look like?
+*CHI:	a toad's that big &=shows:with_fingers.
+*MOT:	           ⌈well toads are⌉.
+*CHI:	toads that ⌊big⌋.
+*MOT:	well toads are different sizes and so are turtles.
+*MOT:	do you remember that turtle that we saw at the xxx aquarium?
+*CHI:	mm-hm [= yes].
+*MOT:	was it huge?
+*CHI:	uh-huh [= yes].
+*MOT:	was it bigger than Firstname?
+*CHI:	uh-huh [= yes].
+*MOT:	this one might be a smaller turtle like maybe this big
+	&=shows:with_hands.
+*MOT:	toads can be big or small too but what do toads look like that.
+*MOT:	remember our book Frog_and_Toad?
+*CHI:	mm-hm [= yes].
+*MOT:	does Toad and Frog kinda look alike?
+*CHI:	uh-huh [= yes].
+*MOT:	yeah.
+*MOT:	            ⌈this turtle⌉.
+*CHI:	and Toad is ⌊bigger⌋.
+*MOT:	well in that story but some toads are bigger and some toads are smaller huh?
+@G:	Puppy
+*CHI:	puppy!
+*MOT:	that's a very cute puppy huh?
+*MOT:	do you think this puppy has a name?
+*CHI:	daisy Diner.
+*MOT:	&=laughs daisy Diner?
+*MOT:	where did that come from?
+*CHI:	I don't know &=looks:at_ceiling.
+*CHI:	looks like they might need to replace some lights up there.
+*MOT:	I think you're right.
+*MOT:	they have how many lightbulbs are missing?
+*CHI:	two.
+*MOT:	and then do you see the other ones up above Mommy's head?
+*CHI:	uh-huh [= yes].
+*MOT:	so how many, lights are missing?
+*CHI:	three.
+*MOT:	yep.
+*MOT:	we'll have to tell them when we're done huh?
+*CHI:	uh-huh [= yes].
+*MOT:	uh-huh [= yes].
+*CHI:	maybe they already know that.
+*CHI:	maybe.
+*MOT:	do you wanna tell them or no?
+*CHI:	yes.
+*MOT:	yes?
+*CHI:	in case they don't know.
+*MOT:	okay.
+@G:	Carrot
+*MOT:	what's that?
+*CHI:	carrot.
+*MOT:	who eats it?
+*CHI:	me &=preteds:eat.
+*MOT:	do you like this kind of carrots?
+*CHI:	no.
+*MOT:	how [?] do you like your carrots?
+*MOT:	do you, how do you like your carrots?
+*MOT:	do you like your carrots cooked or crunchy?
+*CHI:	cooked.
+*MOT:	do you wanna look at any of those pictures again?
+*MOT:	do you wanna look at (th)em again?
+*MOT:	or do you wanna look at any special ones again?
+*CHI:	xxx.
+@G:	Pirate
+*MOT:	that's a good one.
+*MOT:	I like that one.
+*MOT:	                   ⌈is⌉ +...
+*CHI:	we'll have to tell ⌊it⌋, me too.
+*MOT:	what was your favorite picture?
+*CHI:	&=points:pirate.
+*MOT:	why?
+*CHI:	(be)cause he is a pirate and I love pirates.
+*MOT:	excellent.
+*MOT:	do you like to be a pirate?
+*CHI:	yes.
+*MOT:	                                        ⌈what kinds of things⌉.
+*CHI:	someday I'm gonna turn on to the pirate ⌊team⌋.
+*MOT:	you're gonna be on the pirate team?
+*CHI:	                                               ⌈mm-hm [= yes]⌉.
+*MOT:	what kind of stuff is he wearing that you wear ⌊sometimes⌋?
+*CHI:	I don't know.
+*MOT:	                      ⌈well what does it⌉.
+*CHI:	I wear a pirate patch ⌊sometimes⌋.
+*MOT:	you do wear a patch sometimes?
+*MOT:	what's on his ear?
+*MOT:	can you see?
+*CHI:	what?
+*MOT:	see that?
+*CHI:	bandana.
+*MOT:	well the bandana's on his head but what's on his ear?
+*CHI:	I don't know.
+*MOT:	looks like a little metal?
+*CHI:	yeah a earring.
+*MOT:	do you wear that sometimes?
+*CHI:	I've weared it before at Fistname's.
+*MOT:	don't you have an earring, in your pirate costume stuff?
+*CHI:	uh-huh [= yes].
+*CHI:	I have actually have two.
+*MOT:	you have two earrings.
+*MOT:	and you have a couple of bandanas now huh?
+*CHI:	yeah yeah.
+*CHI:	I have (th)em all in my treasure chest.
+*MOT:	what's missing from this picture that would make for sure that we knew he was a pirate?
+*CHI:	I don't know.
+*MOT:	yeah you do.
+*MOT:	what always is with a pirate?
+*MOT:	what do they have on their ships?
+*CHI:	a pirate flag.
+*MOT:	exactly.
+*MOT:	he's missing his flag.
+*CHI:	his Golly Roger.
+*MOT:	jolly Roger.
+*CHI:	jolly.
+*MOT:	do you wanna look at anymore or are you done?
+*CHI:	xxx &=gets:up &=walks:away.
+@End

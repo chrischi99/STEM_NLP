@@ -1,0 +1,244 @@
+@UTF8
+@PID:	11312/a-00032289-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;07.02|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Ballerina
+@Types:	cross, narrative, TD
+*INV:	&=gasps what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	mm, goes like this &=raises:arms_in_air when it spins.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I know <what> [?] &=gets:up &=dances.
+*CHI:	aah I almost fell.
+*INV:	ooh.
+*CHI:	ow I hitted my bum bum &=sits:down_hard.
+*INV:	mm.
+*INV:	anything else you can tell Zorg?
+*CHI:	spins.
+*CHI:	I'll spin.
+*CHI:	I'll get it.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	skunk.
+*INV:	what more can you tell me?
+*CHI:	walks around.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	well one of you, it sprays.
+*CHI:	I do not want to see a skunk.
+*CHI:	not ever again.
+*INV:	mm.
+@G:	Pineapple
+*INV:	            ⌈what is this⌉?
+*CHI:	ow ow ow ow ⌊ow⌋.
+*CHI:	that is, a pokey.
+*CHI:	porcupine.
+*INV:	mm what more can you tell me?
+*CHI:	I don't know.
+*INV:	anything you can tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	when you get it it really hurts.
+*INV:	                  ⌈mm⌉.
+*CHI:	ow ow ow ow ow ow ⌊ow⌋.
+*CHI:	then you just need to rub your pants.
+*INV:	mm.
+*CHI:	get-go like this.
+*CHI:	&=pretends:pick_out_of_hands pick pick pick pick.
+*INV:	mm anything else you'd like to say?
+*CHI:	&=shakes:head_no.
+*CHI:	okay.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	firefighter.
+*INV:	what more can you tell me?
+*CHI:	it saves people.
+*INV:	mm what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it climbs a ladder like this.
+*CHI:	&=makes:fingers_walk climb climb climb climb climb
+	climb climb climb climb climb climb climb
+	&=sits:down_hard.
+*CHI:	ow.
+*INV:	careful.
+*CHI:	&=makes:noise.
+*INV:	anything else you'd like to say?
+*CHI:	I'm melting.
+@G:	Ice Cream
+*INV:	&=gasps.
+*CHI:	what?
+*INV:	what is ⌈this⌉?
+*CHI:	ice     ⌊cream⌋ &=pretends:eat_picture.
+*INV:	what more can you tell me?
+*CHI:	I ate it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	xxx.
+*CHI:	we eat it.
+*CHI:	we eat this part &=pretends:eat.
+*CHI:	I think I wanna be in there and look at you.
+*INV:	oh okay.
+*INV:	how about after we're all done?
+*CHI:	yeah.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	pumpkin.
+*CHI:	like a pumpkin pie &=falls:out_of_chair [= on purpose].
+*INV:	what more can you tell me?
+*CHI:	ow.
+*INV:	you okay?
+*CHI:	yeah.
+*INV:	what more can you tell me?
+*CHI:	hey look at me.
+*CHI:	I wanna play that pinball game.
+*INV:	okay.
+*CHI:	hey I can't see very good over there.
+*INV:	what more can you tell me?
+*CHI:	rolls around like this.
+*CHI:	&=makes:rolling_motion &=hits:head bump.
+*INV:	what more can you tell Z +...
+*CHI:	ow that was really hard.
+*INV:	mm.
+*CHI:	xxx.
+*CHI:	that's funny.
+*INV:	okay anything else you'd like to say?
+*CHI:	maybe, no.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a lady.
+*INV:	what more can you tell me?
+*CHI:	&=sighs don't know.
+*CHI:	I just don't know.
+*INV:	oh you are doing so well.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	don't know.
+*CHI:	she has jewelry.
+*INV:	mm.
+@G:	Judge
+*INV:	&=gasps.
+*CHI:	eww.
+*INV:	what is this?
+*CHI:	too scared to say it.
+*INV:	mm, well what can you tell me?
+*CHI:	&=whispers:in_ear it's xxx.
+*INV:	oh.
+*INV:	can you say that louder?
+*CHI:	it has underwear.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	I can't see [= poncho over face].
+*INV:	&=moves:poncho.
+*CHI:	thanks.
+*CHI:	has glasses.
+*CHI:	and that's what I'm wearing right now.
+*INV:	mm.
+@G:	Muffin
+*CHI:	I know what it is.
+*INV:	what is this?
+*CHI:	a muffin.
+*INV:	what more can you tell me?
+*CHI:	I ate it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	blueberry.
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	butterfly.
+*INV:	what more can you tell me?
+*CHI:	it has big wings on the top.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this ⌈one⌉.
+*CHI:	it has small wings on the       ⌊bottom⌋.
+*CHI:	and ant-and antennas.
+*INV:	mm.
+*CHI:	and it smells flowers like this &=sniffs.
+*CHI:	and like this &=pretends:bite &=pretends:spit &=laughs.
+@G:	Parrot
+*CHI:	I know what it is.
+*INV:	hm?
+*CHI:	parakeet.
+*INV:	mm what more can you tell me?
+*CHI:	ow.
+*INV:	what more can you tell me?
+*CHI:	it's on this stick.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it flies like this.
+*CHI:	“polly wanna cracker”?
+*CHI:	“polly wanna cracker”?
+*CHI:	&=sits:down_hard ow.
+*INV:	mm careful.
+*CHI:	hey we only got a couple more pages to go.
+*INV:	mm-hm [= filler].
+@G:	Race Car Driver
+*CHI:	I know what this is.
+*INV:	what is this?
+*CHI:	I think I skipped a page &=looks:back [= checking if skipped page].
+*CHI:	nope.
+*CHI:	a man.
+*CHI:	and oh and six.
+*CHI:	his car is oh six.
+*INV:	what more can you tell me?
+*CHI:	&=tries:turn_page.
+*INV:	&=stops:page_turning oh sweetie what more can you tell me?
+*CHI:	I don't know.
+*INV:	anything more you can tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it's a man and he wear underwear too.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	I think it's a shark.
+*INV:	mm what more can you tell me?
+*CHI:	go, looks around, for little fish.
+*CHI:	and then when it sees it it goes like this &=bites.
+*INV:	oh.
+*CHI:	that's dangerous.
+*INV:	mm.
+*CHI:	so you'll never go by a shark right?
+*CHI:	rollin(g) up rollin(g) up rollin(g) up rollin(g) up
+	&=rolls:up_poncho.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	&=laughs &=hits:head_against_wall ow.
+*INV:	we only have a little bit more to do.
+*INV:	can you help Zorg out?
+@G:	Cat
+*CHI:	kitty.
+*CHI:	meow meow meow.
+*INV:	what more can you tell me?
+*CHI:	like this.
+*CHI:	they go like this.
+*CHI:	like a dog &=gets:on_hands_and_knees &=pants.
+*CHI:	I know all about dogs.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	meows like this.
+*CHI:	meow.
+*CHI:	dog goes like that &=scratches:wall [= like dog].
+*CHI:	a cat goes like this &=scratches:wall [= like cat].
+*CHI:	I know people are looking through that mirror.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	cracker.
+*INV:	what more can ⌈you tell me⌉?
+*CHI:	we don't have any more ⌊pages⌋.
+*CHI:	hm it has holes.
+*INV:	mm what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	mm we eat it.
+*CHI:	and it goes like this crumble crumble crumble crumble crumble.
+*CHI:	the end.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay.
+*CHI:	now I want to go in there and then let's do the, that game.
+*INV:	okay.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

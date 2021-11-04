@@ -1,0 +1,253 @@
+@UTF8
+@PID:	11312/a-00032078-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.08|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Skunk
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a skunk.
+*INV:	what more can you tell me?
+*CHI:	they stink.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	or a Org uh, Org uh, skunks stink.
+*INV:	what else can you tell me?
+*CHI:	nothin(g) else.
+*CHI:	I don't know all about skunks.
+*CHI:	I don't know all about skunks.
+@G:	Cat
+*INV:	what is this?
+*CHI:	cat.
+*INV:	what more can you tell me?
+*CHI:	uh, they like to eat mouses.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	uh I don't know.
+*INV:	tell me something else.
+*CHI:	I don't know that.
+*CHI:	I don't know what else.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	a a pumpkin that you eat.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	um I don't know, what else.
+*INV:	well you see Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh Org pumpkins you eat.
+*INV:	what else can you tell Zorg?
+*CHI:	uh I don't have anything else.
+*INV:	can you please tell him something else?
+*CHI:	uh can we just go to this page?
+*INV:	no.
+*CHI:	is this a different picture book?
+*INV:	than what you just looked at?
+*INV:	yes.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	let's just say lets just say what they are.
+*CHI:	that's a fireman.
+*INV:	what more can you tell me?
+*CHI:	I said I only like to say one thing about it.
+*INV:	okay how about if we go through once and then we'll go through again.
+*INV:	okay?
+*CHI:	&=nods:head_yes.
+*INV:	okay.
+*INV:	go ahead.
+@G:	Ballerina
+*CHI:	a girl.
+*CHI:	she's doing a ballet.
+*INV:	what more can you tell me?
+*CHI:	I said I just like to say one thing about it.
+*INV:	say a little bit more.
+*CHI:	they like to dance.
+*INV:	can we go back?
+*CHI:	no.
+*INV:	okay.
+*INV:	okay.
+@G:	Old Woman
+*INV:	you told me that we would go through once and you would tell me and then we would go through again.
+*INV:	that's what you told me we would do.
+*CHI:	the grandma walks on that.
+*CHI:	and then she walks on her feet.
+*INV:	mm.
+@G:	Cracker
+*CHI:	this is a cracker that you eat.
+*INV:	mm.
+@G:	Ice Cream
+*CHI:	it's ice cream that you lick on.
+*INV:	okay so we went through once.
+*INV:	we're going through again like you told me we would.
+@G:	Firefighter
+*INV:	we were right here.
+*INV:	so what is this?
+*CHI:	fireman.
+*INV:	what else can you tell me?
+*CHI:	they rescue.
+*INV:	mm-hm [= yes].
+*INV:	tell me a little bit more.
+*CHI:	and, they put out fires like this &=pretends:squirt_hose.
+*INV:	you're doing good.
+*CHI:	I want to do that &=tries:turn_to_end.
+*INV:	let's well we missed the whole middle.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	I don't like the whole middle.
+*CHI:	xxx.
+*INV:	you told me that we that we would go in order.
+*INV:	&=gasps what is this?
+*CHI:	a pineapple.
+*INV:	what more can you tell me?
+*CHI:	eat (th)em.
+*INV:	okay.
+*INV:	tell me a little bit more.
+*CHI:	you slice (th)em up.
+*INV:	hm?
+*CHI:	you slice (th)em.
+*INV:	mm.
+@G:	Judge
+*INV:	what is this?
+*CHI:	uh, can you tell?
+*INV:	hm?
+*CHI:	can you do it for me?
+*INV:	mm-mm [= no].
+*CHI:	why don't you know what it is?
+*INV:	because I want to hear you.
+*INV:	I want to know what you think it is.
+*CHI:	how did you know he was in that box?
+*INV:	do you remember our deal?
+*CHI:	&=nods:head_yes.
+*INV:	okay so what is this?
+*CHI:	a principal?
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*INV:	tell me something.
+*CHI:	I don't know what else &=scoots:chair_to_door.
+*INV:	firstname can you please come back to the table?
+*CHI:	just keep flipping.
+*INV:	how are you going to see the picture?
+*CHI:	like this.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a cupcake.
+*INV:	what more can you tell me?
+*CHI:	&=sighs.
+*CHI:	just keep flipping the pages.
+*INV:	do you remember our deal?
+*CHI:	you eat (th)em.
+*INV:	what else can you tell me?
+*CHI:	uh, they have milk in (th)em.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	dolphin.
+*INV:	what more can you tell me?
+*CHI:	they like to swim underwater like this &=pretends:swim.
+*INV:	tell me a little bit more.
+*CHI:	they like to do this, &=jumps:makes_splashing_noise out of the water.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	this is a parakeet and it goes like this &=pretends:fly_around_room.
+*CHI:	and it likes to do this when it's out of its cage &=pretends:fly.
+*CHI:	out into the opened.
+*INV:	let's leave the lights on.
+*CHI:	just a little bit.
+*CHI:	like that &=turns:off_light.
+*INV:	okay that's it.
+*INV:	they're not going to be able to see us.
+*CHI:	who?
+*INV:	the people in the other room.
+*INV:	&=turns:light_on.
+*CHI:	why do you want the other people in the room to see us?
+*INV:	because they want to know what we're saying too.
+*INV:	tell me a little bit more.
+*CHI:	uh, they like to fly around like this, &=pretends:fly when they're
+	out of their cage.
+@G:	Race Car Driver
+*INV:	&=gasps what is this?
+*CHI:	a sports guy.
+*INV:	what more can you tell me?
+*CHI:	&=kicks:chair.
+*CHI:	he does this &=runs:across_room.
+*CHI:	when the ball hits the ground.
+*INV:	tell me a little bit more.
+*CHI:	and he does this &=jumps.
+*CHI:	you said only a little bit more.
+*INV:	okay, what else can you tell me?
+*CHI:	no.
+*CHI:	don't you remember?
+*INV:	don't you remember?
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	butterfly.
+*INV:	what more can you tell me?
+*CHI:	why do you always want me to say more?
+*INV:	because I want to know what you're thinking.
+*INV:	can you please sit in your seat?
+*CHI:	why?
+*CHI:	<how about I> [?] stand up?
+*INV:	because I asked you to please.
+*CHI:	I'll sit in it like this
+	[= Chair is sideways on the floor and CHI sits on backrest].
+*INV:	but then you can't see the picture book.
+*CHI:	yes I can.
+*INV:	&=sits:on_floor.
+*INV:	what is this?
+*CHI:	a butterfly.
+*INV:	what more can you tell me?
+*CHI:	it likes to fly around.
+*CHI:	and it has a big butt.
+*INV:	what else can you tell me?
+*CHI:	and, it likes to eat off the trees.
+*CHI:	it likes to eat ants.
+*CHI:	and go like this &=marches march march march on their feet.
+*INV:	mm-hm [= yes], you're doing real good.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	uh they dance.
+*CHI:	and, they like to do this &=spins.
+*INV:	what else can you tell me?
+*CHI:	they like.
+*CHI:	they have long hair and do this &=puts:arm_out.
+*INV:	you don't want to flip the page?
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	a grandma and she walks on that and she walks on those.
+*INV:	what more can you tell me?
+*CHI:	she has a head and she likes to wear necklaces.
+*CHI:	don't you remember?
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*CHI:	you eat (th)em.
+*INV:	mm, what more can you tell me?
+*CHI:	uh they go into your belly.
+*INV:	mm-hm [= yes], what else can you tell me?
+*CHI:	if they hit the ground they get, throwed away.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	ice cream.
+*CHI:	you lick on.
+*INV:	what more can you tell me?
+*CHI:	they uh, yeah if it gets dropped and melts eh your mommy and daddy will have to clean it up.
+*INV:	what else can you tell me?
+*CHI:	uh uh you can carry around all over the place.
+*INV:	you did great [= no pictures visible].
+*INV:	do you want to look at any again?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*CHI:	I just want to play that game again.
+*INV:	okay well let's put him to sleep.
+*INV:	do you want to say goodnight?
+*CHI:	goodnight.
+*CHI:	can I follow you?
+*INV:	yep.
+*INV:	thank you very much.
+@End

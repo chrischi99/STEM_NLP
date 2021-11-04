@@ -1,0 +1,194 @@
+@UTF8
+@PID:	11312/a-00032244-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.12|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Carrot
+@Types:	cross, narrative, TD
+*MOT:	&=gasps oh look it's ⌈an elephant⌉.
+*CHI:	                     ⌊carrot⌋.
+*CHI:	no it's a carrot.
+*MOT:	it's a carrot?
+*MOT:	how do you know it's a carrot?
+*CHI:	(be)cause I just know &=turns:page.
+*MOT:	(be)cause you just ⌈ know⌉.
+@G:	Bread
+*CHI:	                   ⌊bread⌋.
+*MOT:	bread.
+@G:	Puppy
+*CHI:	a doggy.
+*MOT:	a dog.
+@G:	Ladybug
+*CHI:	a ladybug.
+*MOT:	a ladybug.
+*MOT:	how do you know, wait a minute &=stops:page_turning +...
+*MOT:	how did you know that was a ladybug?
+*CHI:	(be)cause I've saw one before.
+*MOT:	well how come you know it's not a spider.
+*CHI:	(be)cause it has spots.
+*MOT:	&=gasps a spider can have spots cant it?
+*CHI:	no.
+*MOT:	no?
+@G:	Baseball Player
+*MOT:	ooh what's that one?
+*CHI:	it's a baseball man.
+*MOT:	a baseball man.
+@G:	Banana
+*CHI:	a banana.
+*MOT:	ooh you like bananas don't you?
+*CHI:	mm-hm [= yes].
+*MOT:	who likes bananas more than you?
+*CHI:	firstname.
+*MOT:	firstname &=nods &=laughs.
+@G:	Pirate
+*MOT:	ooh what's this one?
+*CHI:	pirate.
+*MOT:	a pirate?
+*CHI:	                 ⌈xxx⌉.
+*MOT:	how did you know ⌊that⌋?
+*MOT:	do you know that from jack and Annie [= storybook characters]?
+*CHI:	yeah.
+*MOT:	yeah?
+*MOT:	what's this?
+*CHI:	that's a necklace.
+*MOT:	a necklace.
+*MOT:	what's the big box for?
+*CHI:	it's a treasure chest.
+*MOT:	it's a treasure tes- chest huh?
+@G:	Cheese
+*MOT:	⌈what's that one⌉?
+*CHI:	⌊cheese⌋.
+*MOT:	cheese.
+*MOT:	what kind of cheese is that?
+*MOT:	do you know?
+*CHI:	cheddar?
+*MOT:	cheddar?
+*MOT:	close.
+*MOT:	you know what, I think it might be a clue that it has holes in it.
+*MOT:	you've never eaten this kinda cheese at our house.
+*MOT:	do you know what kinda cheese has holes in it?
+*MOT:	here lemme see you've got something in your eye &=brushes:CHI_Face.
+*MOT:	do you know what kind cheese has holes in it?
+*CHI:	&=shakes:head_no.
+*MOT:	you don't?
+*MOT:	I think it's swiss cheese.
+@G:	Doctor
+*MOT:	ooh.
+*CHI:	doctor.
+*MOT:	what is she doing?
+*CHI:	helping her feel better.
+*MOT:	what do you think is wrong?
+*CHI:	I don't know.
+*CHI:	maybe she's sick or something.
+*MOT:	you think she's sick?
+*MOT:	hm I wonder what happened to her.
+*CHI:	ooh &=points:picture_cast.
+*MOT:	&=gasps oh good observation firstname.
+*MOT:	I didn't even realize that.
+*MOT:	what do you think she did?
+*CHI:	I think she fell down and broke &=traces:picture_arm.
+*MOT:	broke &=mimics:tracing what?
+*CHI:	the top of her arm.
+*MOT:	the top of her arm?
+*CHI:	and the bottom of her arm.
+*MOT:	and the bottom ⌈woo⌉ +...
+*CHI:	and the        ⌊side⌋.
+*MOT:	all of it?
+*CHI:	yeah.
+*MOT:	ouch.
+*MOT:	do you think she's gonna be okay?
+*MOT:	I wonder why she's looking at her watch.
+*CHI:	yeah turn the page.
+@G:	Turtle
+*CHI:	ooh a turtle +...
+*MOT:	ooh.
+*MOT:	do you think it's a turtle or a tortoise?
+*CHI:	it's a tortoise.
+*MOT:	why do you think it's a tortoise?
+*CHI:	because it's big.
+*MOT:	wha +...
+*CHI:	and it has a big shell.
+*MOT:	but turtles can be big and have big shells.
+*MOT:	remember that one that we just saw at the aquarium?
+*CHI:	yeah.
+*MOT:	so how do you, why do you think he's a tortoise?
+*CHI:	uh I just think.
+*MOT:	&=tickles:CHI.
+*CHI:	ok- okay.
+*MOT:	so why do you think it's a tortoise?
+*CHI:	(be)cause it lives on land.
+*MOT:	(be)cause it lives on land?
+*CHI:	&=stands:up &=looks:in_mirror.
+*MOT:	hey come here dude.
+*MOT:	do you wanna look at the tortoise ⌈anymore⌉?
+*CHI:	I was looking at                  ⌊this⌋ &=pulls:something_from_eye.
+*MOT:	oh did you get it out?
+*CHI:	I don't xxx &=deposits:object.
+*MOT:	don't leave it there silly goose.
+*MOT:	alright, do you wanna talk any more about the tortoise?
+*CHI:	mm-mm [= no].
+*MOT:	⌈you don't wanna talk any more about the tortoise⌉?
+*CHI:	⌊no⌋ +...
+@G:	Painter
+*MOT:	ooh what's that?
+*CHI:	it's a painter.
+*MOT:	what's she doing?
+*MOT:	is she just looking at the painting?
+*CHI:	xxx.
+*MOT:	what?
+*CHI:	how do they do it?
+*MOT:	how do they do what?
+*CHI:	paint that tree.
+*MOT:	oh you think she's not done?
+*MOT:	why do you think she's not done?
+*CHI:	(be)cause she didn't paint all of the leaves.
+*MOT:	oh.
+@G:	Baby
+*MOT:	&=gasps what's that?
+*CHI:	a newborn [?] that is.
+*MOT:	it's cute.
+*MOT:	how old do you think she is?
+*MOT:	do you think it's a boy or girl?
+*CHI:	I think it's a girl.
+*MOT:	you think it's a girl?
+*MOT:	why do you think it's a girl?
+*CHI:	(be)cause she looks cute.
+*MOT:	(be)cause she looks cute?
+*MOT:	she's kinda got like a little lacy part up here on her dress doesn't she?
+*MOT:	on her outfit &=gasps.
+@G:	Cookie
+*CHI:	cookie.
+*MOT:	cookie.
+*MOT:	what kinda cookie?
+*CHI:	chocolate chip.
+*MOT:	how do you know it's chocolate chip?
+*CHI:	because I've ate one before.
+*MOT:	maybe it's raisins.
+*MOT:	or cranberries.
+*MOT:	you think its chocolate chip?
+@G:	Duck
+*CHI:	and the last thing is a duck.
+*MOT:	is that the last thing &=check:pages?
+@G:	Pig
+*CHI:	there's a pig too.
+*MOT:	there's a pig.
+*CHI:	&=checks:pages nope.
+*CHI:	that's it.
+*MOT:	that's it?
+*MOT:	do you wanna make a story up with it?
+*CHI:	no.
+*MOT:	xxx your [?] other books?
+*CHI:	&=shakes:head_no.
+*MOT:	what do you wanna do?
+*MOT:	are you all done?
+*CHI:	yeah.
+*MOT:	that's it?
+*MOT:	you don't like a book that doesn't have words in it?
+*CHI:	&=walks:door &=shakes:head_no.
+*MOT:	okay well can you go knock on that window for me?
+*MOT:	on that mirror for me?
+*CHI:	why?
+@End

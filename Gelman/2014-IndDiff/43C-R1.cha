@@ -1,0 +1,244 @@
+@UTF8
+@PID:	11312/a-00032222-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.02|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Lobster
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	lobster.
+*INV:	what more can you tell me?
+*CHI:	um no thanks.
+*CHI:	I'm I think I'm tired.
+*INV:	can can we sit at the table?
+*CHI:	I'm too tired.
+*INV:	you're too tired?
+*CHI:	mm-hm [= yes].
+*INV:	oh.
+*INV:	but I have this picture book I really want to look at.
+*INV:	can't we look at this picture book?
+*CHI:	well I'm too tired.
+*INV:	oh.
+*INV:	can you get up a little energy to look at the picture book with me?
+*CHI:	mm.
+*INV:	how about if we sit over here at the table?
+*CHI:	no.
+*INV:	no?
+*CHI:	no.
+*INV:	can we still look at my picture book and talk?
+*CHI:	no.
+*INV:	no?
+*CHI:	mm-mm [= no].
+*INV:	okay &=leaves:room.
+*CHI:	but I still want to play that the game and that &=points:Zorg
+	&=leaves:room.
+@Comment:	tape restarts
+*INV:	are you alright looking at my picture book?
+*CHI:	mm-hm [= yes].
+*INV:	is that a yes?
+*CHI:	&=nods:yes.
+*INV:	what is this?
+*CHI:	a crab.
+*INV:	what more can you tell me?
+*CHI:	um, uh, a crab, has pointy claws.
+*CHI:	and he lives in the sea.
+*CHI:	and also, and he, also he lives in a crab hole.
+*INV:	anything else you wanna tell me?
+*CHI:	uh no thanks.
+*INV:	alright.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	broccoli.
+*INV:	what more can you tell me?
+*CHI:	um, xxx I can say xxx.
+*CHI:	um, um um, what were we gonna say?
+*CHI:	does it, um, I.
+*CHI:	broccoli is for eating.
+*CHI:	and not for holding.
+*CHI:	but but um, um, with um that's it.
+*INV:	can you tell me a little bit more?
+*CHI:	um no thanks.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	um popcorn.
+*INV:	mm, what more can you tell me?
+*CHI:	it's for eating.
+*CHI:	and crunching.
+*CHI:	and, that's it.
+*INV:	tell me a little bit more.
+*CHI:	uh &=shakes:head_no xxx.
+@G:	Pilot
+*INV:	what is this?
+*CHI:	a driver in a plane.
+*INV:	what more can you tell me?
+*CHI:	he drives in the plane.
+*CHI:	and he makes sure passengers have seats seated [?] quickly because the plane's starting.
+*INV:	please tell me a little bit more?
+*CHI:	okay.
+*CHI:	um, there there the pilot drives high.
+*CHI:	he he go out in the clouds.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horsey.
+*INV:	what more can you tell me?
+*CHI:	a horsey goes in a farm.
+*CHI:	and he lives in a farm.
+*CHI:	and um, <nothing> [?].
+*INV:	please tell me a little bit more.
+*CHI:	okay the horsey looks like he lives in town.
+*CHI:	and he, that's it.
+@G:	Clown
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	um, um, um, um, um, move on to the next page.
+*INV:	can you please tell me?
+*CHI:	no.
+*INV:	a little bit?
+*CHI:	no.
+*INV:	do you remember our deal?
+*CHI:	yes I remember the deal.
+*INV:	okay so please tell me a little bit more?
+*CHI:	um, um, um, um, um, um, um that's it.
+*INV:	but you didn't tell me anything.
+*CHI:	but I but I um I, um, I'm hot.
+*INV:	oh okay I can turn on the air.
+*INV:	can I have the kleenex ⌈box please⌉?
+*CHI:	uh                     ⌊huh⌋.
+*INV:	okay &=moves:box_chair.
+*INV:	so what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*INV:	hey firstname?
+*CHI:	what?
+*INV:	if I turn the page will you talk to me please?
+*CHI:	yes.
+*INV:	okay.
+@G:	Elephant
+*INV:	what is this?
+*CHI:	a elephant.
+*INV:	what more can you tell me?
+*CHI:	he lives in a zoo.
+*CHI:	and, um, um, um, let's see.
+*CHI:	<he> [?] has a tail.
+*CHI:	and, he has a trunk.
+*CHI:	and he and he has big ears.
+*CHI:	and, he has big feets.
+*CHI:	and that's it.
+*INV:	anything else?
+*CHI:	&=shakes:head_no.
+@G:	Orange
+*INV:	what is this?
+*CHI:	a orange.
+*INV:	what more can you tell me?
+*CHI:	um you can eat it.
+*CHI:	and, and you can cut it into pieces.
+*CHI:	that's it.
+*INV:	tell me a little bit more please.
+*CHI:	no.
+*INV:	do you remember our deal?
+*CHI:	yeah I remember the deal.
+*INV:	okay tell me a little bit more please.
+*CHI:	you bite it and eat it.
+@G:	Witch
+*INV:	what is this?
+*CHI:	a witch.
+*INV:	what more can you tell me?
+*CHI:	a witch flies in the air.
+*CHI:	and he, has bats on his house.
+*INV:	tell me a little bit more please.
+*CHI:	okay.
+*CHI:	um, also he has a broom.
+*CHI:	and he has a hat too.
+*CHI:	xxx.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	um, chips?
+*INV:	mm what more can you tell me?
+*CHI:	um, they're for eating and biting and +...
+*CHI:	and, and you crunch (th)em.
+*CHI:	and eat (th)em.
+*CHI:	and that's it.
+*INV:	tell me a little bit more please.
+*CHI:	uh okay.
+*CHI:	you put (th)em in a bowl.
+*CHI:	that's it.
+@G:	Cake
+*INV:	what is this?
+*CHI:	a cake.
+*INV:	mm what more can you tell me?
+*CHI:	uh they're for, eating.
+*CHI:	and, and it's, a cake.
+*CHI:	and, you put it on, you put it on its plate.
+*CHI:	and then you eat it.
+*INV:	tell me a little bit more please.
+*CHI:	um, um, um, um, uh hm uh, uh, that's it.
+*CHI:	that's it.
+@G:	Football Player
+*INV:	what is this?
+*CHI:	a baseball player.
+*INV:	what more can you tell me?
+*CHI:	uh, they throw the baseball back and forth back and forth.
+*CHI:	and then, and, that's it.
+*INV:	please tell me a little bit more.
+*CHI:	um, uh, um, I, that's it.
+*INV:	do you remember our deal?
+*CHI:	yeah I remember the deal.
+*INV:	please tell me a little bit more.
+*CHI:	okay.
+*CHI:	and he has a hat.
+*CHI:	and she has a shirt.
+*CHI:	and she has shoes.
+*CHI:	and she has pants.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	a alligator.
+*INV:	what more can you tell me?
+*CHI:	he uh, he lives under water.
+*CHI:	and he eats uh uh he eats all the fish.
+*CHI:	and then he has a long tail.
+*CHI:	and he has small feet.
+*CHI:	and that's it.
+*INV:	tell me a little bit more please.
+*CHI:	okay.
+*CHI:	he has a big mouth.
+*CHI:	and eyes.
+*CHI:	and, and he also have big tail.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	a penguin.
+*INV:	what more can you tell me?
+*CHI:	they, he lives in, he live, he lives in a cold area.
+*CHI:	with his father and friends and.
+*CHI:	and then, um, um, he has a tail.
+*CHI:	and he has feet.
+*CHI:	little tiny feet.
+*CHI:	and he has, he has, um, and then he has a, nose.
+*CHI:	and he has eyes.
+*INV:	tell me a little bit more please.
+*CHI:	okay.
+*CHI:	he has a tummy.
+*CHI:	and he has a tail.
+*CHI:	and, uh, he has a tummy.
+*CHI:	and, that's it.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	he draws and people sees it-sees her.
+*CHI:	and they um she countes letters.
+*CHI:	and she um, um, she watches everyone so people are good or bad.
+*CHI:	and she, and that's it.
+*INV:	tell me a little bit more please.
+*CHI:	okay.
+*CHI:	she takes people bad.
+*CHI:	she she she's um if if people are bad they should take (th)em in her office.
+*INV:	okay.
+*INV:	all done.
+*INV:	alrighty.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a whole lot of fun.
+@End

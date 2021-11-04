@@ -1,0 +1,16 @@
+@UTF8
+@PID:	11312/a-00012285-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|Gelman|CHI|||||Target_Child|||
+@Types:	cross, narrative, TD
+*CHI:	this is a dummy file useta make sure this folder is visible to the
+	Talkbank browser .
+%mor:	pro:dem|this cop|be&3S det:art|a n|dummy n|file mod|used~inf|to
+	v|make adj|sure det:dem|this n|folder cop|be&3S adj|visible prep|to
+	det:art|the n:prop|Talkbank n|browse&dv-AGT .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|8|SUBJ 6|8|AUX 7|8|INF 8|2|CPRED
+	9|8|PRED 10|11|DET 11|12|SUBJ 12|9|CMOD 13|12|PRED 14|13|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|2|PUNCT
+@End

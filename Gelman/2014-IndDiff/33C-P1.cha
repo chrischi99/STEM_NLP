@@ -1,0 +1,213 @@
+@UTF8
+@PID:	11312/a-00032160-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.02|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Butterfly
+@Types:	cross, narrative, TD
+*MOT:	&=gasps what's that a picture of?
+*CHI:	um butterfly.
+*MOT:	wait don't just name (th)em.
+*MOT:	we're supposed to talk about it for a second.
+*MOT:	do you like butterflies?
+*CHI:	yep.
+*MOT:	remember when Firstname was doing his spelling words?
+*MOT:	and cocoon was in there and that's not what he taught us that that's not what butterflies have, right?
+*CHI:	&=flips:page.
+*MOT:	&=flips:back.
+*CHI:	                    ⌈what do they⌉?
+*MOT:	he taught me that word I never heard of and I think it was chrysalis
+	or something like ⌊that⌋.
+*MOT:	do you remember what I'm talking about?
+*CHI:	&=nods:yes yeah yeah ⌈mom⌉ [?].
+*MOT:	                     ⌊yeah⌋.
+*MOT:	okay you wanna do the next one?
+@G:	Ice Cream
+*CHI:	ice cream.
+*MOT:	mm what's your favorite ice cream?
+*CHI:	&=repeatedly:points_to_ice_cream.
+*CHI:	                ⌈d⌉.
+*MOT:	do you like ice ⌊cream⌋?
+*CHI:	yeah.
+*MOT:	what kind do you like ?
+*CHI:	this one &=repeatedly:points:_to_ice_cream.
+*MOT:	that's the one you like?
+*CHI:	&=nods:head_yes.
+*MOT:	I have never seen you eat eat any strawberry ice cream ⌈ever⌉!
+*CHI:	                                                       ⌊mom⌋.
+*CHI:	now let's do the next page.
+*MOT:	let's do okay.
+@G:	Firefighter
+*CHI:	fireman.
+*MOT:	fireman.
+*MOT:	you like firemen don't you?
+*CHI:	yeah.
+*MOT:	is that what you're gonna be when you grow up?
+*CHI:	yup &=tries:turn_page.
+*MOT:	&=stops:CHI_turning page What else are you gonna be when you grow up?
+@G:	Cracker
+*CHI:	let me show you &=flips:page.
+*CHI:	let me.
+*CHI:	next.
+*MOT:	wait you have to say what it is at least.
+*CHI:	cracker.
+*MOT:	it's a cracker?
+*MOT:	do you like crackers?
+*CHI:	yeah.
+*MOT:	we never have those kinda  crackers at home though do we?
+*CHI:	let let me see the next page.
+*MOT:	okay.
+@G:	Pineapple
+*MOT:	do you even know what that is?
+*CHI:	nope .
+*CHI:	&=points:picture.
+*MOT:	nope?
+*CHI:	tell ⌈me⌉.
+*MOT:	     ⌊guess⌋.
+*MOT:	it's upside down &=rotates:book_toward.
+*CHI:	what's that?
+*MOT:	what is it?
+*CHI:	I don't know.
+*MOT:	you don't know?
+*CHI:	&=shakes:head_no.
+*MOT:	it's a pineapple.
+*MOT:	that's what pineapples look from like from the outside when they come off the tree.
+*MOT:	you've just seen (th)em yellow when theyre already all cut up right?
+@G:	Cracker
+*CHI:	<come on> [?].
+*CHI:	&=nods:yes.
+*MOT:	&=nods:yes.
+*MOT:	now you're going backwards [= talking about CHI flipping pages].
+*MOT:	(be)cause we already saw the cracker.
+@G:	Firefighter
+*CHI:	next page &=flips:to_front.
+*CHI:	we're all done [= CHI looking at butterfly picture].
+*MOT:	no we're not [= CHI looking at butterfly picture].
+@G:	Pineapple
+*MOT:	you have to go to the next page after the pineapple.
+*MOT:	and it's upside down like pineapple upside down cake &=laughs.
+@G:	Judge
+*MOT:	do you know what that is?
+*CHI:	offic⌈er⌉?
+*MOT:	&=nods it looks like an office doesn't ⌊it⌋?
+*MOT:	but I ⌈think⌉.
+*CHI:	      ⌊officer⌋.
+*MOT:	kinda &=nods:yes.
+*MOT:	⌈it's the king officer⌉.
+*CHI:	⌊what [?]⌋?
+*MOT:	I think that it's ajudge.
+*MOT:	that's what it looks like anyway.
+*CHI:	judge.
+*MOT:	is it ajudge?
+*CHI:	yeah.
+*MOT:	you can tell by his black robe right?
+@G:	Race Car Driver
+*CHI:	next page.
+*MOT:	what's that?
+*CHI:	racer.
+*MOT:	yeah.
+*MOT:	who is it do you think?
+*CHI:	I don't know.
+*MOT:	you don't know?
+*MOT:	who's your favorite racer?
+*CHI:	&=points:picture.
+*MOT:	that guy?
+*MOT:	from your Nascar movie.
+*MOT:	who's your favorite one from your Nascar movie?
+*CHI:	um, blue guy.
+*MOT:	the blue guy?
+*CHI:	&=nods:yes.
+*MOT:	what's his name?
+*CHI:	flier.
+*MOT:	flier?
+*MOT:	well, &=nods:yes that's a cool movie isn't it?
+@G:	Skunk
+*CHI:	raccoon.
+*MOT:	that's [?] not a raccoon &=shakes:head_no.
+*CHI:	jungle skunk.
+*MOT:	&=laughs jungle skunk?
+*CHI:	&=nods:yes.
+*CHI:	like from, um, Higley_Town_Heroes.
+*MOT:	oh I've never actually seen Higgley_Town_Heroes.
+*MOT:	you always watch that by yourself.
+@G:	Dolphin
+*CHI:	dolphin.
+*MOT:	that is a dolphin.
+*MOT:	good for you.
+@G:	Pumpkin
+*CHI:	pumpkin.
+*MOT:	&=gasps what did we (re)member ⌈when we went this year and picked
+	pumpkins from the pumpkin patch⌉?
+*CHI:	                               ⌊h⌋.
+*MOT:	do you remember that?
+*MOT:	and then what do you do with them?
+*CHI:	&=traces:finger_along_pumpkin.
+*MOT:	cut out their faces?
+*MOT:	mm-hm [= yes] &=nods:yes.
+@G:	Cat
+*CHI:	mrow [= imitating cat].
+*CHI:	kitty.
+*MOT:	kitty.
+*MOT:	did you ever get to see Grandma's cat before she got rid of it?
+*CHI:	&=nods:head_yes.
+*MOT:	xxx.
+*CHI:	&=flips:page.
+*MOT:	we don't get cats (be)cause Dad doesn't like cats.
+*MOT:	⌈<so we get⌉ ⌈something else> [?]⌉.
+@G:	Muffin
+*CHI:	⌊cupcake⌋.
+*CHI:	             ⌊cupcake⌋.
+*MOT:	kind of.
+*MOT:	does it look like a cupcake or a muffin?
+*CHI:	cupcake.
+*MOT:	it's a cupcake?
+*MOT:	what kind of cupcake do you think it is?
+*CHI:	brown?
+*CHI:	&=points:picture.
+*CHI:	brown.
+*MOT:	are those berries or chips?
+*CHI:	next page Mom.
+*MOT:	okay.
+@G:	Old Woman
+*MOT:	okay.
+*CHI:	xxx.
+*CHI:	mommy.
+*CHI:	tell me &=tries:flip_page.
+*MOT:	you tell me.
+*CHI:	next ⌈page Mom⌉.
+*MOT:	wait no you can't just skip (th)em that fast you have to say what it
+	   ⌊is⌋.
+*CHI:	I can't know.
+*MOT:	you don't know?
+*CHI:	now next page Mom.
+*MOT:	ok well I think it is um an older woman.
+*CHI:	yeah.
+*MOT:	because she has a cane, like Grandma.
+*MOT:	(re)member when at Grandma's house, when Grandma hurt her back?
+*CHI:	&=nods:yes.
+*MOT:	and so she was walking with that cane.
+*MOT:	and you were playin(g) with it?
+*MOT:	does that look like Grandma?
+*CHI:	&=nods:head_slowly.
+@G:	Parrot
+*CHI:	what's that?
+*MOT:	what is it?
+*CHI:	um a maybe [?] say, parrot.
+*MOT:	good job.
+*MOT:	you didn't just say bird.
+*MOT:	you knew what kinda bird it is.
+@G:	Ballerina
+*CHI:	ballet dancer.
+*MOT:	you're right.
+*MOT:	are you a ballet dancer?
+*CHI:	no.
+*MOT:	remember when you were playing ballet dancer in the swimming pool?
+*CHI:	mm-hm [= yes].
+*CHI:	all done.
+*MOT:	you're all done?
+*CHI:	mm-hm [= yes].
+*MOT:	okay.
+@End

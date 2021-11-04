@@ -1,0 +1,184 @@
+@UTF8
+@PID:	11312/a-00032309-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|MOT|||||Mother|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Baby
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*MOT:	a baby.
+*INV:	tell me more.
+*MOT:	looks like a little baby playing.
+*MOT:	or someone playing with it.
+*MOT:	smiling.
+*INV:	mm-hm [= filler].
+*INV:	is there anything else you can tell me?
+*MOT:	no.
+*MOT:	that it looks happy.
+*INV:	okay.
+@G:	Pig
+*INV:	what is this?
+*MOT:	a pig.
+*INV:	what more can you tell me?
+*MOT:	that's a mommy pig.
+*MOT:	and that it's big.
+*INV:	anything else you'd like to say?
+*MOT:	mm-mm [= no].
+*INV:	okay.
+@G:	Duck
+*MOT:	a duck.
+*MOT:	a mallard.
+*MOT:	he has a green head.
+*INV:	tell me more.
+*MOT:	that they live in the water.
+*MOT:	well not really live in the water ⌈but⌉.
+*INV:	                                  ⌊mm-hm [= filler]⌋.
+*INV:	mm-hm [= filler].
+*MOT:	you associate ducks with water.
+*INV:	mm-hm [= filler].
+*INV:	anything else you can tell me?
+*MOT:	mm-mm [= no].
+*INV:	okay.
+*INV:	feel free to say whatever comes to mind.
+@G:	Bread
+*INV:	and what is this?
+*MOT:	loaf of bread.
+*INV:	mm-hm [= filler].
+*MOT:	looks like homemade pumpkin bread.
+*INV:	tell me more.
+*MOT:	that it's already been cut.
+*INV:	mm-hm [= filler].
+*INV:	what is this?
+@G:	Painter
+*MOT:	an artist.
+*INV:	what more can you tell me?
+*MOT:	that she's just painting what she sees.
+*INV:	mm-hm [= filler].
+*MOT:	copying a picture.
+*INV:	anything else you'd like to say?
+*MOT:	mm-mm [= no].
+*INV:	okay.
+@G:	Cookie
+*INV:	what is this?
+*MOT:	a broken cookie.
+*INV:	tell me more.
+*MOT:	it's a crummy mess.
+*INV:	mm-hm [= filler].
+*INV:	what else can you tell me?
+*MOT:	mm that it's almost round.
+*INV:	mm-hm [= filler].
+*MOT:	that's it.
+*INV:	okay.
+@G:	Puppy
+*INV:	what is this?
+*MOT:	a puppy, dog.
+*INV:	mm-hm [= filler].
+*MOT:	looks like a bear (be)cause it's fuzzy.
+*MOT:	and you know it's a puppy because it's small.
+*INV:	tell me more.
+*MOT:	it's brown.
+*MOT:	and it's got big feet so he'll probably be big.
+*INV:	mm-hm [= filler].
+*INV:	anything else?
+*MOT:	no.
+*INV:	okay.
+@G:	Cheese
+*MOT:	cheese.
+*INV:	what else can you tell me?
+*MOT:	looks like mouse cheese.
+*INV:	mm-hm [= filler].
+*MOT:	<got> [?] holes in it.
+*INV:	mm-hm [= filler].
+*MOT:	and that it's orange.
+*INV:	anything else?
+*MOT:	mm-mm [= no].
+*INV:	okay.
+@G:	Doctor
+*INV:	and what is this?
+*MOT:	doctor and a patient.
+*MOT:	looks like a little girl sick in a hospital.
+*INV:	what else can you tell me?
+*MOT:	nothing.
+*INV:	anything else?
+*MOT:	mm-mm [= no].
+*INV:	okay.
+@G:	Carrot
+*MOT:	carrot.
+*INV:	mm-hm [= filler].
+*MOT:	with the stem still on it.
+*MOT:	it's long and orange.
+*INV:	tell me more.
+*MOT:	it's got a stem on it.
+*MOT:	looks like a tree.
+*INV:	mm-hm [= filler].
+*INV:	anything else?
+*MOT:	mm-mm [= no].
+*INV:	okay.
+@G:	Banana
+*INV:	what is this?
+*MOT:	a banana peeled.
+*MOT:	partially peeled.
+*MOT:	and it's yellow.
+*INV:	what else can you tell me?
+*MOT:	monkeys eat bananas.
+*INV:	mm-hm [= filler].
+*INV:	tell me more.
+*MOT:	that's it.
+*INV:	okay.
+@G:	Turtle
+*INV:	what is this?
+*MOT:	turtle.
+*MOT:	actually that's probably a tortoise.
+*MOT:	that's big.
+*INV:	mm-hm [= filler].
+*INV:	tell me more.
+*MOT:	they're slow.
+*MOT:	they live in the water.
+*MOT:	it's got red on it so it's probably some kind of biting turtle.
+*INV:	mm-hm [= filler].
+*MOT:	and that's it.
+*INV:	okay.
+@G:	Pirate
+*MOT:	pirate with his treasure chest and his bird.
+*INV:	mm-hm [= filler].
+*INV:	what else can you tell me?
+*MOT:	he's got one leg.
+*INV:	mm-hm [= filler].
+*MOT:	<and> [?] his, chest is filled with coins.
+*INV:	mm-hm [= filler].
+*INV:	anything else?
+*MOT:	bird's colorful.
+*INV:	mm-hm [= filler].
+*MOT:	that's it.
+*INV:	okay.
+@G:	Baseball Player
+*INV:	what is this?
+*MOT:	baseball player.
+*INV:	mm-hm [= filler].
+*MOT:	getting(g) ready to swing.
+*INV:	mm-hm [= filler].
+*INV:	what else can you tell me?
+*MOT:	maybe left handed batter.
+*INV:	mm-hm [= filler].
+*MOT:	that's it.
+*INV:	okay.
+@G:	Ladybug
+*INV:	mm what is this?
+*MOT:	looks like a ladybug.
+*INV:	mm-hm [= filler].
+*MOT:	but it's hard to um, with the beetles that are out now.
+*MOT:	it's red and round and has spots.
+*INV:	tell me more.
+*MOT:	it kinda looks like a spider.
+*INV:	mm-hm [= filler].
+*MOT:	and that's it.
+*INV:	anything else?
+*MOT:	mm-mm [= no].
+*INV:	okay.
+*INV:	well great.
+*INV:	well thank you very much for doing that for us.
+*MOT:	sure.
+@End

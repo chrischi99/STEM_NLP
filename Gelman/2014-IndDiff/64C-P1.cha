@@ -1,0 +1,480 @@
+@UTF8
+@PID:	11312/a-00032346-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.02|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Skunk
+@Types:	cross, narrative, TD
+*MOT:	oh [= referring to skunk]!
+*MOT:	do you see something over there [= CHI looking around room]?
+*MOT:	what is it?
+*MOT:	this, that +...
+*CHI:	&=points:panels_wall.
+*MOT:	I know.
+*MOT:	they're all the same colors right?
+*CHI:	nuh uh [= no].
+*MOT:	no?
+*CHI:	&=shakes:head_no.
+*MOT:	some of (th)em are the same.
+*CHI:	blue Red Blue Red Blue Red ⌈Blue &=points:individual_panels⌉.
+*MOT:	I                          ⌊know⌋.
+*MOT:	you know what those are for?
+*CHI:	&=shakes:head_no.
+*MOT:	it's to keep it quiet in here.
+*MOT:	so we can look at our book.
+*MOT:	you wanna look at these?
+*MOT:	lookit.
+*MOT:	what is that?
+*CHI:	a skunk.
+*MOT:	a skunk.
+*CHI:	ew.
+@G:	Cracker
+*MOT:	oh.
+*CHI:	cracker &=laughs.
+@G:	Judge
+*MOT:	&=whispers that's a hard one.
+*CHI:	a library man.
+*MOT:	it does look like a library man.
+*MOT:	you know what I think it might be.
+*MOT:	I think he might be a judge.
+*CHI:	oh.
+*MOT:	you've never seen a judge before.
+*CHI:	&=turns:page.
+@G:	Pineapple
+*CHI:	um I know what that is I think.
+*MOT:	hm.
+*CHI:	uh.
+*MOT:	it's a vegetable.
+*CHI:	&=shakes:head_no.
+*CHI:	it's a fruit.
+*MOT:	&=whispers yeah.
+*MOT:	what fruit is it?
+*CHI:	um it's a +...
+*MOT:	do you want a hint?
+*CHI:	yeah.
+*MOT:	um, it's a fruit that you find where it's really warm.
+*CHI:	oh it's a apple fruit too.
+*MOT:	kinda like an apple.
+*MOT:	it's a PINE-apple.
+*MOT:	doesn't it look like a pinecone?
+*CHI:	yeah.
+*MOT:	do you wanna turn the page?
+@G:	Old Woman
+*CHI:	       ⌈a old lady⌉.
+*MOT:	what's ⌊that⌋?
+*MOT:	an old lady.
+*CHI:	&=turns:page.
+*MOT:	oops we skipped a page.
+@G:	Pumpkin
+*MOT:	we-?
+*CHI:	a pumpkin.
+*MOT:	that's a easy one.
+@G:	Ballerina
+*CHI:	a ballerina.
+*MOT:	a ballerina.
+@G:	Firefighter
+*CHI:	a firefighter.
+*MOT:	mm-hm [= filler].
+@G:	Dolphin
+*CHI:	a dolphin.
+*MOT:	did we skip one again
+	&=flips:page_back?
+@G:	Parrot
+*MOT:	yup.
+*CHI:	a bird.
+*MOT:	okay.
+@G:	Dolphin
+*CHI:	a dolphin.
+*MOT:	a dolphin yeah.
+*MOT:	I know they kinda stick together [= about pages].
+*CHI:	did we skip a page?
+*MOT:	did we?
+*MOT:	no I think that's good.
+@G:	Ice Cream
+*CHI:	ice Cream.
+*MOT:	mm-hm [= filler].
+@G:	Race Car Driver
+*CHI:	football.
+*MOT:	oh.
+*MOT:	it does look like a football.
+*MOT:	but do you know what it is?
+*CHI:	huh?
+*MOT:	what's this right here?
+*MOT:	you see what it is?
+*CHI:	mm no.
+*MOT:	it's a car.
+*MOT:	it's a racecar driver.
+*CHI:	&=turns:page.
+*MOT:	and they do it at big ⌈at big places⌉ ⌈like football stadiums⌉.
+@G:	Muffin
+*CHI:	                      ⌊uh⌋ +...
+*CHI:	                                      ⌊uh⌋ +...
+*CHI:	a cupcake.
+*MOT:	mm yummy it's makin(g) me ⌈hungry⌉.
+@G:	Butterfly
+*CHI:	a                         ⌊butterfly⌋.
+@G:	Cat
+*CHI:	a cat.
+*MOT:	mm-hm [= filler].
+*MOT:	kitty-cat.
+*MOT:	is that the last one?
+*MOT:	do you wanna go through it again?
+*CHI:	no.
+*MOT:	no?
+*CHI:	&=closes:book.
+*MOT:	do you wanna see if we skipped any?
+*CHI:	&=shakes:head_no.
+*MOT:	no you don't &=restarts:book?
+@G:	Skunk
+*CHI:	skunk.
+*MOT:	yeah go through it one more time because I think we might have skipped one.
+@G:	Cracker
+*CHI:	cracker.
+*MOT:	yeah I think you're too smart for this.
+*MOT:	you're too smart for this.
+@G:	Judge
+*MOT:	you remember this one?
+*CHI:	no.
+*MOT:	a judge.
+*CHI:	oh.
+*MOT:	right?
+*CHI:	judge.
+*MOT:	mm-hm [= filler].
+@G:	Pineapple
+*CHI:	a pineapple.
+*MOT:	yeah you remembered.
+@G:	Old Woman
+*CHI:	a old lady.
+*MOT:	yup.
+@G:	Pumpkin
+*CHI:	a pumpkin.
+*MOT:	yeah.
+*MOT:	that's a good picture of a pumpkin.
+@G:	Ballerina
+*CHI:	um, a ballerina.
+*MOT:	yeah.
+@G:	Firefighter
+*CHI:	a firefighter.
+*MOT:	mm-hm [= filler].
+@G:	Parrot
+*CHI:	a bird.
+@G:	Dolphin
+*CHI:	a dolphin.
+*MOT:	mm-hm [= filler].
+@G:	Ice Cream
+*CHI:	ice cream.
+*MOT:	yeah.
+@G:	Race Car Driver
+*CHI:	a racecar, ⌈man⌉.
+*MOT:	           ⌊hm⌋.
+@G:	Muffin
+*CHI:	a [?] cupcake.
+@G:	Butterfly
+*CHI:	a butterfly.
+*MOT:	mm-hm [= filler].
+@G:	Cat
+*CHI:	a kitty cat.
+*CHI:	none.
+*MOT:	okay I have an idea.
+*CHI:	what?
+*MOT:	I think that we should look through these pictures, and say, instead
+	of saying what they are we can go through and say, something else
+	about them.
+@G:	Skunk
+*MOT:	instead of just saying it's a skunk, what is this?
+*MOT:	what what is a skunk part of?
+*CHI:	uh it's part of the grass.
+*MOT:	mm.
+*CHI:	and it goes in the field in the grass.
+*MOT:	right.
+*CHI:	and it when when some people go by it gets mad.
+*CHI:	and it gets stinky smelly s +...
+*MOT:	that's right +...
+*CHI:	sti- Stinky ⌈stinky smelly-⌉ ⌈stinky smelly stuff out of his tail⌉.
+*MOT:	            ⌊pee-ew⌋ [= stinky]!
+*MOT:	what                         ⌊about⌋ +...
+*MOT:	is it a human?
+*CHI:	no.
+*MOT:	what is it?
+*CHI:	it's a animal.
+*MOT:	you're right.
+*MOT:	okay.
+@G:	Cracker
+*MOT:	okay.
+*MOT:	so what do we know about crackers?
+*CHI:	crackers go in soup.
+*MOT:	crackers go in soup.
+*MOT:	what shape are they?
+*CHI:	um kinda square.
+*CHI:	and if you put (th)em together its a rectangle.
+*MOT:	you're right.
+*MOT:	now what if, what about +...
+*MOT:	um is it a human or an animal or what?
+*CHI:	no.
+*MOT:	what is it?
+*CHI:	it's, it's a food.
+*MOT:	food very good.
+*MOT:	so did you notice there's a lot of things that could be labeled different things in here?
+@G:	Judge
+*MOT:	so what do you think you know about a judge?
+*CHI:	uh +...
+*MOT:	you want me to tell you about a judge?
+*CHI:	no.
+*MOT:	no?
+*CHI:	he um reads books.
+*MOT:	       ⌈mm⌉.
+*CHI:	and he ⌊um⌋ and he puts glasses on to see ⌈really close.
+*MOT:	                                          ⌊right⌋.
+*MOT:	and you know what a judge is?
+*MOT:	a judge is a job.
+*MOT:	something that somebody does.
+*MOT:	you know like how mommy goes to work ⌈sometimes⌉.
+*CHI:	                                     ⌊an⌋ +...
+*MOT:	just like that.
+*CHI:	he's a human.
+*MOT:	he's a human.
+*MOT:	very good.
+@G:	Pineapple
+*MOT:	what about this?
+*MOT:	what do we know about pineapples?
+*CHI:	um they have pokey, ⌈ um things right here⌉.
+*MOT:	                    ⌊mm-hm⌋ [= filler].
+*CHI:	⌈and pokey things right here &=points:pineapple⌉.
+*MOT:	⌊yeah⌋.
+*MOT:	right.
+*CHI:	and pokey things down here.
+*CHI:	and I don't know [?].
+*MOT:	yeah.
+*CHI:	and they grow in warm warm warm warm warm warm warm warm places.
+*MOT:	right.
+*MOT:	and is it a human?
+*CHI:	no.
+*MOT:	what is it?
+*CHI:	it's a fruit.
+*MOT:	a fruit and it's a food right?
+*CHI:	no it's a fruit.
+*MOT:	it's a fruit, food &=laughs.
+@G:	Old Woman
+*MOT:	okay what about, what about this picture?
+*CHI:	um she's a old lady.
+*MOT:	yeah.
+*CHI:	and she has a stick ⌈so she can walk⌉.
+*MOT:	mm-hm               ⌊right⌋.
+*MOT:	is she a animal?
+*CHI:	no.
+*MOT:	no.
+*CHI:	she's a human.
+*MOT:	a human too yeah.
+*MOT:	you wanna turn the page?
+@G:	Pumpkin
+*MOT:	what about this?
+*CHI:	um pumpkins grow from [?] pumpkin seeds.
+*MOT:	right.
+*MOT:	it's takes a long long time to grow pumpkins.
+*MOT:	right.
+*MOT:	right and do they +...
+*CHI:	and +...
+*MOT:	where do they grow?
+*MOT:	on a tree?
+*CHI:	no.
+*MOT:	what do they grow on?
+*MOT:	do you remember?
+*MOT:	we grew some +...
+*CHI:	on the ground.
+*MOT:	yeah on the ground.
+*MOT:	on a vine right?
+*MOT:	and then is it, is that um a human?
+*CHI:	no.
+*MOT:	what is it?
+*CHI:	it's um not a food.
+*CHI:	but if you open inside ⌈um there's um seeds⌉.
+*MOT:	                       ⌊yeah⌋.
+*CHI:	and you can ⌈um like um even you can um um⌉ ⌈eat them⌉.
+*MOT:	            ⌊mm-hm [= filler]⌋.
+*MOT:	scoop (th)em                                ⌊out⌋?
+*MOT:	oh yeah yeah.
+*CHI:	and even if you open this part and then ⌈put them back in then it
+	makes a jack-o-lantern⌉.
+*MOT:	                                        ⌊mm-hm [= filler]⌋.
+*MOT:	right.
+@G:	Ballerina
+*MOT:	what about this?
+*CHI:	um ballerinas do ballerina dance.
+*MOT:	yeah.
+*CHI:	she's a human.
+*MOT:	she's a human yeah.
+*MOT:	you like ballerina dancing right?
+@G:	Firefighter
+*MOT:	what about this guy?
+*CHI:	that's a human.
+*CHI:	but if there's fire he shoots out water.
+*MOT:	do you know what a fire-fighter is?
+*MOT:	that's his job right?
+*CHI:	I know.
+*MOT:	so we have a couple people in here that have jobs right?
+*MOT:	that's their job.
+*MOT:	that's their work.
+@G:	Parrot
+*MOT:	what about this character?
+*CHI:	um she lives in a cage.
+*MOT:	mm-hm [= filler].
+*CHI:	and people buy some of the birds.
+*MOT:	yeah.
+*CHI:	and they said um that Firstname has +...
+*MOT:	and Firstname has a bird right.
+*CHI:	                ⌈like this⌉.
+*MOT:	and is a bird a ⌊human⌋?
+*CHI:	no.
+*MOT:	what?
+*CHI:	it flies up in the sky.
+*CHI:	and sometimes it goes tweet tweet &=laughs.
+*CHI:	or um some, but different birds go &=makes:clicking_noise.
+*MOT:	yeah.
+*MOT:	⌈and then⌉ +...
+*CHI:	⌊and⌋ +...
+*MOT:	it's is it uh, um is it a food?
+*CHI:	no.
+*MOT:	what is it?
+*CHI:	um bird.
+*MOT:	it's a bird and an animal right?
+*CHI:	yeah.
+*MOT:	very cool.
+@G:	Dolphin
+*MOT:	okay what about this one?
+*CHI:	mm he lives in the water.
+*MOT:	mm-hm [= filler].
+*CHI:	and he dives outside [?] xxx &=laughs.
+*MOT:	yeah he does.
+*CHI:	he goes like &=makes:splashing_noise.
+*MOT:	right does he +...
+*CHI:	no he goes like &=makes:splashing_noise
+	&=makes:dolphin_jumping_motion.
+*MOT:	is he a human.
+*CHI:	no.
+*MOT:	no +...
+*CHI:	he's, he's +...
+*MOT:	is he a food?
+*CHI:	no.
+*MOT:	he's a food for somebody remember?
+*MOT:	do you remember?
+*CHI:	uh +...
+*MOT:	we were talking about it in that that magazine +...
+*CHI:	xxx.
+*MOT:	what eats dolphins?
+*MOT:	do you remember?
+*CHI:	um crocodiles ⌈and⌉ +...
+*MOT:	crocodiles and ⌊sharks⌋.
+*MOT:	remember?
+*CHI:	&=nods:yes &=turns:page.
+*MOT:	but for most people he's not.
+*MOT:	no.
+@G:	Ice Cream
+*MOT:	what about this?
+*MOT:	that looks yummy.
+*MOT:	yum.
+*CHI:	um ice creams go with ice creams.
+*MOT:	is it hot or cold?
+*CHI:	cold.
+*MOT:	cold.
+*CHI:	cold for a hot day.
+*MOT:	right and then it melts on a hot day right?
+*CHI:	&=turns:page.
+@G:	Race Car Driver
+*MOT:	what about this dude?
+*CHI:	he drives a racecar.
+*MOT:	yeah.
+*MOT:	do racecars go fast or slow?
+*CHI:	fast and um, ⌈faster than that one train⌉.
+*MOT:	             ⌊fast⌋.
+*MOT:	&=laughs faster than that one train?
+*CHI:	yeah.
+*CHI:	he goes [?] &=imitates:sound_car &=imitates:vibration_of_car.
+*MOT:	do you know what?
+*MOT:	a racecar driver, that's his job.
+*CHI:	                ⌈xxx⌉.
+*MOT:	there's another ⌊job⌋.
+*MOT:	weird &=turns:page.
+@G:	Muffin
+*MOT:	mm.
+*CHI:	a, a cupcake.
+*CHI:	um is a food, ⌈that is a treat⌉.
+*MOT:	is a food     ⌊yeah⌋.
+*MOT:	a treat yeah.
+*CHI:	but +...
+*MOT:	will you turn the page real quick?
+@G:	Butterfly
+*MOT:	⌈butterflies⌉ +...
+*CHI:	⌊um⌋ +...
+*MOT:	ooh you like butterflies don't we.
+*CHI:	a butterfly, um +...
+*CHI:	first they're, first they're a caterpillar.
+*CHI:	then um they turn into butterflies.
+*MOT:	mm-hm [= filler].
+*MOT:	you're right.
+*MOT:	where did we see butterflies before?
+*MOT:	a lot of (th)em +...
+*MOT:	a ton of (th)em +...
+*MOT:	where?
+*CHI:	yeah.
+*MOT:	do you remember?
+*CHI:	at our home.
+*MOT:	at our house.
+*MOT:	but where else did we go?
+*MOT:	to see um lots and lots and lots of butterflies +...
+*CHI:	uh I know there's a lot of butterflies at the rainforest.
+*MOT:	yeah at the zoo right?
+*CHI:	no at the rainforest too.
+*MOT:	oh at the rainforest yeah.
+*MOT:	and then is a butterfly animal?
+*CHI:	yeah.
+*MOT:	kind of.
+*MOT:	is it +...
+*MOT:	it's a bug.
+*CHI:	&=turns:page.
+*MOT:	right?
+*MOT:	oh we missed one [= referring to picture].
+*MOT:	one more.
+@G:	Cat
+*MOT:	&=gasps ⌈oh⌉.
+*CHI:	and     ⌊the⌋ +...
+*CHI:	and the cat is not a food but is a pet.
+*MOT:	right.
+*MOT:	and what do cats do?
+*MOT:	⌈do they make sounds⌉?
+*CHI:	⌊they⌋ +...
+*CHI:	meow &=laughs.
+*MOT:	that's funny.
+*MOT:	do you wanna look at this some more or no?
+*CHI:	can you do this without doing this.
+*CHI:	meow.
+*CHI:	I can do it.
+*MOT:	lemme see.
+*CHI:	meow.
+*MOT:	meow.
+*MOT:	meow.
+*CHI:	     ⌈meow⌉.
+@G:	Skunk
+*MOT:	what ⌊do⌋ what sound does a skunk make?
+*MOT:	I don't know what sound a skunk makes.
+*MOT:	a skunk might make a cat-type sound.
+*MOT:	do you think it goes like this meow?
+*CHI:	no.
+*CHI:	it doesn't make any sound.
+*MOT:	no?
+*MOT:	I dunno.
+*MOT:	maybe it makes a little sound.
+*MOT:	do you wanna look through this some more?
+*MOT:	do you wanna count up how many animals there are?
+*CHI:	I- no &=shakes:head_no.
+*MOT:	no?
+*MOT:	you all done?
+*CHI:	yeah.
+*MOT:	okay knock on the window.
+*MOT:	go ahead ⌈just knock on it⌉ +...
+*CHI:	         ⌊no⌋ +...
+*MOT:	and that'll let (th)em know we're all done.
+*CHI:	oh.
+@End

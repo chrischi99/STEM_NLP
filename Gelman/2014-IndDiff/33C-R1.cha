@@ -1,0 +1,234 @@
+@UTF8
+@PID:	11312/a-00032162-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.02|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Bread
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	hm.
+*CHI:	next page.
+*INV:	can can you take a guess?
+*CHI:	nope.
+*INV:	do you have any idea?
+*CHI:	toast.
+*INV:	hm very good.
+*INV:	what more can you tell me?
+*CHI:	what?
+*INV:	what more can you tell me?
+*CHI:	here &=tries:flip_page.
+*INV:	let's go slowly.
+*INV:	please answer my question.
+*INV:	what more can you tell me?
+*CHI:	is for eating &=mimes:eating.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=bounces:Zorg_on_picture.
+*CHI:	boing.
+*CHI:	I has toast like this piece.
+*CHI:	all the pieces around.
+*CHI:	yum yum yum &=flips:page.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	ladybug.
+*INV:	        ⌈what more⌉?
+*CHI:	yum yum ⌊yum &=opens:and_shuts_Zorg's_mouth⌋.
+*CHI:	                       ⌈what⌉?
+*INV:	what more can you tell ⌊me⌋?
+*CHI:	is for sting.
+*INV:	mm-hm [= yes].
+*CHI:	they go like this &=imitates:flying.
+*INV:	mm-hm [= yes].
+*CHI:	<the colors> [?] that they has.
+*CHI:	they have four wings.
+*INV:	mm-hm [= yes].
+*CHI:	with that on top.
+*CHI:	                            ⌈another page⌉.
+*INV:	anything else you'd like to ⌊say⌋?
+*CHI:	no.
+@G:	Pig
+*INV:	what is this?
+*CHI:	pig.
+*INV:	what more can you tell me?
+*CHI:	this this is the same pig.
+*CHI:	&=makes:snorting_sound.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um they have fur.
+*CHI:	oink oink oink.
+*INV:	mm-hm [= yes].
+*CHI:	other page.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a batter.
+*INV:	what more can you tell me?
+*CHI:	is for &=pretends:swing.
+*INV:	&=nods:yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	this guy wants to turn the page ⌈with his mouth⌉.
+*INV:	okay well help him out          ⌊though⌋.
+*INV:	I'll let him turn the page once you help him out please.
+*CHI:	it he's dressed up with the whole his whole um whole uniform on.
+*INV:	hm.
+*CHI:	one more &=flips:page.
+@G:	Painter
+*INV:	what is this?
+*CHI:	is a painter.
+*INV:	what more can you tell me?
+*CHI:	is for painting.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um it has paint all around it.
+*INV:	mm-hm [= yes].
+*CHI:	one more.
+*CHI:	um yum yum yum &=pretends:Zorg_eats_page.
+@G:	Cookie
+*CHI:	&=pretends:eat mm &=makes:chewing_noises.
+*INV:	what is this?
+*CHI:	cookie &=snorts.
+*INV:	what more can you tell me?
+*CHI:	um is for um um um um &=pretends:stuff_cookie_in_mouth.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*INV:	could you help him out?
+*INV:	can you help him out please?
+*CHI:	it has all the pieces around it.
+*CHI:	and you have to eat it off &=makes:scarfing_noises.
+*CHI:	next page.
+@G:	Banana
+*INV:	what is this?
+*CHI:	banana &=makes:Zorg_eat_photo.
+*INV:	what more can you tell me?
+*CHI:	it's for um um um um &=motions:eating.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um it has a banana in it.
+*INV:	mm-hm [= yes].
+*CHI:	all around it.
+*CHI:	and this is and that yellow thing's covering that banana.
+*INV:	mm-hm [= yes].
+*CHI:	yow.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	puppy.
+*INV:	what more can you tell me?
+*CHI:	um is for &=pants:like_dog.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um he has all the hair around him.
+*INV:	mm-hm [= yes].
+*CHI:	and a nose right there.
+*INV:	hm.
+@G:	Baby
+*INV:	what is this?
+*CHI:	baby &=snorts.
+*INV:	what more can you tell me?
+*CHI:	um is for wah wah.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um it has it has this &=runs:hand_on_arm all around him.
+*INV:	mm-hm [= yes].
+*CHI:	mm-hm [= yes].
+*CHI:	mm-hm [= yes].
+*CHI:	mm-hm [= yes].
+@G:	Turtle
+*INV:	what is this?
+*CHI:	turtle.
+*INV:	what more can you tell me?
+*CHI:	is for &=smacks:hands_on_table.
+*INV:	&=nods:yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has a shell and his ody's [?] stickin(g) out all around it.
+*CHI:	and there's a tail right there.
+*INV:	mm-hm [= yes] [= Zorg smacks against table].
+*CHI:	he hit his eye.
+*INV:	mm.
+*CHI:	watch &=hits:Zorg-on_table.
+@G:	Duck
+*INV:	what is this?
+*CHI:	duck.
+*INV:	what more can you tell me?
+*CHI:	is for quack quack quack quack &=waddles.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has.
+*CHI:	it has all the body all around him.
+*INV:	mm-hm [= yes].
+*CHI:	and there's his nose.
+*INV:	hm.
+*CHI:	I mean that's his mouth &=makes:quacking_noise.
+*CHI:	hm.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	doctor.
+*INV:	what more can you tell me?
+*CHI:	is for um, making people bether, better.
+*INV:	mm-hm [= yes].
+*CHI:	&=points:to_page look at her &=laughs.
+*CHI:	what is she doing?
+*INV:	um.
+*CHI:	what is she doing with her?
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	no.
+*CHI:	I don't know.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has two people all around this room.
+*INV:	mm-hm [= yes].
+*CHI:	and there's their ears.
+*CHI:	but she doesn't have them [?].
+@G:	Cheese
+*INV:	what is this?
+*CHI:	mice cheese.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	um um, is for &=makes:chewing_noise, for mice.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has yellow all around this cheese.
+*INV:	mm.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	carrot.
+*INV:	what more can you tell me?
+*CHI:	is for &=makes:chomping_noise.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	is it has orange and green all around it.
+*INV:	mm-hm [= yes].
+@G:	Pirate
+*INV:	what is this?
+*CHI:	pirate and a parrot and a treasure.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	is for, ar &=salutes!
+*CHI:	&=moves:finger_to_treasure &=makes:gleaming_noise.
+*CHI:	&=moves:finger_over_parrot bawk bawk!
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it has that guy.
+*CHI:	and that parrot ⌈and that⌉.
+*INV:	                ⌊mm-hm [= yes]⌋.
+*CHI:	and that treasure all around.
+*INV:	mm-hm [= yes].
+*CHI:	no page.
+*INV:	hm.
+*INV:	all done.
+*INV:	do you want to look again?
+*CHI:	yeah no.
+*INV:	no?
+*CHI:	let's play a game now.
+@End

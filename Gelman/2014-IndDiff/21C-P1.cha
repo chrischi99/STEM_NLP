@@ -1,0 +1,273 @@
+@UTF8
+@PID:	11312/a-00032088-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.28|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Pilot
+@Types:	cross, narrative, TD
+*MOT:	do you have any idea what this is?
+*CHI:	a, a airplane.
+*MOT:	you're right.
+*MOT:	I thought you were going to need a hint (be)cause when we drove by there today and the airplane did you see the airplane landing?
+*MOT:	what's that guy?
+*CHI:	pilot.
+*MOT:	and what are these?
+*CHI:	buttons.
+*MOT:	what kind of buttons what do you think they do?
+*CHI:	make the airplane fly.
+*MOT:	yeah?
+*MOT:	um, remember the other day when you were sitting in your car seat
+	and you said you didn't want to grow up and get out of your car seat
+	because you wouldn't have the control button anymore?
+*MOT:	what do you have when you grow up?
+*CHI:	&=points:buttons_on_airplane.
+*MOT:	buttons like that?
+*MOT:	in your car?
+*CHI:	&=nods:yes.
+*MOT:	could you be a pilot?
+*CHI:	&=shakes:head_no.
+*MOT:	why not?
+*CHI:	incredible.
+*MOT:	oh you're going to be an Incredible.
+*MOT:	does do they have control panels?
+*CHI:	in the airplane.
+*MOT:	&=nods in the rocket right?
+*CHI:	oh yeah.
+@G:	Witch
+*MOT:	what's that?
+*CHI:	a witch.
+*MOT:	a witch.
+*MOT:	um what holiday but don't say Easter does the witch show up?
+*MOT:	christmas?
+*CHI:	&=shakes:head_no.
+*MOT:	can you remember?
+*CHI:	halloween.
+*MOT:	right.
+*MOT:	um, what was I going to ask you about the witch?
+*MOT:	are they real?
+*CHI:	mm-mm [= no] &=shakes:head_no.
+*MOT:	okay what's that?
+*CHI:	a bat.
+*MOT:	right.
+*MOT:	what's she riding on?
+*CHI:	a broom.
+*MOT:	what else can you use a broom for besides flying?
+*CHI:	a vacuum cleaner.
+*MOT:	a vacuum cleaner.
+*MOT:	can you really fly on a broom?
+*CHI:	&=shakes:head_no.
+*MOT:	do you remember the book we read called The_Witches_Grocery_Store where all the witches flew out of their brooms?
+*CHI:	yeah yeah yeah.
+*MOT:	yeah that was a good story.
+@G:	Popcorn
+*MOT:	okay what's this?
+*MOT:	what is this?
+*MOT:	put that down [= CHI is playing with toy again].
+*CHI:	popcorn with cereal.
+*MOT:	popcorn with cereal?
+*MOT:	it does look like it have it has something mixed in.
+*MOT:	do you like popcorn?
+*CHI:	no [?].
+*MOT:	you know what we're going to have to take that back to her unless
+	you're gonna put it down.
+*MOT:	that is the rule.
+*CHI:	xxx.
+*MOT:	okay you'll have plenty of time to play afterwards.
+@G:	Lobster
+*MOT:	do you know what that is?
+*CHI:	a lobster.
+*MOT:	have you ever had lobster?
+*CHI:	&=shakes:head_no.
+*MOT:	has Daddy?
+*CHI:	&=nods:yes.
+*MOT:	oh someone's at the door
+	[= RA comes in and takes one toy. CHI keeps another in his pocket].
+*MOT:	okay let's go back to the lobster.
+*MOT:	where do they live?
+*CHI:	ocean.
+*MOT:	right but where have we seen them when we went shopping do you remember?
+*CHI:	grocery store.
+*MOT:	right.
+*MOT:	um, why would people want to buy one at the grocery store?
+*MOT:	what would they do with it?
+*MOT:	do you ⌈do you remember the night Mommy had one⌉?
+*CHI:	cut    ⌊it⌋.
+*CHI:	&=nod:yes.
+*MOT:	and what did we see on tv that day?
+*MOT:	do you remember?
+*CHI:	&=shakes:head_no.
+*MOT:	on Max_and_Ruby?
+*CHI:	a lobster?
+*MOT:	yeah there was a toy lobster.
+@G:	Clown
+*MOT:	what's that?
+*CHI:	a clown.
+*MOT:	a clown.
+*MOT:	what's he doing?
+*CHI:	putting his, fingers in his ear.
+*MOT:	I wonder why?
+*CHI:	they itch?
+*MOT:	&=laughs maybe he does have an itch.
+*MOT:	why is he dressed like that?
+*CHI:	supposed to be funny.
+*MOT:	is it funny?
+*CHI:	mm-mm [= no].
+*MOT:	&=laughs you don't think it's funny?
+*CHI:	mm-mm [= no].
+*MOT:	maybe something's loud.
+*MOT:	would that be another reason to put your fingers in your ears?
+*MOT:	oh I know when we went to the circus when you were little what was so loud right at the end?
+*CHI:	&=makes:launching_noise.
+*MOT:	what does &=makes:launching_noise what does that mean?
+*CHI:	um shoot the guy out the cannon.
+*MOT:	that's right when they shot the guy out the cannon.
+*MOT:	maybe that's why he has his ears plugged.
+@G:	Orange
+*MOT:	what's that?
+*CHI:	an orange.
+*MOT:	would you ever eat one of those?
+*CHI:	mm-hm [= yes].
+*MOT:	you will?
+*CHI:	only when I'm a big kid.
+*MOT:	oh how big is big?
+*CHI:	as big as my head.
+*MOT:	but how big will you be when you try one?
+*CHI:	forty.
+*MOT:	is this a vegetable or a fruit do you know?
+*CHI:	a fruit.
+*MOT:	that's right.
+*MOT:	name a fruit that you will eat.
+*CHI:	carrots.
+*MOT:	that's a vegetable.
+*MOT:	what'd you have this morning and Daddy kept trying to steal them?
+*MOT:	strawberries.
+@G:	Cake
+*MOT:	okay are you getting bored?
+*MOT:	what's that a picture of?
+*CHI:	cake.
+*MOT:	what kind?
+*CHI:	chocolate.
+*MOT:	would you eat that?
+*CHI:	no.
+*MOT:	when do people have cake?
+*MOT:	for breakfast?
+*CHI:	a birthday party.
+*MOT:	how old are you going to be on your next birthday?
+*CHI:	nine.
+*MOT:	ha ha ha.
+@G:	Penguin
+*MOT:	here's a nice picture of a polar bear.
+*CHI:	penguin.
+*MOT:	it's a penguin.
+*MOT:	why did I say polar bear?
+*CHI:	he looks white.
+*MOT:	where do they both live?
+*CHI:	in the same place.
+*MOT:	which is where?
+*CHI:	in Michigan.
+*MOT:	in Michigan?
+*CHI:	in snow places.
+*MOT:	snow places?
+*MOT:	there's one place in Michigan where they have penguins and polar
+	bears.
+*MOT:	do you know where that would be?
+*MOT:	we could go there and we pay money and then, we would bring baby
+	Firstname ⌈maybe in a wagon⌉.
+*CHI:	oh it's the same ⌊where⌋.
+*CHI:	it's the same um xxx but I don't see [?] xxx <coming to it> [?]
+	winter?
+*MOT:	well yeah in winter that was it's snowy but if we went to the
+	[= whispers] zoo, we could see a penguin.
+*MOT:	they have great penguins at the zoo.
+@G:	Horse
+*MOT:	what's that?
+*CHI:	a horse.
+*CHI:	I'm getting bored.
+*MOT:	&=laughs.
+*CHI:	I'm knocking on the window.
+*MOT:	it's just a mirror.
+@G:	Broccoli
+*MOT:	okay what's ⌈this⌉?
+*CHI:	            ⌊no⌋.
+*MOT:	here's ⌈your favorite food⌉.
+*CHI:	no the other pe the other person there's another person on the other
+	     ⌊side⌋.
+*MOT:	you think so?
+*CHI:	&=nod:yes.
+*MOT:	what's this?
+*CHI:	broccoli.
+*CHI:	I'm gonna knock on the window.
+*MOT:	no we're not going to knock on the window until we are finished and
+	we have a few more pages to go.
+@G:	Cereal
+*MOT:	what's that?
+*CHI:	barbeque chips.
+*MOT:	&=laughs it's not barbeque chips but I bet you wish it was barbeque
+	chips.
+*MOT:	it's cornflakes.
+@G:	Elephant
+*MOT:	what's that?
+*CHI:	elephant.
+*MOT:	where could you find an elephant in Michigan?
+*CHI:	zoo.
+*MOT:	very good.
+*MOT:	can you sit up straight?
+@G:	Alligator
+*CHI:	I know where I could find a crocodile.
+*MOT:	where?
+*CHI:	in the zoo.
+*MOT:	and in our basement with all of your pirate stuff.
+*CHI:	&=shakes:head_no.
+*MOT:	would it be a real crocodile though?
+*CHI:	mm-mm [= no].
+*MOT:	would you like to see a crocodile some day?
+*CHI:	yeah a real one.
+*MOT:	do you remember, ⌈do you remember when we went to Mexico⌉?
+*CHI:	not in the       ⌊zoo⌋.
+*MOT:	were there crocodiles that lived in the swamp there?
+*CHI:	crocodiles?
+*MOT:	&=nods we just didn't see any.
+@G:	Teacher
+*MOT:	what's that?
+*CHI:	a teacher.
+*MOT:	do you love teachers?
+*CHI:	mm &=shakes:head_no.
+*MOT:	who's your favorite teacher?
+*CHI:	mm &=points:to_picture.
+*MOT:	her?
+*MOT:	what's her name?
+*CHI:	Tiffany.
+*MOT:	Tiffany?
+*MOT:	I thought so.
+*CHI:	&=laughs.
+@G:	Football Player
+*CHI:	a baseball boy.
+*MOT:	is that a baseball?
+*CHI:	&=laughs no.
+*MOT:	and is it a boy?
+*CHI:	yeah.
+*MOT:	it could be.
+*MOT:	it's a boy with long hair then.
+*CHI:	xxx girl.
+*MOT:	what's this kid's number?
+*CHI:	fourteen.
+*MOT:	why would it be fourteen?
+*CHI:	I dunno.
+*MOT:	what number does she have on her shirt?
+*CHI:	a three and a zero.
+*MOT:	right, oh three.
+*MOT:	that means she is number three.
+*MOT:	you know that is the last page.
+*MOT:	do you want to look at the book some more or do you want to be all done?
+*CHI:	last page.
+*MOT:	okay.
+*CHI:	now I'm knock on the window.
+*MOT:	wait wait wait I have a question for you.
+*MOT:	did you like this book?
+*CHI:	&=shakes:head_no.
+*MOT:	what's your favorite book we've ever read?
+*MOT:	you may knock on the window.
+@End

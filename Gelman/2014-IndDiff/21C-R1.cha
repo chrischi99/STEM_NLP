@@ -1,0 +1,146 @@
+@UTF8
+@PID:	11312/a-00032090-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.02|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Cookie
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a cookie.
+*INV:	what more can you tell me?
+*CHI:	uh chocolate [?] chips in it.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh, I don't think anything else.
+*INV:	okay.
+*INV:	want to try another one?
+@G:	Turtle
+*INV:	what is this?
+*CHI:	a turtle.
+*INV:	what more can you tell me?
+*CHI:	it has a tail, claws and a face and a big shell.
+*INV:	mm.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	it's in China.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it's soft.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	it has a crib.
+*INV:	mm.
+*CHI:	and animals.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I know one and I didn't see under here.
+@G:	Duck
+*INV:	what is this?
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	it has legs a tail and legs and a face.
+*CHI:	and what's that a nose?
+*INV:	you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I'm flipping the page over.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	holes in it.
+*INV:	what else can you tell me?
+*CHI:	uh, mouse eat it.
+*CHI:	it has sides.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a doctor.
+*INV:	what more can you tell me?
+*CHI:	it has a remote control to the pillow so when you push the red button the pillow turns in place.
+*INV:	mm.
+*INV:	&=laughs:with_child.
+*INV:	what else can you tell me?
+*CHI:	it has a face.
+*CHI:	a face doctor.
+*CHI:	and he has a doctor <with him> [?].
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a baseball man.
+*INV:	what more can you tell me?
+*CHI:	it has a bat a hat shoes a leg, and a shirt.
+*INV:	what else can you tell me?
+*CHI:	I don't see any more stuff.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	it has a fre broccoli on it and a big long sword.
+*INV:	what else can you tell me?
+*CHI:	uh, I don't think anything else.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	what more can you tell me?
+*CHI:	it has spots in it.
+*INV:	what else can you tell me?
+*CHI:	it plays in the mud.
+*CHI:	it has a pink tail.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a puppy.
+*INV:	what more can you tell me?
+*CHI:	uh it has a leg a leg xxx a eye a eye a nose a head.
+*INV:	what else can you tell me?
+*CHI:	a tail.
+@G:	Pirate
+*CHI:	woah.
+*INV:	what is this?
+*CHI:	a pirate.
+*INV:	what more can you tell me?
+*CHI:	he has a parrot a peg leg a treasure and a bottle of rum.
+*INV:	what else ⌈can you tell⌉?
+*CHI:	eye       ⌊patch⌋.
+*CHI:	bandana.
+*INV:	what else can you tell me?
+*CHI:	treasure.
+*CHI:	a treasure chest.
+@G:	Banana
+*INV:	what is this?
+*CHI:	a banana.
+*INV:	what more can you tell me?
+*CHI:	you peel it off.
+*CHI:	and you eat the banana inside.
+*INV:	what else can you tell me?
+*CHI:	it has a xxx and nothing else.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a painter.
+*INV:	what more can you tell me?
+*CHI:	it paint it paint anything.
+*INV:	what else can you tell me?
+*CHI:	it has xxx rocks and a tree a lady and I know that I don't know.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	a ladybug.
+*INV:	what more can you tell me?
+*CHI:	it has a huge head a huge body legs, an eyeball.
+*INV:	what else can you tell me?
+*CHI:	has two eyeballs spots and nothing else.
+*CHI:	and nothing else.
+*INV:	do you want to look again.
+*CHI:	&=shakes:head_no.
+*INV:	do we want to put Zorg to sleep?
+*CHI:	yeah.
+*INV:	back in the box?
+*INV:	do you want to put him back in?
+*INV:	well thank you very much for doing that with me.
+*INV:	that was so much fun.
+@End

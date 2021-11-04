@@ -1,0 +1,221 @@
+@UTF8
+@PID:	11312/a-00032176-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|MOT|||||Mother|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Baseball Player
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*MOT:	okay this is a baseball player.
+*MOT:	looks like he's at bat, ⌈ready for the ball to come his way⌉.
+*INV:	                        ⌊mm-hm [= yes]⌋.
+*INV:	what more can you tell me?
+*MOT:	um he's got a blue uniform on.
+*MOT:	can't tell what team he plays for but, must be a, team that wears blue.
+*MOT:	uh, ⌈not much else⌉.
+*INV:	can you say a little bit ⌊more⌋?
+*MOT:	um looks like maybe the light's shining on him (be)cause there's shadow.
+*MOT:	he looks like a good strong baseball player.
+*INV:	okay.
+*MOT:	&=checks:if_ok_to_turn.
+*INV:	&=nods.
+@G:	Turtle
+*INV:	what is this?
+*MOT:	there's a turtle.
+*INV:	what more can you tell me?
+*MOT:	he has a shell with red, maybe a little bit of yellow on it.
+*MOT:	his head's got yellow on it.
+*MOT:	he looks like he's lookin(g) around comin(g) out of his shell.
+*MOT:	walkin(g) around.
+*INV:	can you tell me a little bit more?
+*MOT:	mm, that's about it.
+*MOT:	not much more to say.
+*MOT:	turtles are usually shy and he's, looks like he's out lookin(g) around for a minute so.
+*INV:	okay.
+@G:	Ladybug
+*INV:	what is this?
+*MOT:	this is a ladybug.
+*INV:	what else can you tell me?
+*MOT:	um it is, typical ladybug with a red shell with black um spots on it.
+*MOT:	looks like it's just crawlin(g) around.
+*INV:	can you tell me anything else?
+*MOT:	um doesn't look like it's one of those biting ladybugs that I've
+	been seeing lately.
+*MOT:	we don't talk about at home.
+*MOT:	no all ladybugs are friendly.
+@G:	Carrot
+*INV:	what is this?
+*MOT:	this is a carrot.
+*INV:	go ahead and say a little bit more.
+*MOT:	um looks like a long skinny carrot.
+*MOT:	um with the green still on it.
+*MOT:	looks like it might've been, freshly pulled from the garden.
+*INV:	mm-hm [= yes].
+*MOT:	never grow carrots that look like that in our garden.
+*MOT:	they're all shorter and more crooked.
+*INV:	can you tell me a little bit more?
+*MOT:	mm that's about it.
+*MOT:	carrots are good for you.
+*MOT:	keep you from they're Vitamin A I think it is?
+*INV:	hm.
+*MOT:	so, <that's it> [?].
+*INV:	mkay [= okay].
+@G:	Pirate
+*MOT:	mm pirate.
+*INV:	what more can you tell me?
+*MOT:	(it)'s got a peg leg and a parrot.
+*MOT:	and a bottle of wine.
+*MOT:	treasure chest.
+*INV:	anything else you want to tell me?
+*MOT:	um, that's about it.
+*MOT:	looks like a [?] happy pirate.
+*INV:	oh.
+*MOT:	eye patch.
+@G:	Doctor
+*MOT:	        ⌈oh⌉.
+*INV:	what is ⌊this⌋?
+*MOT:	this looks like a sick little girl and her doctor.
+*INV:	what more can you tell me?
+*MOT:	looks like she has a broken arm or something wrong with her arm.
+*MOT:	and the doctor's looking at her chart, reading about her.
+*INV:	can you say a little bit more?
+*MOT:	mm she looks a little bit sad.
+*MOT:	doctor looks like she's trying to be nice.
+@G:	Cookie
+*INV:	what is this?
+*MOT:	this is a cookie.
+*INV:	what more can you tell me?
+*MOT:	it looks like it's broken.
+*INV:	            ⌈mm-hm⌉ [= yes].
+*MOT:	none of it's really missing but it's kinda broken in two, or almost
+	broken in ⌊two⌋.
+*INV:	can you say a little bit more?
+*MOT:	looks like chocolate chip cookie I think.
+*INV:	hm.
+@G:	Cheese
+*INV:	what is this?
+*MOT:	oh it's cheese.
+*INV:	what more can you tell me?
+*MOT:	looks like swiss cheese.
+*MOT:	which is um, kind of cheese often you'll see it in stores in a big round thing and then they cut, pie shaped wedges of it.
+*INV:	can you tell me more?
+*MOT:	it's kind of a good cheese.
+*MOT:	kids usually like it so that, that's good for us.
+*MOT:	and that's about it.
+*INV:	okay.
+@G:	Painter
+*INV:	what is this?
+*MOT:	this is an artist.
+*MOT:	painting a picture.
+*INV:	what more can you tell me?
+*MOT:	looks like she's she's painting a picture from a picture rather than, being outside painting from real life.
+*INV:	can you tell me a little bit more?
+*MOT:	yeah she looks like she's been painting a lot (be)cause she's got a, lot of paint on her smock there.
+*MOT:	that's about it.
+*MOT:	it's ya know good picture she put in added some background in there.
+*MOT:	it's a good picture of that tree.
+*INV:	hm.
+@G:	Bread
+*INV:	what is this?
+*MOT:	this is a loaf of bread.
+*INV:	mm-hm [= yes].
+*MOT:	looks like wheat bread maybe.
+*MOT:	it's not all white inside.
+*MOT:	there's one slice taken off of it.
+*INV:	what more can you tell me?
+*MOT:	mm, not much looks looks kind of um, symmetrical so it's probably
+	not like homemade bread it's ⌈all nice and⌉, very well shaped.
+*INV:	                             ⌊mm⌋.
+*INV:	anything else you want to tell me?
+*MOT:	that's it.
+*INV:	okay.
+@G:	Duck
+*MOT:	mm that's a duck.
+*INV:	mm-hm [= yes].
+*MOT:	looks like I think that's a male duck that has the green head.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*MOT:	um, it's a pretty duck it's got blue on its wing and a brown chest a white belly, couple white feathers a little curl back there.
+*MOT:	yellow beak.
+*INV:	can you say a little bit more?
+*MOT:	mm, it's got, I dunno orange feet.
+*MOT:	looks like, a nice duck.
+*MOT:	doesn't look like it's upset about anything.
+*INV:	hm.
+@G:	Puppy
+*INV:	what is this?
+*MOT:	looks like a puppy.
+*INV:	mm-hm [= yes].
+*MOT:	it's brown.
+*MOT:	brown puppy.
+*MOT:	doesn't can't really tell what kind it is might be just, kind of a mix.
+*INV:	hm.
+*INV:	what more can you tell me?
+*MOT:	it's cute.
+*MOT:	looks like it's probably friendly but all puppies seem kinda friendly.
+*INV:	can you tell me anything else?
+*MOT:	mm, yeah [?] no that's about it.
+*MOT:	not much, else to say.
+*MOT:	medium length hair.
+*MOT:	could be a big dog someday.
+*INV:	mm.
+*INV:	okay.
+@G:	Banana
+*INV:	what is this?
+*MOT:	that's a banana.
+*INV:	mm-hm [= yes].
+*MOT:	looks like a good banana.
+*MOT:	it's half peeled.
+*MOT:	it's not all green and it's not all brown so it looks like just the right ripeness.
+*INV:	what more can you tell me?
+*MOT:	um no bites taken out of it.
+*MOT:	so it looks um, ready to eat.
+*INV:	mm.
+*INV:	can you say a little bit more?
+*MOT:	mm, (that)'s about it.
+*MOT:	just a banana.
+*INV:	okay.
+@G:	Baby
+*INV:	what is this?
+*MOT:	aw that's a baby.
+*INV:	mm-hm [= yes].
+*MOT:	cute little baby.
+*MOT:	looks like a happy little baby.
+*INV:	hm.
+*INV:	what more can you tell me?
+*MOT:	um, (it)'s got a couple stuffed animals.
+*MOT:	looks like it's, maybe in a crib or something.
+*MOT:	uh a star sheet.
+*MOT:	hard to tell whether it's a girl or a boy.
+*MOT:	you can never tell with babies that age.
+*INV:	can you tell me more?
+*MOT:	um, yeah it looks I can't tell how old it is.
+*MOT:	I've lost track of how old babies look.
+*MOT:	looks like it's probably like, five or six weeks old.
+*INV:	hm.
+*MOT:	(it)'s cute.
+*INV:	mm-hm [= yes].
+*INV:	(o)kay.
+@G:	Pig
+*INV:	what is this?
+*MOT:	a pig.
+*INV:	what more can you tell me?
+*MOT:	um, looks like a medium sized pig.
+*INV:	mm-hm [= yes].
+*MOT:	it's pinkish with brown, spots.
+*INV:	mm-hm [= yes].
+*MOT:	it's looking down.
+*MOT:	looks like a female pig maybe just had some piglets.
+*INV:	can you say a little bit more?
+*MOT:	um just looks like a classic pig curly tail and, little snout.
+*MOT:	cute.
+*INV:	hm.
+*INV:	okay.
+*MOT:	that's it.
+*MOT:	and it's the last one.
+*INV:	great.
+*INV:	thank you very much for doing that with me.
+@End

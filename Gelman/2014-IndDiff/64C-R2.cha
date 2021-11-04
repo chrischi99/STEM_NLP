@@ -1,0 +1,166 @@
+@UTF8
+@PID:	11312/a-00032349-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.16|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Baseball Player
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a baseball player.
+*CHI:	it hits.
+*INV:	what else can you tell me?
+*CHI:	mm, a baseball player hits the ball.
+*CHI:	even harder [?].
+@G:	Duck
+*INV:	  ⌈what is⌉?
+*CHI:	a ⌊duck⌋.
+*INV:	what more can you tell me?
+*CHI:	mm, a duck goes quack quack quack.
+*CHI:	and it moves its feet when he um, wants to go in the water.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm, it's a daddy duck and a daddy duck moves his feet.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	a baby goes +...
+*CHI:	a baby um, a baby, um, cries when he's um, when they're hungry and then when they're not hungry they don't cry anymore.
+@G:	Banana
+*CHI:	a banana.
+*CHI:	my favorite.
+*INV:	what more can you tell me?
+*CHI:	a banana is a treat that you bite.
+*CHI:	and it's really soft, on your teeth.
+*CHI:	even I have loose tooth.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, a banana is, um, a vegetable.
+*CHI:	like, a fruit I mean.
+*CHI:	that is really good and sweet.
+*INV:	mm.
+@G:	Cheese
+*INV:	what is +...
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	cheese is a mouse and a rats favorite.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um cheese is um really good for you.
+*CHI:	and I really like the squares one because um, it's really good.
+*INV:	mm.
+*CHI:	with ketchup [?].
+*INV:	mm.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a doctor's appointment.
+*INV:	what more can you tell me?
+*CHI:	uh when someone's sick they can do the doctor's.
+*CHI:	they can go to the doctor's appointment.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, when you feel really sick then you just go to the doctor's appointment.
+@G:	Puppy
+*CHI:	dog.
+*INV:	what more can you tell me?
+*CHI:	even I have a big dog but it's just pretend.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm, <a> [?] dog, um, barks at, something else and tries to get
+	something.
+@G:	Cookie
+*CHI:	this is a cookie.
+*INV:	what more can you tell me?
+*CHI:	um a cookie, leaves crumbs out.
+*CHI:	and if you bites it it's really good.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	it's um, a carrot.
+*INV:	what more can you tell me?
+*CHI:	um a carrot, you can eat.
+*CHI:	but it's a rabbit carrot but it's good to eat.
+*CHI:	even I love carrots.
+*CHI:	I always bite on this side.
+*CHI:	but not right here because my loose tooth is.
+@G:	Painter
+*CHI:	I like this one.
+*INV:	what is this?
+*CHI:	um, a paint, thing.
+*CHI:	a painting.
+*CHI:	a paint girl.
+*CHI:	and she paints um, a lot of stuff.
+*INV:	what more can you tell me?
+*CHI:	um, they put it on here and then they start painting.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, first you paint this side and then you paint the other side.
+*INV:	mm.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	we saw a turtle in our yard before.
+*INV:	what more can you tell me?
+*CHI:	the turtle lives in the sea.
+*CHI:	and it lays eggs.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, only when you see one you think um you wanna keep (th)em.
+*CHI:	but you can't because you don't have any water in your house.
+*INV:	mm.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	um, it's um, it's a ladybug.
+*CHI:	and ladybugs um, look really xxx.
+*CHI:	but only when they want to fly they open these parts.
+*CHI:	and then their wings come out and they can fly.
+*INV:	mm what else can you tell me?
+*CHI:	it's really hard to see his eyes because his head's really small.
+*CHI:	even I saw his eyes before.
+*CHI:	but it was this part instead.
+*INV:	mm.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	a pirate.
+*CHI:	he found his treasure.
+*INV:	what more can you tell me?
+*CHI:	um, the pirate is mean and it keeps you.
+*CHI:	and then, um if it wants you they put you into a treasure.
+*CHI:	and turn you into gold.
+*INV:	mm.
+@G:	Pig
+*INV:	what is this?
+*CHI:	a pig.
+*CHI:	a pig goes oink oink oink.
+*INV:	what more can you tell me?
+*CHI:	um pig do's that.
+*CHI:	a pig um, like, makes milk like cows.
+*CHI:	and um, little babies drink out of here.
+@G:	Bread
+*INV:	what is this?
+*CHI:	a piece of bread.
+*INV:	what more can you tell me?
+*CHI:	a piece of bread is really good.
+*CHI:	even Firstname likes a piece of bread.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, a brea-bread is for good.
+*CHI:	like even I like, butter on bread.
+*CHI:	and peanut and peanut butter jelly on it.
+*INV:	mm.
+*CHI:	I like it that way.
+*INV:	mm.
+*CHI:	and it's good because Firstname always likes it and I don't like bread.
+*INV:	mm.
+*CHI:	but only when there's stuff on it I like it.
+*INV:	mm.
+*CHI:	all done.
+*INV:	all done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay.
+*INV:	do we want to put Zorg back into his box?
+*INV:	great thank you.
+*INV:	that was a lot of fun.
+@End

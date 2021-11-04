@@ -1,0 +1,197 @@
+@UTF8
+@PID:	11312/a-00032288-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.12|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Banana
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	banana.
+*INV:	what more can you tell me?
+*CHI:	we can eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	peel it.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	um, pirate and treasure.
+*INV:	what more can you tell me?
+*CHI:	uh parrot.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	got, xxx.
+*CHI:	xxx.
+*INV:	anything else you can say?
+*CHI:	mm-mm [= no], (be)cause I'm kinda sick today.
+*INV:	oh.
+*INV:	do you want to blow your nose?
+*INV:	there's some Kleenex right there.
+*CHI:	I already blowed my nose when my mommy and me were looking at a book, together.
+*CHI:	but I don't know where those  pe- people were looking at us.
+*CHI:	don't know where.
+*INV:	mm.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	cookie.
+*INV:	what more can you tell me?
+*CHI:	we can eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	eat it.
+*INV:	what else can you tell us?
+*CHI:	&=shrugs.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	ladybug.
+*INV:	what more can you tell me?
+*CHI:	it can fly.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	walk.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	doctor.
+*INV:	what more can you tell me?
+*CHI:	a girl laying on the bed.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	he's checking her &=points:picture.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	mm we can eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	cut it.
+@G:	Pig
+*INV:	what is this?
+*CHI:	piggy.
+*INV:	what more can you tell me?
+*CHI:	you can even make milk, for the babies.
+*CHI:	like a cow can make milk.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and it can walk.
+*CHI:	like a dog.
+*INV:	mm.
+*CHI:	and a cow.
+*CHI:	and a ladybug.
+*INV:	&=nods:head_yes.
+@G:	Cheese
+*INV:	⌈what is⌉ +...
+*CHI:	⌊cheese⌋ &=skips:page.
+@G:	Duck
+*INV:	what is this &=turns:page_back?
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	mm it can float in the water.
+*INV:	what more can you te +...
+*CHI:	I need to scoot up &=scoots:in_chair.
+*INV:	you okay?
+*CHI:	yeah.
+*INV:	⌈alright⌉.
+*CHI:	⌊okay⌋.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	mm it can go in the water and get some food.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	we can eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	mm, a mouse can go in it.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	carrot.
+*INV:	what more can you tell me?
+*CHI:	we can eat it and cut it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	we can take this part out &=points:picture.
+*CHI:	and then cut it in slices.
+*INV:	mm.
+*CHI:	and put them in a pie.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	a man.
+*INV:	what more can you tell me?
+*CHI:	he's playing baseball.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about ⌈this one⌉.
+*CHI:	                           ⌊mm⌋, he's hitting the ball.
+@G:	Painter
+*INV:	what is this?
+*CHI:	lady painting something.
+*INV:	what more can you tell me?
+*CHI:	um, it's a tree.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	mm, leafs [?].
+*CHI:	and look at the picture.
+*CHI:	no leafs [?].
+*INV:	mm.
+*CHI:	even, I don't know where the people are looking at us.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	mm turtle.
+*INV:	what more can you tell me?
+*CHI:	it can go in the water and swim.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it can go in the sun [?].
+*CHI:	and it can even walk.
+@G:	Puppy
+*INV:	⌈wh⌉ +...
+*CHI:	⌊doggy⌋.
+*INV:	what more can you tell me?
+*CHI:	mm, it can walk.
+*CHI:	and &=sniffs smell the other dogs.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it can drink from its mother.
+*CHI:	and that, and my mom tells I was pretending to be a mama dog.
+*INV:	oh.
+*CHI:	and at the other book there was a snake and I'm scared of snakes.
+*INV:	mm.
+*INV:	anything more you'd like to say?
+*CHI:	&=shakes:head_no.
+*INV:	okay.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	uh doggy by, it's a doggy by him.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	rabbit by him.
+*CHI:	and you know this little cute boy his name's Firstname.
+*CHI:	he's getting so big.
+*CHI:	and his mom is named Firstname.
+*INV:	mm.
+*CHI:	and she always has one pigtail in her hair.
+*INV:	mm.
+*CHI:	like you do.
+*INV:	mm.
+*INV:	anything else you'd like to say?
+*CHI:	mm-mm [= no].
+*INV:	okay.
+*INV:	would you like to look again?
+*CHI:	no.
+*INV:	okay ⌈well thank⌉ +...
+*CHI:	(be)cause I ⌊got⌋ +...
+*INV:	thank you very ⌈much for doing that with me⌉.
+*CHI:	               ⌊ant⌋- there's a ant in him [= Zorg].
+*INV:	oh you're right.
+*INV:	ah I wonder how that got there.
+*CHI:	me too.
+*CHI:	hm &=puts:Zorg_in_box.
+*INV:	goodnight Zorg.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

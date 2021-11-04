@@ -1,0 +1,475 @@
+@UTF8
+@PID:	11312/a-00031980-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.28|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Frog
+@Types:	cross, narrative, TD
+*MOT:	do you want to read this book?
+*CHI:	frog.
+*MOT:	xxx Firstname [?]?
+*CHI:	frog.
+*MOT:	&=shuts:book &=looks:cover this is first.
+*MOT:	this says Things_in_our_World.
+*MOT:	yeah xxx &=opens:book.
+*CHI:	&=closes:book &=looks:cover mom?
+*CHI:	xxx?
+*MOT:	book a@l.
+*CHI:	book a@l.
+*MOT:	okay.
+*MOT:	what is this?
+*CHI:	frog.
+*MOT:	yeah.
+*MOT:	what do you think of the frogs?
+*MOT:	do they jump very high?
+*MOT:	or?
+*CHI:	firstname told me that some, Firstname my friend Firstname told me that some frogs can jump all the way up to space!
+*MOT:	up to space?
+*MOT:	I don't think so they can go that high.
+@G:	Weightlifter
+*MOT:	what is this?
+*CHI:	Hercules.
+*MOT:	Hercules?
+*MOT:	has big, because of, why do you think he's Hercules?
+*CHI:	big muscles.
+*MOT:	because big muscles.
+*MOT:	hm what is this &=points:weights?
+*CHI:	lift it up &=demonstrates.
+*MOT:	oh lift?
+*MOT:	he's weight lifting?
+*CHI:	&=turns:page.
+*MOT:	&=turns:back.
+*MOT:	do you think xxx do you think it's heavy or not heavy?
+*CHI:	heavy.
+*MOT:	very heavy.
+@G:	Milk
+*MOT:	what ⌈is this⌉?
+*CHI:	     ⌊milk⌋!
+*MOT:	think it's milk, ⌈or water⌉?
+*CHI:	                 ⌊&=nods:yes⌋.
+*CHI:	it's milk.
+*MOT:	or just a glass?
+*CHI:	milk.
+*MOT:	oh it has milk inside.
+*MOT:	why do you think it has milk?
+*CHI:	&=points:milk.
+*MOT:	why?
+*CHI:	to drink &=demonstrates.
+*MOT:	hm but why do you think it's milk instead of water?
+*MOT:	or just a glass?
+*MOT:	do you think it's a.
+*CHI:	it's white.
+*MOT:	because it is white okay.
+@G:	Pretzel
+*CHI:	pretzels &=pretends:eat_pretzels.
+*MOT:	pretzels.
+*MOT:	do you like pretzels?
+*MOT:	are they for food to eat like a snack or.
+*CHI:	eat.
+*MOT:	&=gasps to eat.
+*MOT:	do you like pretzels?
+*CHI:	&=nods:yes.
+*MOT:	hm?
+*MOT:	what shape is this pretzel?
+*CHI:	zz⌈zz &=traces:pretzel⌉.
+*MOT:	  ⌊what⌋ kind of shape do you think it is?
+*MOT:	is that a square?
+*CHI:	a face &=laughs?
+*MOT:	no &=laughs.
+*MOT:	do you think it's a square?
+*CHI:	a circle?
+*MOT:	a circle?
+*MOT:	no maybe not.
+*CHI:	a heart!
+*MOT:	a heart yes.
+@G:	Farmer
+*MOT:	what is this?
+*MOT:	what do you think she's doing?
+*CHI:	she's a +...
+*MOT:	<don't say it> [?] like a baby like a big boy.
+*MOT:	(be)cause +...
+*CHI:	I don't know.
+*MOT:	you don't know?
+*CHI:	&=turns:page.
+*MOT:	&=turns:page_back well, we we need to know [?] xxx what [?] do you
+	know what do you think that this have?
+*MOT:	what is this?
+*CHI:	potato.
+*MOT:	hm.
+*CHI:	pumpkin!
+*MOT:	pumpkin.
+*MOT:	what are those?
+*CHI:	potatoes.
+*MOT:	you think they are potatoes or tomatoes?
+*CHI:	tomato ⌈potato⌉.
+*MOT:	       ⌊tomatoes⌋.
+*MOT:	oh those are like potatoes.
+*MOT:	okay.
+*MOT:	what about, do you think that th- she has lettuce in those?
+*CHI:	yeah lettuce ⌈lettuce lettuce lettuce⌉.
+*MOT:	lettuce,     ⌊hm⌋.
+*MOT:	what do you think she is at?
+*MOT:	in her house on a farm or ⌈or in the city⌉?
+*CHI:	                          ⌊oohooh⌋ plants they're plants.
+*MOT:	but what do you think she is here?
+*MOT:	what is she's xxx?
+*CHI:	in the farm.
+*MOT:	&=nods:yes in the farm.
+*MOT:	so she's picking up the what?
+*MOT:	the vegetables?
+*CHI:	uh-huh [= yes].
+@G:	Owl
+*MOT:	hm.
+*CHI:	owl.
+*MOT:	it's an owl.
+*MOT:	what do you think of this?
+*CHI:	claws.
+*MOT:	claws?
+*MOT:	what color is this?
+*CHI:	white [?] [= static].
+*MOT:	xxx what color xxx his eyes [= static]?
+*CHI:	yellow and black.
+*MOT:	yellow and black oh.
+*MOT:	do you like owls?
+*CHI:	&=nods:yes.
+*MOT:	what is the sound they make?
+*CHI:	whoo ⌈whoo whoo whoo⌉.
+*MOT:	     ⌊whoo⌋ mm.
+*MOT:	do they sleep at night or do do they ⌈sleep at during the day⌉?
+*CHI:	xxx I'm                              ⌊done⌋ &=tries:close_book.
+*MOT:	but you're not done yet ⌈you know they want they want us to see the
+	whole pictures &=turns:pages we can see and then we'll be done and
+	then you can play okay⌉?
+*MOT:	we're almost done!
+*CHI:	                        ⌊I⌋ want to be done!
+*MOT:	look at this &=flips:pages.
+*MOT:	                          ⌈we're almost done⌉!
+*CHI:	I'm tired of reading this ⌊story⌋.
+@G:	Corn
+*MOT:	what is that?
+*MOT:	real quick?
+*CHI:	I'm tired of reading the story.
+*MOT:	you're tired of reading the story?
+*CHI:	&=nods:yes.
+*MOT:	but you know what?
+*MOT:	they need to do a study about this so they would like us to see all
+	these pictures and then because they need to make write some paper
+	+...
+*CHI:	corn!
+*MOT:	corn!
+*MOT:	do you like to eat corn or not?
+*CHI:	&=eating.
+*MOT:	is that, mm is that yummy?
+*MOT:	what color is the corn?
+*CHI:	yellow.
+*MOT:	mm.
+*CHI:	orange black.
+*MOT:	that's some corn.
+*MOT:	is that ready to eat or not [= about corn]?
+*CHI:	⌈no⌉.
+*MOT:	⌊no⌋ not yet no (be)cause it's not cooked.
+@G:	Lion
+*MOT:	okay what is this?
+*CHI:	lion &=makes:lion_noise!
+*MOT:	oh my ear that is so scary!
+*MOT:	where do you find the lions?
+*CHI:	jungle.
+*MOT:	in the jungle!
+*MOT:	what is the first letter for lion?
+*CHI:	l@l.
+*MOT:	l@l okay.
+*MOT:	is this a baby lion or not?
+*CHI:	no.
+*MOT:	no it's a big lion.
+*CHI:	no a baby lion ⌈won't have mane⌉.
+*MOT:	               ⌊&=nods:yes⌋ oh you're right.
+*CHI:	baby lion won't have mane.
+*MOT:	how many feet he has?
+*CHI:	four.
+*MOT:	four.
+*MOT:	<he looks> [?] xxx feet huh?
+@G:	King
+*CHI:	king!
+*MOT:	it's a king!
+*MOT:	because, why do you think it's a king?
+*CHI:	&=points:crown.
+*MOT:	he has a crown?
+*CHI:	&=nods:yes.
+*MOT:	what else?
+*CHI:	hm.
+*MOT:	what is he doing what do you think he's doing here?
+*CHI:	smoking.
+*MOT:	he's smoking.
+*MOT:	hm.
+*MOT:	what else?
+*MOT:	is he a happy king?
+*MOT:	or sad?
+*CHI:	angry.
+*MOT:	angry?
+*MOT:	hm.
+*CHI:	kings are angry.
+*MOT:	not really.
+*MOT:	some, he looks kinda happy don't you think?
+*CHI:	no kings +...
+*MOT:	why <do you think> [?] +...
+*CHI:	look at his eyes.
+*MOT:	why do you think kings are angry?
+*CHI:	his eyes are like &=makes:face.
+*MOT:	&=makes:face this?
+*CHI:	&=nods:yes.
+*MOT:	hm okay.
+*MOT:	so maybe he's not a happy king.
+*MOT:	do you think that all the kings are angry?
+*CHI:	&=nods:yes.
+*MOT:	not all of them.
+*MOT:	there's some very nice +...
+*CHI:	no there's just one king.
+*MOT:	just one king okay.
+*MOT:	and a queen, sometimes?
+*CHI:	yeah.
+*MOT:	what is this?
+*CHI:	actually there's always a king and queen.
+*MOT:	oh okay.
+*MOT:	always there's a queen with a king okay.
+@G:	Rabbit
+*MOT:	what is this?
+*CHI:	bunny.
+*MOT:	a bunny.
+*MOT:	what color is bunny?
+*CHI:	brown white.
+*MOT:	and white.
+*MOT:	what about the ears?
+*CHI:	brown.
+*MOT:	brown.
+*MOT:	are they kinda long or short?
+*CHI:	short.
+*MOT:	short hm?
+*CHI:	medium.
+*MOT:	kind of medium not too long okay.
+*MOT:	what are the whiskers?
+*MOT:	whiskers [= with accent] or whiskers [= with different accent]?
+*CHI:	whiskers [= no accent].
+*MOT:	whiskers [= no accent] oh I forgot the name.
+*CHI:	here are the whiskers.
+*MOT:	there are the whiskers.
+*MOT:	do you know what xxx uh bunnies eat?
+*CHI:	carrots.
+*MOT:	carrots.
+*MOT:	very good Firstname.
+@G:	Strawberry
+*MOT:	&=gasps what is this?
+*MOT:	⌈something that you like to eat xxx the strawberry⌉.
+*CHI:	⌊strawberry⌋ strawberry.
+*CHI:	&=laughs yeah.
+*MOT:	what is the first letter for strawberry?
+*CHI:	s@l.
+*MOT:	s@l.
+*MOT:	and what are these?
+*CHI:	leaves.
+*MOT:	leaves.
+*MOT:	and what color is the strawberry?
+*CHI:	red.
+*MOT:	red.
+*CHI:	when you're not ready to eat them they're green.
+*MOT:	they're green when they're not ready to eat ⌈yes⌉.
+*CHI:	                                            ⌊yeah⌋.
+*MOT:	you're right.
+@G:	Surfer
+*MOT:	&=gasps what is this guy doing?
+*CHI:	he's surfing.
+*MOT:	he's surfing.
+*MOT:	where?
+*CHI:	&=pretends:surf.
+*MOT:	where [?] do you think he's surfing?
+*MOT:	is he surfing on <the ground> [?] <is he surfing on the> [?].
+*CHI:	water!
+*MOT:	in the water.
+*MOT:	wow.
+*CHI:	it's just that you can't surf in the ground.
+*MOT:	no why?
+*CHI:	it doesn't work.
+*MOT:	it doesn't work in the ground ⌈because the <ground's not wet> [?]⌉?
+*CHI:	yeah,                         ⌊there⌋ in the water there's a big wave that the surf board
+	can go shoo &=pretends:surf.
+*MOT:	wow that is so cool.
+*CHI:	up and then shoo &=pretends:surf.
+*MOT:	why do you think they have their ar arms up like ⌈ this ⌉  +...
+*CHI:	                                                 ⌊surfing⌋ is fun.
+*MOT:	surfing is fun?
+*CHI:	for balance.
+*MOT:	oh for balance okay.
+*MOT:	what color is the water?
+*CHI:	blue.
+*MOT:	and the, what is this called?
+*CHI:	surfboard.
+*CHI:	surfboard.
+*MOT:	oh the surfboard.
+*CHI:	it's red.
+*MOT:	it's red.
+*MOT:	kind of pink red?
+*MOT:	pinkish?
+*CHI:	yeah.
+*MOT:	yeah okay.
+*CHI:	no pink actually pink is light red.
+*MOT:	oh kinda light red.
+@G:	Snake
+*MOT:	what is this?
+*MOT:	oh do you think you remember ⌈what this is⌉?
+*CHI:	it's a                       ⌊cobra⌋!
+*MOT:	do you think it's a cobra?
+*CHI:	yeah.
+*MOT:	are they very nice or are they dangerous?
+*CHI:	they're dangerous.
+*MOT:	hm.
+*MOT:	and do you like the [?] snakes?
+*CHI:	and cobras, cobras mouths are bigger than rattlesnakes' mouths.
+*MOT:	why do you think it's that?
+*CHI:	because when I saw it on the on the animal planet a co- the cobra's mouth was was bigger than the rattlesnake's mouths.
+*MOT:	oh okay.
+*CHI:	and the cobra snake bited a rattlesnake.
+*MOT:	oh really [?].
+*CHI:	rattlesnakes are evil too.
+*MOT:	&=laughs what are the colors?
+*MOT:	look at the lines.
+*CHI:	oh.
+*MOT:	is that a really long cobra?
+*CHI:	yeah.
+*MOT:	mkay [= okay].
+*MOT:	what do th- they eat?
+*MOT:	do you know what do they eat?
+*CHI:	people.
+*MOT:	people?
+*CHI:	they eat snakes and snakes eat snakes.
+*MOT:	sometimes yes.
+*CHI:	yeah sometimes they eat snakes.
+*MOT:	what about the mice?
+*CHI:	&=nods:yes.
+*MOT:	mice too?
+*CHI:	they eat all the animals actually.
+*MOT:	⌈well some of them not all of them⌉.
+*CHI:	⌊and⌋ they eat all the people.
+*CHI:	they eat all kinds of animals.
+*MOT:	oh okay.
+*MOT:	you're right.
+@G:	Police Officer
+*MOT:	what is this?
+*CHI:	it's +...
+*MOT:	I don't know you can +...
+*CHI:	a police woman!
+*MOT:	a police woman.
+*MOT:	is, what is she doing do you think?
+*MOT:	what is she doing with this?
+*MOT:	what is that?
+*CHI:	she's ⌈ I don't know⌉.
+*MOT:	      ⌊what⌋ is she using there?
+*MOT:	do you think it's a rad- what a radio or?
+*CHI:	oh yeah!
+*MOT:	what do you think it is?
+*CHI:	I don't know.
+*MOT:	you think it's a radio?
+*MOT:	xxx okay.
+*CHI:	xxx.
+*MOT:	do you think she's she's calling another ⌈police officer⌉?
+*CHI:	                                         ⌊ow⌋ &=leans:chair_back!
+*MOT:	she's calling for help?
+*MOT:	what do you think?
+*CHI:	no I don't know.
+*MOT:	why?
+*CHI:	policemens never need help.
+*MOT:	they need help sometimes ⌈from another police department [?] help to
+	help them⌉.
+*CHI:	no,                      ⌊no⌋ a police helps ⌈ helps a person⌉.
+*MOT:	                                             ⌊people⌋.
+*MOT:	yes.
+*CHI:	yes.
+*CHI:	no a police supposed not to help the police it's supposed to help the police.
+*MOT:	&=laughs to help the other people?
+*CHI:	it's supposed to help the police fight the other bad guy.
+*MOT:	but you know they can help people too.
+*MOT:	so they call for somebody else another police man to come to help them.
+*CHI:	&=makes:noise ah boom!
+*MOT:	is that okay?
+*MOT:	what is this?
+*CHI:	light.
+*MOT:	light like the sirens maybe ⌈ to make noise⌉?
+*CHI:	                            ⌊sirens⌋!
+*MOT:	yes.
+*MOT:	what do you think is this?
+*CHI:	badge.
+*MOT:	it's a badge.
+*MOT:	and what about that?
+*CHI:	hat.
+*MOT:	a hat.
+*CHI:	badge.
+*MOT:	mm-hm [= yes] there's another badge there.
+*MOT:	what is this he has there?
+*CHI:	belt.
+*MOT:	and what do you think that police woman has that um in her belt sometimes.
+*MOT:	what does she hold there?
+*CHI:	um handcuffs and these are the keys.
+*MOT:	oh the keys sometimes.
+*MOT:	what else?
+*MOT:	that's it?
+*MOT:	okay.
+@G:	Pie
+*MOT:	&=gasps what is that?
+*CHI:	pie.
+*MOT:	a pie.
+*MOT:	do you like pie?
+*CHI:	&=nods:yes.
+*MOT:	yes what kind of +...
+*CHI:	no.
+*MOT:	no you don't like pie?
+*MOT:	what kind of pie do you think it is?
+*CHI:	     ⌈apple pie⌉.
+*MOT:	what ⌊kind⌋ of fruit is it?
+*MOT:	seems like an apple pie.
+*CHI:	it's orange pie.
+*MOT:	oh it's orange pie.
+*MOT:	so do you think apples are orange?
+*CHI:	no!
+*MOT:	no?
+*MOT:	so do you think is orange?
+*MOT:	what kind of fruit?
+*CHI:	orange.
+*MOT:	oranges?
+*MOT:	or maybe what else?
+*MOT:	could be peaches?
+*CHI:	     ⌈&=laughs no⌉.
+*MOT:	some ⌊peach⌋ pie maybe?
+*CHI:	yeah it's a peach pie.
+*MOT:	yeah because look at the slices there.
+*CHI:	yeah there's no such thing as regular pie &=laughs.
+*MOT:	&=laughs.
+*MOT:	what do you think is this?
+*MOT:	what kinda, what do you call this?
+*CHI:	I don't know.
+*MOT:	maybe lines?
+*CHI:	&=makes:noises.
+*MOT:	squares like nice shapes like little squares huh?
+*CHI:	no.
+*MOT:	no?
+*CHI:	they're just making holes.
+*MOT:	oh what kind of shape is this [= about pie]?
+*CHI:	they just put those there so the food won't fall out
+	[= about crust].
+*MOT:	oh you're right.
+*MOT:	xxx don't come out right.
+*CHI:	yeah like &=makes:exploding_gestures boom!
+*MOT:	okay.
+*MOT:	what kind of shape is a pie Firstname?
+*MOT:	we're almost finished!
+*MOT:	it's the last one!
+*MOT:	what kind of shape is this?
+*MOT:	is that is is this this a square?
+*CHI:	no circle!
+*MOT:	       ⌈it's a circle⌉?
+*CHI:	it's a ⌊circle⌋!
+*MOT:	oh okay.
+*MOT:	&=closes:book.
+*MOT:	well thank you so much for this [?].
+*MOT:	xxx [= to self] +...
+@End

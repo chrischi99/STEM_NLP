@@ -1,0 +1,197 @@
+@UTF8
+@PID:	11312/a-00032066-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;07.31|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Skunk
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a fox.
+*INV:	what more can you tell me?
+*CHI:	foxes have, stinky sprays to protect themself.
+*INV:	mm.
+*CHI:	they have black and white feathers.
+*INV:	mm-hm [= yes].
+*CHI:	and a nose to smell and <then they breathe at the same time stunk> [?].
+*INV:	hm.
+*CHI:	and they have four legs like every other animal.
+*CHI:	and that's it.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm no.
+*INV:	no okay.
+@G:	Cat
+*INV:	what is this?
+*CHI:	meow, cat.
+*INV:	what more can you tell me?
+*CHI:	meow meow.
+*CHI:	meow meow.
+*CHI:	they meow meow.
+*INV:	mm-hm [= yes].
+*CHI:	and they have four legs like each animal and a tail.
+*CHI:	and eyes that can see in the night.
+*CHI:	and ears like bunnies.
+*CHI:	and toes.
+*CHI:	and that's it.
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	a pineapple.
+*INV:	what more can you tell me?
+*CHI:	it pokes you.
+*INV:	mm-hm [= yes].
+*CHI:	and it has leafs that are prickly too.
+*CHI:	and that's it.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a graham cracker.
+*INV:	what more can you tell me?
+*CHI:	they have holes and they're <a rectangle> [?].
+*INV:	mm-hm [= yes].
+*CHI:	and that's ⌈it⌉.
+*INV:	what more can you tell ⌊Zorg⌋?
+*INV:	he doesn't know much about this one.
+*CHI:	it has corners.
+*INV:	mm-hm [= yes].
+*CHI:	and that's it.
+@G:	Butterfly
+*CHI:	butterfly.
+*INV:	what more can you tell me?
+*CHI:	they have long wings like, birds.
+*CHI:	they have antennas and eyes.
+*CHI:	and feathers and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	xxx and that's it.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	a fireman.
+*CHI:	he has a hose and a big ladder and smoke.
+*CHI:	and that's it.
+*INV:	what more can you tell me?
+*CHI:	they have a hat and that's it.
+*INV:	you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and they have a special suit and boots.
+*CHI:	and that's it.
+@G:	Old Woman
+*INV:	what is this?
+*CHI:	um a teacher.
+*INV:	what more can you tell me?
+*CHI:	it has three necklaces.
+*CHI:	and a belt and pants and shoes and a walking stick.
+*CHI:	and an eyes and glasses and nose and mouth and hair and that's it.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	no.
+*INV:	hm?
+*CHI:	no.
+@G:	Ice Cream
+*CHI:	ice cream cone.
+*INV:	what more can you tell me?
+*CHI:	it has a cone and ice cream and that's it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	nothing.
+*INV:	anything else you can tell me?
+*CHI:	it has diamonds.
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	dolphin.
+*INV:	what more can you tell me?
+*CHI:	it's black and white bottom.
+*CHI:	it has a long nose, and eyes, and two legs.
+*CHI:	and the spout is how it breathes.
+*CHI:	and uh I think that looks like a shark and a fin.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	no.
+*INV:	please?
+*CHI:	no.
+*INV:	well what else can you tell me?
+*CHI:	it has eyes.
+*CHI:	and a fin.
+*CHI:	and it goes round and round.
+*INV:	do you want to turn the page?
+*CHI:	no.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	what more can you tell me?
+*CHI:	it's on a perch and it's yellow green, blue and and purple.
+*CHI:	and it has eyes and a beak and that's it.
+*INV:	what else can you tell me?
+*CHI:	nothing.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	ah nothing.
+*INV:	come on what else can you tell me?
+*CHI:	it has hair and arms.
+*CHI:	and feet and that's it.
+*INV:	mm-hm [= yes].
+*INV:	what more?
+*CHI:	and eyes and mouth.
+*CHI:	that's it.
+*INV:	do you want a Kleenex?
+*CHI:	yes.
+*INV:	yeah.
+*CHI:	&=blows:nose.
+*INV:	you okay?
+@G:	Muffin
+*INV:	what is this?
+*CHI:	muffin.
+*INV:	what more can you tell me?
+*CHI:	it has a cup and fur ⌈and raspberries and that's it⌉.
+*INV:	                     ⌊mm-hm [= yes]⌋.
+*INV:	what else can you tell me?
+*CHI:	nothing.
+*INV:	tell me just a little bit more.
+*CHI:	it's brown.
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	it's orange and it has a stem and it has stripes and that's it.
+*INV:	what else can you tell me?
+*CHI:	nothing.
+*CHI:	it's orange.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	um a racecar player.
+*INV:	&=gasps what more can you tell me?
+*CHI:	it has a car and wheels just like our car.
+*INV:	mm-hm [= yes].
+*CHI:	and that's it.
+*INV:	go on and tell me a little bit more.
+*CHI:	it has people just like us.
+*CHI:	and that's it.
+@G:	Judge
+*INV:	&=gasps what is this?
+*CHI:	a principal.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell me?
+*CHI:	it has glasses and a suit and eyes and mouth and ears and hair and a book and a desk.
+*CHI:	and that's it.
+*INV:	what else can you tell me?
+*CHI:	nothing.
+*INV:	come on tell me a little bit more.
+*CHI:	and a marker.
+*INV:	hm?
+*CHI:	a marker.
+*INV:	that's it do you want to look again?
+*CHI:	no.
+*INV:	no.
+*INV:	do you want to put Zorg to sleep back into his bed?
+*CHI:	no.
+*INV:	back into his box?
+*CHI:	no.
+*INV:	you just want to leave him out?
+*CHI:	yes.
+*INV:	okay well we're all done.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

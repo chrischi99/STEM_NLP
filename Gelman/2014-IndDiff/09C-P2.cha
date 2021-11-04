@@ -1,0 +1,301 @@
+@UTF8
+@PID:	11312/a-00032017-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;02.10|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Popcorn
+@Types:	cross, narrative, TD
+*MOT:	oh.
+*CHI:	&=whispers what is that?
+*MOT:	do you know what that is?
+*CHI:	popcorn.
+*MOT:	yeah, mm yum.
+*CHI:	yeah.
+@G:	Orange
+*CHI:	an orange.
+*MOT:	yep.
+@G:	Clown
+*CHI:	clown.
+*CHI:	he's so funny.
+*MOT:	&=laughs.
+@G:	Cereal
+*CHI:	look oh, cereal.
+*MOT:	oh cereal.
+@G:	Football Player
+*CHI:	a football player.
+@G:	Teacher
+*CHI:	a teacher.
+@G:	Cake
+*CHI:	cake.
+*MOT:	aha.
+*MOT:	chocolate frosting.
+*CHI:	yeah.
+@G:	Penguin
+*CHI:	oh a penguin.
+*MOT:	mm-hm [= yes].
+@G:	Witch
+*CHI:	a witch.
+*MOT:	mm-hm [= yes].
+*CHI:	she's bad.
+@G:	Elephant
+*CHI:	elephant.
+@G:	Lobster
+*CHI:	lobster.
+@G:	Broccoli
+*CHI:	broccoli.
+@G:	Pilot
+*CHI:	librarian.
+*MOT:	a ⌈librarian⌉?
+*CHI:	  ⌊this [?]⌋ +...
+*CHI:	this one.
+*MOT:	oh that could be a librarian.
+*MOT:	it, kinda looks like a pilot too maybe.
+*CHI:	yeah it is a pilot.
+*CHI:	pilot.
+@G:	Alligator
+*CHI:	crocodile.
+*CHI:	oh he's scary.
+*MOT:	mm-hm [= yes].
+@G:	Horse
+*CHI:	horse.
+*MOT:	&=flips:last_page.
+*CHI:	that's all.
+*CHI:	                   ⌈which one was your favorite⌉?
+*MOT:	you knew all those ⌊pictures⌋.
+*MOT:	which one was my favorite?
+*CHI:	yeah.
+*MOT:	&=flips:pages.
+*MOT:	hm.
+*MOT:	hm.
+@G:	Witch
+*MOT:	&=flips:pages.
+*CHI:	the witch?
+*MOT:	no.
+@G:	Popcorn
+*MOT:	I think maybe the popcorn is my favorite.
+*MOT:	yeah the popcorn's my favorite.
+*MOT:	what's your favorite?
+*CHI:	well my favorite is the popcorn.
+*MOT:	&=flips:pages.
+@G:	Orange
+*CHI:	the orange.
+@G:	Clown
+*CHI:	the clown.
+*CHI:	&=whispers xxx.
+@G:	Cereal
+*CHI:	the cereal.
+*MOT:	who's your favorite?
+*CHI:	the uh lemme see.
+@G:	Football Player
+*CHI:	and that one is my favorite too.
+@G:	Teacher
+*CHI:	even that one.
+*MOT:	the teacher?
+@G:	Cake
+*CHI:	and that one.
+@G:	Penguin
+*CHI:	and that one.
+@G:	Witch
+*CHI:	and that one.
+@G:	Elephant
+*CHI:	and that one.
+@G:	Lobster
+*CHI:	and that one.
+*MOT:	no.
+@G:	Broccoli
+*CHI:	and that one.
+*MOT:	         ⌈broccoli⌉?
+@G:	Pilot
+*CHI:	and that ⌊one⌋.
+@G:	Broccoli
+*MOT:	         ⌈I didn't think you liked broccoli⌉.
+*CHI:	and that ⌊one⌋.
+@G:	Horse
+*CHI:	and that one.
+*CHI:	and that one.
+*MOT:	&=MOT flips to last page.
+@G:	Broccoli
+*CHI:	and that one.
+*MOT:	I didn't think you liked broccoli.
+*CHI:	I do.
+*MOT:	you do?
+*MOT:	oh okay.
+*MOT:	&=flips:popcorn_picture.
+*MOT:	let's see.
+*MOT:	so what one do you like best of all?
+*MOT:	if you could only pick one which one would you pick?
+@G:	Cake
+*CHI:	the, ⌈chocoloate⌉.
+*MOT:	     ⌊I⌋ knew &=laughs.
+*CHI:	chocolate ⌈cake⌉ &=laughs.
+*MOT:	          ⌊I⌋ knew you were gonna say that one.
+*CHI:	&=CHI:and:MOT:laugh.
+*CHI:	no which one, one is, your which one is your really best favorite?
+@G:	Popcorn
+*MOT:	I say the popcorn's my best favorite.
+*CHI:	no ⌈really really really really best⌉ ⌈favorite⌉.
+*MOT:	that sounds ⌊good⌋.
+@G:	Cake
+*MOT:	                                      ⌊maybe⌋ the chocolate cake too.
+@G:	Penguin
+*CHI:	no actually the penguin.
+*MOT:	you think the penguin's my favorite?
+*CHI:	uh-huh [= yes].
+*MOT:	                               ⌈ah⌉.
+*CHI:	(be)cause he's black and white ⌊picture⌋.
+*CHI:	&=whispers he's pretty looking.
+*MOT:	he is pretty looking.
+*CHI:	yeah.
+*MOT:	let's look at (th)em once more.
+*MOT:	let's see if we can find something think of something special about each picture.
+*CHI:	uh-huh [= yes].
+@G:	Popcorn
+*MOT:	can you think of anything special about popcorn?
+*CHI:	it cooks in a popcorn machine.
+*MOT:	yeah it does.
+*MOT:	pretty yummy isn't it?
+*CHI:	yeah it's pretty +...
+*MOT:	get that when we go to the movies right?
+*CHI:	right.
+@G:	Orange
+*CHI:	oh an orange.
+*CHI:	we have those at home.
+*MOT:	yeah those are good aren't they?
+*CHI:	they're really good.
+@G:	Clown
+*CHI:	oh he's, we see him in at a circus.
+*MOT:	uh-huh [= yes] what's he doing with his fingers?
+*CHI:	putting them in his ears.
+*MOT:	why do you think he's doing that?
+*CHI:	to make a funny.
+*MOT:	to make it funny?
+*CHI:	uh-huh [= yes].
+*MOT:	or maybe it's noisy?
+*MOT:	you think it's noisy?
+*MOT:	maybe there's a cannon somewhere that's gonna shoot?
+*CHI:	mm.
+*MOT:	you know how sometimes they shoot those cannons at the circus?
+*CHI:	yeah look there's a, cannon shooter thing.
+*MOT:	could be a cannon shooter thing.
+*MOT:	&=turns:page.
+*CHI:	&=passes:gas &=laughs.
+*MOT:	excuse me.
+*MOT:	firstname &=laughs.
+*MOT:	oh my, what do you say?
+*CHI:	excuse me excuse me excuse me.
+*MOT:	yeah, three times wow.
+*CHI:	&=laughs ⌈excuse me⌉.
+@G:	Cereal
+*MOT:	what's special about the ⌊cereal⌋?
+*CHI:	we have that at home.
+*MOT:	do you like cereal?
+*CHI:	&=nods:yes.
+*MOT:	yeah.
+*CHI:	yeah.
+@G:	Football Player
+*MOT:	how (a)bout that?
+*MOT:	what's special about that?
+*CHI:	um, that's a Michigan football.
+*MOT:	it's a Michigan football.
+*MOT:	yeah it's blue isn't it?
+*CHI:	                   ⌈uh-huh [= yes]⌉.
+*MOT:	what number on the ⌊shirt⌋?
+*CHI:	thirteen.
+*MOT:	nope zero ⌈I think⌉.
+*CHI:	          ⌊zero⌋.
+*MOT:	zero ⌈three⌉.
+*CHI:	zero ⌊three⌋.
+*CHI:	what number's that?
+*MOT:	three number three.
+*CHI:	                                 ⌈three⌉.
+*MOT:	zero three they just call number ⌊three⌋.
+*CHI:	that's number ⌈three⌉.
+*MOT:	football looks kinda ⌊little⌋.
+*CHI:	mm-hm [= yes].
+@G:	Teacher
+*CHI:	                         ⌈tea⌉.
+*MOT:	what is that's a what is ⌊that⌋?
+*CHI:	um she looks like Firstname only she has longer hair.
+*MOT:	yeah.
+*MOT:	does Firstname always, dress like that?
+*CHI:	                              ⌈no &=laughs⌉.
+*MOT:	no &=laughs I don't think she ⌊does⌋.
+@G:	Cake
+*CHI:	mm oh.
+*MOT:	that looks good.
+*CHI:	yeah we we have that mix at home.
+@G:	Penguin
+*CHI:	oh that is Antarctic arctic world.
+*MOT:	yeah, is the penguins the ones that sing the Antarctica song?
+*CHI:	yeah.
+@G:	Witch
+*CHI:	oh that's on Halloween.
+*MOT:	yep.
+*CHI:	he dress up sometimes someone dresses up like that.
+*MOT:	yeah.
+@G:	Elephant
+*CHI:	oh, oh that's at the zoo.
+*MOT:	mm-hm [= yes].
+@G:	Lobster
+*CHI:	um that's in the water.
+*MOT:	mm-hm [= yes].
+*MOT:	at Meijer's, right?
+*MOT:	we sometimes look at the lobsters?
+*CHI:	uh-huh [= yes].
+@G:	Broccoli
+*CHI:	oh broccoli.
+*MOT:	I like broccoli.
+*MOT:	do you like broccoli?
+*CHI:	so yeah cause sometimes it's at Firstname's house.
+*MOT:	oh.
+@G:	Pilot
+*CHI:	oh that one's on an airplane.
+*MOT:	mm-hm [= yes].
+*MOT:	when are we going on an airplane?
+*CHI:	&=shrugs.
+*MOT:	pretty soon ⌈right⌉?
+*CHI:	            ⌊yeah⌋.
+*MOT:	where we going on the airplane?
+*CHI:	camp Michigania.
+*MOT:	no not on an airplane.
+*MOT:	what are we doing before we go to Camp_Michigania?
+*CHI:	going on an airplane.
+*MOT:	to see.
+*CHI:	&=shrugs.
+*MOT:	to Utah remember?
+*CHI:	right.
+*MOT:	yeah.
+@G:	Alligator
+*CHI:	look.
+*CHI:	oh crocodiles.
+*MOT:	lot a sharp teeth in the crocodile's mouth huh?
+*MOT:	I wouldn't ⌈want him to bite me⌉.
+*CHI:	           ⌊yeah⌋.
+*CHI:	guess what.
+*MOT:	what?
+*CHI:	um there's a story book on the Lion_King some crocodiles don't, nice crocodiles open their mouths and didn't swallow, little blue bluebirds and open their mouths mouth again and the bluebirds flew out.
+*MOT:	oh.
+@G:	Horse
+*CHI:	oh hm, oh yeah that's a farm.
+*MOT:	mm-hm [= yes].
+*CHI:	that's looks like a ⌈farm <to me> [?]⌉.
+*MOT:	yeah at Camp_Michigania they have (th)em ⌊too⌋.
+*CHI:	                                             ⌈mm-hm [= yes]⌉.
+*MOT:	any other things you wanna talk about in the ⌊book⌋?
+*CHI:	uh another book.
+*MOT:	uh well we gotta just we only have this book.
+*MOT:	any more you wanna look at this book or talk about this book?
+*CHI:	uh, is there any more pictures?
+*MOT:	no it's just those pictures.
+*MOT:	so if you're done if you don't wanna look at these anymore we'll knock on the window and tell (th)em we're all ready.
+*CHI:	okay.
+*MOT:	you wanna knock on the window?
+*CHI:	oh if if we knock on on here?
+*CHI:	           ⌈and⌉.
+*MOT:	yeah knock ⌊knock⌋.
+*CHI:	hey they hey if they can see us through here then they must have X-ray vision.
+*MOT:	I know cool huh?
+@End

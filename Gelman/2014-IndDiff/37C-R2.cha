@@ -1,0 +1,301 @@
+@UTF8
+@PID:	11312/a-00032187-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.21|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Parrot
+@Types:	cross, narrative, TD
+*CHI:	it's a bird.
+*INV:	what more can you tell me?
+*CHI:	it's a parrot.
+*INV:	mm-hm [= yes] .
+*CHI:	and, it looks like it's looking for food.
+*INV:	mm-hm [= yes].
+*CHI:	that's all that I know.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	hm.
+*CHI:	it can fly.
+*INV:	mm.
+*CHI:	it can hold on to sticks.
+*INV:	mm-hm [= yes].
+*CHI:	that's all that I think I know.
+*INV:	okay.
+*CHI:	can I turn the page?
+*INV:	mm-hm [= yes].
+@G:	Firefighter
+*CHI:	a fireman.
+*CHI:	I'm gonna be one of those when I grow up.
+*INV:	mm.
+*CHI:	yeah.
+*INV:	what more can you tell me?
+*CHI:	hm um, the uh ladders can go up.
+*INV:	mm-hm [= yes].
+*CHI:	and, they can drive.
+*CHI:	that's all that I know.
+*INV:	anything else you wanna tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	yeah okay.
+*CHI:	he did can blow out fires.
+*INV:	mm.
+*CHI:	and they have hose.
+*CHI:	that's all that I know.
+*INV:	okay.
+@G:	Skunk
+*INV:	what is this?
+*CHI:	a stinky one.
+*CHI:	that's a skunk.
+*INV:	what more can you tell me?
+*CHI:	it's stinky.
+*INV:	mm-hm [= yes].
+*CHI:	yep.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	hm.
+*CHI:	and it can walk around and smell and eat and hear.
+*INV:	mm.
+*CHI:	that's all that I know.
+*INV:	okay.
+*CHI:	turn the page?
+*INV:	alright.
+@G:	Judge
+*CHI:	the president.
+*INV:	mm, what more can you tell me?
+*CHI:	I don't know, what they do.
+*CHI:	but it can hear.
+*CHI:	it can see.
+*CHI:	they can smell.
+*CHI:	they can eat.
+*CHI:	they can sleep.
+*INV:	hm.
+*CHI:	that's all that I know.
+*INV:	anything else you wanna tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	hm, they sometimes they need glasses.
+*CHI:	and they can read.
+*INV:	mm-hm [= yes].
+*CHI:	that's all that I know.
+*INV:	okay.
+*CHI:	can I turn the page?
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	mm-hm [= yes] what more can you tell me?
+*CHI:	you can eat them.
+*INV:	mm.
+*CHI:	they're healthy.
+*CHI:	and they, taste good.
+*CHI:	that's all and I don't know what else.
+*CHI:	I don't know anything else.
+*INV:	is there anything else you wanna tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	yeah.
+*CHI:	you, it goes down to your throat.
+*INV:	mm.
+*CHI:	that's all that I know.
+*INV:	okay.
+*CHI:	can I turn the page?
+*INV:	mm-hm [= yes].
+@G:	Pineapple
+*INV:	what is this?
+*CHI:	a pineapple.
+*INV:	mm, what more can you tell me?
+*CHI:	they have sharp things on it.
+*INV:	mm-hm [= yes].
+*CHI:	and, they're good to eat.
+*CHI:	and there's, very [?] leaves on it.
+*CHI:	that's all that I know.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much ⌈about this one⌉.
+*CHI:	it goes to your      ⌊throat⌋.
+*INV:	mm.
+*CHI:	and, I don't know anything else.
+*INV:	okay.
+*CHI:	can I turn the page?
+*INV:	mm-hm [= yes] you're doing really well.
+@G:	Butterfly
+*CHI:	hm that's not it &=turns:many_pages.
+@G:	Old Woman
+*CHI:	a lady.
+*CHI:	okay, well they need sometimes they need walking sticks.
+*INV:	mm.
+*CHI:	and they need glasses too.
+*CHI:	and, and they have hair.
+*CHI:	and they can eat smell see.
+*CHI:	and they can, sleep.
+*CHI:	that's all that I know about this picture.
+*INV:	what more can you tell me?
+*CHI:	and she can, like, drive.
+*CHI:	that's all that I know.
+*INV:	okay.
+*CHI:	turn the page?
+*INV:	mm-hm [= yes].
+@G:	Butterfly
+*INV:	what is this?
+*CHI:	a butterfly.
+*INV:	mm.
+*CHI:	they're one of the great bugs.
+*INV:	mm-hm [= yes].
+*CHI:	you know why?
+*INV:	hm?
+*CHI:	because they are all different colors.
+*INV:	oh.
+*CHI:	this ones black white and orange.
+*INV:	mm-hm [= yes], what more can you tell me?
+*CHI:	hm, don't I don't know what.
+*CHI:	I was, they can fly.
+*INV:	mm-hm [= yes].
+*CHI:	and they could hear eat see.
+*CHI:	that's all that I know.
+*CHI:	can I turn the page?
+*INV:	mm-hm [= yes].
+@G:	Pumpkin
+*INV:	what is this?
+*CHI:	a pumpkin.
+*CHI:	it's a funny looking one.
+*INV:	mm.
+*CHI:	you can eat them.
+*INV:	mm-hm [= yes].
+*CHI:	they're good.
+*INV:	mm-hm [= yes].
+*CHI:	but you just can cook the seeds too.
+*INV:	mm what more can you tell me?
+*CHI:	even you can put a candle in.
+*INV:	mm.
+*CHI:	and cut you know what we did with a pumpkin?
+*INV:	hm?
+*CHI:	we cutted holes in it for the eyes and mouth.
+*CHI:	and we put a candle in it.
+*INV:	mm.
+*CHI:	um from Halloween.
+*INV:	mm.
+*CHI:	at our old house.
+*INV:	oh.
+*INV:	anything else you wanna tell Zorg?
+*CHI:	I don't know.
+*CHI:	could I turn the page?
+*INV:	mm-hm [= yes].
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	ice cream.
+*INV:	mm, what more can you tell me?
+*CHI:	you can make (th)em.
+*INV:	mm-hm [= yes].
+*CHI:	and they're good to eat.
+*CHI:	just not for your teeth and they're not healthy.
+*INV:	mm.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	can I turn the page?
+*INV:	is there anything else you wanna tell Zorg?
+*CHI:	I don't know.
+*INV:	mm.
+*CHI:	did we start on these?
+*INV:	we've done all of these, pages.
+*CHI:	okay.
+*CHI:	can I turn the page?
+*INV:	okay.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	a racecar.
+*INV:	mm-hm [= yes].
+*CHI:	and they can race.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	you can drive in (th)em.
+*INV:	mm-hm [= yes].
+*CHI:	that's all that I know.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about +...
+*CHI:	you can win, too.
+*INV:	mm.
+*CHI:	if you do.
+*CHI:	that's all that I know.
+*CHI:	can I turn the page?
+*INV:	mm-hm [= yes].
+@G:	Dolphin
+*INV:	what is this?
+*CHI:	a dolphin.
+*INV:	mm, what more can you tell me?
+*CHI:	they can jump over water.
+*INV:	mm-hm [= yes].
+*CHI:	to get their food and xxx.
+*INV:	mm-hm [= yes].
+*CHI:	and you know, at the beach I saw a dolphin wave at us.
+*INV:	mm-hm [= yes], what more +...
+*CHI:	what?
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	hm, it can jump over water.
+*INV:	mm-hm [= yes].
+*CHI:	it can get food in the water.
+*INV:	mm-hm [= yes].
+*CHI:	that's all that I know.
+*CHI:	it can see smell sleep.
+*CHI:	that's all that I know.
+*CHI:	can I turn the page?
+*INV:	mm-hm [= yes].
+*CHI:	okay.
+@G:	Cat
+*CHI:	okay here it is.
+*CHI:	                 ⌈cat⌉ [?].
+*INV:	&=laughs what is ⌊this⌋?
+*CHI:	a cat.
+*INV:	what more can you tell me?
+*CHI:	it can see smell eat, and go to bed.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	and it can like, go play.
+*CHI:	that's all that I know.
+*CHI:	can I turn the page?
+*INV:	mm-hm [= yes].
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	um it has yellow hair.
+*INV:	mm.
+*CHI:	a black shirt, too.
+*CHI:	and, that &=points:picture.
+*CHI:	and it's standing on one foot.
+*INV:	mm.
+*CHI:	that's all that I know.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	man, I think I can figure out.
+*CHI:	and it has slippers.
+*INV:	mm.
+*CHI:	that's all that I know can I turn the page?
+*INV:	mm-hm [= yes].
+*CHI:	okay.
+@G:	Muffin
+*INV:	what is this?
+*CHI:	a cupcake.
+*CHI:	and this is the last one.
+*INV:	what more can you tell me?
+*CHI:	you can eat them.
+*CHI:	and they have blueberries in it.
+*CHI:	and nuts.
+*CHI:	that's all that I know.
+*CHI:	can I turn the page?
+*INV:	mm what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and they're really good.
+*CHI:	that's all that I know.
+*CHI:	can I turn the page?
+*INV:	alright.
+*CHI:	nothing else.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	no?
+*INV:	do we want to put Zorg back into his home?
+*CHI:	yep.
+*INV:	alright.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

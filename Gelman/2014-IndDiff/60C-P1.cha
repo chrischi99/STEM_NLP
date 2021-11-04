@@ -1,0 +1,314 @@
+@UTF8
+@PID:	11312/a-00032322-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;07.30|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Broccoli
+@Types:	cross, narrative, TD
+*CHI:	broccoli.
+*MOT:	do you like broccoli?
+*CHI:	&=nods:head_yes.
+*MOT:	I do too.
+@G:	Witch
+*CHI:	a witch.
+*MOT:	when does a witch come out?
+*CHI:	at night.
+*MOT:	at night?
+*MOT:	do you think witches come out when we're sleeping?
+*CHI:	&=shakes:head_no.
+*MOT:	how about Halloween?
+*MOT:	that's when we see, pretend witches.
+*MOT:	there's no, there's no witches really.
+@G:	Football Player
+*MOT:	ooh who's this guy?
+*CHI:	a football player.
+*MOT:	what number does he have on him?
+*CHI:	one, I mean a three and a zero.
+*MOT:	what comes first?
+*CHI:	one.
+*MOT:	the zero.
+*CHI:	zero then three.
+*MOT:	what do you think his name is?
+*CHI:	bob.
+*MOT:	bob?
+*CHI:	&=nods:head_yes.
+*MOT:	I think we skipped a picture.
+*MOT:	let's go back.
+@G:	Cake
+*MOT:	&=gasps ⌈ooh⌉.
+*CHI:	        ⌊cake⌋.
+*CHI:	cake.
+*MOT:	what kind of cake is it?
+*MOT:	⌈what k⌉ +...
+*CHI:	⌊chocolate⌋.
+*MOT:	chocolate.
+*MOT:	do you like chocolate?
+*CHI:	&=nods:head_yes.
+*MOT:	I do too.
+*MOT:	I love cake.
+@G:	Football Player
+*MOT:	oop there's that football guy again.
+*CHI:	bob.
+*MOT:	you named him Bob &=laughs?
+@G:	Clown
+*CHI:	everybody knows <what> [?] that is.
+*MOT:	what is that?
+*CHI:	a clown.
+*MOT:	a clown.
+*CHI:	everybody knows that a clown looks like that.
+*MOT:	he's funny.
+*MOT:	he's got lots of col +...
+*MOT:	look at his feet.
+*MOT:	he's got big shoes.
+*MOT:	his legs look kinda short.
+@G:	Popcorn
+*CHI:	everybody knows what that is.
+*MOT:	what is that?
+*CHI:	popcorn.
+*MOT:	no.
+*CHI:	in a bowl.
+*MOT:	I thought it was oatmeal.
+*CHI:	no.
+*MOT:	popcorn in a bowl.
+*MOT:	do you like oatmeal?
+*CHI:	yeah.
+*MOT:	                          ⌈ do you like popcorn⌉?
+@G:	Horse
+*CHI:	everybody knows what that ⌊is⌋.
+*CHI:	it's really easy.
+*MOT:	what is this?
+*CHI:	a donkey.
+*MOT:	a donkey?
+*CHI:	horse.
+*MOT:	it's kind of a funny looking horse.
+*MOT:	it almost does look like a donkey.
+*MOT:	you're right.
+@G:	Cereal
+*CHI:	everybody knows what that is.
+*MOT:	you think everybody knows?
+*MOT:	what is that?
+*CHI:	cereal in a bowl.
+*MOT:	cereal in a bowl.
+*MOT:	what kind of cereal in a bowl is it?
+*CHI:	frosted Flakes.
+*MOT:	frosted Flakes?
+*MOT:	okay.
+@G:	Lobster
+*MOT:	ooh.
+*CHI:	everybody knows what this is.
+*MOT:	what is this?
+*CHI:	lobster.
+*MOT:	it's a lobster?
+*MOT:	what color is he?
+*CHI:	red.
+*MOT:	red.
+*MOT:	okay.
+@G:	Elephant
+*CHI:	elephant.
+*CHI:	brown.
+*MOT:	elephant's brown.
+*MOT:	do you know what these are called?
+*CHI:	hoofs.
+*MOT:	hoofs?
+*MOT:	oh okay.
+@G:	Teacher
+*CHI:	a teacher teaching ⌈xxx⌉.
+*MOT:	a                  ⌊teacher⌋.
+*MOT:	do you like teachers?
+*CHI:	uh huh [= yes].
+@G:	Alligator
+*MOT:	ooh look at this.
+*CHI:	crocodile.
+*MOT:	I think he's an alligator.
+*CHI:	oh yeah it looks like an alligator.
+*MOT:	he's got bumpy skin.
+*MOT:	and he's big.
+@G:	Pilot
+*CHI:	bus driver.
+*MOT:	a bus driver.
+@G:	Orange
+*CHI:	an orange.
+*MOT:	do you like oranges?
+*CHI:	&=nods:head_yes.
+*MOT:	so do I.
+@G:	Penguin
+*CHI:	penguin.
+*MOT:	penguin.
+*MOT:	the end.
+*MOT:	do you want to look at it again?
+*CHI:	&=nods:head_yes.
+*MOT:	okay.
+@G:	Broccoli
+*MOT:	⌈broccoli⌉.
+*CHI:	⌊broccoli⌋.
+*MOT:	what color is broccoli?
+*CHI:	can we talk about the um what color they are now?
+*MOT:	sure.
+*MOT:	what color's broccoli?
+*CHI:	green.
+*MOT:	okay.
+@G:	Witch
+*MOT:	what color is the witch?
+*CHI:	black and green.
+*MOT:	yes.
+*MOT:	does she have a bat flying with her?
+*CHI:	&=nods:head_yes.
+*MOT:	woo.
+@G:	Cake
+*MOT:	what is this again?
+*CHI:	color?
+*MOT:	su- oh what color is this?
+*CHI:	chocolate.
+*MOT:	mm-hm [= filler].
+*CHI:	and vanilla.
+*MOT:	chocolate and vanilla okay.
+@G:	Football Player
+*MOT:	and this guy is.
+*CHI:	blue.
+*CHI:	white.
+*CHI:	white &=points:picture.
+*MOT:	brown, ⌈purple⌉.
+*CHI:	       ⌊brown⌋.
+*CHI:	blue.
+*CHI:	blue.
+*MOT:	and his skin is white.
+*CHI:	white.
+*MOT:	okay.
+@G:	Clown
+*MOT:	and the clown?
+*CHI:	is red.
+*MOT:	he's got lots of colors.
+*CHI:	red.
+*CHI:	polka dots.
+*CHI:	white.
+*CHI:	and yellow.
+*CHI:	and black.
+*CHI:	and green.
+*MOT:	what are these?
+*MOT:	stripes.
+*CHI:	stripes.
+*MOT:	yeah.
+*CHI:	and a holder, ⌈for money⌉.
+*MOT:	              ⌊mm-hm [= filler]⌋.
+*MOT:	a holder for money &=laughs?
+*CHI:	pockets.
+*CHI:	pocket.
+*CHI:	                                                      ⌈xxx⌉.
+*MOT:	his pockets look like they have something in it don't ⌊they⌋?
+*MOT:	they're kinda puffy.
+*CHI:	and a tie, ⌈and⌉ +...
+*MOT:	           ⌊mm-hm [= filler]⌋.
+*MOT:	funny hair huh?
+*CHI:	and fingers ⌈and hair and a hat⌉.
+*MOT:	look it what's in his ⌊hat⌋.
+*MOT:	he's got a flower in his hat.
+*MOT:	do you know what kind of flower that is?
+*CHI:	a daisy.
+*MOT:	very good Firstname.
+*MOT:	I didn't think you were going to know that.
+@G:	Popcorn
+*MOT:	uh think this popcorn has butter on it?
+*CHI:	popcorn.
+*MOT:	yeah.
+*CHI:	and red stuff, in a bowl.
+*MOT:	what what color is the popcorn?
+*CHI:	yellow.
+*MOT:	yellow.
+*CHI:	&=pokes:MOT.
+*MOT:	you little stinker.
+@G:	Horse
+*MOT:	this is the brown +...
+*CHI:	donkey.
+*MOT:	hee haw.
+*MOT:	    ⌈can you make that noise⌉?
+*CHI:	hee ⌊haw⌋.
+*MOT:	            ⌈hee haw⌉.
+*CHI:	hee haw hee ⌊haw⌋.
+@G:	Cereal
+*MOT:	what color is the cereal?
+*CHI:	brown.
+*MOT:	brown.
+*CHI:	and yellow.
+*MOT:	and a yellow bowl?
+*CHI:	&=nods:head_yes.
+@G:	Lobster
+*MOT:	what color is that crab.
+*MOT:	<eat> [?] the claws &=makes:eating_noises.
+*CHI:	remember?
+*MOT:	what color?
+*CHI:	a lobster.
+*MOT:	oh ⌈lobster⌉.
+*CHI:	   ⌊lobster⌋.
+*CHI:	      ⌈red⌉.
+*MOT:	silly ⌊Mom⌋.
+*MOT:	red.
+@G:	Elephant
+*MOT:	and an elephant.
+*CHI:	hoofs and brown.
+*MOT:	he's got hoofs and brown okay.
+@G:	Teacher
+*MOT:	⌈and the teacher⌉.
+*CHI:	⌊teacher⌋.
+*CHI:	pink.
+*CHI:	blue.
+*CHI:	green.
+*CHI:	black.
+*CHI:	book.
+*CHI:	and nails.
+*MOT:	and she has, oh she has nails.
+*MOT:	and she has on a yellow shirt.
+*MOT:	and it looks like her hair's black but it blends right in with the chalkboard.
+*MOT:	isn't that silly?
+@G:	Alligator
+*CHI:	alligator.
+*MOT:	what color was he?
+*CHI:	brown.
+*MOT:	oh okay.
+@G:	Pilot
+*CHI:	bus driver.
+*MOT:	he's got lots of colors too.
+*MOT:	he even has purple in there.
+*CHI:	            ⌈purple⌉.
+*MOT:	and the sky ⌊outside⌋.
+*CHI:	blue.
+*MOT:	red hair.
+*MOT:	that's funny.
+*CHI:	orange.
+*MOT:	orange okay.
+*CHI:	and black.
+*CHI:	and yellow and yellow.
+*MOT:	    ⌈do you think these are the doors⌉?
+*CHI:	and ⌊black⌋.
+*CHI:	they are.
+*MOT:	they are?
+*MOT:	okay.
+@G:	Orange
+*CHI:	orange.
+*MOT:	orange.
+*MOT:	what color is orange?
+*MOT:	orange &=laughs.
+*CHI:	I think we missed a page.
+*MOT:	you think we missed a page?
+*CHI:	I guess we didn't.
+*MOT:	oh okay.
+@G:	Penguin
+*MOT:	the penguin.
+*CHI:	penguin.
+*MOT:	how do penguins walk?
+*MOT:	can you walk like a penguin?
+*CHI:	&=stands:up &=waddles.
+*MOT:	&=laughs you're silly.
+*CHI:	waddle waddle waddle ⌈waddle⌉.
+*MOT:	you know             ⌊what⌋?
+*MOT:	when we're done with this book you know what we get to do?
+*CHI:	what?
+*MOT:	we get to knock on the door.
+*MOT:	would you like to knock on the door?
+*CHI:	&=nods:head_yes.
+*MOT:	that means we're all done with the book.
+*MOT:	okay?
+*MOT:	okay you can do it.
+@End

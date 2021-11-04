@@ -1,0 +1,237 @@
+@UTF8
+@PID:	11312/a-00032178-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;05.26|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Cat
+@Types:	cross, narrative, TD
+*CHI:	well that's a kitty.
+*MOT:	that's a kitty.
+@G:	Judge
+*MOT:	who's this guy?
+*CHI:	um, Mayor xxx  [=  name].
+*MOT:	who?
+*CHI:	xxx [= name].
+*MOT:	what?
+*CHI:	I don't know.
+*MOT:	that's uh um I think he's the judge.
+*CHI:	yeah.
+*MOT:	he looks like a judge okay?
+*MOT:	               ⌈do you know who's a judge⌉?
+*CHI:	&=turns:page.
+*MOT:	&=turns:page_bacl.
+@G:	Cat
+*CHI:	that's a kitty ⌊cat⌋.
+@G:	Judge
+*MOT:	that's just like Judge Firstname.
+*MOT:	you know Firstname and Firstname?
+*MOT:	judge Firstname is a judge.
+@G:	Cat
+*MOT:	who's that?
+*CHI:	kitty.
+*MOT:	kitty.
+*CHI:	&=turns:page.
+@G:	Cracker
+*CHI:	cracker.
+*MOT:	a cracker &=turns:page.
+@G:	Pumpkin
+*CHI:	uh a pumpkin.
+*MOT:	mm-hm [= yes] &=turns:page.
+@G:	Parrot
+*CHI:	a bird.
+*MOT:	what kind of bird is that?
+*CHI:	a tweety bird.
+*MOT:	a tweety bird?
+*MOT:	that's a parrot.
+*CHI:	parrot.
+*MOT:	mm-hm [= yes].
+*CHI:	&=turns:page_with_MOT.
+@G:	Dolphin
+*CHI:	dolphin in water.
+*MOT:	yeah very good &=turns:page.
+@G:	Ice Cream
+*MOT:	you know what that is.
+*CHI:	ice cream cone.
+*MOT:	what flavor?
+*CHI:	strawberry.
+*MOT:	&=laughs mm-hm [= yes] &=flips:page.
+@G:	Race Car Driver
+*CHI:	baseball game.
+*MOT:	no.
+*CHI:	red Sox.
+*MOT:	no &=shakes:head.
+*CHI:	&=shrugs.
+*MOT:	speedy racecar driver?
+*CHI:	speedy racecar driver.
+*MOT:	where's the racecar driver at?
+*CHI:	&=points right here.
+*MOT:	who who else is there?
+*CHI:	um a lot of people.
+*MOT:	a lot of people.
+*CHI:	&=turns:page_together.
+@G:	Skunk
+*MOT:	oh.
+*CHI:	a stunk!
+*MOT:	oh a stunk.
+*CHI:	&=giggles.
+*MOT:	they stink &=turns:page.
+@G:	Ballerina
+*CHI:	ballerina.
+*MOT:	oh that's like you.
+*CHI:	⌈w⌉.
+*MOT:	⌊which⌋?
+*CHI:	I don't have blonde hair.
+*MOT:	&=turns:page.
+@G:	Pineapple
+*CHI:	pineapple.
+*MOT:	a pineapple right.
+*MOT:	is that pineapple layin(g) down right?
+*CHI:	&=nods:head_yes.
+@G:	Firefighter
+*CHI:	a fireman.
+*MOT:	what's he doin(g)?
+*CHI:	rescuing somebody.
+*MOT:	rescuing somebody.
+*CHI:	&=flips:picture.
+*MOT:	what else is he doing?
+*MOT:	wait what wait &=flips:back.
+*MOT:	what else is he doing?
+*CHI:	he's spayring water.
+*MOT:	yeah to do what?
+*CHI:	to get the fire unhot.
+*MOT:	unhot okay.
+@G:	Muffin
+*CHI:	uh cupcake.
+*MOT:	mm try again.
+*MOT:	what's what are these little things in here &=points:to_picture?
+*CHI:	blueberries.
+*MOT:	blueberries.
+*MOT:	so it's a blueberry what?
+*CHI:	cupcake.
+*MOT:	            ⌈well⌉.
+*CHI:	a blueberry ⌊cupcake⌋!
+*MOT:	no muffin.
+*CHI:	muffin.
+*MOT:	yeah same kinda thing.
+@G:	Old Woman
+*CHI:	people.
+*MOT:	who the heck is that?
+*CHI:	bucky.
+*MOT:	bucky?
+*MOT:	that's not Bucky.
+*MOT:	who is that lady?
+*CHI:	I don't know.
+*MOT:	is she an older lady?
+*CHI:	yeah.
+*MOT:	yeah so what is she?
+*MOT:	if she's like a Bucky what is she?
+*CHI:	&=whispers she's a grandma.
+*MOT:	a grandma.
+@G:	Butterfly
+*CHI:	um a butterfly.
+*MOT:	a butterfly.
+*CHI:	no more.
+*CHI:	   ⌈gone⌉.
+*MOT:	no ⌊more⌋?
+*MOT:	you wanna go through them again?
+*CHI:	no.
+*MOT:	you remember all of them?
+*CHI:	&=shakes:head_no.
+*CHI:	no?
+*CHI:	I need to go potty.
+*MOT:	you don't need to go potty.
+*MOT:	okay let's go through them again.
+*MOT:	who's that?
+@G:	Judge
+*CHI:	xxx [= name].
+*MOT:	what?
+*CHI:	xxx [= name].
+*MOT:	no &=shakes:head.
+*CHI:	&=giggles.
+*MOT:	who is that?
+*CHI:	must make xxx.
+*MOT:	the judge.
+*MOT:	judge.
+@G:	Cat
+*MOT:	who's that?
+*CHI:	kitty cat.
+*MOT:	yeah.
+*MOT:	(o)kay we're gonna go really quick &=flips:page_faster.
+@G:	Cracker
+*MOT:	what's that?
+*CHI:	cracker.
+@G:	Pumpkin
+*MOT:	what's that?
+*CHI:	orange!
+*MOT:	&=sighs.
+*CHI:	&=laughs.
+*CHI:	cupcake.
+*MOT:	&=sighs, &=turns:page.
+*CHI:	&=laughs.
+@G:	Parrot
+*CHI:	bird.
+*MOT:	what kinda bird?
+*CHI:	Tweety bird.
+*MOT:	parrot.
+*CHI:	parrot.
+@G:	Dolphin
+*CHI:	dolphin in water.
+*MOT:	right.
+@G:	Ice Cream
+*CHI:	ice cream cone.
+*MOT:	what flavor?
+*CHI:	strawberry, right?
+*MOT:	right.
+@G:	Race Car Driver
+*CHI:	racecar driver.
+*MOT:	right.
+*MOT:	and who's he where is he?
+*MOT:	he's at the race right?
+*CHI:	yeah.
+@G:	Skunk
+*CHI:	stunk.
+@G:	Ballerina
+*CHI:	ballerina.
+@G:	Pineapple
+*CHI:	pineapple.
+@G:	Firefighter
+*CHI:	fireman.
+*CHI:	spraying water.
+@G:	Muffin
+*CHI:	blueberry muffin.
+*MOT:	there ya go!
+@G:	Old Woman
+*CHI:	gramma.
+*MOT:	what's a gramma got?
+*MOT:	what's this thing in her hand?
+*CHI:	well she uses that when she walks.
+*MOT:	yeah do you know what they call that?
+*CHI:	what?
+*MOT:	a cane.
+*CHI:	why?
+*MOT:	I don't know.
+*MOT:	that's what they call it.
+*MOT:	what color's her hair?
+*CHI:	green.
+*MOT:	green?
+*MOT:	it's grey.
+*CHI:	&=giggles.
+*MOT:	you silly bean.
+*MOT:	what's she got on her face?
+*CHI:	lips.
+*MOT:	and what else &=points:to_face_of_picture?
+*MOT:	what are these things?
+*CHI:	ears.
+*MOT:	what are those things on her eyes?
+*CHI:	glasses.
+*MOT:	right.
+@G:	Butterfly
+*CHI:	butterfly.
+*MOT:	butterfly.
+*CHI:	mommy are we done?
+*MOT:	yes we're done.
+*MOT:	do you wanna go knock on the window and tell the lady that we're done?
+@End

@@ -1,0 +1,334 @@
+@UTF8
+@PID:	11312/a-00032130-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.08|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Cat
+@Types:	cross, narrative, TD
+*CHI:	a cat.
+*MOT:	a cat.
+*CHI:	                    ⌈that's <got stripes> [?]⌉.
+*MOT:	does that look like ⌊Buster⌋?
+*CHI:	uh yeah.
+*MOT:	it's a different color though huh.
+*CHI:	yeah.
+@G:	Cracker
+*CHI:	oh it's a graham cracker.
+*MOT:	no that's not a graham cracker.
+*MOT:	that's a they call those saltines.
+*CHI:	saltines.
+*MOT:	it's a cracker though.
+@G:	Skunk
+*MOT:	what's that?
+*CHI:	skunk.
+*MOT:	a skunk.
+*MOT:	what color is the skunk?
+*CHI:	um.
+*MOT:	      ⌈black and white⌉.
+*CHI:	black ⌊xxx⌋.
+*MOT:	does he stink?
+*CHI:	yuck ew.
+*MOT:	ew.
+@G:	Pumpkin
+*CHI:	pumpkin.
+*MOT:	pumpkin.
+*MOT:	what color's a pumpkin.
+*CHI:	orange.
+*MOT:	orange.
+@G:	Old Woman
+*CHI:	       ⌈men⌉ [?].
+*MOT:	who is ⌊that⌋?
+*MOT:	does that look like a man?
+*CHI:	no it's a girl.
+*MOT:	is that a girl?
+*CHI:	yeah.
+*MOT:	is it a older woman?
+*CHI:	yeah.
+*MOT:	yeah.
+*MOT:	what color pants does she have on?
+*CHI:	blue.
+*MOT:	blue.
+*MOT:	do you know what she's holding?
+*MOT:	cane.
+*CHI:	cane.
+*MOT:	do you know what that's for?
+*CHI:	what?
+*MOT:	that helps her walk.
+*MOT:	look at those blue shoes.
+*CHI:	they're pretty.
+*MOT:	who whose favorite color's blue?
+*CHI:	mm &=points:to_self.
+*MOT:	you no.
+*MOT:	       ⌈daddy's⌉.
+*CHI:	me and ⌊daddy's⌋.
+*MOT:	yeah.
+*CHI:	it's both of our colors.
+@G:	Muffin
+*MOT:	oh what's that?
+*MOT:	you like those.
+*CHI:	a muffin.
+*MOT:	a muffin.
+*MOT:	what kind do you think it is?
+*CHI:	blueberry.
+*MOT:	oh okay.
+@G:	Dolphin
+*MOT:	oh you like that too don't ya?
+*MOT:	       ⌈what is it⌉?
+*CHI:	it's a ⌊dolphin⌋.
+*MOT:	jumping out of the water?
+*CHI:	yeah.
+*MOT:	mkay [= okay].
+@G:	Race Car Driver
+*CHI:	&=gasps football.
+*MOT:	it's not football.
+*MOT:	wait that looks like a football field.
+*MOT:	let's see.
+*MOT:	nope it's a race track.
+*MOT:	and they race cars.
+*MOT:	what number is that?
+*CHI:	eh sixteen.
+*MOT:	sixteen.
+*MOT:	and what about these numbers?
+*MOT:	can you read (th)em?
+*CHI:	mm mm-mm [= no].
+*MOT:	two and an eight I think that is.
+*CHI:	two.
+*MOT:	twenty eight is.
+*CHI:	twenty eight.
+*MOT:	right.
+*CHI:	&=tries:turn_page.
+*MOT:	hold on.
+*MOT:	what's he got on there?
+*MOT:	over his eyes?
+*CHI:	glasses.
+*MOT:	uh-huh [= yes].
+*MOT:	why is he wearing them?
+*CHI:	because.
+*MOT:	because of the sun?
+*CHI:	no.
+*MOT:	what do you mean no?
+*CHI:	the lights.
+*MOT:	the lights.
+*MOT:	⌈the sunlight silly⌉.
+*CHI:	⌊xxx⌋.
+@G:	Parrot
+*MOT:	what's that?
+*CHI:	parrot.
+*MOT:	a parrot.
+*MOT:	what color's the parrot?
+*CHI:	blue green and yellow and purple.
+*MOT:	mm-hm [= yes].
+@G:	Judge
+*CHI:	who's he?
+*MOT:	I don't know who he is.
+*MOT:	what's he holdin(g)?
+*CHI:	glasses.
+*MOT:	looks like he's got a red book too huh?
+*MOT:	he's wearing black a black, robe.
+*MOT:	I think he's ajudge.
+*MOT:	can you sayjudge?
+*CHI:	judge.
+@G:	Ice Cream
+*CHI:	ice cream.
+*MOT:	mm.
+*MOT:	is that chocolate ice cream.
+*CHI:	no.
+*MOT:	is that vanilla ice cream?
+*CHI:	no.
+*CHI:	strawberry ice cream.
+*MOT:	oh strawberry.
+@G:	Butterfly
+*CHI:	butterfly.
+*MOT:	a butterfly.
+*MOT:	they call it a monarch.
+*MOT:	can you say it?
+*CHI:	monarch.
+*MOT:	monarch.
+@G:	Ballerina
+*CHI:	ballerina.
+*MOT:	op.
+*MOT:	that looks like you except she's got blonde hair.
+@G:	Pineapple
+*MOT:	do you know what that is?
+*CHI:	pineapple.
+*MOT:	do you eat pineapple?
+*CHI:	no &=shakes:head.
+*MOT:	why don't you like it?
+*MOT:	it's good.
+*CHI:	I don't like it.
+*MOT:	it's a piece of fruit.
+*CHI:	I don't like that kind of fruit.
+@G:	Firefighter
+*CHI:	&=gasps fire engine.
+*MOT:	fireman.
+*CHI:	⌈fireman⌉.
+*MOT:	⌊fireman⌋.
+*MOT:	what's he doing?
+*MOT:	putting out a fire?
+*CHI:	yeah [= no picture visible].
+*MOT:	okay do you wanna go through it again?
+*CHI:	nn.
+*MOT:	you tell me what everything is?
+*MOT:	you wanna you wanna spell this?
+*CHI:	ah, I don't know.
+*MOT:	what's that begin with?
+*CHI:	ta.
+*MOT:	t.
+*CHI:	t.
+*CHI:	t H I H.
+*MOT:	n.
+*CHI:	n.
+*MOT:	g.
+*CHI:	g.
+*CHI:	s.
+*MOT:	⌈things⌉.
+*CHI:	⌊things⌋.
+*CHI:	I ⌈A⌉.
+*MOT:	  ⌊I⌋ N N.
+*CHI:	n.
+*MOT:	in.
+*CHI:	o.
+*MOT:	hold on let's see what it says.
+*MOT:	in.
+*CHI:	u.
+*MOT:	o U R says ⌈our⌉.
+*CHI:	           ⌊r⌋.
+*CHI:	u.
+*MOT:	what's that?
+*MOT:	you just learned that huh?
+*CHI:	w.
+*MOT:	yeah.
+*CHI:	and O R I.
+*MOT:	l.
+*CHI:	l.
+*CHI:	b.
+*MOT:	d.
+*CHI:	d.
+*MOT:	world.
+*MOT:	things_in_our_world.
+*MOT:	okay you wanna read this word?
+*CHI:	yeah.
+*CHI:	b O O K C.
+*MOT:	right, that means Book C.
+*MOT:	(o)kay you wanna look through again?
+*CHI:	mm no.
+*MOT:	no?
+*MOT:	you're all done?
+*CHI:	yeah.
+*MOT:	are you sure?
+*CHI:	yeah.
+*MOT:	come on let's look one more time.
+*CHI:	okay.
+*MOT:	we'll go real fast okay &=laughs?
+@G:	Cat
+*CHI:	cat.
+*MOT:	cat.
+*MOT:	you wanna name the cat?
+*MOT:	let's name it.
+*CHI:	buster.
+*MOT:	buster okay.
+@G:	Cracker
+*MOT:	cracker.
+*MOT:	it's a saltine?
+*CHI:	let's name it something.
+*MOT:	okay what do you want to name it?
+*CHI:	Charlie.
+*MOT:	Charlie the Cracker okay.
+@G:	Skunk
+*CHI:	let's name the skunk.
+*MOT:	okay um let's name him, Stripey.
+*MOT:	what do you think?
+*CHI:	yeah.
+*MOT:	okay.
+*CHI:	stripey.
+@G:	Pumpkin
+*MOT:	okay.
+*MOT:	what do you what do you wanna name the pumpkin?
+*CHI:	pumpkiny.
+*MOT:	pumpkiny.
+*CHI:	okay.
+*MOT:	okay that's silly.
+@G:	Old Woman
+*MOT:	what about the old lady?
+*CHI:	um let's name her.
+*MOT:	let's name her grandma &=whispers.
+*CHI:	&=nods:yes.
+*CHI:	grandma.
+@G:	Dolphin
+*MOT:	the dolphin.
+*CHI:	let's name him Shamoo.
+*MOT:	shamoo?
+*MOT:	shamoo's the whale.
+*MOT:	but we'll name this dolphin Shamoo.
+*CHI:	how (a)bout Charlan.
+*MOT:	charlan?
+*CHI:	&=nods:yes.
+*MOT:	okay Charlan the dolphin.
+@G:	Race Car Driver
+*MOT:	what do you wanna name him?
+*MOT:	does he look like Daddy?
+*CHI:	no.
+*MOT:	no?
+*MOT:	what should we name him?
+*CHI:	let's name him, John.
+*MOT:	john okay.
+@G:	Parrot
+*CHI:	let's name the parrot um Pino.
+*MOT:	pino?
+*MOT:	you are silly.
+*MOT:	okay next.
+@G:	Judge
+*MOT:	let's give this man a name.
+*CHI:	uh how (a)bout, how (a)bout, how (a)bout, xxx.
+*MOT:	can't you think of a boy's name?
+*MOT:	let's name him um, Zachius.
+*CHI:	yeah.
+*MOT:	okay.
+@G:	Ice Cream
+*CHI:	let's name this ice cream um, Coney.
+*MOT:	coney?
+*CHI:	yeah.
+*MOT:	okay Coney.
+@G:	Butterfly
+*MOT:	let's name the butterfly.
+*MOT:	what ⌈what pretty name can we give the butterfly⌉?
+*CHI:	     ⌊ah⌋.
+*CHI:	chala.
+*MOT:	chala?
+*MOT:	okay.
+@G:	Ballerina
+*MOT:	and the ballerina?
+*MOT:	&=whispers firstname.
+*CHI:	firstname.
+*MOT:	oh how nice!
+*MOT:	thank you.
+*MOT:	okay.
+@G:	Pineapple
+*CHI:	let's ⌈name the pineapple Pine⌉.
+*MOT:	name the ⌊pineapple⌋.
+*MOT:	pine?
+*MOT:	okay.
+@G:	Firefighter
+*CHI:	let's name the firefighter let's name him.
+*MOT:	how (a)bout?
+*CHI:	how (a)bout, Samson.
+*MOT:	samson I like that one.
+*MOT:	okay [= no picture visible].
+*MOT:	okay do you wanna name the book?
+*CHI:	yeah.
+*CHI:	let's.
+*MOT:	what what should we name the book?
+*CHI:	let's name (th)em Booky.
+*MOT:	booky okay.
+*CHI:	that's a good name.
+*MOT:	that's a good one.
+*CHI:	booky.
+*MOT:	you wanna go through it or are you all done?
+*CHI:	I'm all done.
+*MOT:	okay you go knock ⌈on the go knock on the window⌉.
+*CHI:	                  ⌊op⌋.
+*MOT:	and tell (th)em you're all done.
+@End

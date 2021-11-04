@@ -1,0 +1,168 @@
+@UTF8
+@PID:	11312/a-00032007-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.20|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Alligator
+@Types:	cross, narrative, TD
+*CHI:	an Zorg this is a crocodile.
+*CHI:	(be)cause it lives in water.
+*CHI:	&=turns:page.
+*INV:	&=turns:page_back what more can you tell me?
+*CHI:	it's a it climbs into the water and swims.
+*INV:	hm.
+*INV:	(o)kay zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg this is swims and it has sharp teeth.
+@G:	Cereal
+*CHI:	cheerios [?].
+*CHI:	and yellow they eat somebody eats (th)em and somebody eats (th)em they will be good.
+*INV:	uh-huh [= yes].
+*INV:	what more can you tell me?
+*CHI:	well they live in bags in the store and they and they be and then they live in the store and somebody eats some.
+*INV:	uh-huh [= yes] &=nods:yes.
+*CHI:	yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it eats and go to the grocery store.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	popcorn.
+*INV:	what more can you tell me?
+*CHI:	it has a it lives in a bowl and a full and its has nuts.
+*INV:	uh-huh [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it goes in your mouth.
+@G:	Elephant
+*CHI:	a elephant.
+*CHI:	it goes it eats and it drinks.
+*INV:	what more can you tell me?
+*CHI:	well it walks with wis his mom when but the mom when they have babies then they will have some babies.
+*INV:	mm-hm [= yes] &=nods:yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it goes &=makes:elephant_sound.
+*CHI:	(o)kay xxx this.
+@G:	Teacher
+*CHI:	        ⌈ a T⌉ +...
+*INV:	what is ⌊this⌋?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	well it teaches children.
+*INV:	uh-huh [= yes] &=nods:yes.
+*CHI:	yes &=whispers.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it they somebody wrote the chalk.
+@G:	Clown
+*CHI:	this is a clown and it goes wwell it it's laughing but Zorg well because it walks.
+*INV:	what more can you tell me?
+*CHI:	well it comes in a parade of course.
+*INV:	uh-huh [= yes] &=nods:yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it goes they come from a +...
+@G:	Lobster
+*CHI:	a crab.
+*INV:	what more can you tell me?
+*CHI:	well it lives in water with fishes.
+*INV:	&=nods:yes mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it goes in the water with fishies.
+@G:	Witch
+*CHI:	a witch.
+*INV:	what more can you tell me?
+*CHI:	well a course its flies, like birds.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it flies.
+*CHI:	&=turns:page.
+@G:	Orange
+*CHI:	     ⌈a orange⌉.
+*INV:	what ⌊else⌋?
+*CHI:	this is a orange.
+*CHI:	it it eats an in a grocery store.
+*INV:	uh-huh [= yes].
+*INV:	what more can you tell me?
+*CHI:	well it kind of be in a at the back court because they live in a xxx because they be in the back.
+*INV:	mm-hm [= yes].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it goes it eats +...
+*CHI:	&=turns:page.
+@G:	Penguin
+*CHI:	now this is a penguin.
+*CHI:	it has white and black.
+*CHI:	and it flaps its wings and a it kind of go go in the water.
+*INV:	uh-huh  [= yes].
+*INV:	what more can you tell me?
+*CHI:	well of course it flies with its and she have nails and have a tail and a face.
+*INV:	mm-hm [= yes] &=nods:yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it come from a zoo.
+@G:	Football Player
+*CHI:	this is a football because its blue and because it comes from a game.
+*INV:	what more can you tell me?
+*CHI:	well uh it throws a it throws to another man and know which one.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it's a it's a football.
+@G:	Horse
+*INV:	what is this?
+*CHI:	this is a horse.
+*INV:	what more can you tell me?
+*CHI:	well of course it runs and they eat flowers.
+*INV:	mm-hm [= yes] &=nods:yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*INV:	zorg it goes it went fast.
+@G:	Broccoli
+*CHI:	now this is a broccoli it eats.
+*INV:	uh-huh [= yes] &=nods:yes.
+*INV:	what more can you tell me?
+*CHI:	well of course it comes from a some grocery stores.
+*INV:	uh-huh [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	zorg it eats.
+@G:	Pilot
+*CHI:	now this is a a a this is a a a police.
+*INV:	uh-huh [= yes].
+*CHI:	but, it but it's a kind of drive.
+*INV:	uh-huh [= yes].
+*INV:	what more can you tell me?
+*CHI:	well of course it drives and and a, and tell people that they are mean and polices take moms away and dads.
+*INV:	uh-huh [= yes].
+*INV:	hm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	zorg it's a police.
+@G:	Cake
+*CHI:	this is a ice cream.
+*CHI:	it eats and it's a and it's eats every time.
+*INV:	uh-huh [= yes].
+*INV:	what more can you tell me?
+*CHI:	well of course it comes from birthday parties and a course.
+*INV:	mm-hm [= yes].
+*CHI:	yes.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help (th)em out?
+*CHI:	zorg it eats.
+*CHI:	well that's the end &=closes:book.
+*INV:	&=reopens:bookWell what else can you tell Zorg?
+*CHI:	eh uh its kind I mean it has Zorg it's white and black.
+*CHI:	so that's the end &=closes:book.
+*INV:	do you want to look again.
+*CHI:	no.
+*INV:	  ⌈ alright⌉.
+*CHI:	I ⌊just ⌋ okay that was a great.
+@End

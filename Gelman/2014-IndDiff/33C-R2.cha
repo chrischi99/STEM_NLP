@@ -1,0 +1,272 @@
+@UTF8
+@PID:	11312/a-00032163-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;11.26|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Clown
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	&=drops:page.
+*CHI:	op.
+*INV:	oh.
+*CHI:	sorry.
+*INV:	what is this?
+*CHI:	a clown.
+*INV:	what more can you tell me?
+*CHI:	it goes juggle juggle juggle juggle.
+*INV:	mm-hm [= yes].
+*CHI:	zorg Zorg is hungry.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it goes he goes woo woo woo.
+*INV:	what else can you tell Zorg?
+*CHI:	I don't.
+*CHI:	let's he wants to turn the next page.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	an alligator.
+*INV:	what more can you tell me?
+*CHI:	it goes &=makes:biting_motion.
+*INV:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, it goes roar.
+*INV:	what else can you tell Zorg?
+*CHI:	nothin(g).
+*INV:	hold on.
+*INV:	let's slow down a little bit.
+*INV:	what else can you tell Zorg?
+*CHI:	noth [= is using Zorg to turn the page].
+*INV:	can I have Zorg please?
+*CHI:	put him on your hand.
+*INV:	alright.
+*INV:	so Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*INV:	alright.
+*CHI:	it goes roar.
+*CHI:	it goes roar roar.
+@G:	Witch
+*INV:	what is this?
+*CHI:	a, witch.
+*INV:	mm.
+*CHI:	say what more could you <tell me> [?].
+*INV:	what more can you tell me?
+*CHI:	it goes he he he he he.
+*INV:	what else can you tell me?
+*CHI:	you gotta say what he wants what you said.
+*INV:	okay what else can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	say could you help him out?
+*INV:	can you help him out?
+*CHI:	&=hugs:RA.
+*INV:	aw.
+*INV:	can you help him out?
+*CHI:	it goes, flying up in the air.
+*INV:	mm.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	penguin.
+*INV:	what more can you tell me?
+*CHI:	it goes &=waddles.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it goes &=waddles.
+*INV:	what else can you tell Zorg?
+*INV:	you already said that.
+*CHI:	it still goes like this &=waddles.
+*CHI:	and it pulls its tail.
+*INV:	mm.
+*CHI:	and it goes like this &=hits:side_of_body_with_arms.
+*INV:	ah.
+*CHI:	let Zorg.
+*INV:	you want Zorg ⌈to⌉.
+*CHI:	turn the      ⌊page⌋.
+*INV:	okay.
+@G:	Teacher
+*INV:	what's this?
+*CHI:	a teacher.
+*INV:	what more can you tell me?
+*CHI:	he goes &=pretends:write_on_board.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it goes it goes walking.
+*INV:	mm-hm [= yes].
+*CHI:	and it reads a book.
+*INV:	mm.
+@G:	Horse
+*INV:	what is this?
+*CHI:	a horse.
+*INV:	what more can you tell me?
+*CHI:	it goes neigh &=makes:clicking_noises.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it it waves its tail.
+*INV:	mm.
+*CHI:	and it its ears wiggle.
+*INV:	mm.
+*CHI:	I'll give him the page.
+@G:	Popcorn
+*INV:	what is this?
+*CHI:	uh popcorn in a bowl.
+*INV:	what more can you tell me?
+*CHI:	um it goes &=pretends:eat_popcorn.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it goes, it it goes pop pop pop.
+*INV:	mm.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	don't know.
+*INV:	can you take a guess?
+*CHI:	&=starts:turn_page.
+*INV:	hold on.
+*INV:	can you take a guess?
+*CHI:	um a plate.
+*INV:	mm very good.
+*INV:	what more can you tell me?
+*CHI:	um it goes &=makes:motion.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	oh your your your watch is wrong.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it goes, just goes mm.
+*INV:	&=changes:watch_around.
+*CHI:	here I'll help ya.
+*INV:	here I'll do this just &=fixes:watch.
+*CHI:	can I wear it for a minute?
+*INV:	let's let's keep talking.
+*INV:	so what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*INV:	firstname?
+*CHI:	I can feel your thumb and your fingers
+	[= CHI has hands in Zorg's mouth].
+*CHI:	it goes &=makes:noise.
+*INV:	alright.
+*INV:	so what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it goes, just goes &=motions:with_hand.
+*CHI:	it just keeps going &=makes:motion like my bowls.
+*CHI:	here Zorg [= give Zorg page to turn].
+@G:	Pilot
+*INV:	what is this?
+*CHI:	I don't know.
+*INV:	take a guess.
+*CHI:	you tell me.
+*INV:	mm, I'm not sure.
+*INV:	what do you think?
+*CHI:	bus driver.
+*INV:	mm very good.
+*INV:	what more can you tell me?
+*CHI:	it goes &=makes:driving_motion  driving the bus.
+*INV:	mm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	hm mm not actually.
+*CHI:	but, but you can help him out.
+*INV:	mm, I wanna hear what you have to say.
+*CHI:	I I wanna hear what you have to say.
+*INV:	how about if I say stuff at the very end when we're all done?
+*INV:	alright.
+*INV:	but you first.
+*CHI:	um, it just goes &=makes:driving_motion down the road.
+*CHI:	oh it's getting to night time [= looking at RA's watch].
+@G:	Orange
+*INV:	what is this?
+*CHI:	take a guess.
+*INV:	I'm not sure.
+*INV:	what do you think?
+*CHI:	orange.
+*INV:	mm, what more can you tell me?
+*CHI:	it goes peel peel peel peel peel peel peel.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I wanna hear you say something.
+*INV:	as I said before when we're all done.
+*CHI:	um, it goes just peel peel peel.
+*CHI:	and it goes &=makes:biting_motion.
+*CHI:	here Zorg [= hands Zorg the page to turn].
+@G:	Lobster
+*INV:	what is this?
+*CHI:	a crab.
+*INV:	what more can you tell me?
+*CHI:	it goes &=makes:pinching_motion.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um it just goes &=makes:pinching_motion.
+*INV:	you already said that.
+*CHI:	it just goes &=makes:pinching_motion.
+*INV:	can you tell him more?
+*CHI:	it just goes &=makes:pinching_motion.
+@G:	Broccoli
+*INV:	what is this?
+*CHI:	um it's a, that's a broccoli.
+*INV:	mm, what more can you tell me?
+*CHI:	and it it goes &=makes:eating_noise.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it just goes &=makes:eating_noise.
+*INV:	firstname we only have a few more pictures.
+*INV:	can you help Zorg out?
+*CHI:	it just goes &=makes:eating_noise.
+*INV:	but you already said that.
+*INV:	tell Zorg more.
+*CHI:	and it goes &=makes:eating_noise right in the trash.
+*CHI:	okay here Zorg [= hands Zorg next page].
+@G:	Football Player
+*INV:	what is this?
+*CHI:	baseball guy.
+*INV:	what more can you tell me?
+*CHI:	it goes throwing the football.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*INV:	can you please stop kicking me.
+*INV:	thank you.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	xxx.
+*INV:	what more?
+*CHI:	what?
+*INV:	what else can you tell Zorg?
+*CHI:	um, it just goes &=makes:throwing_motion.
+@G:	Cake
+*INV:	what is this?
+*CHI:	a pancake.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	actually, it's chocolate.
+*INV:	oh.
+*INV:	what more can you tell me?
+*CHI:	um, it goes &=pretends:eat.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it just goes &=pretends:eat.
+*INV:	you already said that.
+*INV:	can you tell him more?
+*CHI:	it just goes &=pretends:eat.
+@G:	Elephant
+*INV:	⌈what is this⌉?
+*CHI:	⌊elephant⌋.
+*INV:	what more can you tell me?
+*CHI:	and it goes wagging it's trunk and it goes &=makes:elephant_noise.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	say could you help him out?
+*INV:	ah can you help him out?
+*CHI:	um, it just goes waving its trunk too.
+*INV:	mm.
+*INV:	anything else you want to say?
+*CHI:	no no no [= singing].
+*CHI:	no no no.
+*INV:	okay.
+*INV:	all done.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	no alright.
+@End

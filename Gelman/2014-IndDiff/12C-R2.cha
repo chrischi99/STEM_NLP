@@ -1,0 +1,493 @@
+@UTF8
+@PID:	11312/a-00032037-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.31|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Horse
+@Types:	cross, narrative, TD
+*CHI:	&=turns:two_pages.
+*CHI:	oh oh I love horses!
+*CHI:	&=laughs.
+*INV:	&=laughs.
+@G:	Teacher
+*INV:	what is this?
+*CHI:	mm a teacher.
+*CHI:	I ⌈we can't see her hair⌉.
+*INV:	  ⌊wha⌋ +...
+*CHI:	I can't see her hair.
+*INV:	what more can you tell me?
+*CHI:	her shoes.
+*INV:	mm-hm [= yes].
+*CHI:	I'm gonna xxx.
+*CHI:	she's drawing.
+*INV:	mm.
+*CHI:	I don't know anything else.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I don't know how to do it.
+*INV:	                            ⌈okay⌉.
+*CHI:	I don't know how to do this ⌊one⌋.
+*CHI:	let's do the other one.
+*CHI:	hm maybe [?] xxx.
+@G:	Horse
+*CHI:	&=gasps I love horses!
+*INV:	what more can you tell me?
+*CHI:	mm it walks.
+*INV:	mm.
+*CHI:	it eats grass.
+*CHI:	it eats um, hm let me think.
+*CHI:	he's eating my ear [= referring to Zorg].
+*CHI:	<he wants> [?] to <try in back of it> [?].
+*INV:	hm.
+*CHI:	he's pinching and he's turning it [= referring to Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	                         ⌈can you help him out⌉?
+*CHI:	can you tell him to stop ⌊it⌋?
+*INV:	well you know what he doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	he's he's pulling my ear off can you tell him to stop.
+*INV:	&=pulls:Zorg_away.
+*INV:	there we go.
+*CHI:	&=laughs that was my hand actually [?].
+*CHI:	you put it on it (be)cause it's too sweaty.
+*CHI:	&=blows:hand.
+*CHI:	hm.
+*CHI:	it wags its tail.
+*CHI:	it makes this kinda sound &=makes:horse_sound.
+*CHI:	I don't know anything else.
+*INV:	okay you're doing really good.
+*CHI:	hm.
+@G:	Broccoli
+*CHI:	salad I love that.
+*INV:	what more can you tell me?
+*CHI:	green it's green.
+*INV:	mm-hm [= yes].
+*CHI:	it gets eaten.
+*CHI:	&=laughs I love that.
+*CHI:	I don't know how to say it salad.
+*CHI:	well I know how to say salad.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	why do you you always say that!
+*INV:	mm.
+*INV:	yeah that's cause Zorg doesn't know anything.
+*INV:	he's from a planet far far away.
+@G:	Lobster
+*CHI:	a crab.
+*CHI:	I'm not telling you what's after the crab.
+*CHI:	I don't know what's after the crab.
+@G:	Orange
+*INV:	&=gasps.
+*CHI:	oh a orange.
+*INV:	let's go.
+@G:	Lobster
+*INV:	what is this?
+*CHI:	a lobster.
+*CHI:	⌈I thought it was a crab⌉.
+*INV:	⌊wha⌋ +...
+*INV:	oh.
+*INV:	what more can you tell me?
+*CHI:	hm, it walks.
+*INV:	mm.
+*CHI:	it pinches your finger.
+*INV:	what else can you tell me?
+*CHI:	it cuts off your finger.
+*INV:	mm.
+*CHI:	you  you always do that.
+*CHI:	excuse me I just burped.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	eh.
+*CHI:	I don't know.
+*INV:	okay.
+*CHI:	&=pinching:motion_with_hands.
+*CHI:	&=laughs.
+*CHI:	bah what's the password [= in Zorg voice]?
+*INV:	do you wanna turn the page?
+*CHI:	yeah.
+@G:	Cereal
+*INV:	what is this?
+*CHI:	cereal.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*CHI:	I don't know.
+*INV:	well you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you always say that!
+*INV:	mm that's cause Zorg doesn't.
+*INV:	he doesn't know.
+*CHI:	can he talk?
+*INV:	mm-mm [= no].
+*CHI:	try to make him talk.
+*INV:	he can't.
+*CHI:	try to make him talk.
+*INV:	he can't.
+*INV:	I already know he can't ⌈he doesn't have a voice right now⌉.
+*CHI:	try to try to make him  ⌊talk⌋.
+*INV:	but he'll have a voice when we're all done.
+*CHI:	hm, there's, more pages.
+*INV:	yeah.
+*INV:	well what more can you tell me?
+*CHI:	mm, it's food.
+*INV:	mm.
+*CHI:	you eat it.
+*INV:	mm-hm [= yes].
+*CHI:	you put milk in it.
+*INV:	mm-hm [= yes].
+*CHI:	I already know this one.
+*CHI:	hm.
+*CHI:	I'm gonna stand like this [= with face close to picture].
+*CHI:	hm.
+*CHI:	I wanna stand.
+*CHI:	hm.
+*CHI:	<okay just a minute> [?].
+*CHI:	don't look &=covers:picture_with_hands.
+*CHI:	don't look.
+*CHI:	&=turns:book_around.
+*CHI:	upside down.
+*CHI:	sideways.
+*CHI:	upside down.
+*CHI:	upside down.
+*INV:	let's keep looking at the book.
+*CHI:	hm I don't know any any more of this.
+*INV:	okay.
+*CHI:	I'll turn the page.
+*INV:	alright.
+@G:	Football Player
+*INV:	                                    ⌈what is this⌉?
+*CHI:	a football Firstname loves football ⌊players⌋.
+*INV:	mm.
+*CHI:	hey that's a girl.
+*INV:	mm.
+*CHI:	it has yellow hair.
+*CHI:	I feel like I'm running <on air> [?].
+*CHI:	hm.
+*INV:	what more can you tell me?
+*CHI:	mm it's [?] throwing the ball.
+*INV:	mm.
+*CHI:	I don't know what it's called that she's holding in her hand.
+*CHI:	she's wearing a helmet.
+*INV:	mm-hm [= yes].
+*CHI:	she's wearing shoes.
+*INV:	mm-hm [= yes].
+*CHI:	her pants are falling down.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	she's naked &=laughs.
+*CHI:	isn't that funny?
+*CHI:	I don't know anything else.
+*INV:	okay.
+*CHI:	switch the page.
+@G:	Penguin
+*INV:	what is this?
+*CHI:	penguin!
+*INV:	what more can you tell me?
+*CHI:	uh it's black and white and uh it has orange feet.
+*CHI:	and it has nails &=laughs.
+*CHI:	is [?], has a long nose.
+*INV:	mm-hm [= yes].
+*CHI:	this long, this long &=shows:length_with_fingers.
+*CHI:	what has this long &=shows:length, nose?
+*CHI:	what has that long?
+*INV:	I don't know what do you think?
+*CHI:	a elephant?
+*INV:	mmm.
+*CHI:	hey a elephant has a horn.
+*INV:	mm.
+*CHI:	hm.
+*CHI:	it, goes in the snow.
+*INV:	mm-hm [= yes].
+*CHI:	it swims.
+*CHI:	I just ⌈started to burp⌉.
+*INV:	       ⌊hm⌋.
+*CHI:	can't do [?] anything else about this I'm gonna switch the page.
+*INV:	okay.
+@G:	Orange
+*INV:	⌈what is this⌉?
+*CHI:	⌊uh⌋.
+*CHI:	orange.
+*CHI:	almost done I wanna count how many pages one, one, two, three, four, five, oh that's [?] I missed a page.
+*CHI:	six.
+@G:	Elephant
+*CHI:	hey that was a elephant.
+*CHI:	seven, eight, nine.
+*CHI:	that's all done.
+@G:	Orange
+*CHI:	it's orange.
+*CHI:	why are you not saying anything?
+*INV:	(be)cause I wanna hear you.
+*CHI:	okay.
+*CHI:	hm, I don't know what that is.
+*INV:	mm.
+*CHI:	it's sitting on a counter.
+*CHI:	I don't know what that is xxx a counter.
+*INV:	anything else you can tell me?
+*CHI:	I don't know anything else.
+*CHI:	I'm gonna switch the page.
+*INV:	okay.
+*CHI:	okay xxx.
+*INV:	oh let's do it in order.
+*CHI:	I didn't know what page.
+@G:	Cake
+*INV:	what is this?
+*CHI:	a piece of cake.
+*INV:	what more can you tell me?
+*CHI:	uh it almost looks naked.
+*CHI:	I wanna sit on my knees &=kneels:on_floor.
+*CHI:	ah better.
+*INV:	do you wanna sit on the floor?
+*CHI:	yeah I'll bring it down [= the book].
+*CHI:	ah it's on the wrong way.
+*CHI:	this way.
+*CHI:	was it this way?
+*CHI:	was it this way or this way?
+*INV:	whatever you're you'd like.
+*CHI:	this way.
+*INV:	okay.
+*CHI:	I want this way.
+*INV:	what more can you tell me?
+*CHI:	it's upside down.
+*INV:	mm.
+*CHI:	it has white inside.
+*INV:	mm-hm [= yes].
+*CHI:	why do you keep saying everything.
+*INV:	what else can you tell me?
+*CHI:	can't you can't you say something else?
+*INV:	mm but I wanna hear what you have to say.
+*CHI:	okay.
+*CHI:	I like those like that.
+*CHI:	I don't like them with the xxx.
+*INV:	&=turns:book.
+*CHI:	hey put it upside down.
+*CHI:	okay let's put it that way &=turns:book.
+*CHI:	uhh oh let's put it this way.
+*CHI:	<I don't wanna> [?] say anything else.
+*INV:	okay.
+*CHI:	I'll switch the page.
+@G:	Alligator
+*INV:	what is this?
+*CHI:	oh, crocodile.
+*INV:	⌈wha⌉ +...
+*CHI:	⌊ouch⌋, it bites &=grabs:foot.
+*INV:	mm.
+*CHI:	it moves.
+*INV:	mm, what more can you ⌈tell me⌉?
+*CHI:	why do you keep moving your ⌊head⌋?
+*INV:	(be)cause I'm listening to you.
+*CHI:	oh.
+*INV:	what more can you tell me?
+*CHI:	it goes in the water.
+*CHI:	it eats fish.
+*CHI:	hey I know what snakes eat is mouse.
+*CHI:	we saw little baby mouse and a mama mouse and ⌈there we they were
+	eating one of my dolls⌉, swimming [?] dolls but not my Tinkerbell
+	one.
+*INV:	                                              ⌊mm⌋.
+*INV:	mm.
+*CHI:	hm I don't, I don't know anything else I'm gonna switch it.
+*CHI:	ah.
+@G:	Witch
+*INV:	what is this?
+*CHI:	&=sighs I don't know um let me think.
+*CHI:	this is gonna take forever.
+*CHI:	he I wanna turn off the lights magic.
+*INV:	once we're all done.
+*INV:	what do you think?
+*CHI:	I don't know, ⌈<what it is> [?]⌉.
+*INV:	how about if you take a ⌊guess⌋?
+*CHI:	I already guessed.
+*INV:	well, what's your guess?
+*CHI:	a bat ⌈<all I know> [?]⌉.
+*INV:	      ⌊oh⌋.
+*CHI:	hey that's a bat!
+*INV:	what more can you tell me?
+*CHI:	hm.
+*CHI:	I don't know what that is I don't know what that is, all I know is what that is.
+*INV:	mm.
+*CHI:	I'm gonna switch the page.
+*CHI:	eh just a minute I think there's a page left.
+@G:	Clown
+*INV:	what is this?
+*CHI:	oh a silly thing.
+*CHI:	it's doing this &=puts:hands_over_ears.
+*INV:	mm.
+*CHI:	it's that's what my brothers do.
+*CHI:	a clown?
+*INV:	mm.
+*CHI:	it's wearing shoes.
+*CHI:	I don't think it looks like a clown.
+*CHI:	it's cause it's wearing shoes.
+*CHI:	it's supposed to wear silly shoes.
+*INV:	mm.
+*CHI:	it has a polka dotted head.
+*INV:	mm.
+*CHI:	ah just tricking.
+*INV:	what more can you tell me?
+*CHI:	what is this?
+*CHI:	⌈eh⌉?
+*INV:	⌊oh⌋.
+*CHI:	what is that?
+*INV:	I'm not sure.
+*CHI:	lemme see &=covers:pictures &=looks:closer.
+*CHI:	I'm not showing this part.
+*CHI:	I'm just looking at this part.
+*CHI:	xxx.
+*CHI:	I don't know what that is I don't know what ⌈that is but I don't
+	know what that is too well I only know what this is but not that⌉.
+*INV:	                                            ⌊mm⌋.
+*INV:	mm.
+*CHI:	let's switch the page.
+@G:	Elephant
+*CHI:	        ⌈elephant⌉!
+*INV:	what is ⌊this⌋?
+*CHI:	&=laughs.
+*INV:	what more can you tell me?
+*CHI:	mm it has a big horn.
+*CHI:	it has four legs.
+*CHI:	it has big long ears.
+*CHI:	it has eyes.
+*CHI:	it has a tail.
+*CHI:	I know <what is> [?] a elephant.
+*INV:	mm.
+*CHI:	hm.
+*CHI:	it has a horn I already said that.
+*CHI:	it has a head.
+*CHI:	I don't know what these are.
+*CHI:	<it has> [?] body.
+*CHI:	okay switch the page.
+@G:	Popcorn
+*CHI:	&=gasps popcorn!
+*CHI:	yummy.
+*CHI:	mm.
+*CHI:	it's yellow.
+*CHI:	it has red inside.
+*INV:	mm-hm [= yes].
+*CHI:	it's in a bowl.
+*CHI:	it's in a bowl.
+*INV:	what more can you tell me?
+*CHI:	mm.
+*CHI:	there's something in my eye.
+*CHI:	hm.
+*CHI:	I don't know anything else let's.
+@G:	Pilot
+*CHI:	hey a helicopter!
+*CHI:	I don't know what that is.
+*CHI:	do you know what that is, ⌈inside⌉?
+*INV:	                          ⌊mm-mm⌋ [= no].
+*CHI:	I don't know what it is either.
+*INV:	what do you think?
+*CHI:	hm.
+*CHI:	I don't know part of this.
+*INV:	well, what else can you tell me?
+*CHI:	all I know is the seats.
+*INV:	mm.
+*CHI:	I don't know any of this space &=covers:part_of_picture.
+*CHI:	or any of this space.
+*CHI:	                                           ⌈xxx⌉.
+*INV:	you know Zorg doesn't know much about this ⌊one⌋.
+*INV:	can you help him out?
+*CHI:	I don't know about this one either.
+*CHI:	let's switch the page let's see if there's another page.
+*CHI:	&=turns:last_page.
+*CHI:	hey!
+*INV:	&=flips:page_back.
+*INV:	do you, do you wanna take a guess?
+*CHI:	no.
+*INV:	do you have any idea?
+*CHI:	no.
+*INV:	do you think maybe it's, hm, a pilot?
+*CHI:	I don't know what it is xxx it doesn't have another part of it.
+*INV:	mm.
+*INV:	alright.
+*CHI:	I don't know what the other part is.
+*CHI:	on the outside.
+*INV:	mm.
+*CHI:	I don't know what this is.
+*INV:	okay.
+*CHI:	does he know what it is [= referring to Zorg]?
+*INV:	I I don't think so.
+*CHI:	I don't know about this.
+*INV:	alright well, do you wanna look again?
+*CHI:	mm nah.
+*INV:	alright.
+*INV:	well thank you very much.
+*CHI:	I wanna find the pictures I like.
+*CHI:	&=flips:pages.
+*CHI:	hm no [?].
+@G:	Horse
+*CHI:	this page.
+*INV:	                          ⌈ah⌉.
+*CHI:	oh my mom this loved this ⌊page⌋.
+*CHI:	I love that page.
+*CHI:	we never read this part right?
+*INV:	hm.
+*CHI:	we never read it.
+*INV:	oh.
+*INV:	okay.
+*CHI:	oh yeah we had read it.
+*INV:	oh.
+*CHI:	&=closes:book &=opens:book.
+*CHI:	uh I like I like that part.
+*INV:	oh okay.
+*CHI:	mm.
+*CHI:	&=makes:face.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+@Comment:	book is closed
+*CHI:	that's what my brother did to me and this is what my other brother does to <each other> [?].
+*CHI:	he does that &=pulls:ears.
+*CHI:	&=laughs.
+*INV:	&=laughs.
+*CHI:	and were in our car last night.
+*CHI:	I was going like this &=makes:laughing_noise.
+*CHI:	and my hands were up.
+*CHI:	and Firstname was just laughing.
+*CHI:	they had up the um the window on top of his head.
+*CHI:	and we had all the other windows up.
+*CHI:	that and we wereit was fun.
+*INV:	       ⌈oh⌉.
+*CHI:	it was ⌊fun⌋.
+*CHI:	then we drive the driveway.
+*CHI:	and I kept laughing.
+*CHI:	and my brothers kept laughing.
+*CHI:	my daddy looked back there and he laughed.
+*INV:	&=laughs.
+*CHI:	it was funny.
+*INV:	ah.
+*CHI:	&=opens:book &=closes:book.
+*CHI:	oh where?
+*CHI:	oh I can't [?] find the horse again.
+*CHI:	hm lemme see.
+@G:	Football Player
+*CHI:	&=opens:book &=closes:book.
+*CHI:	oh I went back to the football player.
+*CHI:	hm.
+*CHI:	&=opens:book.
+@G:	Ice Cream
+*CHI:	this page.
+*CHI:	no that's the ice cream.
+@G:	Popcorn
+*CHI:	&=opens:book &=closes:book.
+*CHI:	no that's the popcorn.
+*CHI:	hm.
+*CHI:	&=flipping:pages.
+@G:	Horse
+*CHI:	where is that?
+*CHI:	that was it.
+*CHI:	oh.
+*CHI:	&=closes:book.
+*CHI:	I thought there was a cow on [?] xxx there [?] that horse.
+*CHI:	cow.
+*INV:	oh.
+*CHI:	a cow makes milk [?] xxx juice [?].
+*INV:	oh ⌈okay⌉.
+*CHI:	   ⌊okay⌋, take the book.
+*INV:	alright well thank you very much.
+*CHI:	what happened to that game?
+*INV:	do you wanna put Zorg back to sleep?
+*CHI:	yeah.
+*INV:	let him take his nap?
+@End

@@ -1,0 +1,268 @@
+@UTF8
+@PID:	11312/a-00032196-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;10.17|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Turtle
+@Types:	cross, narrative, TD
+*MOT:	what's that?
+*CHI:	a turtle.
+*MOT:	a turtle?
+*MOT:	you know what kind of turtle that is?
+*CHI:	diamond [?] back turtle.
+*MOT:	you think so?
+*MOT:	I think it looks kind of like a painted turtle.
+*MOT:	where do turtles live?
+*CHI:	Michigan.
+*MOT:	yeah?
+*MOT:	I mean like, ⌈swamps⌉.
+*CHI:	the          ⌊ocean⌋.
+*MOT:	oh some of them live in the ocean, you're right.
+*MOT:	you are so right.
+*MOT:	okay.
+*MOT:	you wanna look at another page?
+*MOT:	maybe [?] you're holding the book upside down.
+@G:	Pig
+*MOT:	what's that?
+*CHI:	a pig.
+*MOT:	can you tell me about him?
+*CHI:	he live in a farm?
+*MOT:	yeah.
+*CHI:	some of them live in the wild.
+*MOT:	live in the wild.
+*CHI:	yeah.
+*MOT:	okay.
+@G:	Carrot
+*MOT:	&=laughs.
+*CHI:	carrot.
+*MOT:	some people have carrots as pets.
+*CHI:	yep &=laughs.
+*MOT:	what were you-now are we growing carrots in our garden?
+*CHI:	yes &=tries:turn_page.
+*MOT:	hold on a second.
+*MOT:	we're not done.
+*MOT:	if we go look at the garden today you're gonna see that this right here is already coming up in our garden.
+*CHI:	okay.
+*MOT:	slow down.
+@G:	Cheese
+*MOT:	what's that?
+*CHI:	cheese.
+*CHI:	some people have cheese as as a pet.
+*MOT:	&=laughs.
+*CHI:	right Mom?
+*MOT:	you're so silly.
+*MOT:	what do you do with cheese?
+*CHI:	uh you use that you use that as a pet.
+*MOT:	firstname, you tell these people that they're gonna think you're crazy.
+*MOT:	what what does uh, what do you do with cheese?
+*CHI:	keep it as a pet.
+*MOT:	firstname what do you do with cheese?
+*CHI:	I don't know.
+*MOT:	you don't know what you do with cheese?
+*CHI:	&=plays:with_binder.
+*MOT:	you have to be careful (be)cause if you snap that on your finger it's gonna hurt.
+*MOT:	don't do that please.
+*CHI:	how (a)bout you use, use it as a pet.
+*MOT:	firstname.
+*CHI:	use it as a pet.
+*MOT:	enough jokes.
+*MOT:	what do you do with cheese?
+*CHI:	uh.
+*MOT:	what kind of animal eats cheese?
+*CHI:	a rabbit.
+*MOT:	a rabbit eats cheese?
+*CHI:	oh I forgot I forgot.
+*CHI:	okay.
+*CHI:	a mouse.
+*MOT:	very good.
+@G:	Pirate
+*CHI:	this is a pirate.
+*MOT:	whoa what happened to his leg?
+*CHI:	uh it got cut off.
+*MOT:	how?
+*CHI:	with somebody's sword.
+*MOT:	whoa.
+*MOT:	what is goin(g) on?
+*MOT:	what's he drinkin(g)?
+*CHI:	I don't know.
+*MOT:	orange juice?
+*CHI:	maybe wine.
+*MOT:	you think so?
+*CHI:	yeah.
+*MOT:	what's this?
+*CHI:	a parrot.
+*MOT:	a what?
+*CHI:	a parrot.
+*CHI:	a parrot.
+*CHI:	a parrot.
+*MOT:	I heard you a parrot.
+*MOT:	some people keep parrots as pets.
+*MOT:	what's this?
+*CHI:	a treasure chest.
+*MOT:	very good.
+*CHI:	oh treasure reminds me of of the of the stuff that like your like
+	your bracelet ⌈and your necklace⌉.
+*MOT:	              ⌊mm-hm [= yes]⌋.
+*MOT:	mm-hm [= yes].
+@G:	Baseball Player
+*CHI:	baseball player.
+*CHI:	boom &=swings:bat.
+*MOT:	what's he doin(g)?
+*CHI:	he's playin(g) baseball.
+*MOT:	very good.
+@G:	Ladybug
+*CHI:	ladybug.
+*MOT:	mm.
+*CHI:	ladybug.
+*MOT:	tell me about ladybugs.
+*CHI:	uh.
+*MOT:	what do ladybugs eat?
+*MOT:	remember that book?
+*CHI:	uh, no.
+*MOT:	the ladybugs eat the aphids.
+*MOT:	the grouchy ladybug book.
+*CHI:	yeah.
+*MOT:	the ladybugs eat aphids.
+*CHI:	yeah.
+*MOT:	yum yum yum yum yum yum.
+*CHI:	stop it.
+*MOT:	what do aphids do?
+*CHI:	uh they eat plants.
+*MOT:	yep.
+*CHI:	and God doesn't want, them to eat plants.
+*MOT:	no God actually made them to eat plants.
+*MOT:	god made aphids to eat plants.
+*MOT:	and He made ladybugs to eat aphids.
+*CHI:	so there wouldn't be too much aphids.
+*MOT:	you are correct.
+*MOT:	a lot of things, okay.
+*MOT:	certain animals eat plants or animals and other animals eat those animals.
+*MOT:	it's like a cycle.
+*MOT:	so there's, everything stays in a big balance.
+*CHI:	yep.
+*CHI:	like t-rex eated meat.
+*MOT:	he ate meat yes.
+*CHI:	and he and then and he also and that that he has a balance.
+*MOT:	mm-hm [= yes].
+*CHI:	and, those balance, those are connected.
+*MOT:	mm-hm [= yes].
+@G:	Dog
+*CHI:	dog.
+*MOT:	what kind of dog?
+*CHI:	uh.
+*MOT:	old dog or little dog?
+*CHI:	uh little dog.
+*MOT:	mm-hm [= yes].
+*MOT:	what do we call those?
+*CHI:	puppies.
+*MOT:	very good.
+@G:	Baby
+*MOT:	whoa.
+*CHI:	a baby.
+*MOT:	&=laughs who does that look like?
+*CHI:	baby Firstname.
+*MOT:	is that baby cute?
+*CHI:	yeah but it doesn't look like baby Firstname.
+*MOT:	no it doesn't.
+*MOT:	what does that baby look like?
+*CHI:	uh I don't know.
+*MOT:	looks like a, brown hair baby.
+*MOT:	and Firstname's a blond hair baby.
+@G:	Duck
+*MOT:	duck &=makes:duck_noises.
+*MOT:	what kind of duck?
+*CHI:	a boy duck.
+*MOT:	yeah?
+*MOT:	                             ⌈wh⌉ +...
+*CHI:	a boy duck has a has a green ⌊head⌋.
+*MOT:	mm-hm [= yes].
+*MOT:	what kind of boy duck though?
+*MOT:	do you remember?
+*MOT:	mallard.
+*CHI:	mallard.
+*MOT:	mm-hm [= yes].
+*MOT:	where do ducks live?
+*CHI:	they live in swamps.
+*MOT:	    ⌈or lakes⌉.
+*CHI:	and ⌊lakes⌋.
+*MOT:	very good.
+*MOT:	whoa.
+*CHI:	swamps and lakes.
+*MOT:	we were on the same page there.
+*MOT:	weren't we?
+@G:	Banana
+*CHI:	bananas.
+*CHI:	people often, keep bananas as pets.
+*MOT:	you're so silly.
+*CHI:	right Mom?
+*MOT:	no not often.
+*MOT:	um, wha di-do you like to eat bananas?
+*CHI:	yes.
+*MOT:	where do bananas grow?
+*MOT:	they grow on trees.
+*CHI:	oh.
+*MOT:	and know what?
+*MOT:	what kind of animals eat bananas?
+*CHI:	uh monkeys.
+@G:	Painter
+*CHI:	artist.
+*MOT:	very good.
+*MOT:	what's a-wait what's another name for an artist?
+*CHI:	an illustrator.
+*MOT:	very good.
+*MOT:	give me five.
+*MOT:	solid brother.
+*MOT:	what's she drawin(g) a picture of?
+*CHI:	a tree.
+*MOT:	very good.
+@G:	Bread
+*CHI:	bread.
+*MOT:	hm, what kind of bread is that?
+*CHI:	looks like banana bread.
+*MOT:	&=gasps I love banana bread.
+*CHI:	me too.
+*MOT:	okay.
+*CHI:	let's turn the page.
+@G:	Doctor
+*CHI:	dentist.
+*MOT:	what?
+*CHI:	oh.
+*CHI:	a doctor.
+*MOT:	mm-hm [= yes].
+*MOT:	what's wrong with this little girl?
+*CHI:	she's sick.
+*MOT:	well look at her arm.
+*CHI:	looks like it's broken.
+*MOT:	what happened to her?
+*CHI:	maybe, she she broke her bone.
+*MOT:	how?
+*CHI:	it's cracked that means they can't move it.
+*MOT:	how do you think she broke it?
+*CHI:	maybe she fell down.
+*MOT:	yeah she could've fallen down.
+*MOT:	who's this?
+*CHI:	doctor.
+*MOT:	mm-hm [= yes] what's the doctor gonna do?
+*CHI:	he's trying to fix her.
+*MOT:	mm-hm [= yes].
+@G:	Cookie
+*CHI:	cookie.
+*MOT:	whoa what kind of cookie is that?
+*CHI:	looks like chocolate.
+*MOT:	chocolate chip maybe?
+*CHI:	yeah.
+*MOT:	alright.
+*MOT:	that's it.
+*MOT:	now you have to tell Miss Firstname about the book.
+*MOT:	and then we're done.
+*CHI:	you're gonna have to help me.
+*MOT:	I can't help you.
+*MOT:	I have to [?] go in another room.
+*CHI:	okay.
+*CHI:	can I go now?
+*MOT:	no you have to talk to Miss Firstname, okay?
+*CHI:	okay.
+@End

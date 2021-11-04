@@ -1,0 +1,484 @@
+@UTF8
+@PID:	11312/a-00032054-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;03.02|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Milk
+@Types:	cross, narrative, TD
+*CHI:	this a glass of milk.
+*INV:	hm what more can you tell me?
+*CHI:	um this is, um, eh, is is white.
+*INV:	uh-huh [= yes].
+*CHI:	&=blows get the hair away.
+*INV:	mm.
+*CHI:	it's white.
+*INV:	uh-huh [= yes].
+*CHI:	yeah is that glass and milk in it.
+*INV:	uh-huh [= yes].
+*CHI:	it's white xxx.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah da drink it.
+*INV:	uh-huh [= yes].
+*CHI:	yeah [?] help him out drink.
+*CHI:	let's find another page.
+@G:	Pretzel
+*CHI:	pretzel.
+*INV:	what more can you tell me?
+*CHI:	it's what's that color name?
+*INV:	I'm not sure what do you think?
+*CHI:	uh, can't remember.
+*INV:	hm.
+*CHI:	&=tries:to_flip_page.
+*INV:	&=stops:CHI.
+*INV:	well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah I can.
+*CHI:	what are colors.
+@G:	Police Officer
+*CHI:	uh there's a police woman.
+*CHI:	they're not on a police truck.
+*INV:	hm.
+*CHI:	it's a truck.
+*INV:	uh-huh [= yes].
+*CHI:	yeah xxx on the back.
+*INV:	what more can you tell me?
+*CHI:	um it's green.
+*INV:	uh-huh [= yes].
+*CHI:	that's <on that page> [?] &=begins:to_flip_page.
+*INV:	what else can you tell me?
+*CHI:	uh oh the wheels yellow and green too.
+*INV:	uh-huh [= yes].
+*CHI:	and brown too.
+*INV:	&=nods:yes.
+*CHI:	and white too.
+*INV:	okay do you want a Kleenex?
+*CHI:	yeah.
+*INV:	I'll get us a Kleenex.
+*CHI:	where's Kleenex.
+*INV:	I'll get it.
+*CHI:	okay.
+*CHI:	oh man, I got a boogy.
+*CHI:	got a boogy coming.
+*INV:	you can blow your nose.
+*CHI:	okay thank you.
+*INV:	uh-huh [= yes].
+*CHI:	got it.
+*INV:	oh good um you can just keep it over there.
+*CHI:	I got it.
+*INV:	okay.
+*CHI:	got it.
+*INV:	great.
+*CHI:	you feel it?
+*INV:	no I don't need to.
+*INV:	here I'll take your Kleenex.
+*CHI:	thank you.
+*CHI:	&=sighs I don't know.
+*CHI:	I don't know.
+*CHI:	I don't know &=shrugs.
+*INV:	alrighty.
+*CHI:	I don't know.
+@G:	Pie
+*INV:	what is this?
+*CHI:	um a waffle.
+*INV:	what more can you tell me?
+*CHI:	um, it's yellow.
+*INV:	uh-huh [= yes].
+*CHI:	is what's this &=pulling:on_binder_rings?
+*INV:	hm?
+*CHI:	what's this?
+*INV:	that keeps all the pictures in the book.
+*CHI:	oh I have [?] enough of this book.
+*INV:	what's that?
+*CHI:	I have enough of this book.
+*INV:	well what else can you tell me?
+*CHI:	um a what's indoors huh?
+*INV:	huh?
+*CHI:	what's indoors?
+*CHI:	what's indoors?
+*INV:	let's let's keep looking at the book.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	I a muscle man.
+*INV:	hm what more can you tell me?
+*CHI:	uh he's white.
+*INV:	uh-huh [= yes].
+*CHI:	oh I can't scoot [= referring to chair].
+*INV:	do you want help?
+*CHI:	yeah.
+*INV:	&=pushes:chair.
+*CHI:	thank you.
+*INV:	uh-huh [= yes].
+*CHI:	I burp.
+*CHI:	excuse me.
+*INV:	what else can you tell me?
+*CHI:	uh he's white.
+*INV:	uh-huh [= yes].
+*CHI:	yeah.
+*CHI:	uh that's black and yellow on on the bottom.
+*INV:	hm &=nods:yes.
+*CHI:	white.
+*CHI:	that's pink on his nose &=points:to_Zorg.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah I can.
+*INV:	so go ahead and and tell him more.
+*CHI:	&=flips:page.
+@G:	Surfer
+*CHI:	this is water.
+*CHI:	this is water.
+*INV:	uh-huh [= yes].
+*CHI:	oh and the skateboard and that's a man with his white, his white body.
+*INV:	what more can you tell me?
+*CHI:	I don't know.
+*INV:	⌈go ahead and take a guess⌉.
+*CHI:	⌊he's⌋ +...
+*CHI:	he's white.
+*INV:	uh-huh [= yes].
+*CHI:	xxx.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	um a rabbit.
+*INV:	what more can you tell me?
+*CHI:	um what's it called her name?
+*CHI:	what's her name?
+*INV:	I don't know.
+*CHI:	I can't remember.
+*INV:	oh.
+*CHI:	&=tries:to_flip_page.
+*CHI:	let's xxx.
+*INV:	no no what else can you tell me?
+*CHI:	oh that's white.
+*CHI:	this white in his whole nose.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*INV:	do you want to blow your nose again?
+*CHI:	xxx boogy.
+*CHI:	there.
+*INV:	okay.
+*CHI:	I got it.
+*CHI:	I almost got it.
+*CHI:	that ones snotty.
+*CHI:	I got my little boogy.
+*CHI:	where's mommy's goin(g)?
+*INV:	she's doing the same thing we are.
+*CHI:	oh.
+*CHI:	she's reading a book with somebody.
+*INV:	uh-huh [= yes].
+*CHI:	yeah.
+*INV:	what more can you tell me &=points:to_book?
+*CHI:	that that's what he's his foot is white.
+*INV:	uh-huh [= yes].
+*CHI:	yeah.
+*INV:	tell me more.
+*CHI:	oh what's that called again?
+*INV:	I forget what do you think?
+*CHI:	I don't know I can't remember.
+*INV:	alright.
+*CHI:	&=sighs now mommy's done?
+*INV:	I don't know.
+*CHI:	wanna check it out?
+*INV:	hm we have to finish.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	he's I can't remember colors.
+*CHI:	I can't remember.
+*INV:	well tell me something else.
+*CHI:	&=sighs xxx turn the &=tries:to_turn_page.
+*INV:	no no no.
+*INV:	tell me more.
+*CHI:	what's what's the color on xxx.
+*INV:	I I don't know.
+*INV:	but you see my friend Zorg here.
+*INV:	he doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*INV:	so tell him more.
+*CHI:	&=peeks:at_next_picture.
+*INV:	uh uh.
+*INV:	go ahead and tell him more.
+*CHI:	what was that noise?
+*INV:	that was just someone outside with their keys.
+*CHI:	why?
+*INV:	because there's people outside.
+*CHI:	I hear a woman in the house.
+*INV:	hm.
+*INV:	so tell me more.
+*CHI:	can't remember my colors.
+*INV:	it's okay you can tell me anything you want to tell me.
+*CHI:	that's green and blue and that's blue and that's green.
+*INV:	hm.
+*CHI:	<I don't> [?] remember my colors.
+*CHI:	and that's blue that's what's that color
+	[= referring to panels in room]?
+@G:	Frog
+*INV:	what is this?
+*CHI:	a froggy.
+*INV:	what more can you tell me?
+*CHI:	well what's the color on it?
+*INV:	you tell me.
+*INV:	you knew before.
+*CHI:	green.
+*INV:	hm.
+*CHI:	ah uh uh &=trying:to_scoot_chair_again.
+*INV:	you know what I'll make a deal with you.
+*CHI:	what?
+*INV:	if we finish up with this book we'll play that game again.
+*CHI:	which game?
+*INV:	that game we just played that was so much fun.
+*CHI:	I don't wanna that anymore.
+*INV:	you don't wanna do that anymore?
+*CHI:	no I wanna play uh in the back.
+*INV:	oh okay well let's finish talking about the book and then we'll go play with those toys.
+*CHI:	so you remember all colors?
+*INV:	what's that?
+*CHI:	you you you like colors?
+*INV:	hm.
+*INV:	yes and no.
+*INV:	okay so tell me more.
+*CHI:	uh that's green.
+*INV:	uh-huh [= yes] what else can you tell me?
+*CHI:	um right there is a eyes.
+*INV:	uh-huh [= yes].
+*CHI:	                     ⌈what's xxx⌉.
+*INV:	go ahead and tell me ⌊more⌋.
+*CHI:	okay it's green now.
+*INV:	uh-huh [= yes].
+*CHI:	it's green.
+*INV:	tell me something else.
+*CHI:	what's the colors names.
+*INV:	I don't know you tell me.
+*CHI:	um what's the colors.
+*INV:	you know what.
+*INV:	as I said the sooner we finish this the quicker we go outside,
+	⌈and we get to play with all those fun toys⌉.
+*CHI:	⌊why⌋?
+*CHI:	this all fun toys.
+*INV:	what's that?
+*CHI:	this all fun toys in here.
+*INV:	yeah.
+*INV:	xxx will you please talk to me?
+*CHI:	why?
+*INV:	because I need to know what you're thinking.
+*CHI:	um xxx.
+*INV:	what?
+*CHI:	xxx.
+@G:	Lion
+*INV:	what is this?
+*CHI:	lion.
+*INV:	what more can you tell me?
+*CHI:	what's what's color on it?
+*INV:	you tell me?
+*CHI:	hm blue what's the other color
+	[= may be referring to panels in the room]?
+*INV:	you may have.
+*INV:	but tell me something else.
+*CHI:	what's the color on it?
+*INV:	you tell me.
+*INV:	you know what?
+*INV:	how about if you answer all my questions and the very end I'll answer all of yours.
+*INV:	you can ask me any question you want to ask me.
+*CHI:	uh xxx.
+*INV:	huh?
+*CHI:	xxx.
+*CHI:	&=flips:page.
+*INV:	&=flips:page_back.
+*INV:	no no no so tell me more.
+*CHI:	&=shrugs.
+*INV:	it's okay you can tell me whatever you want and at the very as I said I'll answer your questions.
+*INV:	in fact I have a cooler book for us.
+*CHI:	what?
+*INV:	at the very end.
+*INV:	hm I can't show you until we're done.
+*INV:	but I need you to answer my questions.
+*CHI:	&=sighs what's the other color?
+*INV:	I don't know you tell me.
+*CHI:	what's the other color?
+*INV:	you know what?
+*INV:	as I said before Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes.
+*INV:	he really wants to know.
+*CHI:	I need help.
+*INV:	&=scoots:CHI's_chair_in.
+*INV:	oh.
+*CHI:	thank you.
+*INV:	yep.
+*INV:	so go ahead and tell me more.
+*CHI:	(o)kay.
+*CHI:	um it's black [= no black on picture]?
+*INV:	is that what you think?
+*CHI:	um black xxx.
+*INV:	hm.
+*INV:	okay.
+*CHI:	I want to see my mommy now.
+*INV:	well we're gonna see her really really soon.
+*INV:	we just have to finish the last few pictures.
+*INV:	will you help me out please?
+*CHI:	yeah.
+*INV:	thank you.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	apple.
+*INV:	what more can you tell me?
+*CHI:	um um well uh it's red.
+*INV:	uh-huh [= yes].
+*CHI:	it xxx cherry [?].
+*INV:	uh-huh [= yes].
+*CHI:	yeah.
+*CHI:	                  ⌈xxx⌉.
+*INV:	tell tell me more ⌊please⌋.
+*CHI:	a duck this <just a flea> [?] the green on it.
+*INV:	uh-huh [= yes].
+*CHI:	that's green.
+*CHI:	that's not green.
+*CHI:	green yeah.
+*INV:	alright.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a farmer.
+*INV:	what more can you tell me?
+*CHI:	hers wear blue shirt.
+*INV:	uh-huh [= yes].
+*CHI:	hers is black.
+*CHI:	yellow.
+*INV:	uh-huh [= yes], please tell me more.
+*CHI:	okay.
+*CHI:	uh to that white hand and that hand.
+*INV:	uh-huh [= yes].
+*CHI:	we getting closer down.
+*INV:	uh-huh [= yes].
+@G:	Snake
+*CHI:	wow.
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	what more can you tell me?
+*CHI:	what's what's the color on it?
+*INV:	I don't know you tell me please.
+*CHI:	hm white.
+*INV:	okay &=shakes:head_yes.
+*CHI:	it's not white.
+*INV:	no &=shakes:head_no?
+*CHI:	maybe black.
+*INV:	hm you think?
+*CHI:	hm yeah.
+*INV:	okay.
+*CHI:	we call it black.
+*INV:	what else can you tell me?
+*CHI:	um, what's in stakes?
+*INV:	hm?
+*CHI:	what's in snakes?
+*INV:	I don't know you tell me.
+*INV:	hey Firstname will you please tell me more pretty please?
+*CHI:	no.
+*INV:	please do.
+*CHI:	okay.
+*CHI:	what's other color on it?
+*INV:	you tell me.
+*INV:	you tell me.
+*INV:	what do you think?
+*CHI:	um, I don't think.
+*INV:	you don't?
+*CHI:	no can't.
+*INV:	why not?
+*CHI:	<I don't> [?].
+*INV:	why not?
+*INV:	just tell me why.
+*CHI:	why?
+*INV:	you're very smart so I know you can think.
+*INV:	aren't you smart?
+*CHI:	yeah.
+*INV:	yeah so you can think.
+@G:	Corn
+*INV:	what is this?
+*CHI:	um a stut.
+*INV:	hm?
+*CHI:	is that white on it.
+*CHI:	is that white?
+*INV:	is it?
+*CHI:	yeah that white.
+*INV:	what more can you tell me?
+*CHI:	it's got ee it's yellow.
+*INV:	okay.
+*CHI:	we call it yellow.
+*INV:	okay.
+*CHI:	what what's in it?
+*INV:	hm I don't know what?
+*CHI:	I don't know.
+*INV:	sure you do.
+*INV:	&=gasps I know you do will you please tell me?
+*CHI:	uh-huh [= yes].
+*INV:	what?
+*CHI:	uh I miss my mommy so much.
+*INV:	oh we'll see her really really soon.
+*CHI:	&=laughs.
+*INV:	go ahead and tell me a little bit more we're almost done.
+*CHI:	okay I didn't know.
+*CHI:	didn't know.
+*INV:	hm?
+*CHI:	didn't know xxx.
+*CHI:	what's you're name?
+*INV:	my name's Firstname.
+*CHI:	(o)kay.
+*INV:	hey Firstname just tell me a little bit more please.
+*CHI:	okay.
+*CHI:	yell +...
+*INV:	hm?
+*CHI:	yellow.
+*INV:	okay.
+*INV:	tell me something else?
+*CHI:	um which is blue?
+*INV:	which is blue?
+*INV:	I don't know you tell me.
+*INV:	where do you see blue?
+*CHI:	um at the store.
+*INV:	okay but we're talking about this picture book.
+*CHI:	yellow [?].
+*CHI:	blue [?].
+*INV:	&=laughs.
+@G:	Owl
+*INV:	okay let's try the next one.
+*INV:	what is this?
+*CHI:	owl.
+*INV:	what more can you tell me?
+*CHI:	what's what's this color on it?
+*INV:	I don't know you tell me.
+*INV:	tell me more.
+*CHI:	okay.
+*INV:	will you please help me out?
+*CHI:	yeah.
+*INV:	okay.
+*CHI:	I wanna tell my mommy about are are we low?
+*CHI:	are we low?
+*INV:	we're almost done, but you need to tell me first.
+*CHI:	that's that white there.
+*INV:	uh-huh [= yes].
+*CHI:	that white there.
+*CHI:	and that that white there.
+*INV:	okay.
+*CHI:	is that xxx white.
+*INV:	okay what else can you tell me?
+*CHI:	&=pushes:chair_into_radiator.
+*CHI:	whoa.
+*CHI:	don't know.
+*INV:	sure you do take a guess.
+*CHI:	uh.
+*INV:	&=laughs come on silly goose.
+*INV:	firstname just tell me something else.
+*CHI:	owl.
+*INV:	hm?
+*CHI:	owl.
+*INV:	uh-huh [= yes] but you've already told me that.
+*CHI:	owl.
+*INV:	but you've already told me that.
+*CHI:	owl.
+*INV:	alright are we all done?
+*CHI:	xxx we've had too much.
+*INV:	alright well thank you very much for playing that with me.
+*CHI:	welcome.
+@End

@@ -1,0 +1,239 @@
+@UTF8
+@PID:	11312/a-00032168-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;08.28|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Bread
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	um &=takes:Zorg_off.
+*INV:	&=puts:Zorg_on.
+*CHI:	um it's used for eating.
+*INV:	mm-hm [= yes].
+*CHI:	my mom use a lot of like these xxx bread at home.
+*INV:	mm-hm [= yes].
+*CHI:	because the doctor told em [?] to eat um those.
+*INV:	oh.
+*CHI:	&=flips:page.
+*INV:	anything else you you wanna say?
+*CHI:	no.
+@G:	Cheese
+*INV:	what is this?
+*CHI:	a cheese.
+*CHI:	kind of I like cheese plain.
+*INV:	mm-hm [= yes].
+*CHI:	but some times I eat them with bread.
+*INV:	                   ⌈mm-hm⌉ [= yes].
+*CHI:	they taste <really ⌊good> [?]⌋.
+*INV:	what more can you tell me?
+*CHI:	&=sighs.
+*CHI:	sometimes you eat them regular.
+*CHI:	don't [?].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	what?
+*INV:	zorg Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	what?
+*INV:	anything else you wanna tell Zorg?
+*CHI:	&=shakes:head_no.
+*INV:	no?
+*INV:	okay.
+*CHI:	&=skips:over_pages.
+@G:	Pig
+*CHI:	I think I know a lot about pigs.
+*INV:	hm &=flips:page_back.
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	bat.
+*CHI:	I think that I know a [?] lot lot about the other things.
+*INV:	okay well can we look in order?
+*CHI:	&=nods:head_yes.
+*INV:	okay.
+*INV:	what is this?
+*CHI:	um a basket um baseball man.
+*INV:	mm very good.
+*INV:	what more can you tell me?
+*CHI:	&=looks:under_page.
+@G:	Carrot
+*CHI:	a carrot.
+*INV:	can I turn the pages?
+*CHI:	mm-hm [= yes].
+*INV:	okay.
+@G:	Baseball Player
+*INV:	what more can you tell me?
+*CHI:	they play basketball a lot.
+*INV:	mm-hm [= yes].
+*CHI:	all the people came to watch them.
+*CHI:	mm-hm [= yes].
+*CHI:	I think that's it I say about them.
+*INV:	alright.
+*CHI:	go [= waiting for RA to flip page].
+*INV:	oh, thank you.
+@G:	Carrot
+*INV:	what is this?
+*CHI:	a carrot.
+*INV:	what more can you tell me?
+*CHI:	they're um they have orange lines.
+*CHI:	that's where you bite in them.
+*INV:	mm-hm [= yes].
+*CHI:	I think.
+*CHI:	and they're for eating.
+*CHI:	I think, that's it I know about carrots.
+*INV:	anything else you can tell me?
+*CHI:	no.
+*INV:	okay.
+@G:	Banana
+*INV:	what is this?
+*CHI:	banana.
+*CHI:	my my sister actually eats some of the skin.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	it's um, good.
+*INV:	you're doing very good.
+*CHI:	&=flips:page.
+@G:	Duck
+*INV:	what is this?
+*CHI:	a duck.
+*INV:	what more can you tell me?
+*CHI:	um, um, a duck is likes to swim in the water.
+*INV:	mm-hm [= yes].
+*INV:	what else can you tell me?
+*CHI:	they like to xxx.
+*CHI:	when [?] they get up they xxx kinda.
+*CHI:	all kinda bird can fly.
+*INV:	mm-hm [= yes].
+*CHI:	ducks can fly.
+*CHI:	&=flips:page.
+@G:	Pig
+*INV:	&=gasps.
+*INV:	what is this?
+*CHI:	a pig.
+*INV:	mm-hm [= yes].
+*CHI:	I know lots about this.
+*CHI:	um pigs used to live in mud on a farm.
+*CHI:	and um they they they say oink.
+*CHI:	&=flips:page.
+*CHI:	xxx.
+*INV:	&=flips:page_back.
+*INV:	what more can you tell me?
+*CHI:	um um hm hm hm.
+*CHI:	they have four legs.
+*CHI:	and I think that's all I have [?] to tell about them.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	a doctor.
+*CHI:	when I grow up I'm gonna be like that.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	when people get sick they take care of (th)em.
+*INV:	mm-hm [= yes].
+*CHI:	um mm I think that's it to tell about them.
+*INV:	anything else?
+*CHI:	&=shakes:head_no.
+*INV:	okay.
+@G:	Painter
+*INV:	what is this?
+*CHI:	a painter.
+*INV:	mm what more can you tell me?
+*CHI:	they paint a lot.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	um, hm I think that's it tell about them.
+@G:	Cookie
+*INV:	what is this?
+*CHI:	a cookie.
+*INV:	what more can you tell me?
+*CHI:	a cookie is made for eating.
+*CHI:	and um I think that's it.
+*CHI:	it it has little crumbs.
+*CHI:	and I think that's it.
+@G:	Baby
+*INV:	what is this?
+*CHI:	a baby.
+*INV:	what more can you tell me?
+*CHI:	um babies could um.
+*CHI:	I think there's nothing about babies.
+*INV:	hm.
+*CHI:	&=fumbles:page.
+*INV:	how (a)bout if I turn the page?
+*INV:	what more can you tell me?
+*INV:	you can say whatever you think.
+*CHI:	hm.
+*CHI:	babies um like to play with toys a lot.
+*INV:	mm.
+*INV:	very good.
+*INV:	anything else you can tell me?
+*CHI:	&=shakes:head_no.
+@G:	Puppy
+*INV:	what is this?
+*CHI:	a dog.
+*CHI:	dog likes to play with bones.
+*CHI:	they like to eat bone &=sighs.
+*CHI:	I think that's it, all I can tell about them.
+*INV:	what more can you tell me?
+*CHI:	mm I think that's it.
+*INV:	you can tell me.
+*CHI:	&=flips:page.
+*INV:	&=laughs &=flips:back.
+*INV:	you can tell me whatever you think of.
+*CHI:	&=flaps:page.
+*CHI:	hm hm.
+*INV:	anything you want.
+*CHI:	I think that's it I could tell.
+*INV:	alright.
+@G:	Pirate
+*INV:	what is this?
+*CHI:	pirate man having a um a parrot.
+*CHI:	and then he has golden treasure over here.
+*CHI:	and um I think that's it.
+*INV:	oh what more can you tell me?
+*CHI:	mm he has a parrot on <his head> [?].
+*CHI:	kind of treasure.
+*CHI:	coins.
+*CHI:	treasure box.
+*CHI:	a necklace I think.
+*INV:	hm.
+*CHI:	<all the things> [?].
+*CHI:	I think that's it.
+*INV:	you're doing very good.
+@G:	Turtle
+*INV:	what is this?
+*CHI:	a turtle.
+*CHI:	has four legs.
+*CHI:	you can't even see this one.
+*CHI:	and it's here.
+*CHI:	this is his shell [= indicating on page].
+*INV:	mm.
+*CHI:	and that's it.
+*INV:	what more can you tell me?
+*CHI:	mm his tail has sharp xxx.
+*CHI:	and I think &=turns:page.
+@G:	Ladybug
+*CHI:	ladybug.
+*INV:	mm.
+*CHI:	they have big black spots.
+*INV:	mm-hm [= yes].
+*CHI:	four legs.
+*CHI:	um um this red stuff.
+*CHI:	they could fly.
+*CHI:	and um this black white and black and all that stuff.
+*CHI:	and I think that's it &=turns:page.
+*INV:	oh what more can you tell me?
+*CHI:	mm I think that's it I could tell.
+*INV:	you can tell me anything that comes to mind.
+*CHI:	I think that's it that's in my mind.
+*INV:	okay.
+*INV:	alright, well you did great.
+*INV:	do you wanna look again?
+*CHI:	no.
+*INV:	no?
+*INV:	okay.
+*INV:	well thank you very much.
+*INV:	that was a lot of fun.
+@End

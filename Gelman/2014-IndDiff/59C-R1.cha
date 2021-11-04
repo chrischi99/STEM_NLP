@@ -1,0 +1,229 @@
+@UTF8
+@PID:	11312/a-00032318-1
+@Window:	446_241_683_700_-1_-1_7070_0_7070_0
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.06|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Ladybug
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	ladybug &=whispers:to_Zorg.
+*CHI:	ladybug [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	xxx crawl xxx &=whispers:to_Zorg.
+*CHI:	um they're ladybugs [= as Zorg] .
+*CHI:	and they crawl on something [= as Zorg] .
+*CHI:	and they um, they um, they don't bite [= as Zorg] .
+*CHI:	and they crawl on you [= as Zorg] .
+*INV:	hm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it flies &=whispers:to_Zorg.
+*CHI:	it flies [= as Zorg].
+@G:	Pig
+*INV:	what is this?
+*CHI:	um a pig, yeah [= as Zorg].
+*CHI:	xxx runs in mud &=whispers:to_Zorg.
+*CHI:	he runs in mud [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	eh eh [= pig noise] &=whispers:to_Zorg.
+*CHI:	uh eh eh [= pig noise] [= as Zorg].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	and xxx babies &=whispers:Zorg.
+*CHI:	it has babies [= as Zorg].
+@G:	Carrot
+*INV:	what is this?
+*CHI:	carrot [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	um &=whispers:to_Zorg it's a vegetable.
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	it's a vegetable [= as Zorg].
+*CHI:	and it um, and and strong for you and makes muscles [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	it's a carrot &=whispers:to_Zorg.
+*CHI:	it's a carrot [= as Zorg].
+@G:	Pirate
+*INV:	what is this?
+*CHI:	pirate &=whispers:to_Zorg.
+*CHI:	pirate [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg xxx and xxx.
+*CHI:	these are pirates [= as Zorg].
+*CHI:	&=whispers:to_Zorg they have parrots.
+*CHI:	and they have parrots [= as Zorg] .
+*CHI:	and they're mean [= as Zorg] .
+*CHI:	and they try to steal treasures.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh  &=whispers:to_Zorg they have xxx gun xxx.
+*CHI:	um they have a parrot and a gun and a swordle [= as Zorg] .
+*CHI:	&=whispers:to_Zorg treasure.
+*CHI:	treasure-and treasure [= as Zorg] .
+@G:	Doctor
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg doctor.
+*CHI:	doctor [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=sneezes.
+*INV:	bless you.
+*CHI:	thanks.
+*CHI:	I'm gonna [?] take this off for a second [= refers to puppet].
+*INV:	uh huh &=nods:yes.
+*CHI:	and you have a trash?
+*INV:	right over there &=points.
+*INV:	thank you.
+*CHI:	&=whispers:to_Zorg it's a doctor and it helps people.
+*CHI:	it's a doctor and it help, helps people [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	um um, yeah um, ah &=whispers:to_Zorg He's good xxx.
+*CHI:	he's good and not evil [= as Zorg].
+*INV:	anything else you want to tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	&=whispers:to_Zorg they help you and they take care of you.
+*CHI:	they help you and they take care of you [= as Zorg].
+@G:	Bread
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg bread.
+*CHI:	bread [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	you have um um, butter or something, yep eh doe [= as Zorg]
+	&=makes:noises [= for Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg uh xxx eat it.
+*CHI:	you eat it [= as Zorg].
+@G:	Painter
+*INV:	what is this?
+*CHI:	um, &=whispers:to_Zorg Plant.
+*CHI:	a plant [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg it's a artists.
+*CHI:	it's a artist [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um, it draws things [= as Zorg].
+*CHI:	pictures [= as Zorg].
+@G:	Cheese
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg cheese that mice like.
+*CHI:	cheese that mice like [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg they bite.
+*CHI:	they bite [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg you eat it.
+*CHI:	you eat it [= as Zorg].
+@G:	Dog
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg puppy.
+*CHI:	puppy [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg chews up things.
+*CHI:	chews up things [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg jumps on things wrestles you.
+*CHI:	jumps on things and wrestles you [= as Zorg].
+@G:	Baby
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg baby xxx.
+*CHI:	it's a baby [= as Zorg].
+*CHI:	and he and, and lays down and [= as Zorg] +...
+*CHI:	I got to go to the bathroom okay?
+*INV:	okay &=leaves:room &=returns.
+*INV:	alright.
+*INV:	alright you can go right back in.
+*INV:	alright, so what is this?
+*CHI:	a baby.
+*INV:	what ⌈ more can you tell me⌉?
+*CHI:	uh I ⌊mean⌋ &=puts:Zorg_on_hand +...
+*CHI:	&=whispers:to_Zorg it's a baby.
+*CHI:	it's a baby [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	cries and likes to sleep [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg change diapers.
+*CHI:	change diapers [= as Zorg].
+@G:	Cookie
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg a [?] cookie.
+*CHI:	cookie [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	uh you can [= as Zorg] +...
+*CHI:	&=whispers:to_Zorg you can eat it.
+*CHI:	you can eat it [= as Zorg].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	&=whispers:to_Zorg xxx chocolate.
+*CHI:	chocolate [= as Zorg].
+@G:	Duck
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg duck that [?] swims.
+*CHI:	duck that swims, swims [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg quack Quack.
+*CHI:	quack quack [= as Zorg].
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	xxx female [= to Zorg].
+*CHI:	what's a boy duck [= to INV]?
+*INV:	hm I'm not sure.
+*INV:	what do you think?
+*CHI:	hm.
+*INV:	hm.
+*CHI:	male, I mean male.
+*CHI:	&=whispers:to_Zorg male.
+*CHI:	male [= as Zorg].
+@G:	Banana
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg banana that monkeys eat.
+*CHI:	it's a banana [= as Zorg].
+*CHI:	but mon-uh [= as Zorg] monkeys eat monkeys eat [= to Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg people eat it too.
+*CHI:	people eat it too [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	it's called a hand bananzs [= as Zorg].
+@G:	Turtle
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg turtle that swims in water.
+*CHI:	turtle that swims in wate- water [= as Zorg].
+*INV:	what more can you tell me?
+*CHI:	&=whispers:to_Zorg curls up xxx shell xxx eat it.
+*CHI:	curls up in his shell if its gon-if something's gonna eat it
+	[= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	&=whispers:to_Zorg snap one.
+*CHI:	it's a snap one [= as Zorg].
+@G:	Baseball Player
+*INV:	what is this?
+*CHI:	&=whispers:to_Zorg baseball player.
+*CHI:	baseball player, player.
+*INV:	what [/] what more can you tell me?
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	um, it hits the ball then er drops the pin and then it runs into a
+	shh that, like that [= as Zorg].
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	um [= as Zorg].
+*CHI:	&=whispers:to_Zorg xxx.
+*CHI:	the football pl- I mean uh [= as Zorg].
+*CHI:	&=whispers:to_Zorg baseball player.
+*CHI:	it's a baseball player and it runs [= as Zorg].
+*INV:	do you want to look again?
+*CHI:	uh uh [= no].
+*INV:	no okay we're all done.
+*INV:	thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

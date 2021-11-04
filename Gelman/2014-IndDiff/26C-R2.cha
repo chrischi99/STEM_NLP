@@ -1,0 +1,223 @@
+@UTF8
+@PID:	11312/a-00032121-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.25|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Turtle
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	turtle.
+*INV:	what more can you tell me?
+*CHI:	turtles don't have tails fluffy tails because they.
+*CHI:	they're really scared of people but I can pick them up.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	that's the what are those things?
+*CHI:	teeth.
+*CHI:	it's its house and it's its shell that it goes in when when you're scared and you can pick it up and it doesn't bite.
+*INV:	oh.
+*CHI:	that's it.
+*CHI:	xxx turn the page.
+*CHI:	I turn the page and then it's my turn to say the question and see what what word you're going to say.
+*INV:	no Firstname.
+@G:	Cheese
+*CHI:	cheese.
+*INV:	what more can you tell me?
+*CHI:	cheese that you eat that mouse eat.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	um the only reason that mouse eat is because they think it's yummy.
+*CHI:	and and sometimes, the cat eats the mouse.
+*INV:	oh.
+*CHI:	that's it.
+*CHI:	that's why it xxx.
+@G:	Puppy
+*CHI:	puppy.
+*INV:	what more can you tell me?
+*CHI:	the puppy does has fluffies but dogs are like that but some dogs are colory.
+*INV:	oh.
+*CHI:	so that means that dog is not that.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um because it has eyes so it can see and it has and it has some lines in so that's helps dogs see and, cats.
+*INV:	okay.
+@G:	Bread
+*INV:	what is this?
+*CHI:	bread.
+*INV:	what more can you tell me?
+*CHI:	bread is supposed to be like that like all different breads.
+*CHI:	like they have some skin that I don't really like that skin.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	uh it's a puppet.
+*CHI:	puppet.
+*CHI:	it's s puppet.
+*CHI:	I'm telling you it's a puppet.
+*CHI:	I know it's a puppet.
+*CHI:	he's a puppet.
+*INV:	okay well help him out with this one.
+*INV:	he doesn't know much.
+*CHI:	um, that bread has some of it because I don't think I don't wanna xxx the next page.
+@G:	Baby
+*CHI:	baby.
+*INV:	what more can you tell me?
+*CHI:	babies don't really like me but I like Firstname.
+*CHI:	firstname's really good.
+*CHI:	he he's my cousin.
+*INV:	mm.
+*CHI:	so I think that baby would be somebody else's cousin.
+*CHI:	and that means that I really like that baby.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, cause all these dolls are there so babies can play.
+*CHI:	&=whispers I'm gonna turn the page.
+@G:	Duck
+*INV:	what is this?
+*CHI:	that's a duck.
+*INV:	what more can you tell me?
+*CHI:	ducks fly because some because they're birds.
+*INV:	mm.
+*CHI:	and they have grey things in the ice [?] somewhere outside.
+*CHI:	and that's the other question so I'm gonna turn the page.
+*INV:	hold on.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	um, I like the feet.
+*CHI:	and I like the beak on it.
+*CHI:	it's really colory.
+*INV:	okay.
+*CHI:	I'm gonna turn the page.
+@G:	Ladybug
+*INV:	what is this?
+*CHI:	ladybug.
+*INV:	what more can you tell me?
+*CHI:	ladybugs really sting so they can.
+*CHI:	they can fly.
+*CHI:	they fly so so they can so they can save thereselves.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	(be)cause they sting and they have legs.
+*CHI:	so they can walk.
+*CHI:	now I'm gonna turn the page.
+@G:	Painter
+*INV:	what is this?
+*CHI:	that's a artist.
+*INV:	what more can you tell me?
+*CHI:	artists do that so they can look at the directions.
+*CHI:	but I can't really do that would you help me, do that one?
+*INV:	hm.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	no.
+*CHI:	I like it because it has a long long neck.
+*CHI:	and I really like the artist.
+*INV:	mm.
+*CHI:	I like it too.
+*CHI:	I'm gonna turn the page.
+@G:	Cookie
+*CHI:	cookie.
+*CHI:	cookies.
+*CHI:	&=pretends:eat_picture.
+*CHI:	I ate it.
+*INV:	what more can you tell me?
+*CHI:	because cookies I like them because Cookie_Monster eats them and let and let me have some of his cookie.
+*INV:	oh.
+*CHI:	and let me have his cookie.
+*CHI:	but Firstname doesn't like.
+*CHI:	she helps me cook.
+*CHI:	she's a good she she's a good cooker.
+*CHI:	hi Firstname.
+*CHI:	firstname, Firstname tell xxx.
+*INV:	firstname.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	this cookie has is raisin in it and I like it.
+*CHI:	now it's my turn.
+@G:	Pirate
+*CHI:	who is this?
+*INV:	what is this?
+*CHI:	a pirate.
+*INV:	what more can you tell me?
+*CHI:	(be)cause pirates search search for the treasure so they can steal somebody's treasure.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	cause they be mean and fight.
+@G:	Carrot
+*CHI:	carrot &=pretends:eat_picture.
+*CHI:	I like carrots.
+*INV:	what more can.
+*CHI:	I ate carrots.
+*CHI:	I ate the carrot.
+*INV:	what more can you tell me?
+*CHI:	carrots are long but why do they have they have trees because so they can so so they they help me but I don't like the trees.
+*INV:	mm.
+*CHI:	you can take off the trees.
+*CHI:	I give them to rabbits if I don't want it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't Firstname [= child trying to turn page].
+*INV:	                                                     ⌈he doesn't know much about this one⌉.
+*CHI:	because it has trees so it can make it really really ⌊juicy⌋.
+*INV:	mm.
+*CHI:	now I'm gonna turn the other page.
+@G:	Banana
+*CHI:	and I'm gonna see a banana &=pretends:eat_banana.
+*INV:	what more can you tell me?
+*CHI:	here &=gives:pretend_banana.
+*CHI:	I gave it to Firstname.
+*CHI:	and because it have peeled off but you have to be careful like it doesn't really want to be.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	this one makes it really juicy if you juice it around your mouth.
+*CHI:	and don't eat the skin really bad.
+@G:	Baseball Player
+*CHI:	baseball player.
+*CHI:	it's a baseball player.
+*INV:	what more can you tell me?
+*CHI:	baseball player's likes to play so everybody cheers for them.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	I like them because they actually hit the ball.
+*CHI:	(be)cause I saw one at the pool.
+@G:	Pig
+*CHI:	pig.
+*INV:	hold On.
+@G:	Doctor
+*INV:	what is this?
+*CHI:	this is a doctor.
+*INV:	what more can you tell me?
+*CHI:	doctors actually make you feel better.
+*INV:	mm-hm [= yes].
+*CHI:	when [?] they give you medicine and give you your temperature.
+*INV:	mm, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah.
+*CHI:	the only reason they do that to make you better so they can be nice.
+*INV:	mm.
+*CHI:	I saw Batman today.
+*INV:	oh.
+*CHI:	xxx.
+@G:	Pig
+*INV:	what is this?
+*CHI:	pig.
+*INV:	what more can you?
+*CHI:	pig goes on the farm because it actually doesn't do anything like it wants to do something.
+*INV:	what else can you tell me?
+*CHI:	pigs that have spots like I saw one before and I really like it.
+*CHI:	that means I.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yeah the only reason it has legs so it can walk.
+*CHI:	and that's the other question.
+*CHI:	turn the page and there's no more page.
+*INV:	do you want to look again?
+*CHI:	no I want to go home.
+*INV:	okay.
+*CHI:	I want to go see if we can play some more.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End

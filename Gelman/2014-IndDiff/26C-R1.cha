@@ -1,0 +1,188 @@
+@UTF8
+@PID:	11312/a-00032120-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;06.05|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Owl
+@Types:	cross, narrative, TD
+*CHI:	owl.
+@G:	Bicycle
+*INV:	can we finish with this picture [= referring to bike]?
+*CHI:	no.
+@G:	Owl
+*INV:	okay well what more can you tell me?
+*CHI:	this is this owl is not with the.
+*CHI:	owls are afraid and they are scared.
+*INV:	mm-hm [= yes], what else can you tell me?
+*CHI:	that they're not nice sometimes.
+*INV:	okay.
+*CHI:	sometimes they use their claws to bite.
+*CHI:	goody.
+@G:	Pie
+*CHI:	pie.
+*INV:	what more can you tell me?
+*CHI:	this pie is what you eat don't break.
+*CHI:	you can have a piece but one piece.
+*CHI:	&=tries:turn_page.
+*INV:	&=turns:page_back.
+*INV:	what else?
+*CHI:	no.
+*INV:	firstname.
+*CHI:	okay okay okay &=turns:page_back.
+@G:	Bicycle
+*CHI:	no not bicycle.
+@G:	Pie
+*CHI:	                       ⌈pie⌉.
+*INV:	what else can you tell ⌊me⌋?
+*CHI:	pie is where you can eat them with honey.
+*INV:	mm-hm [= yes].
+*CHI:	or peanut butter.
+*INV:	okay.
+*CHI:	now that's the last question.
+*CHI:	I'm gonna do the other one okay?
+@G:	Pretzel
+*INV:	⌈what is this⌉?
+*CHI:	⌊pretzel⌋.
+*CHI:	a pretzel.
+*CHI:	pretzels have salt because they can actually so tasty like they are.
+*INV:	                                             ⌈mm⌉.
+*CHI:	but that, but that doesn't mean you have to, ⌊break⌋.
+*INV:	mm.
+*CHI:	that's the last one &=turns:page.
+*INV:	hold on.
+*CHI:	no no no.
+*INV:	let's slow down a little bit.
+*CHI:	no no no.
+*INV:	firstname please &=turns:page_back.
+*CHI:	<I wanna> [?].
+*INV:	what more can you tell me?
+*CHI:	it twists like you have to do that if you want to write it.
+*INV:	okay.
+*CHI:	that's last.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	that king is why they he's there so he wants to be a king but.
+*CHI:	and I have the movie of that and he wants he killed his brother and his father.
+*INV:	what else can you tell me?
+*CHI:	that <all these> [?] kings (be)cause he wanted to be king they were arguing.
+*INV:	mm-hm [= yes].
+*CHI:	that's why.
+*CHI:	that's the last one.
+*CHI:	I'll do the other one okay?
+@G:	Lion
+*CHI:	oh that's a lion.
+*CHI:	a lion's so fat because when he doesn't take a shower it makes him so fat.
+*CHI:	I don't like lions because they can bite if you pet them.
+*INV:	what more can you tell me?
+*CHI:	I don't like his eyes cause the eyes are really weird.
+*INV:	mm.
+*CHI:	that's the last one.
+@G:	Farmer
+*CHI:	what's that?
+*CHI:	a farmer.
+*CHI:	the farmer likes to get vegetables because that's what's good for people.
+*CHI:	I buy vegetables.
+*INV:	mm-hm [= yes], what more can you tell me?
+*CHI:	xxx.
+*CHI:	&=turns:page.
+*INV:	firstname.
+*CHI:	stop <no more> [?] &=turns:page_back.
+*CHI:	not [?] because she's carrying vegetables tomatoes broccoli peas.
+*CHI:	I don't like spinach.
+*CHI:	we'll do the last one okay?
+@G:	Surfer
+*CHI:	a skateboard.
+*CHI:	the sea is great but you have to get in there and there's no fish or sharks.
+*CHI:	because there's no sharks in the water.
+*INV:	what more can you tell me?
+*CHI:	that boy he's wearing underwear.
+@G:	Corn
+*INV:	what is this?
+*CHI:	a corn.
+*INV:	wha.
+*CHI:	corn are made out of that.
+*CHI:	people don't like corn of that.
+*INV:	what more can you tell me?
+*CHI:	that it has all sets of colors.
+*CHI:	miss Firstname told us about them.
+*CHI:	and we ate them for.
+@G:	Strawberry
+*CHI:	strawberry.
+*CHI:	we eat strawberries but I take off the skin, part.
+*CHI:	I take of the this right here.
+*CHI:	this green stuff.
+*CHI:	I take off the leaf.
+*INV:	what more can you tell me?
+*CHI:	I don't like strawberries but I like the taste and the seeds.
+@G:	Weightlifter
+*CHI:	a strong.
+*CHI:	strongs when they're strong it means they have metal balls so they can get a lot stronger.
+*INV:	what more can you tell me?
+*CHI:	oh nothing.
+@G:	Frog
+*CHI:	frog.
+*CHI:	his ears are like that because I don't like those kind of frog but I like his, colors.
+*CHI:	they go in the water but why do I why do they have those two heels
+	[?] &=turns:page?
+@G:	Police Officer
+*INV:	firstname.
+*CHI:	police instructor.
+*INV:	firstname &=turns:page_back.
+@G:	Frog
+*INV:	what else can you tell me?
+*CHI:	those spots are there because those two heels are why what the frogs are made out of.
+*CHI:	xxx.
+@G:	Police Officer
+*CHI:	the polices have police cars because they're police men or police girls.
+*INV:	what more can you tell me?
+*CHI:	because they have badgets so they can arrest people.
+*CHI:	so they can <look at them> [?].
+@G:	Snake
+*CHI:	a snake is why they have a good influences.
+*CHI:	firstname I know that.
+*INV:	what else can you tell me?
+*CHI:	&=turns:page.
+@G:	Milk
+*INV:	firstname.
+*CHI:	milk &=turns:page_back.
+@G:	Snake
+*CHI:	it's because it has a long thing so snakes can bite but that is I don't know xxx.
+@G:	Milk
+*CHI:	milk is made out of water cause you don't want to make it be yellow you know.
+*CHI:	only white that's what it is.
+*INV:	⌈what more can you tell me⌉?
+*CHI:	⌊<only that> [?]⌋.
+*CHI:	um because that what what's that kind of animal
+	[= referring to Zorg] ?
+*INV:	I'm not sure.
+*CHI:	it's a rabbit [= referring to Zorg].
+*INV:	mm.
+*CHI:	and because it would do that because of its own you know because of its own body.
+*CHI:	(be)cause I xxx.
+@G:	Rabbit
+*CHI:	a bunny is made out of those things because those things are its claws but that's that's the one question.
+*CHI:	xxx one.
+*CHI:	no one one one one.
+*INV:	firstname.
+*CHI:	that was the one.
+*INV:	what more can you tell me?
+*CHI:	that it it has bunny ears.
+*CHI:	that's the last one.
+*CHI:	that's the.
+*CHI:	the end.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	alright well let's put Zorg back into his box.
+*CHI:	yeah.
+*CHI:	and guess what?
+*INV:	what?
+*CHI:	let's get something else to play with.
+*INV:	oh okay.
+*INV:	well thank you very much for doing that with me that was a lot of fun.
+*CHI:	yeah I liked doing that.
+@End

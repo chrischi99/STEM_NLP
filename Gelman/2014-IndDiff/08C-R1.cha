@@ -1,0 +1,305 @@
+@UTF8
+@PID:	11312/a-00032012-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.10|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Pineapple
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a pineapple.
+*INV:	what more can you tell me?
+*CHI:	it has thorns, like stick +...
+*CHI:	and, it has green [?] stuff on right here.
+*INV:	mm-hm [= yes], okay.
+@G:	Cat
+*INV:	&=gasps what is this?
+*CHI:	a kitty.
+*INV:	kitty.
+*INV:	what more can you tell me?
+*CHI:	it has stripes.
+*INV:	mm-hm [= yes].
+*CHI:	and it has a stripe- it has stripes on the foot.
+*INV:	mm-hm [= yes].
+*CHI:	it has, one two three four legs.
+*CHI:	and, yeah.
+*INV:	&=nods:yes okay.
+@G:	Skunk
+*CHI:	        ⌈a skunk⌉.
+*INV:	what is ⌊this⌋?
+*INV:	what more can you tell me?
+*CHI:	um, I have a beanie baby skunk.
+*INV:	&=nods:yes mm-hm [= yes], okay.
+*CHI:	<a beanie baby one> [?].
+*INV:	well you know what?
+*CHI:	what?
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh-huh [= yes].
+*CHI:	it has white stuff.
+*CHI:	and, it has pointy <stuff on it> [?].
+*CHI:	and it stinks.
+*INV:	&=laughs.
+*INV:	&=nods:yes okay.
+*CHI:	and it's all black.
+*CHI:	a little is white.
+*INV:	&=nods alright.
+@G:	Muffin
+*INV:	&=gasps what is this?
+*CHI:	a cupcake.
+*INV:	what more can you tell me?
+*CHI:	um it has raisins in it or blueberries.
+*INV:	mm-hm [= yes].
+*CHI:	and, one time I went picking blueberries.
+*INV:	mm.
+*CHI:	I had to have the smallest pan (be)cause I was the littlest.
+*INV:	mm-hm [= yes].
+*CHI:	firstname has had the big one but my mommy and daddy had the biggest.
+*INV:	oh.
+*CHI:	my daddy used what I used when he was little.
+*INV:	&=nods:yes mm-hm [= yes].
+*INV:	now you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh-huh [= yes].
+*CHI:	it has nuts in it, too.
+*INV:	okay.
+@G:	Firefighter
+*INV:	what is this?
+*CHI:	a fireman.
+*INV:	what more can you tell me?
+*CHI:	um he is wash- he's getting out the fire.
+*INV:	&=nods:yes okay you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	uh-huh [= yes] he's just xxx that he's holding.
+*INV:	mm-hm [= yes].
+*CHI:	I need to blow my nose.
+*INV:	oh okay well let's get you a Kleenex.
+*INV:	&=leaves:room.
+*INV:	here you go &=hands:tissue.
+*INV:	all better?
+*CHI:	uh-huh [= yes].
+*INV:	mkay [= okay], well Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	and, he has a point he has a thing.
+*CHI:	and it has a pointy thing on the end.
+*INV:	&=nods:yes okay.
+*CHI:	ah &=turns:page.
+@G:	Ballerina
+*INV:	what is this?
+*CHI:	a ballerina.
+*INV:	what more can you tell me?
+*CHI:	mm she, these things are called tutus &=points:tutu.
+*INV:	mm.
+*CHI:	it's a kind of a funny name.
+*INV:	&=laughs.
+*CHI:	and, toe shoes.
+*CHI:	another toe shoe.
+*CHI:	and she has, yellow hair.
+*INV:	mm-hm [= yes].
+*CHI:	black tights.
+*INV:	mkay [= okay].
+*CHI:	I have a ballerina suit.
+*INV:	oh.
+*CHI:	but it's light pink.
+*INV:	mm-hm [= yes].
+*CHI:	&=laughs and I don't know.
+*INV:	&=nods:yes okay.
+*INV:	you're doing really good.
+@G:	Parrot
+*INV:	what is this?
+*CHI:	a parrot.
+*INV:	what more can you tell me?
+*CHI:	um it has a bunch of blue and green.
+*CHI:	green here and green here.
+*CHI:	yellow and yellow.
+*CHI:	and it's um he's standing on something.
+*INV:	mkay [= okay] you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*CHI:	is this Zorg?
+*INV:	yup this is Zorg.
+*CHI:	I want to put like this &=puts:Zorg_on.
+*INV:	&=nods:yes okay.
+*CHI:	and it has ears [?].
+*CHI:	bunch of xxx.
+@G:	Dolphin
+*CHI:	next one what is I know this one.
+*INV:	what is this?
+*CHI:	um a a dolphin or a whale.
+*INV:	mm.
+*INV:	well what more can you tell me?
+*CHI:	um it has a bunch of black and white on the bottom.
+*CHI:	I guess it's a whale.
+*INV:	&=nods:yes mm.
+*CHI:	and it's swimming in, a lake.
+*INV:	                    ⌈okay⌉.
+*CHI:	that has a bunch of ⌊water⌋.
+*INV:	mm-hm [= yes].
+*CHI:	I'm finished.
+*INV:	&=nods:yes okay.
+@G:	Judge
+*INV:	&=gaspsWhat is oop.
+*CHI:	&=turns:pages.
+*INV:	what is this?
+*CHI:	um it's a, man that's working in his office.
+*INV:	mm.
+*INV:	what more can you tell me?
+*CHI:	um he has glasses but he's a little mad.
+*INV:	mm.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	yes.
+*CHI:	I thought there was two in the box but there was only one
+	[= referring to puppet].
+*INV:	yeah.
+*CHI:	&=laughs.
+*CHI:	and he has a book ⌈<I mean> [?]⌉.
+*INV:	                  ⌊mm-hm⌋.
+*CHI:	&=laughs oh.
+*INV:	okay.
+*CHI:	and he has a mean look.
+*INV:	&=nods:yes okay.
+@G:	Cracker
+*INV:	what is this?
+*CHI:	a cracker.
+*INV:	what more can you tell me?
+*CHI:	it's a saltine cracker.
+*INV:	mm-hm [= yes].
+*CHI:	<let me set him> [?] right there [= referring to Zorg].
+*CHI:	let me scooch my chair in.
+*CHI:	he can, he he can play with my puppy.
+*INV:	okay.
+*CHI:	(o)kay, &=gets:up &=pushes:chair_in yeah.
+*CHI:	and it has holes in it.
+*INV:	&=nods:yes mm-hm [= yes].
+*CHI:	it has one two three four five six seven eight nine ten eleven twelve thirteen fourteen.
+*INV:	&=nods:yes mm.
+*CHI:	fourteen.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes], and it's light very very light gold.
+*INV:	okay.
+*CHI:	can you do his hands [= referring to Zorg]?
+*INV:	yeah, um no, I don't think so.
+*CHI:	none, by his ears either.
+*CHI:	I want to go like this &=puts:Zorg_hands_together.
+*INV:	mm-hm [= yes].
+*CHI:	<hold them like> [?].
+*INV:	alright let's go on.
+*CHI:	mm-hm [= yes].
+@G:	Pumpkin
+*CHI:	a pumpkin for a pumpkin.
+*INV:	what more can you tell me?
+*CHI:	um, it's, it's for Halloween.
+*CHI:	and, it, and it has stripes on it.
+*INV:	mm-hm [= yes].
+*CHI:	it's orange.
+*INV:	okay, Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes], and it has a handle.
+*INV:	&=nods:yes okay.
+*CHI:	and, it, and the handle's blue [?].
+*CHI:	and, and um and that's all.
+*INV:	okay.
+@G:	Old Woman
+*INV:	&=gasps what is this?
+*CHI:	a ski girl.
+*INV:	what more can you tell me?
+*CHI:	um she's holding a stick and she has glasses on and a necklace.
+*INV:	mm-hm [= yes].
+*CHI:	three necklaces.
+*CHI:	three one two.
+*CHI:	one two and three.
+*INV:	okay.
+*CHI:	it doesn't go three one two.
+*CHI:	&=laughs.
+*INV:	now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes], um and she has blue pants.
+*CHI:	and pink shirt.
+*CHI:	and, very very light, shirt [?].
+*INV:	mm-hm [= yes].
+*CHI:	very very very light color shirt.
+*CHI:	that's all I know.
+*INV:	okay.
+*CHI:	and she has a bow.
+*INV:	okay.
+@G:	Race Car Driver
+*INV:	what is this?
+*CHI:	um a guy on a race car at a race car is it at a race car.
+*INV:	mm-hm [= yes].
+*CHI:	they're gonna race.
+*CHI:	&=turns:page &=turns:page_back ah.
+*INV:	&=laughs what more can you tell me?
+*CHI:	um he has a dog print on his shirt.
+*CHI:	and another, and he has glasses.
+*CHI:	a hat.
+*CHI:	white tan and black here.
+*CHI:	and pink here.
+*INV:	mm.
+*CHI:	and pink right there.
+*CHI:	and purple on here.
+*INV:	mm-hm [= yes], now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes], and the cars have numbers on them.
+*INV:	mm-hm [= yes].
+*CHI:	and there's everyone.
+*INV:	&=laughs.
+*CHI:	there's a lot of.
+*INV:	mm-hm [= yes].
+*CHI:	I'm done.
+*INV:	&=nods:yes okay.
+@G:	Ice Cream
+*INV:	what is this?
+*CHI:	an ice cream cone.
+*INV:	what more can you tell me?
+*CHI:	um it has pink for the ice cream and dark gold for, um, for the the I mean the cone.
+*INV:	mm-hm [= yes], now Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	you can have ice cream when you're outside like I do xxx.
+*INV:	okay.
+*CHI:	&=peeks:next_page oh this one's gonna be a good one [?] next.
+*INV:	&=laughs.
+*CHI:	xxx.
+*INV:	alright.
+*CHI:	and it has squares on it.
+*INV:	okay.
+@G:	Butterfly
+*CHI:	a butterfly.
+*INV:	what more can you tell me?
+*CHI:	it has dots on here and orange ⌈on it⌉.
+*INV:	                               ⌊mm-hm⌋.
+*CHI:	a bunch of orange.
+*INV:	mm-hm [= yes].
+*CHI:	this is the last page.
+*INV:	mm, you know Zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes], and, it has little orange dots.
+*INV:	mm-hm [= yes].
+*CHI:	&=turns:page and that's all.
+@Comment:	End of book
+*INV:	that's all.
+*CHI:	that was long.
+*INV:	yeah, do you wanna look again?
+*CHI:	no.
+*INV:	&=shakes:head nope?
+*INV:	okay, well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+*INV:	                    ⌈do you⌉ +...
+*CHI:	I want to play some ⌊more⌋.
+*INV:	what's that?
+*CHI:	I wanna play another game.
+*INV:	you wanna play another game?
+*INV:	we're gonna put Zorg to sleep.
+*INV:	and we're gonna go outside.
+*CHI:	stop [?].
+*INV:	oh you want to carry that out [= referring to box Zorg is in]?
+*INV:	oh you want to put that up [= referring to box]?
+*INV:	I gotcha.
+*CHI:	zorg likes Webster.
+*CHI:	I need to carry this one out [= referring to stuffed dog].
+*INV:	zorg likes Webster?
+*CHI:	mm-hm [= yes].
+@End

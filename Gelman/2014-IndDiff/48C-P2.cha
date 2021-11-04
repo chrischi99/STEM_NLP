@@ -1,0 +1,148 @@
+@UTF8
+@PID:	11312/a-00032251-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|5;00.12|female|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Alligator
+@Types:	cross, narrative, TD
+*MOT:	alright.
+*CHI:	crocodile.
+*MOT:	well do you think it's a ⌈crocodile⌉?
+*CHI:	                         ⌊crocodile⌋.
+*MOT:	or an ⌈alligator⌉?
+*CHI:	      ⌊alligator⌋.
+*CHI:	alligator.
+*MOT:	⌈well what do⌉ +...
+@G:	Elephant
+*CHI:	⌊elephant⌋ &=turns:page.
+@G:	Alligator
+*MOT:	&=turns:page_back I don't know what the difference is to tell you
+	the truth.
+*CHI:	oh it's, it's a crocodile.
+*CHI:	it's a crocodile.
+*MOT:	is there something sitting on him?
+*MOT:	what is that?
+*CHI:	huh?
+*MOT:	it looks like there's something on him.
+*CHI:	it's a turtle.
+@G:	Elephant
+*CHI:	a elephant.
+@G:	Orange
+*CHI:	a orange.
+@G:	Penguin
+*CHI:	and a penguin.
+@G:	Witch
+*CHI:	and a witch.
+@G:	Penguin
+*MOT:	do you remember what Diego calls those?
+*CHI:	penguino.
+*MOT:	penguinos.
+@G:	Witch
+*CHI:	witches.
+*MOT:	and what else is in there [?]?
+*MOT:	⌈what else is there⌉?
+*CHI:	⌊bats⌋.
+*MOT:	what's she riding?
+*CHI:	huh?
+*MOT:	what's she riding?
+*CHI:	uh, broom.
+*MOT:	a broom.
+*CHI:	yeah.
+@G:	Cake
+*CHI:	cake.
+*MOT:	chocolate cake?
+*CHI:	yeah.
+*MOT:	mm.
+*MOT:	white cake?
+*CHI:	chocolate cake.
+*MOT:	it's not chocolate cake.
+*MOT:	it's chocolate frosting.
+*CHI:	it's vanilla cake.
+*MOT:	yeah.
+@G:	Popcorn
+*CHI:	popcorn.
+*MOT:	popcorn.
+*CHI:	it's in a bowl.
+*CHI:	a glass bowl.
+*MOT:	mm-hm [= filler].
+@G:	Teacher
+*CHI:	teacher and she's writing on the wall.
+*MOT:	what's she writing?
+@G:	Lobster
+*MOT:	I wanna look &=tries:turn_back_page.
+*CHI:	mom.
+*MOT:	I wanna see.
+*CHI:	it's a crab.
+*CHI:	this is a crab.
+*CHI:	crab.
+*MOT:	ll- mm.
+*CHI:	lobster actually.
+*CHI:	yeah ⌈lobster⌉.
+*MOT:	     ⌊lobster⌋.
+@G:	Pilot
+*CHI:	police officer.
+*CHI:	police.
+*MOT:	you think?
+*CHI:	yeah it's a police.
+@G:	Horse
+*CHI:	a pony.
+*CHI:	I love ponies.
+*MOT:	mm-hm [= filler].
+@G:	Broccoli
+*CHI:	broccoli.
+@G:	Football Player
+*CHI:	football.
+*MOT:	is that a girl or a boy?
+*CHI:	girl.
+*MOT:	do girls usually play football?
+*CHI:	&=shakes:head_no.
+*MOT:	no.
+*MOT:	they can.
+*CHI:	no.
+*MOT:	but they don't usually play football.
+*MOT:	not the ones we see on tv.
+@G:	Clown
+*CHI:	a clown.
+*MOT:	what's he uh doing?
+*MOT:	I don't know.
+*MOT:	what is he doing?
+*CHI:	making a funny face.
+*MOT:	oh come here.
+*MOT:	you're not looking.
+*MOT:	you're looking upside down now.
+*CHI:	that's okay.
+*MOT:	firstname.
+*MOT:	you're looking at it upside down.
+*MOT:	you can't tell what he's doing.
+*MOT:	what is he waiting for?
+*CHI:	he's waiting for the gentlemen to come?
+*MOT:	what's he doing with his hands?
+*CHI:	he is putting them like this &=puts:fingers_in_ears.
+*MOT:	mm-hm so is he waiting for a big, loud.
+*CHI:	scream!
+*MOT:	&=laughs maybe a big loud bang.
+*MOT:	(be)cause looks there's something else there.
+*CHI:	I don't know.
+*MOT:	maybe he's waiting for a big loud bang.
+*MOT:	you're looking a little tired today too.
+*CHI:	no.
+*MOT:	open your eyes.
+@G:	Cereal
+*CHI:	chips.
+*CHI:	in a, ⌈bowl⌉.
+*MOT:	      ⌊cereal⌋.
+*MOT:	is it cereal or chips?
+*CHI:	cereal.
+*MOT:	cereal?
+*CHI:	the end.
+*CHI:	can that girl come in now?
+*MOT:	&=laughs yeah she can.
+*MOT:	do you want to look at it again?
+*CHI:	no.
+*MOT:	no?
+*MOT:	okay.
+*MOT:	alright.
+@End

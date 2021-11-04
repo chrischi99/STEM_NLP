@@ -1,0 +1,163 @@
+@UTF8
+@PID:	11312/a-00032294-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;04.28|male|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Owl
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	owl.
+*INV:	what more can you tell me?
+*CHI:	uh, it, it has claws.
+*CHI:	and fur.
+*CHI:	and a tail.
+*CHI:	and pointy nose.
+*CHI:	and eyes.
+*CHI:	and cheeks.
+*CHI:	and hashairs.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+@G:	King
+*INV:	what is this?
+*CHI:	king.
+*INV:	what more can you tell me?
+*CHI:	I can do the very, I don't think I know anything about that one.
+*INV:	oh.
+*INV:	well is there anything you can tell me?
+*CHI:	no [= quietly].
+@G:	Milk
+*INV:	what is this?
+*CHI:	milk.
+*INV:	what more can you tell me?
+*CHI:	you can drink it.
+*CHI:	it's white.
+*CHI:	it goes in the glass.
+*CHI:	you pour it.
+*INV:	mm.
+*CHI:	and use liquid to make it.
+*INV:	mm okay.
+*CHI:	mm I think, oh okay.
+*CHI:	this one [?].
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	pretzel.
+*INV:	what more can you tell me?
+*CHI:	you you eat it.
+*CHI:	and it has sugary stuff in.
+*CHI:	and it's colored.
+*CHI:	it has holes.
+@G:	Frog
+*INV:	what is this?
+*CHI:	frog.
+*INV:	what more can you tell me?
+*CHI:	it jumps.
+*CHI:	it climbs on trees.
+*CHI:	it, has soft claws.
+@G:	Snake
+*INV:	what is this?
+*CHI:	snake.
+*INV:	what more can you tell me?
+*CHI:	it, it crawls.
+*CHI:	it has a long body.
+*INV:	mm-hm [= filler].
+*INV:	anything else you wanna tell me?
+*CHI:	uh, the I I think I wanna move on the next page.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	strawberry.
+*INV:	what more can you tell me?
+*CHI:	it it has leafs.
+*CHI:	it has a root.
+*CHI:	it's red.
+*CHI:	it has leafs.
+*CHI:	and it grows.
+*CHI:	and sometimes it's brown.
+*INV:	mm.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	gardener.
+*INV:	what more can you tell me?
+*CHI:	I don't really think I have anything to tell about it.
+*INV:	you're doing really good.
+*INV:	is there anything you can tell me?
+*CHI:	not, really.
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn.
+*INV:	what more can you tell me?
+*CHI:	um it, it has different colors on the cob part.
+*INV:	what else can you tell me?
+*CHI:	you you eat the color part off.
+*CHI:	and it grows in the field.
+*INV:	hm.
+*CHI:	and it's in a farm.
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	police officer.
+*INV:	what more can you tell me?
+*CHI:	um they +...
+*CHI:	I can't.
+*CHI:	I don't [?] have anything.
+@G:	Pie
+*INV:	what is this?
+*CHI:	hive.
+*INV:	what more can you tell me?
+*CHI:	bees live in it.
+*INV:	mm, what else can you tell me?
+*CHI:	and and it's strong.
+*CHI:	and it's where the bees make their honey.
+*INV:	mm.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	diver.
+*INV:	what more can you tell me?
+*CHI:	it, swims.
+*INV:	what else can you tell me?
+*CHI:	I don't think there's anything else.
+@G:	Lion
+*INV:	what is this?
+*CHI:	lion.
+*INV:	what more can you tell me?
+*CHI:	it's wild.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	it it, it it has um a flat feet.
+*INV:	mm.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	rabbit.
+*INV:	what more can you tell me?
+*CHI:	it it jumps.
+*INV:	what else can you tell me?
+*CHI:	it digs a hole for its home.
+*INV:	mm.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	um, I don't know.
+*INV:	well what can you tell me?
+*CHI:	I'm not sure if I have anything.
+*CHI:	so +...
+*INV:	mm what do you think it is?
+*CHI:	giant maybe.
+*INV:	mm.
+*INV:	what else can you tell me?
+*CHI:	I don't think I have anything.
+*CHI:	usually I want to practice opening them &=opens:binder
+	&=closes:binder.
+*INV:	ooh be careful.
+*CHI:	yeah.
+*INV:	watch your fingers.
+*CHI:	yeah.
+*INV:	can I do that?
+*CHI:	no I can do it.
+*INV:	oh okay.
+*INV:	alright well do you want to look again?
+*CHI:	uh uh [= no].
+*CHI:	now can we please play that game again?
+*INV:	sure.
+*CHI:	okay.
+*INV:	thank you very much.
+@End

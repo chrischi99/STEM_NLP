@@ -1,0 +1,247 @@
+@UTF8
+@PID:	11312/a-00031993-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;03.30|male|||Target_Child|||
+@ID:	eng|Gelman|MOT|||||Mother|||
+@G:	Broccoli
+@Types:	cross, narrative, TD
+*MOT:	aren't you gonna wait for me?
+*CHI:	a.
+*MOT:	pardon?
+*MOT:	oh your face is all filthy.
+*CHI:	a.
+*MOT:	a.
+*MOT:	what makes that an A?
+*MOT:	    ⌈ a a⌉.
+*CHI:	a a ⌊xxx⌋.
+*MOT:	what is it?
+*CHI:	xxx +...
+*MOT:	you don't remember +...
+*CHI:	um, broccoli.
+*MOT:	broccoli.
+*MOT:	is it yummy?
+*CHI:	no.
+*MOT:	&=gasps yes it is.
+*MOT:	you like broccoli.
+@G:	Clown
+*CHI:	clown!
+*MOT:	what do you think about that clown?
+*CHI:	<no one> [?].
+*MOT:	let's not rush through it.
+*MOT:	let's do it slowly.
+*MOT:	what do you mean no?
+*MOT:	you don't like it?
+*CHI:	no.
+*MOT:	why not?
+*CHI:	(be)cause.
+*MOT:	(be)cause why?
+*CHI:	(be)cause.
+@G:	Cake
+*MOT:	⌈ what is that⌉?
+*CHI:	⌊choc⌋ +...
+*CHI:	I want that chocolate cake.
+*MOT:	is that really a chocolate cake?
+*CHI:	<yeah look> [?].
+*CHI:	&=points:page.
+*MOT:	that doesn't look like a chocolate cake to me.
+*MOT:	that looks like a yellow cake to me with chocolate frosting.
+*MOT:	what do you think?
+*CHI:	no.
+*MOT:	no what?
+*CHI:	no tate.
+*MOT:	no cake?
+*MOT:	cake is yummy.
+@G:	Cereal
+*CHI:	chips!
+*MOT:	those aren't chips.
+*CHI:	yeah they are.
+*MOT:	I don't think so.
+*MOT:	that looks like cereal to me.
+*CHI:	cereal with ⌈ no milk⌉.
+*MOT:	look at it  ⌊again⌋.
+*MOT:	cereal with no milk.
+*MOT:	what kind of cereal is that?
+*CHI:	corn flakes.
+*MOT:	and who likes to eat corn flakes?
+*CHI:	you.
+*MOT:	but those corn flakes don't look like they have any honey on them.
+*CHI:	oh [?].
+@G:	Elephant
+*CHI:	elephant.
+*MOT:	⌈ it's an elephant⌉.
+*CHI:	⌊aroo⌋!
+*MOT:	you think it's a momma elephant or a dada elephant?
+*CHI:	baby.
+*MOT:	you think it's a baby elephant?
+*MOT:	why do you think it's a baby elephant?
+*CHI:	babies that are, small.
+*MOT:	but how do you know it's that small?
+*CHI:	(be)cause.
+@G:	Popcorn
+*CHI:	what's that?
+*MOT:	what do you think it is?
+*CHI:	popcorn.
+*MOT:	popcorn.
+*MOT:	yummy.
+*CHI:	I want to play a game.
+*MOT:	we can play a game after we finish reading this.
+@G:	Football Player
+*CHI:	football.
+*MOT:	yup.
+*MOT:	is that a girl or boy in there?
+*MOT:	looks like a +...
+*CHI:	girl!
+*MOT:	yup looks like a girl to me too.
+*MOT:	are you gonna play football when you're bigger?
+*CHI:	xxx to be a um, dolphin showman!
+*MOT:	a dolphin showman?
+*CHI:	yeah.
+*MOT:	so you have to learn to swim more.
+*MOT:	<we should go swimming this weekend> [?].
+@G:	Witch
+*CHI:	witch!
+*MOT:	⌈ a witch⌉.
+*CHI:	⌊bat⌋!
+*CHI:	&=covers:eyes.
+*MOT:	why is she green?
+*CHI:	I don't know.
+*MOT:	&=laughs.
+*MOT:	are you scared?
+*CHI:	yeah.
+*MOT:	are you really?
+*CHI:	yeah.
+*MOT:	but look she's smiling.
+*CHI:	no that's a laugh.
+*MOT:	okay so she's laughing.
+*MOT:	isn't that happy?
+*CHI:	no.
+*MOT:	no?
+*MOT:	what is it then?
+@G:	Alligator
+*CHI:	crocodile.
+*CHI:	alligator.
+*MOT:	how do you know it's a crocodile or an alligator?
+*CHI:	(be)cause.
+*MOT:	(be)cause why?
+*CHI:	(be)cause I do.
+*MOT:	so which one is it?
+*CHI:	ah, alligator.
+*MOT:	I think it's an alligator too.
+@G:	Lobster
+*CHI:	ee crab!
+*MOT:	that's not a crab.
+*MOT:	what else do you think it could be?
+*MOT:	do you think it's a giraffe?
+*CHI:	lobster.
+*MOT:	a lobster yep.
+*MOT:	could you talk normally please.
+@G:	Teacher
+*CHI:	why?
+*MOT:	because I can't understand you when you don't talk normally.
+*CHI:	this a teacher.
+*MOT:	how'd you know she's a teacher?
+*CHI:	(be)cause look &=points.
+*MOT:	(be)cause look at what?
+*MOT:	because she's got a book?
+*CHI:	yeah.
+*MOT:	and (be)cause she's wearing glasses?
+*CHI:	yeah.
+*MOT:	all teachers wear glasses?
+*CHI:	yeah.
+*MOT:	no.
+*CHI:	yeah.
+*MOT:	no.
+*CHI:	yeah.
+*MOT:	because you can't see wear glasses.
+*MOT:	can all teachers not see?
+*CHI:	no.
+*MOT:	and what's that?
+*CHI:	what's that?
+*MOT:	what is all this?
+*CHI:	&=points:blackboard_picture.
+*CHI:	the book.
+*MOT:	what's it look like?
+*MOT:	kind of looks like a triangle and some letters and numbers.
+@G:	Orange
+*CHI:	orange.
+*CHI:	&=pretends:eat_orange.
+*MOT:	yummy.
+*CHI:	&=pretends:spit_orange.
+*MOT:	does that orange look yummy?
+*CHI:	no [?].
+*MOT:	don't don't do that [= spitting].
+*MOT:	we're going to Florida this summer.
+*MOT:	you're going to have to eat some xxx oranges.
+*CHI:	xxx.
+*CHI:	xxx.
+*MOT:	xxx.
+@G:	Horse
+*CHI:	horse.
+*MOT:	is that a baby horse?
+*CHI:	yeah.
+*MOT:	how do you know?
+*CHI:	(be)cause look.
+*MOT:	look at what?
+*CHI:	the horse.
+*MOT:	but tell me why is it a baby?
+*CHI:	(be)cause.
+*MOT:	(be)cause it's got a fluffy tail instead of a long one?
+*CHI:	yeah.
+*MOT:	and what else?
+*CHI:	<that hairs> [?].
+@G:	Penguin
+*CHI:	penguins.
+*CHI:	I like penguins ⌈Mom⌉.
+*MOT:	you             ⌊do⌋?
+*MOT:	why do you like penguins?
+*CHI:	(be)cause they flap their &=flaps:arms, um (be)cause they go in
+	water.
+*MOT:	can penguins fly?
+*CHI:	no yeah.
+*MOT:	pardon?
+*CHI:	yeah.
+*MOT:	no they can't.
+*MOT:	penguins are one of the few birds that can't fly.
+*MOT:	they have wings but they use their wings for swimming not flying.
+*MOT:	you know why they can't fly?
+*CHI:	why?
+*MOT:	(be)cause they're too fat.
+@G:	Pilot
+*MOT:	aren't they fat [= previous page]?
+*CHI:	no.
+*MOT:	yeah they are.
+*CHI:	hey that's a, who is that?
+*MOT:	I  ⌈ don't know⌉.
+*CHI:	bus ⌊driver⌋.
+*MOT:	what do you think that is?
+*CHI:	a bus driver.
+*MOT:	I don't think that's a bus driver.
+*MOT:	what else could it be?
+*CHI:	&=falls:out_chair.
+*MOT:	can you look at it please?
+*MOT:	firstname we can't talk about it unless you're gonna look at it.
+*MOT:	you want to sit on my lap?
+*CHI:	no.
+*CHI:	I don't know who that is.
+*MOT:	well look what's outside?
+*MOT:	clouds.
+*MOT:	and there's two chairs.
+*MOT:	he's wearing that hat.
+*MOT:	that's an airplane pilot.
+*CHI:	oh airplane pilot.
+*MOT:	(be)cause airplanes, You know when there's a bus driver?
+*MOT:	there's only one bus driver?
+*MOT:	but in an airplane you have two people flying it sometimes.
+*CHI:	oh.
+*MOT:	and see how there's clouds and sky?
+*MOT:	you can't see any buildings or anything out there because it's in the sky.
+*CHI:	oh.
+*MOT:	so there.
+*CHI:	can we go play a game now?
+*MOT:	um I think you have to go play a game with um.
+*MOT:	I forgot her name.
+*MOT:	I'll have to ask her her name.
+@End

@@ -1,0 +1,154 @@
+@UTF8
+@PID:	11312/a-00032204-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, INV Investigator
+@Options:	CA
+@ID:	eng|Gelman|CHI|4;09.04|female|||Target_Child|||
+@ID:	eng|Gelman|INV|||||Investigator|||
+@G:	Snake
+@Types:	cross, narrative, TD
+*INV:	what is this?
+*CHI:	a snake.
+*INV:	what more can you tell me?
+*CHI:	mm, they're slimy.
+*INV:	mm, what else can you tell me?
+*CHI:	mm, they have patterns on them.
+@G:	Pie
+*INV:	what is this?
+*CHI:	a pie.
+*INV:	what more can you tell me?
+*CHI:	mm, I don't know.
+*INV:	mm, what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	a pie.
+*INV:	mm-hm [= yes].
+@G:	Police Officer
+*INV:	what is this?
+*CHI:	a police officer.
+*INV:	what more can you tell me?
+*CHI:	mm, he drives a truck.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	he puts people in jail when they're in, when they have an emergency.
+@G:	Milk
+*INV:	what is this?
+*CHI:	a cup.
+*INV:	what more can you tell me?
+*CHI:	mm it's shiny.
+*INV:	zorg doesn't know much about this one.
+*INV:	can you help him out?
+*CHI:	mm-hm [= yes].
+*INV:	what more can you tell Zorg?
+*CHI:	I don't know.
+@G:	King
+*INV:	what is this?
+*CHI:	a king.
+*INV:	what more can you tell me?
+*CHI:	mm it sits in a chair always.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	uh, he is nice.
+@G:	Surfer
+*INV:	what is this?
+*CHI:	a surfer.
+*INV:	what more can you tell me?
+*CHI:	mm, it surfs.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it gets splashed.
+@G:	Pretzel
+*INV:	what is this?
+*CHI:	a pretzel.
+*INV:	what more can you tell me?
+*CHI:	mm, it can be in all different kinds of shapes.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	you put salt on it.
+@G:	Frog
+*INV:	what is this?
+*CHI:	a frog.
+*INV:	what more can you tell me?
+*CHI:	it's green.
+*INV:	what more can you tell Zorg?
+*CHI:	he doesn't know much about this one.
+*INV:	mm it hops.
+@G:	Corn
+*INV:	what is this?
+*CHI:	corn.
+*INV:	what more can you tell me?
+*CHI:	we eat it.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about ⌈this one⌉.
+*CHI:	we eat it on sicks,        ⌊sticks⌋.
+*CHI:	only tiny sticks though.
+@G:	Rabbit
+*INV:	what is this?
+*CHI:	bunny.
+*INV:	what more can you tell me?
+*CHI:	mm it can hop.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	mm, it has big ears.
+@G:	Lion
+*INV:	what is this?
+*CHI:	a lion.
+*INV:	what more can you tell me?
+*CHI:	mm it's furry.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it scratches other people.
+@G:	Weightlifter
+*INV:	what is this?
+*CHI:	a gymnastics person.
+*INV:	what more can you tell me?
+*CHI:	mm it grows healthy and strong.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it, it walks on the balance beam.
+*INV:	                                                    ⌈what⌉ +...
+*CHI:	I know really good about it because I used to go to ⌊gymnastics⌋.
+*CHI:	I used to.
+*INV:	oh.
+*CHI:	not anymore.
+*INV:	oh.
+*CHI:	now I take ballet at the same place.
+*CHI:	but not anymore.
+*INV:	ah.
+*CHI:	I just started a new class now.
+*INV:	oh.
+*INV:	anything else you'd like to say?
+*CHI:	no.
+@G:	Owl
+*INV:	what is this?
+*CHI:	an owl.
+*INV:	what more can you tell me?
+*CHI:	it flies in the nighttime.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it sleeps in, in the day time.
+@G:	Farmer
+*INV:	what is this?
+*CHI:	a farmer.
+*INV:	what more can you tell me?
+*CHI:	it grows things.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it takes care of animals.
+@G:	Strawberry
+*INV:	what is this?
+*CHI:	a strawberry.
+*INV:	what more can you tell me?
+*CHI:	mm it has seeds in (th)em.
+*INV:	what more can you tell Zorg?
+*INV:	he doesn't know much about this one.
+*CHI:	it has leaves.
+*INV:	anything else you can say?
+*CHI:	no.
+*INV:	okay.
+*INV:	do you want to look again?
+*CHI:	no.
+*INV:	okay.
+*INV:	well thank you very much for doing that with me.
+*INV:	that was a lot of fun.
+@End
